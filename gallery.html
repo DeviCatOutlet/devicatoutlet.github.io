@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
 
+    <!-- JS -->
+
   </head>
 
   <body>
@@ -50,67 +52,75 @@
     <!-- Cards -->
   
     <div class="container raised text-center">
-      <div class="row">
-        <div class="col-sm-4">
-            <img src="img/momoko.png" alt="Momoko" class="img-thumbnail">
-        </div>
-        <div class="col-sm-4">
-            <img src="img/maika.png" alt="Maika" class="img-thumbnail">
-        </div>
-        <div class="col-sm-4">
-            <img src="img/dappercat.png" alt="dappercat" class="img-thumbnail">
-        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <a href="#/" class="popModal">
+                    <img id="modalImg" src="img/momoko.png" alt="Momoko" class="img-thumbnail">
+                </a>
+            </div>
+            <div class="col-sm-4">
+                    <a href="#/" class="popModal">
+                    <img id="modalImg" src="img/maika.png" alt="Maika" class="img-thumbnail">
+                </a>
+            </div>
+            <div class="col-sm-4">
+                <a href="#/" class="popModal">
+                    <img id="modalImg" src="img/dappercat.png" alt="dappercat" class="img-thumbnail">
+                </a>
+            </div>
       </div>
 
-    <div class="row">
-        <div class="col-sm-4">
-            <img src="img/hallwayraptor.png" alt="hallwayraptor" class="img-thumbnail">
+        <div class="row">
+            <div class="col-sm-4">
+                <a href="#/" class="popModal">
+                    <img id="modalImg" src="img/hallwayraptor.png" alt="hallwayraptor" class="img-thumbnail">
+                </a>
+            </div>
+            <div class="col-sm-4">
+                <a href="#/" class="popModal">
+                    <img id="modalImg" src="img/birthday.png" alt="birthday" class="img-thumbnail">
+                </a>
+            </div>
+            <div class="col-sm-4">
+                <a href="#/" class="popModal">
+                    <img id="modalImg" src="img/rin_autumn.png" alt="rin_autumn" class="img-thumbnail">
+                </a>
+            </div>
         </div>
-        <div class="col-sm-4">
-            <img src="img/birthday.png" alt="birthday" class="img-thumbnail">
-        </div>
-        <div class="col-sm-4">
-            <img src="img/rin_autumn.png" alt="rin_autumn" class="img-thumbnail">
-        </div>
-    </div>
 
-      <div class="row top-buffer">
-        <div class="col-sm-4">
-          <div class="card">
-          <img class="card-img-top" src="img/shop_preview.png" alt="placeholder">
-            <div class="card-body">
-              <h4 class="card-title">Shop</h4>
-              <P class="card-text">Want to buy some awesome DeviCat loot?</P>
-              <a href="#" class="btn btn-primary">Click Here</a>
+        <div class="row">
+            <div  class="col-sm-4">
+                <a href="#/" class="popModal">
+                    <img id="modalImg" src="img/devi_witchsona.png" alt="devi_witchsona" class="img-thumbnail">
+                </a>
             </div>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="card">
-          <img class="card-img-top" src="img/aboutdevi.png" alt="placeholder">
-            <div class="card-body">
-              <h4 class="card-title">About</h4>
-              <P class="card-text">Learn about Devicat</P>
-              <a href="about.html" class="btn btn-primary">Click Here</a>
+            <div class="col-sm-4">
+                <a href="#/" class="popModal">
+                    <img id="modalImg" src="img/shizuko_gothiclolita.png" alt="shizuko_gothiclolita" class="img-thumbnail">
+                </a>
+                </div>
+            <div class="col-sm-4">
+                <a href="#/" class="popModal">
+                    <img id="modalImg" src="img/Chii_anime.png" alt="chii_anime" class="img-thumbnail">
+                </a>
             </div>
-          </div>
         </div>
-        <div class="col-sm-4">
-          <div class="card">
-          <img class="card-img-top" src="http://via.placeholder.com/350x350" alt="placeholder">
-            <div class="card-body">
-              <h4 class="card-title">Title</h4>
-              <P class="card-text">Example text for the card body.</P>
-              <a href="#" class="btn btn-primary">Lean More</a>
-            </div>
-          </div>
-        </div>
-      </div>
+
     </div>
   </div>
 
 
-
+    <!-- Modal -->
+    <div class="modal fade" id="imagemodal">
+            <div class="modal-dialog">
+              <div class="modal-content">    
+                <!-- Modal body -->
+                <div class="modal-body">
+                        <img src="" class="imagepreview">
+                </div>          
+              </div>
+            </div>
+          </div>
 
 
 
@@ -156,5 +166,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
     <script src="https://use.fontawesome.com/7ee8f5aba7.js"></script>
+    <script src="js/custom.js"></script> 
   </body>
 </html>

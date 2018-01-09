@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: #7e21d4;
+  color: #11acb8;
 }
 
 .bg-purple {
@@ -47,4 +47,12 @@ a {
   margin-top: 100px;
   background: #E3E3E3;
   padding: 12px;
+}
+
+#modalImg:hover{
+  opacity: 0.8;
+}
+
+.modal-body{
+  padding:0;
 }
