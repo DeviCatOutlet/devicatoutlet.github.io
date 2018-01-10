@@ -101,3 +101,18 @@ a {
 	/* This one looks better with the heading centered. */
 	text-align: center;
 }
+
+#goals ~ p img {
+	width: 1.5em;
+}
+#goals ~ ul img {
+	width: 1.25em;
+}
+#goals ~ ul {
+	text-align: left;
+	list-style: none;
+	font-size: 125%;
+}
+#goals ~ ul ul {
+	list-style: none;
+}
