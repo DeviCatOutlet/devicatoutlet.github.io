@@ -1,7 +1,7 @@
 # Momoko
 ## (CutieCakeBot)
 
-* **Name:* Momoko (Meaning: Peach Child)
+* **Name:** Momoko (Meaning: Peach Child)
 * **Title:** CutieCakeBot
 * **Hair Color:** Pink (with blue and yellow gradients)
 * **Eye Color:** Blue with hints of purple.
