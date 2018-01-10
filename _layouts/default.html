@@ -22,9 +22,9 @@
 
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav ml-auto">
-	 {% assign pages = "Home|Gallery|Characters|Goals|Shop|About" | split: "|" -%}
+	 {% assign pages = "Home|Gallery|Art Tips|Characters|Goals|Shop|About" | split: "|" -%}
 	 {%- for dest in pages -%}
-	  {%- assign url = dest | downcase -%}
+	  {%- assign url = dest | downcase | replace: " ", "" -%}
 	  {%- if dest == "Home" -%} {%- assign url = "/" -%} {%- endif -%}
 	  {%- if dest == "Shop" -%} {%- assign url = "https://www.redbubble.com/people/devicatoutlet/shop/" -%} {%- endif -%}
 	  {%- if dest == "Characters" -%}

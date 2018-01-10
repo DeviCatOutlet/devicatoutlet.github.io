@@ -150,3 +150,13 @@ pages, which should all be styled the same way. Maybe adjust the layout? */
 	text-align: left;
 	list-style: none;
 }
+
+#art-tips ~ h3 {
+	text-align: left;
+}
+#art-tips ~ p {
+	text-align: left;
+}
+#art-tips ~ h3 img {
+	width: 1.25em;
+}
