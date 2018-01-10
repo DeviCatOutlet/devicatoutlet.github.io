@@ -22,7 +22,7 @@
 
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav ml-auto">
-	 {% assign pages = "Home Gallery Characters Goals Shop About" | split: " " -%}
+	 {% assign pages = "Home|Gallery|Characters|Goals|Shop|About" | split: "|" -%}
 	 {%- for dest in pages -%}
 	  {%- assign url = dest | downcase -%}
 	  {%- if dest == "Home" -%} {%- assign url = "/" -%} {%- endif -%}
