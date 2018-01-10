@@ -22,24 +22,15 @@
 
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav ml-auto">
+	 {% assign pages = "Home Gallery Characters Goals Shop About" | split: " " %}
+	 {% for dest in pages %}
+	  {% assign url = dest | downcase %}
+	  {% if dest == "Home" %} {% assign url = "/" %} {% endif %}
+	  {% if dest == "Shop" %} {% assign url = "https://www.redbubble.com/people/devicatoutlet/shop/" %} {% endif %}
           <li class="nav-item active">
-            <a class="nav-link" href="/">Home</a>
+            <a class="nav-link" href="{{ url }}">{{ dest }}{% if page.title == dest %}<span class="sr-only">(current)</span>{% endif %}</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="gallery">Gallery</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="characters">Characters</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="goals">Goals</a>
-          </li>
-          <li class="nav-item">  
-            <a class="nav-link" href="https://www.redbubble.com/people/devicatoutlet/shop/">Shop</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about">About</a>
-          </li>
+	 {% endfor %}
         </ul>
       </div>
     </nav>
