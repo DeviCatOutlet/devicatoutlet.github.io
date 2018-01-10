@@ -146,3 +146,7 @@ pages, which should all be styled the same way. Maybe adjust the layout? */
 	text-align: left;
 	list-style: none;
 }
+#catcupcakes ~ ul {
+	text-align: left;
+	list-style: none;
+}
