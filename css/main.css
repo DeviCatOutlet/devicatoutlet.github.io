@@ -68,3 +68,36 @@ a {
 .modal-dialog {
 	max-width: 600px;
 }
+
+#about {
+	/* Hide the "About" heading - it isn't necessary. */
+	/* Its presence, however, affects the styles of subsequent elements. */
+	display: none;
+}
+#about ~ ul {
+	list-style: none;
+	display: flex;
+	padding: 0;
+	text-align: left;
+}
+#about ~ ul ul {
+	padding: 0;
+}
+#about ~ ul li {
+	margin: 0 10px;
+}
+#about ~ ul img {
+	max-width: 325px;
+}
+#about ~ ul ul li {
+	list-style: none;
+	margin-bottom: 1em;
+}
+#about ~ ul ul ul li {
+	list-style: disc;
+	margin-bottom: 0.5em;
+}
+#about-devicat {
+	/* This one looks better with the heading centered. */
+	text-align: center;
+}
