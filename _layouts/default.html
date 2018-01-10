@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>DeviCat Outlet</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css">
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top ds">
+      <a class="navbar-brand" href="/">
+          <img src="img/mainbanner.png" alt="DeviCat">
+      </a>
+
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="gallery">Gallery</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="characters">Characters</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="goals">Goals</a>
+          </li>
+          <li class="nav-item">  
+            <a class="nav-link" href="https://www.redbubble.com/people/devicatoutlet/shop/">Shop</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about">About</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- Jumbotron -->
+    <section class="jumbotron text-center parallax">
+              <div id="twitch-embed">
+
+              </div>
+    </section>
+
+  <div>
+    <!-- Cards -->
+  
+    <div class="container raised text-center">
+      {{ content }}
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+    <!-- Footer -->
+    <footer class="text-muted footer-style">
+        <div class="container">
+            <div class="row justify-content-center">
+                <p>
+                    <a href="#"><i class="fa fa-twitch fa-2x" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+                </p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row justify-content-center">
+                    <p>	&copy; DeviCat Outlet 2018 </p>
+            </div>
+        </div>
+    
+    </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Scripts -->
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+    <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
+    <script type="text/javascript">
+      new Twitch.Embed("twitch-embed", {
+        width: 1280,
+        height: 720,
+        channel: "devicat",
+        layout: "video",
+      });
+    </script>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <script src="https://use.fontawesome.com/7ee8f5aba7.js"></script>
+  </body>
+</html>
