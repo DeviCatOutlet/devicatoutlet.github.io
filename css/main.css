@@ -123,3 +123,10 @@ a {
 #characters ~ ul {
 	text-align: left;
 }
+
+/* TODO: Unify some of the similar blocks. Particularly the character
+pages, which should all be styled the same way. Maybe adjust the layout? */
+#momoko ~ ul {
+	text-align: left;
+	list-style: none;
+}
