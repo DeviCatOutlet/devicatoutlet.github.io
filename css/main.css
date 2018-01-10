@@ -116,3 +116,10 @@ a {
 #goals ~ ul ul {
 	list-style: none;
 }
+
+#characters ~ p img {
+	width: 1.25em;
+}
+#characters ~ ul {
+	text-align: left;
+}
