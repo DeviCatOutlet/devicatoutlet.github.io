@@ -55,9 +55,12 @@ a {
 }
 
 #gallery ~ p img {
-	max-height: 250px;
+	max-height: 300px;
 	cursor: pointer;
-	margin: 30px;
+	margin: 20px;
+	border: 1px solid #ddd;
+	border-radius: .25rem;
+	padding: 10px;
 }
 #gallery ~ p img:hover{
   opacity: 0.8;
