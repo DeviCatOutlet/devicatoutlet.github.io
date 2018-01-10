@@ -6,6 +6,9 @@ body {
 a {
   color: #11acb8;
 }
+div ul{
+	padding: 10px;
+}
 
 .bg-purple {
   background-color: #7e21d4;
