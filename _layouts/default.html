@@ -27,9 +27,23 @@
 	  {%- assign url = dest | downcase -%}
 	  {%- if dest == "Home" -%} {%- assign url = "/" -%} {%- endif -%}
 	  {%- if dest == "Shop" -%} {%- assign url = "https://www.redbubble.com/people/devicatoutlet/shop/" -%} {%- endif -%}
+	  {%- if dest == "Characters" -%}
+          <li class="nav-item dropdown{% if page.title == dest %} active{% endif %}">
+            <a class="nav-link dropdown-toggle" href="{{ url }}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ dest }}{% if page.title == dest %}<span class="sr-only">(current)</span>{% endif %}</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="momoko">Momoko</a>
+                <a class="dropdown-item" href="shizuko">Shizuko</a>
+                <a class="dropdown-item" href="reiko">Reiko</a>
+                <a class="dropdown-item" href="rin">Rin</a>
+                <a class="dropdown-item" href="dappercat">DapperCat</a>
+                <a class="dropdown-item" href="catcupcakes">CatCupcakes</a>
+              </div>
+          </li>
+	  {%- else -%}
           <li class="nav-item{% if page.title == dest %} active{% endif %}">
             <a class="nav-link" href="{{ url }}">{{ dest }}{% if page.title == dest %}<span class="sr-only">(current)</span>{% endif %}</a>
           </li>
+	  {%- endif -%}
 	 {% endfor -%}
         </ul>
       </div>
