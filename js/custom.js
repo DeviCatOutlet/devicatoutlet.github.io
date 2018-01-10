@@ -1,6 +1,7 @@
 $(function() {
-    $('.popModal').on('click', function() {
-        $('.imagepreview').attr('src', $(this).find('img').attr('src'));
-        $('#imagemodal').modal('show');   
-    });		
+    $('#gallery ~ p img').click(function() {
+        $('.imagepreview').attr('src', $(this).attr('src'));
+        $('#modal-caption').text($(this).attr('alt'));
+        $('#imagemodal').modal('show');
+    });
 });

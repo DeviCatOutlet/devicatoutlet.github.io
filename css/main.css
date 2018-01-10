@@ -49,10 +49,19 @@ a {
   padding: 12px;
 }
 
-#modalImg:hover{
-  opacity: 0.8;
+#modal-caption {
+	background: white;
+	margin: auto;
 }
 
-.modal-body{
-  padding:0;
+#gallery ~ p img {
+	max-height: 250px;
+	cursor: pointer;
+	margin: 30px;
+}
+#gallery ~ p img:hover{
+  opacity: 0.8;
+}
+.modal-dialog {
+	max-width: 600px;
 }
