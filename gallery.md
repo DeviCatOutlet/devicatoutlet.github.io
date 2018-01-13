@@ -12,4 +12,4 @@
 ![Gothic Lolita Shizuko](img/shizuko_gothiclolita.png)
 ![Anime Chii](img/Chii_anime.png)
 
-![Anime Lita](img/Lita_anime.png)
+![Anime Lita](img/lita_anime.png)
