@@ -13,3 +13,9 @@
 ![Anime Chii](img/Chii_anime.png)
 
 ![Anime Lita](img/lita_anime.png)
+![Shizuko Sitting](img/shizuko_sitting.png)
+![Momoko Sitting](img/momoko_sitting.png)
+
+![Rin Sitting](img/rin_sitting.png)
+![Reiko Sitting](img/reiko_sitting.png)
+
