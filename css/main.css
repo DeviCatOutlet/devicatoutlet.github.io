@@ -72,9 +72,9 @@ div ul{
 	max-width: 600px;
 }
 
-#about {
-	/* Hide the "About" heading - it isn't necessary. */
-	/* Its presence, however, affects the styles of subsequent elements. */
+h1#about, h1#home {
+	/* Hide the "Home" and "About" headings - they aren't necessary. */
+	/* Their presence, however, affect the styles of subsequent elements. */
 	display: none;
 }
 #about ~ ul {
@@ -171,4 +171,47 @@ pages, which should all be styled the same way. Maybe adjust the layout? */
 #gratitude-board ~ ul {
 	text-align: left;
 	list-style: none;
+}
+
+.jumbotron {
+	display: flex;
+}
+
+.jumbotron div {
+	margin: 0 auto;
+}
+
+#twitch-embed iframe {
+	width: 768px;
+	height: 432px;
+}
+
+#home ~ ul {
+	display: flex;
+	flex-wrap: wrap;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#home ~ ul img {
+	width: 344px;
+}
+
+#home ~ ul li {
+	border: 1px solid #ddd;
+	border-radius: .25rem;
+	margin: 10px;
+}
+#home ~ ul li p:last-child a {
+	/* TODO: Tag these as buttons instead of assuming they're the last ones */
+	display: inline-block;
+	font-weight: bold;
+	text-align: center;
+	padding: .375rem .75rem;
+	line-height: 1.5;
+	border: 1px solid transparent;
+	border-radius: .25rem;
+	color: white;
+	background-color: #007bff;
 }
