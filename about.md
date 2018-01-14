@@ -1,6 +1,6 @@
 # About
 
-* ![](img/aboutdevi.png)
+* ![](img/aboutdevicat.png)
 * ## DeviCat
 
   I’m a self taught digital illustrator, and a full
