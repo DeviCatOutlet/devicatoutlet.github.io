@@ -32,7 +32,7 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 		{%- for subdest in info[1] -%}
 		  {%- assign url = subdest | downcase | replace: " ", "" %}
-                  <a class="dropdown-item" href="{{ url }}">{{ url }}</a>
+                  <a class="dropdown-item" href="{{ url }}">{{ subdest }}</a>
 		{%- endfor %}
                 </div>
               </li>
