@@ -27,7 +27,7 @@
               {%- comment %} It's an array of subpages (eg Characters) {% endcomment -%}
               {%- assign name = info[0] -%}
 	      {%- assign url = name | downcase | replace: " ", "" %}
-              <li class="nav-item dropdown{% if page.title == dest %} active{% endif %}">
+              <li class="nav-item dropdown{% if page.title == name %} active{% endif %}">
                 <a class="nav-link dropdown-toggle" href="{{ url }}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ name }}{% if page.title == name %}<span class="sr-only">(current)</span>{% endif %}</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 		{%- for subdest in info[1] -%}
