@@ -1,0 +1,3 @@
+# Beginner Tips
+
+(stub)

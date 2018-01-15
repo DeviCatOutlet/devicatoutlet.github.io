@@ -1,6 +1,6 @@
 # Twitch
 
-* [Beginner Streaming Tips](streamingtips)
+* [Beginner Streaming Tips](beginnertips)
 
 * [Computer Specs](computerspecs)
 
