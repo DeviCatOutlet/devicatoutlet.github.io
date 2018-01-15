@@ -237,3 +237,17 @@ pages, which should all be styled the same way. Maybe adjust the layout? */
 	list-style: none;
 	text-align: left;
 }
+
+#contact ~ ul li {
+	list-style: none;
+	text-align: left;
+}
+#contact ~ p {
+	text-align: left;
+}
+#contact ~ p a {
+	font-weight: bold;
+}
+#contact ~ ul a {
+	font-weight: bold;
+}
