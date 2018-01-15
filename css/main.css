@@ -232,3 +232,8 @@ pages, which should all be styled the same way. Maybe adjust the layout? */
 #ccb-giveaways-currency-commands ~ p {
 	text-align: left;
 }
+
+#art-tips ~ ul li {
+	list-style: none;
+	text-align: left;
+}
