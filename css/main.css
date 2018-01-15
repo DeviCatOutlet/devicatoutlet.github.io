@@ -219,3 +219,7 @@ pages, which should all be styled the same way. Maybe adjust the layout? */
 #twitch ~ ul {
 	text-align: left;
 }
+
+#beginner-tips ~ ul {
+	text-align: left;
+}
