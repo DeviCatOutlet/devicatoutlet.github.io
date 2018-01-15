@@ -1,12 +1,12 @@
 # Gratitude Board
 
-![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg) Here, you’ll find links for our Gratitude Board for Twitch & Patreon ![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)
+*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Here, you’ll find links for our Gratitude Board for Twitch & Patreon *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 
-![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg) Patreon Gratitude Board ![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)
+*![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Patreon Gratitude Board *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
 
 * [January, 2018](https://www.patreon.com/posts/gratitude-board-16259097)
 
-![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg) Twitch Gratitude Board ![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)
+*![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Twitch Gratitude Board *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
 
 * [January 13th, 2018](https://twitter.com/DeviCatOutlet/status/952365841613492224)
 * [January 11th, 2018](https://twitter.com/DeviCatOutlet/status/951639612425940992)
