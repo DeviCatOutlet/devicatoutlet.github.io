@@ -201,7 +201,7 @@ pages, which should all be styled the same way. Maybe adjust the layout? */
 	border: 1px solid transparent;
 	border-radius: .25rem;
 	color: white;
-	background-color: #007bff;
+	background-color: #00d1c5;
 }
 
 #twitch ~ ul {
