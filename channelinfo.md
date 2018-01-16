@@ -1,4 +1,4 @@
-# CCB, Giveaways, Currency, Commands
+# Twitch Channel Info
 
 #### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* CutieCakeBot *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 
@@ -19,7 +19,7 @@ do the !cake command.
 #### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Commands *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* !cake
   - 〉Displays Rank / Time / Cake
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* !commands
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* !info
   - 〉Information Command List
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* !games
   - 〉Fun & Games Command List
@@ -62,7 +62,7 @@ Current prize bundle includes:
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x surprise sticker
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 2x Devi branded pin back buttons
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Daily Giveaway Information *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Daily Giveaway Info / Prize Pool *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 4x Small Stickers.
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Small Photographic Art Print.
@@ -78,7 +78,15 @@ Giveaway every $50 USD in TIPS during a live broadcast! Winner may choose 1 of t
 
 These are original creations from our channel. Open for all to join! Please make sure to be following CutieCakeBot so whispers will enable to receive your claim form. Prize winners will receive an email of confirmation from HallwayRaptor when their gift is on it’s way and can take on average can take 1-3 weeks before arrival (Upon when the confirmation email is sent.) We hope these creations will help put a smile on your face and warmth in your heart. Thank you for your support!
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Monthly Celebrations *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Monthly Celebrations Info / Prize Pool *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Unisex Tshirt
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Small Poster
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 10x Small Stickers.
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Small Photographic Art Print.
+
+[See our shop here.](https://www.redbubble.com/people/devicatoutlet/shop/)
+
 This is a special event we do monthly for our live broadcasts in order to
 celebrate our Twitch Partnership monthiversary. As each month goes by, we’re
 trying out new things to make it a more fun experience for everyone.
@@ -89,14 +97,6 @@ Currently, here is what you can expect for our next celebration:
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Special custom cheer emotes.
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* A scheduled super giveaway for each of the three days at 6:30pm EST.
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Super Giveaway PrizePool *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
-
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Unisex Tshirt
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Small Poster
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 10x Small Stickers.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Small Photographic Art Print.
 
 Please note: Super giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x super giveaway in the same month.
-
-[See our shop here.](https://www.redbubble.com/people/devicatoutlet/shop/)
