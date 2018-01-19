@@ -1,4 +1,4 @@
-# Twitch Channel Info
+# Channel Info
 
 #### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* CutieCakeBot *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 
