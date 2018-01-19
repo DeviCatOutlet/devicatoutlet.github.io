@@ -1,4 +1,4 @@
-# Beginner Tips
+# Streaming Tips
 
 These are personal experiences I have had being a full time broadcaster that I wish to share with people who are seeking to develop and grow with respect to themselves and their community.
 
