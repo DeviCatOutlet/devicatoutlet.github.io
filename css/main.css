@@ -225,11 +225,11 @@ pages, which should all be styled the same way. Maybe adjust the layout? */
 	text-align: left;
 }
 
-#channel-info ~ ul li {
+#twitch-channel-info ~ ul li {
 	list-style: none;
 	text-align: left;
 }
-#channel-info ~ p {
+#twitch-channel-info ~ p {
 	text-align: left;
 }
 
