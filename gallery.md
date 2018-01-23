@@ -1,21 +1,22 @@
 # Gallery
 
+![DeviCat](img/devicatcoffee.png)
 ![Momoko](img/momoko.png)
 ![Maika](img/maika.png)
-![Dapper Cat](img/dappercat.png)
 
+![Dapper Cat](img/dappercat.png)
 ![Hallway Raptor](img/hallwayraptor.png)
 ![Birthday Nilla](img/birthday.png)
-![Autumn Rin](img/rin_autumn.png)
 
+![Autumn Rin](img/rin_autumn.png)
 ![Witchsona Devi](img/devi_witchsona.png)
 ![Gothic Lolita Shizuko](img/shizuko_gothiclolita.png)
-![Anime Chii](img/Chii_anime.png)
 
+![Anime Chii](img/Chii_anime.png)
 ![Anime Lita](img/lita_anime.png)
 ![Shizuko Sitting](img/shizuko_sitting.png)
-![Momoko Sitting](img/momoko_sitting.png)
 
+![Momoko Sitting](img/momoko_sitting.png)
 ![Rin Sitting](img/rin_sitting.png)
 ![Reiko Sitting](img/reiko_sitting.png)
 
