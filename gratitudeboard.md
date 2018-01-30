@@ -8,6 +8,9 @@
 
 *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Twitch Gratitude Board *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
 
+* [January 29th, 2018](https://twitter.com/DeviCatOutlet/status/958368517736271872)
+* [January 28th, 2018](https://twitter.com/DeviCatOutlet/status/957803344118067205)
+* [January 27th, 2018](https://twitter.com/DeviCatOutlet/status/957444911586054149)
 * [January 25th, 2018](https://twitter.com/DeviCatOutlet/status/956734378083799040)
 * [January 24th, 2018](https://twitter.com/DeviCatOutlet/status/956359299659390983)
 * [January 22nd, 2018](https://twitter.com/DeviCatOutlet/status/955639987428569088)
@@ -27,7 +30,5 @@
 * [January 3rd, 2018](https://twitter.com/DeviCatOutlet/status/948740774367252481)
 * [December 31st, 2017](https://twitter.com/DeviCatOutlet/status/947879015603408897)
 * [December 30th, 2017](https://twitter.com/DeviCatOutlet/status/947302129072566272)
-* [December 28th, 2017](https://twitter.com/DeviCatOutlet/status/946573038111387648)
-* [December 27th, 2017](https://twitter.com/DeviCatOutlet/status/946213859039350784)
 
 
