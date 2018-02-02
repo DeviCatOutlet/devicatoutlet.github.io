@@ -57,7 +57,7 @@ of tickets per person is 2500.
 
 Current prize bundle includes:
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next Scheduled Event: January 31st, 2018 at 6:30pm EST
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next Scheduled Event: February 28th, 2018 at 6:30pm EST
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x handwritten thank you letter
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x surprise sticker
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 2x Devi branded pin back buttons
@@ -93,7 +93,7 @@ trying out new things to make it a more fun experience for everyone.
 
 Currently, here is what you can expect for our next celebration:
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next Scheduled Event: To Be Announced...
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next Scheduled Event: Feb 10th - 12th.
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Special custom cheer emotes.
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* A scheduled super giveaway for each of the three days at 6:30pm EST.
 
