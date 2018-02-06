@@ -16,7 +16,7 @@
     700 Sub Points: 1 New Emote.
   - *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
     800 Sub Points: 1 New Emote.
-    - *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
+  - *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
     900 Sub Points: 1 New Emote.
   - *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
     1000 Sub Points: 1 New Emote.
