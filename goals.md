@@ -11,6 +11,14 @@
   - *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
     10,000 Follows.
   - *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-    500 Sub Points: 1 New Emote.
+    600 Sub Points: 1 New Emote.
   - *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-    Long Term Goal: 1000 Sub Points!
+    700 Sub Points: 1 New Emote.
+  - *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
+    800 Sub Points: 1 New Emote.
+    - *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
+    900 Sub Points: 1 New Emote.
+  - *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
+    1000 Sub Points: 1 New Emote.
+  
+  
