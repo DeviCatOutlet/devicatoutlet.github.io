@@ -93,7 +93,7 @@ trying out new things to make it a more fun experience for everyone.
 
 Currently, here is what you can expect for our next celebration:
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next Scheduled Event: February 10th - 12th.
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next Scheduled Event: To Be Announced...
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Special custom cheer emotes.
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* A scheduled super giveaway for each of the three days at 6:30pm EST.
 
