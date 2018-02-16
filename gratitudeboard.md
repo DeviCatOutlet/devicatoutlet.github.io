@@ -9,6 +9,10 @@
 *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Twitch Gratitude Board *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
 
 
+
+
+* [February 15th, 2018](https://twitter.com/DeviCatOutlet/status/964324703077896192)
+* [February 14th, 2018](https://twitter.com/DeviCatOutlet/status/963961333019443200)
 * [February 12th, 2018](https://twitter.com/DeviCatOutlet/status/963251785145241600)
 * [February 11th, 2018](https://twitter.com/DeviCatOutlet/status/962872876847288320)
 * [February 10th, 2018](https://twitter.com/DeviCatOutlet/status/962709963692011523)
