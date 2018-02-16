@@ -38,4 +38,4 @@
 
   Learn about Devicat
 
-  [Click Here](characters)
+  [Click Here](about)
