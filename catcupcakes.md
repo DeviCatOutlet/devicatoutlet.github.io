@@ -13,13 +13,12 @@ day, only Nilla & Punkin currently have a human form.
 
 The original concept in mind with the catcupcakes was to have ranks for viewers
 of the channel. The more you watched the channel, the more your rank increased,
-the further up the cake line you go. Over time when the Twitch channel started
-to have things like custom cheers, Devi decided to incorporate the catcupcakes
-further and to this day they have their own special alert..... 1000 bit cheer
-anyone? >w>
+the further up the cake line you go. Now these little cuties have thier own personalities and character traits!
 
 ![Cats Carnival](img/catscarnival.png)
 
 ![Nilla and Punkin: Bake-Off](img/nilla_punkin_bakeoff.png)
 
 ![Punkin: Chibi Witch](img/punkin_chibiwitch.png)
+
+![BerriChan 2018](img/berrichan_2018.png)
