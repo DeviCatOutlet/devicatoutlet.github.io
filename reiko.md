@@ -7,7 +7,7 @@
 * **Eye Color:** Teal.
 * **Personality:** Deredere (デレデレ) meaning to become ‘lovey dovey’. Someone
   who wishes to be friends with everyone.
-* **Color Scheme:** White and teal with hints of pink and yellow.
+* **Color Scheme:** White and teal.
 * **Symbol:** Elk antlers.
 * **Representation / Inspiration:** A chapter of Devi’s life: the symbol of
   hope and friendship.

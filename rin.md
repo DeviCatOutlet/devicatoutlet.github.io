@@ -7,7 +7,7 @@
 * **Eye Color:** Hot pink, gold and yellow.
 * **Personality:** Kuudere – calm and composed. Serious on the outside,
   they are the observer, reluctant to trust.
-* **Color Scheme:** White and gold, with hints of yellow and pink.
+* **Color Scheme:** White and gold.
 * **Symbol:** Ram horns.
 * **Representation / Inspiration:** A chapter of Devi’s life: the symbol
   of judgement.

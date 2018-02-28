@@ -3,10 +3,10 @@
 
 * **Name:** Momoko (Meaning: Peach Child)
 * **Title:** CutieCakeBot
-* **Hair Color:** Pink (with blue and yellow gradients)
-* **Eye Color:** Blue with hints of purple.
+* **Hair Color:** Pink / Peach.
+* **Eye Color:** Blue.
 * **Personality:** A kamidere, in the simplest terms, is an anime archetype for characters with a god complex.
-* **Color Scheme:** White and pink with hints of yellow and blue.
+* **Color Scheme:** White and pink.
 * **Symbol:** Angel wings.
 * **Representation / Inspiration:** A chapter of Devi’s life: the symbol of confidence.
 

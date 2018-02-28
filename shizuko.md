@@ -8,7 +8,7 @@
 * **Personality:** Dandere. The “dan” in dandere comes from the Japanese word
   “danmari” (黙り) meaning silence. Thus a dandere is a quiet and often
   antisocial character.
-* **Color Scheme:** White and blue with hints of pink.
+* **Color Scheme:** White and blue.
 * **Symbol:** Angel wings.
 * **Representation / Inspiration:** A chapter of Devi’s life: the symbol of
   despair, a longing for hope.
