@@ -21,6 +21,8 @@ counterpart, Rin the fauna.
 
 ### ✨ Reiko to date: ✨
 
+![Reiko CloverGirl 2018](img/Reiko_CloverGirl_2018.png)
+
 ![Starry Chibi Reiko](img/reiko_starry_chibi.png)
 
 ![Sitting Study ­– Reiko](img/reiko_sitting.png)
