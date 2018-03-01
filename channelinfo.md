@@ -57,26 +57,14 @@ of tickets per person is 2500.
 
 Current prize bundle includes:
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next Scheduled Event: February 28th, 2018 at 6:30pm EST
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* See when our next scheduled event is during one of our live broadcasts
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x handwritten thank you letter
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x surprise sticker
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 2x Devi branded pin back buttons
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Daily Giveaway Info / Prize Pool *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+Please note: Bundle giveaways are capped to 1x winner per month. As in, everyone
+is allowed to win up to 1x bundle giveaway in the same month.
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 4x Small Stickers.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Small Photographic Art Print.
-
-[See our shop here.](https://www.redbubble.com/people/devicatoutlet/shop/)
-
-Giveaway every $50 USD in TIPS during a live broadcast! Winner may choose 1 of the options written above.
-
-* ♡ Giveaways can stack! Ex: $100 tip = 2 giveaways ♡
-* ♡ Everyone can join. Sub or not, follower or not ♡
-* ♡ Everyone can win as many times as they like ♡
-* ♡ Do a !ticket command when a giveaway begins ♡
-
-These are original creations from our channel. Open for all to join! Please make sure to be following CutieCakeBot so whispers will enable to receive your claim form. Prize winners will receive an email of confirmation from HallwayRaptor when their gift is on it’s way and can take on average can take 1-3 weeks before arrival (Upon when the confirmation email is sent.) We hope these creations will help put a smile on your face and warmth in your heart. Thank you for your support!
 
 #### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Monthly Celebrations Info / Prize Pool *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 
@@ -93,9 +81,9 @@ trying out new things to make it a more fun experience for everyone.
 
 Currently, here is what you can expect for our next celebration:
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next Scheduled Event: To Be Announced...
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* See when our next scheduled event is during one of our live broadcasts.
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* A scheduled super giveaway for each of the three days at 6:30pm EST.
 
 
-Please note: Super giveaways are capped to 1x winner per month. As in, everyone
-is allowed to win up to 1x super giveaway in the same month.
+Please note: Monthly giveaways are capped to 1x winner per month. As in, everyone
+is allowed to win up to 1x monthly giveaway in the same month.
