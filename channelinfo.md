@@ -57,7 +57,7 @@ of tickets per person is 2500.
 
 Current prize bundle includes:
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* See when our next scheduled event is during one of our live broadcasts
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next cake prize bundle scheduled for: March 31st at 6:30pm EST
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x handwritten thank you letter
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x surprise sticker
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 2x Devi branded pin back buttons
@@ -81,7 +81,7 @@ trying out new things to make it a more fun experience for everyone.
 
 Currently, here is what you can expect for our next celebration:
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* See when our next scheduled event is during one of our live broadcasts.
+* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next monthly giveaway scheduled for: March 10th, 11th, 12th
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* A scheduled super giveaway for each of the three days at 6:30pm EST.
 
 
