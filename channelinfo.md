@@ -50,7 +50,7 @@ do the !cake command.
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
   Ask a mod to see who’s in the top 10.
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Cake Prize Bundle Giveaway*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Cake Prize Bundle Giveaway *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 As a way to say thank you to those who lurk / actively chat, Devi will do a
 special raffle that requires cake to enter. 1 cake = 1 ticket. Maximum number
 of tickets per person is 2500.
