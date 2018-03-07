@@ -50,7 +50,7 @@ do the !cake command.
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
   Ask a mod to see who’s in the top 10.
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Cake Prize Giveaway *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Cake Prize Bundle Giveaway*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 As a way to say thank you to those who lurk / actively chat, Devi will do a
 special raffle that requires cake to enter. 1 cake = 1 ticket. Maximum number
 of tickets per person is 2500.
@@ -66,7 +66,7 @@ Please note: Bundle giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x bundle giveaway in the same month.
 
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Monthly Celebrations Info / Prize Pool *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Super Prize Giveaway *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Unisex Tshirt
 * *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Small Poster
@@ -76,8 +76,7 @@ is allowed to win up to 1x bundle giveaway in the same month.
 [See our shop here.](https://www.redbubble.com/people/devicatoutlet/shop/)
 
 This is a special event we do monthly for our live broadcasts in order to
-celebrate our Twitch Partnership monthiversary. As each month goes by, we’re
-trying out new things to make it a more fun experience for everyone.
+celebrate our Twitch Partnership monthiversary. 
 
 Currently, here is what you can expect for our next celebration:
 
