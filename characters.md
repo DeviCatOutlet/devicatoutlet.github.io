@@ -17,3 +17,4 @@ discord channel [here](https://discordapp.com/invite/devicat), called
 * [Rin (Fauna Sister)](rin)
 * [DapperCat](dappercat)
 * [CatCupcakes](catcupcakes)
+* [Pets](pets)
