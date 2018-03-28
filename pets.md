@@ -1,17 +1,17 @@
 # Pets
 
-* **Name:** DapperCat
-* **Personality:** Oujidere – A princely character, smooth talker.
-* **Color Scheme:** White, pink and orange with hints of gold.
+* **Names:** Chii / Lita
+* **Personality:** Loveable scaredy cat / Smug tsundere.
+* **Color Scheme:** Beige and creams / Orange black and white.
 
-This page is going to be a character page for our pets! See updates in the future...
+This page is in dedication to our pets / mascots of our channel! Here, you'll find character art we've done of them before both as cats and as people!
 
 
 
-### ✨ DapperCat is temporarily here for now... ✨
+### ✨ Chii's Art✨
 
-![Dapper Cat with Tea](img/dappercat_tea.png)
+![Anime Chii](img/Chii_anime.png)
 
-### ✨ DapperCat is temporarily here for now... ✨
+### ✨ Lita's Art ✨
 
-![Dapper Cat](img/dappercat.png)
+![Anime Lita](img/lita_anime.png)
