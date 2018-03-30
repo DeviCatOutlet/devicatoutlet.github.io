@@ -1,3 +1,6 @@
+---
+category: character
+---
 # CatCupcakes
 
 * **Name:** CatCupcakes (Berri, Punkin, Lemmy, Choco & Nilla)

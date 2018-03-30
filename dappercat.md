@@ -1,3 +1,6 @@
+---
+category: character
+---
 # DapperCat
 
 * **Name:** DapperCat

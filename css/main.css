@@ -122,33 +122,8 @@ em img {
 	text-align: left;
 }
 
-/* TODO: Unify some of the similar blocks. Particularly the character
-pages, which should all be styled the same way. Maybe adjust the layout? */
-#momoko ~ ul {
-	text-align: left;
-	list-style: none;
-}
-#shizuko ~ ul {
-	text-align: left;
-	list-style: none;
-}
-#reiko ~ ul {
-	text-align: left;
-	list-style: none;
-}
-#rin ~ ul {
-	text-align: left;
-	list-style: none;
-}
-#dappercat ~ ul {
-	text-align: left;
-	list-style: none;
-}
-#catcupcakes ~ ul {
-	text-align: left;
-	list-style: none;
-}
-#pets ~ ul {
+/* All the character pages follow the same pattern and styling */
+.character-cat ul {
 	text-align: left;
 	list-style: none;
 }
