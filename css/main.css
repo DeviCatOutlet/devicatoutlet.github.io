@@ -159,9 +159,10 @@ em img {
 	border: 1px solid #ddd;
 	border-radius: .25rem;
 	margin: 10px;
+	text-align: center;
 }
-#home ~ ul li p:last-child a {
-	/* TODO: Tag these as buttons instead of assuming they're the last ones */
+a.btn {
+	/* "Click Here" buttons on the home page */
 	display: inline-block;
 	font-weight: bold;
 	text-align: center;
