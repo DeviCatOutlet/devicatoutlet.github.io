@@ -17,38 +17,32 @@ PumpkinSpiceCake, StrawberryCheeseCake & BirthdayCake! To check your rank,
 do the !cake command.
 
 #### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Commands *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* !cake
+* !cake
   - 〉Displays Rank / Time / Cake
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* !info
+* !info
   - 〉Information Command List
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* !games
+* !games
   - 〉Fun & Games Command List
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* !spam
+* !spam
   - 〉Spam Commands List
+{: .sparkles}
 
 #### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Cake / Games *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 **Here’s the Breakdown!**
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  Do !cake to see what you have.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  Lurk and earn 1 cake / 6 min (or 5 cake / 6 min when active in chat) during
+* Do !cake to see what you have.
+* Lurk and earn 1 cake / 6 min (or 5 cake / 6 min when active in chat) during
   a live stream (AND if you see CutieCakeBot when the stream is offline!)
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  Give cake as a gift! Just do !give username #
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  Guessing Games: Do “!party #” where # is the number you’re guessing
+* Give cake as a gift! Just do !give username #
+* Guessing Games: Do “!party #” where # is the number you’re guessing
   between 1 and 10.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  Bake off: Gamble your cakes! Do “!bake #” where # is the number of cake
+* Bake off: Gamble your cakes! Do “!bake #” where # is the number of cake
   you want to bake.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  Cake Prize Giveaway: See details for how to use your cake for tickets
+* Cake Prize Giveaway: See details for how to use your cake for tickets
   further below this page.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  Cake resets to 1 at the beginning of a new month.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  Ask a mod to see who’s in the top 10.
+* Cake resets to 1 at the beginning of a new month.
+* Ask a mod to see who’s in the top 10.
+{: .sparkles}
 
 #### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Cake Prize Bundle Giveaway *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 As a way to say thank you to those who lurk / actively chat, Devi will do a
@@ -57,10 +51,11 @@ of tickets per person is 2500.
 
 Current prize bundle includes:
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next cake prize bundle scheduled for: March 31st at 6:30pm EST
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x handwritten thank you letter
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x surprise sticker
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 2x Devi branded pin back buttons
+* Next cake prize bundle scheduled for: March 31st at 6:30pm EST
+* 1x handwritten thank you letter
+* 1x surprise sticker
+* 2x Devi branded pin back buttons
+{: .sparkles}
 
 Please note: Bundle giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x bundle giveaway in the same month.
@@ -68,10 +63,11 @@ is allowed to win up to 1x bundle giveaway in the same month.
 
 #### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Super Prize Giveaway *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Unisex Tshirt
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Small Poster
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 10x Small Stickers.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* 1x Small Photographic Art Print.
+* 1x Unisex Tshirt
+* 1x Small Poster
+* 10x Small Stickers.
+* 1x Small Photographic Art Print.
+{: .sparkles}
 
 [See our shop here.](https://www.redbubble.com/people/devicatoutlet/shop/)
 
@@ -80,9 +76,9 @@ celebrate our Twitch Partnership monthiversary.
 
 Currently, here is what you can expect for our next celebration:
 
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Next monthly giveaway scheduled for: March 10th, 11th, 12th
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* A scheduled super giveaway for each of the three days at 6:30pm EST.
-
+* Next monthly giveaway scheduled for: March 10th, 11th, 12th
+* A scheduled super giveaway for each of the three days at 6:30pm EST.
+{: .sparkles}
 
 Please note: Monthly giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x monthly giveaway in the same month.

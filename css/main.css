@@ -64,7 +64,15 @@ li {
 ul.bulleted li {
 	list-style: disc;
 }
-
+ul.sparkles li:before {
+	display: inline-block;
+	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg");
+	position: relative;
+	top: 0.3333em; left: -0.33333em;
+	margin-left: 0.4em;
+	margin-top: -0.25em;
+	width: 1.5em;
+}
 
 #gallery ~ p img {
 	max-height: 300px;

@@ -28,11 +28,8 @@ When you have 20 minutes of spare time, watch [this video](https://www.youtube.c
 from Neil Gaiman. This has saved me time and again as an artist and as a human being.
 
 ### *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Where do you get inspiration from?
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  [Design Doll](http://terawell.net/terawell/?lang=en) – Modelling poses.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  [Draw A Box](http://drawabox.com/) – Strengthening drawing fundamentals.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  [Senshi Stock](https://senshistock.deviantart.com/gallery/) – Modelling poses / Reference Images.
-* *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
-  [Shutter Stock](https://www.shutterstock.com/home) – Modelling poses / Reference Images.
+* [Design Doll](http://terawell.net/terawell/?lang=en) – Modelling poses.
+* [Draw A Box](http://drawabox.com/) – Strengthening drawing fundamentals.
+* [Senshi Stock](https://senshistock.deviantart.com/gallery/) – Modelling poses / Reference Images.
+* [Shutter Stock](https://www.shutterstock.com/home) – Modelling poses / Reference Images.
+{: .sparkles}
