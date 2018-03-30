@@ -39,6 +39,7 @@
     - Charity Stream: 1000 Dreams Fund 2018 (Raised over $600 USD)
     - Featured on Twitch Front Page (Anime Spotlight): October 26th & November 2nd 2017.
     - Featured on Twitch Front Page (Women's History Month): March 14th, 2018.
+    {: .bulleted}
 
 ---
 

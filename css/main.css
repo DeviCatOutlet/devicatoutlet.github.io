@@ -61,6 +61,10 @@ li {
 	text-align: left;
 	list-style: none;
 }
+ul.bulleted li {
+	list-style: disc;
+}
+
 
 #gallery ~ p img {
 	max-height: 300px;
@@ -99,7 +103,6 @@ h1#about, h1#home {
 	margin-bottom: 1em;
 }
 #about ~ ul ul ul li {
-	list-style: disc;
 	margin-bottom: 0.5em;
 }
 #about-devicat {
@@ -113,10 +116,6 @@ em img {
 }
 #goals ~ ul {
 	font-size: 125%;
-}
-
-#characters ~ ul {
-	list-style: disc;
 }
 
 /* All the character pages follow the same pattern and styling */
@@ -172,14 +171,6 @@ em img {
 	border-radius: .25rem;
 	color: white;
 	background-color: #00d1c5;
-}
-
-#twitch ~ ul li {
-	list-style: disc;
-}
-
-#streaming-tips ~ ul li {
-	list-style: disc;
 }
 
 #twitch-sub-benefits ~ p {
