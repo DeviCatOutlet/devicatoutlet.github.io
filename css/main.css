@@ -64,7 +64,7 @@ li {
 ul.bulleted li {
 	list-style: disc;
 }
-ul.sparkles li:before {
+ul.sparkles li:before, #art-tips ~ h3:before {
 	display: inline-block;
 	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg");
 	position: relative;
