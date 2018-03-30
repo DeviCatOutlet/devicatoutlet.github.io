@@ -57,6 +57,11 @@ div ul{
 	margin: auto;
 }
 
+li {
+	text-align: left;
+	list-style: none;
+}
+
 #gallery ~ p img {
 	max-height: 300px;
 	cursor: pointer;
@@ -78,10 +83,8 @@ h1#about, h1#home {
 	display: none;
 }
 #about ~ ul {
-	list-style: none;
 	display: flex;
 	padding: 0;
-	text-align: left;
 }
 #about ~ ul ul {
 	padding: 0;
@@ -93,7 +96,6 @@ h1#about, h1#home {
 	max-width: 325px;
 }
 #about ~ ul ul li {
-	list-style: none;
 	margin-bottom: 1em;
 }
 #about ~ ul ul ul li {
@@ -110,23 +112,18 @@ em img {
 	width: 1.5em;
 }
 #goals ~ ul {
-	text-align: left;
-	list-style: none;
 	font-size: 125%;
-}
-#goals ~ ul ul {
-	list-style: none;
 }
 
 #characters ~ ul {
-	text-align: left;
+	list-style: disc;
 }
 
 /* All the character pages follow the same pattern and styling */
-.character-cat ul {
+/* .character-cat ul {
 	text-align: left;
 	list-style: none;
-}
+} */
 
 #art-tips ~ h3 {
 	text-align: left;
@@ -156,7 +153,6 @@ em img {
 #home ~ ul {
 	display: flex;
 	flex-wrap: wrap;
-	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
@@ -183,44 +179,24 @@ em img {
 	background-color: #00d1c5;
 }
 
-#twitch ~ ul {
+#twitch ~ ul li {
 	text-align: left;
+	list-style: disc;
 }
 
-#streaming-tips ~ ul {
+#streaming-tips ~ ul li {
 	text-align: left;
+	list-style: disc;
 }
 
-#twitch-sub-benefits ~ ul li {
-	list-style: none;
-	text-align: left;
-}
 #twitch-sub-benefits ~ p {
 	text-align: left;
 }
 
-#computer-specs ~ ul li {
-	list-style: none;
-	text-align: left;
-}
-
-#twitch-channel-info ~ ul li {
-	list-style: none;
-	text-align: left;
-}
 #twitch-channel-info ~ p {
 	text-align: left;
 }
 
-#art-tips ~ ul li {
-	list-style: none;
-	text-align: left;
-}
-
-#contact ~ ul li {
-	list-style: none;
-	text-align: left;
-}
 #contact ~ p {
 	text-align: left;
 }
