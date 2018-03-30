@@ -1,6 +1,7 @@
 # Gratitude Board
 
-*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Here, you’ll find links for our Gratitude Board for Twitch & Patreon *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+Here, you’ll find links for our Gratitude Board for Twitch & Patreon
+{: .hearts}
 
 *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Patreon Gratitude Board *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
 

@@ -19,3 +19,6 @@ configuration in _config.yml, restart Jekyll.
   specific directives.
 * "A-Channel" or "A Channel"? (cf /about) Check proper styling. SPACE EN-DASH SPACE
   seems unlikely, but what is actually correct?
+* Character page has hearts on only one side of its headingish lines. Should they
+  receive trailing hearts as well, for consistency? Would also mean they can be
+  done with the {: .hearts} marker instead of the long-winded image directives.

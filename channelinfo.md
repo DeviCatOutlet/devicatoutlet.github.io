@@ -1,6 +1,7 @@
 # Twitch Channel Info
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* CutieCakeBot *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### CutieCakeBot
+{: .hearts}
 
 CCB helps to run the channel! From giveaways to providing answers for
 frequently asked questions. Below, you’ll find a list of the most commonly
@@ -8,7 +9,8 @@ used commands as well as an explanation for our ranking system! If you have
 any FAQ’s, ask one of the mods during a live broadcast, and they’ll be more
 than happy to do a command to answer your question with the help of CCB.
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Ranking System *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### Ranking System
+{: .hearts}
 
 Ranks increase the more you watch DeviCat when she is live! Rank levels are:
 Crumbs, Slice, Half, Cake, Double Layered & Triple Layered! You start as a
@@ -16,7 +18,8 @@ Kittencake and work your way up to: VanillaCake, ChocolateCake, LemonCake,
 PumpkinSpiceCake, StrawberryCheeseCake & BirthdayCake! To check your rank,
 do the !cake command.
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Commands *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### Commands
+{: .hearts}
 * !cake
   - 〉Displays Rank / Time / Cake
 * !info
@@ -27,7 +30,8 @@ do the !cake command.
   - 〉Spam Commands List
 {: .sparkles}
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Cake / Games *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### Cake / Games
+{: .hearts}
 **Here’s the Breakdown!**
 
 * Do !cake to see what you have.
@@ -44,7 +48,8 @@ do the !cake command.
 * Ask a mod to see who’s in the top 10.
 {: .sparkles}
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Cake Prize Bundle Giveaway *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### Cake Prize Bundle Giveaway
+{: .hearts}
 As a way to say thank you to those who lurk / actively chat, Devi will do a
 special raffle that requires cake to enter. 1 cake = 1 ticket. Maximum number
 of tickets per person is 2500.
@@ -61,7 +66,8 @@ Please note: Bundle giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x bundle giveaway in the same month.
 
 
-#### *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Super Prize Giveaway *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+#### Super Prize Giveaway
+{: .hearts}
 
 * 1x Unisex Tshirt
 * 1x Small Poster

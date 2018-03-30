@@ -1,7 +1,7 @@
 # Twitch Sub Benefits
 
-*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* BENEFITS *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
-
+BENEFITS
+{: .hearts}
 
 * Custom emotes you can use in any Twitch channel.
 * Subscriber badge.

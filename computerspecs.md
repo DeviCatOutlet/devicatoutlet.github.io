@@ -1,6 +1,7 @@
 # Computer Specs
 
-*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Computer Specs *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+Computer Specs
+{: .hearts}
 
 * MSI Z97A SLI KRAIT Edition
 * GPU: MSI GeForce GTX 970
@@ -21,7 +22,8 @@
 
 ---
 
-*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Drawing Specs *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+Drawing Specs
+{: .hearts}
 
 * Wacom Intuos Comic Tablet
 * Creative Cloud – Adobe Photoshop
@@ -30,7 +32,8 @@
 
 ---
 
-*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Streaming Specs *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
+Streaming Specs
+{: .hearts}
 
 * Elgato Stream Deck
 * DeepBot
