@@ -12,6 +12,13 @@ To build and test locally:
 It should auto-detect changes to Markdown or layout files. If you change the
 configuration in _config.yml, restart Jekyll.
 
+To customize a group of pages, add front-matter to the pages thus:
+    ---
+    category: foo
+    ---
+The body tag will then have class="foo-cat" and its contents can be styled
+accordingly. All pages which lack this directive will have class="devi-cat" :)
+
 ### TODO
 
 * Settle what should be left-aligned and what should be centered. Figure out some

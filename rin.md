@@ -1,6 +1,3 @@
----
-category: character
----
 # Rin
 ## (Fauna Sister)
 

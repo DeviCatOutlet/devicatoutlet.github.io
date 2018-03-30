@@ -1,6 +1,3 @@
----
-category: character
----
 # Pets
 
 * **Names:** Chii / Lita

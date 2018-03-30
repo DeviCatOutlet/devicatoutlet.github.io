@@ -1,6 +1,3 @@
----
-category: character
----
 # Reiko
 ## (Fauna Sister)
 

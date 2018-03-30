@@ -1,6 +1,3 @@
----
-category: character
----
 # Shizuko
 ## (Shiny CutieCakeBot)
 

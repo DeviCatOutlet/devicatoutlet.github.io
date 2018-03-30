@@ -1,6 +1,3 @@
----
-category: character
----
 # Momoko
 ## (CutieCakeBot)
 
