@@ -132,11 +132,6 @@ em img {
 	text-align: left;
 }
 
-#gratitude-board ~ ul {
-	text-align: left;
-	list-style: none;
-}
-
 .jumbotron {
 	display: flex;
 }
@@ -180,12 +175,10 @@ em img {
 }
 
 #twitch ~ ul li {
-	text-align: left;
 	list-style: disc;
 }
 
 #streaming-tips ~ ul li {
-	text-align: left;
 	list-style: disc;
 }
 
