@@ -22,3 +22,6 @@ configuration in _config.yml, restart Jekyll.
 * Character page has hearts on only one side of its headingish lines. Should they
   receive trailing hearts as well, for consistency? Would also mean they can be
   done with the {: .hearts} marker instead of the long-winded image directives.
+* Gratitude Board is the only page that has sparkles bracketing a heading. Every
+  other page uses hearts. Does it want to use hearts too? Or will sparkles be
+  potentially used elsewhere, making it worth having a directive to add them?
