@@ -1,7 +1,6 @@
 # Gratitude Board
 
-Here, you’ll find links for our Gratitude Board for Twitch & Patreon
-{: .hearts}
+*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Here, you’ll find links for our Gratitude Board for Twitch & Patreon *![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)*
 
 *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)* Patreon Gratitude Board *![✨](https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg)*
 
@@ -15,6 +14,11 @@ Here, you’ll find links for our Gratitude Board for Twitch & Patreon
 
 
 
+
+* [March 31th, 2018](https://twitter.com/DeviCatOutlet/status/980257942753759232)
+* [March 29th, 2018](https://twitter.com/DeviCatOutlet/status/979536131481112578)
+* [March 28th, 2018](https://twitter.com/DeviCatOutlet/status/979167321032921088)
+* [March 26th, 2018](https://twitter.com/DeviCatOutlet/status/978444199350685696)
 * [March 25th, 2018](https://twitter.com/DeviCatOutlet/status/978080474471034880)
 * [March 24th, 2018](https://twitter.com/DeviCatOutlet/status/977720027804852224)
 * [March 22th, 2018](https://twitter.com/DeviCatOutlet/status/976993912161259522)
