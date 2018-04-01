@@ -84,6 +84,7 @@ Currently, here is what you can expect for our next celebration:
 
 * Next monthly giveaway scheduled for: April 7th, 8th & 9th!
 * A scheduled super giveaway for each of the three days at 6:30pm EST.
+* Equal chance for everyone, just do "!ticket" when giveaway opens!
 {: .sparkles}
 
 Please note: Monthly giveaways are capped to 1x winner per month. As in, everyone
