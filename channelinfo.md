@@ -56,7 +56,7 @@ of tickets per person is 2500.
 
 Current prize bundle includes:
 
-* Next cake prize bundle scheduled for: March 31st at 6:30pm EST
+* Next cake prize bundle scheduled for: April 30th at 6:30pm EST
 * 1x handwritten thank you letter
 * 1x surprise sticker
 * 2x Devi branded pin back buttons
@@ -82,7 +82,7 @@ celebrate our Twitch Partnership monthiversary.
 
 Currently, here is what you can expect for our next celebration:
 
-* Next monthly giveaway scheduled for: March 10th, 11th, 12th
+* Next monthly giveaway scheduled for: April 7th, 8th & 9th!
 * A scheduled super giveaway for each of the three days at 6:30pm EST.
 {: .sparkles}
 
