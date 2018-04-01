@@ -69,23 +69,14 @@ is allowed to win up to 1x bundle giveaway in the same month.
 #### Super Prize Giveaway
 {: .hearts}
 
-* 1x Unisex Tshirt
-* 1x Small Poster
-* 10x Small Stickers.
-* 1x Small Photographic Art Print.
+This is a special event we do monthly for our live broadcasts in order to celebrate our Twitch Partnership monthiversary.
+
+* Next monthly giveaway scheduled for: April 7th, 8th & 9th at 6:30pm EST each of the three days.
+* Prize winner chooses either: 1x Unisex Tshirt / 1x Small Poster / 10x Small Stickers / OR 1x Small Photographic Art Print.
+* Equal chance for everyone, just do "!ticket" when giveaway opens!
 {: .sparkles}
 
 [See our shop here.](https://www.redbubble.com/people/devicatoutlet/shop/)
-
-This is a special event we do monthly for our live broadcasts in order to
-celebrate our Twitch Partnership monthiversary. 
-
-Currently, here is what you can expect for our next celebration:
-
-* Next monthly giveaway scheduled for: April 7th, 8th & 9th!
-* A scheduled super giveaway for each of the three days at 6:30pm EST.
-* Equal chance for everyone, just do "!ticket" when giveaway opens!
-{: .sparkles}
 
 Please note: Monthly giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x monthly giveaway in the same month.
