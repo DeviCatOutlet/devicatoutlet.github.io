@@ -15,7 +15,13 @@
 
 
 
-* [March 31th, 2018](https://twitter.com/DeviCatOutlet/status/980257942753759232)
+
+* [April 8th, 2018](https://twitter.com/DeviCatOutlet/status/983152886350827520)
+* [April 7th, 2018](https://twitter.com/DeviCatOutlet/status/982792374865801216)
+* [April 5th, 2018](https://twitter.com/DeviCatOutlet/status/982070800315551746)
+* [April 4th, 2018](https://twitter.com/DeviCatOutlet/status/981706776553799680)
+* [April 2nd, 2018](https://twitter.com/DeviCatOutlet/status/980980210081456129)
+* [April 1st, 2018](https://twitter.com/DeviCatOutlet/status/980615400177176576)
 * [March 29th, 2018](https://twitter.com/DeviCatOutlet/status/979536131481112578)
 * [March 28th, 2018](https://twitter.com/DeviCatOutlet/status/979167321032921088)
 * [March 26th, 2018](https://twitter.com/DeviCatOutlet/status/978444199350685696)
