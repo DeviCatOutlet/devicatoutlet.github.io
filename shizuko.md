@@ -26,6 +26,8 @@ Momoko.
 
 ### ✨ Shizuko to date: ✨
 
+![Shizuko Winter Sprite 2018](img/ShizukoWinterSprite2018.png)
+
 ![Gothic Lolita Shizuko](img/shizuko_gothiclolita.png)
 
 ![Sitting Study ­– Shizuko](img/shizuko_sitting.png)

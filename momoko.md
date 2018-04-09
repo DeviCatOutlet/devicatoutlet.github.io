@@ -19,6 +19,8 @@ further inspired Devi to officially give her a body and then eventually a name.
 
 ### ✨ Momoko to date: ✨
 
+![CCBunny](img/ccbunny.png)
+
 ![Cafe Maid Momoko](img/momoko.png)
 
 ![Sitting Study ­– Momoko](img/momoko_sitting.png)
