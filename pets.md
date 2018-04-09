@@ -25,3 +25,4 @@ This page is in dedication to our pets / mascots of our channel! Here, you'll fi
 ### ✨ Katasha's Art ✨
 
 ![Katasha Chibi](img/katashachibi.png)
+![Katasha Chibi](img/katashawitch.png)
