@@ -17,6 +17,8 @@
 
 
 
+* [April 28th, 2018](https://twitter.com/DeviCatOutlet/status/990405340456988679)
+* [April 26th, 2018](https://twitter.com/DeviCatOutlet/status/989678443934646272)
 * [April 23rd, 2018](https://twitter.com/DeviCatOutlet/status/988590985457405952)
 * [April 22nd, 2018](https://twitter.com/DeviCatOutlet/status/988229958039416833)
 * [April 21st, 2018](https://twitter.com/DeviCatOutlet/status/987868121250725890)
