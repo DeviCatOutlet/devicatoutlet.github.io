@@ -19,6 +19,8 @@ further inspired Devi to officially give her a body and then eventually a name.
 
 ### ✨ Momoko to date: ✨
 
+![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
+
 ![CCBunny](img/ccbunny.png)
 
 ![Cafe Maid Momoko](img/momoko.png)
