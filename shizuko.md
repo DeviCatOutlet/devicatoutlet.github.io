@@ -26,6 +26,8 @@ Momoko.
 
 ### ✨ Shizuko to date: ✨
 
+![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
+
 ![Shizuko Winter Sprite 2018](img/ShizukoWinterSprite2018.png)
 
 ![Gothic Lolita Shizuko](img/shizuko_gothiclolita.png)

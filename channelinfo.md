@@ -56,7 +56,7 @@ of tickets per person is 2500.
 
 Current prize bundle includes:
 
-* Next cake prize bundle scheduled for: April 30th at 6:30pm EST
+* Next cake prize bundle scheduled for: May 30th at 6:30pm EST
 * 1x handwritten thank you letter
 * 1x surprise sticker
 * 2x Devi branded pin back buttons
@@ -71,7 +71,7 @@ is allowed to win up to 1x bundle giveaway in the same month.
 
 This is a special event we do monthly for our live broadcasts in order to celebrate our Twitch Partnership monthiversary.
 
-* Next monthly giveaway scheduled for: April 7th, 8th & 9th at 6:30pm EST each of the three days.
+* Next monthly giveaway scheduled for: May 26th, 27th, 28th at 6:30pm EST each of the three days.
 * Prize winner chooses either: 1x Unisex Tshirt / 1x Small Poster / 10x Small Stickers / OR 1x Small Photographic Art Print.
 * Equal chance for everyone, just do "!ticket" when giveaway opens!
 {: .sparkles}
