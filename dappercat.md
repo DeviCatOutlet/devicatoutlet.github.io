@@ -21,10 +21,10 @@ scrapped the idea. Over time, she combined aspects of Danishbot, dapper fox, and
 her cats Chii & Lita, and together they made DapperCat. He is currently voice
 acted by Devi’s friend [“BurningOil” on Twitch.tv](https://twitch.tv/burningoil).
 
-### ✨ DapperCat Original Form ✨
+### DapperCat Original Form
 
 ![Dapper Cat with Tea](img/dappercat_tea.png)
 
-### ✨ DapperCat Human Form ✨
+### DapperCat Human Form
 
 ![Dapper Cat](img/dappercat.png)

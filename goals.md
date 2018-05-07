@@ -6,7 +6,7 @@ Personal Goals / Milestones
 * Art
   - DeviCat Inspiration Calendar [(Achieved!)](https://www.redbubble.com/people/devicatoutlet/calendars/29043609-devicat-inspiration-calendar?asc=u&p=calendar)
   - Looking for: Art Contests / Events to participate in.
-  {: .sparkles}
+  {: .bulleted}
 * Twitch Goals
   - 10,000 Follows.
   - 600 Sub Points: 1 New Emote.
@@ -14,4 +14,4 @@ Personal Goals / Milestones
   - 800 Sub Points: 1 New Emote.
   - 900 Sub Points: 1 New Emote.
   - 1000 Sub Points: 1 New Emote.
-  {: .sparkles}
+  {: .bulleted}

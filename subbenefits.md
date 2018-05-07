@@ -8,7 +8,7 @@ BENEFITS
 * Immune to ads.
 * Spam without being purged by the bot.
 * INSTANT access to our sub only channel in discord for Devi’s original downloadable high quality wallpapers.
-{: .sparkles}
+{: .bulleted}
 
 * *![💕](https://s.w.org/images/core/emoji/2.2.1/svg/1f495.svg)* $4.99 Tier 1: All the above, gifts 1 subscriber point to the channel.
 * *![🍰](https://s.w.org/images/core/emoji/2.2.1/svg/1f370.svg)* $9.99 Tier 2: prestige Tier 2 sub emote. (Also gifts 2 subscriber points to the channel.)

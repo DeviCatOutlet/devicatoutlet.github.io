@@ -32,4 +32,4 @@ from Neil Gaiman. This has saved me time and again as an artist and as a human b
 * [Draw A Box](http://drawabox.com/) – Strengthening drawing fundamentals.
 * [Senshi Stock](https://senshistock.deviantart.com/gallery/) – Modelling poses / Reference Images.
 * [Shutter Stock](https://www.shutterstock.com/home) – Modelling poses / Reference Images.
-{: .sparkles}
+{: .bulleted}

@@ -28,7 +28,7 @@ do the !cake command.
   - 〉Fun & Games Command List
 * !spam
   - 〉Spam Commands List
-{: .sparkles}
+{: .bulleted}
 
 #### Cake / Games
 {: .hearts}
@@ -46,7 +46,7 @@ do the !cake command.
   further below this page.
 * Cake resets to 1 at the beginning of a new month.
 * Ask a mod to see who’s in the top 10.
-{: .sparkles}
+{: .bulleted}
 
 #### Cake Prize Bundle Giveaway
 {: .hearts}
@@ -60,7 +60,7 @@ Current prize bundle includes:
 * 1x handwritten thank you letter
 * 1x surprise sticker
 * 2x Devi branded pin back buttons
-{: .sparkles}
+{: .bulleted}
 
 Please note: Bundle giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x bundle giveaway in the same month.
@@ -74,7 +74,7 @@ This is a special event we do monthly for our live broadcasts in order to celebr
 * Next monthly giveaway scheduled for: May 26th, 27th, 28th at 6:30pm EST each of the three days.
 * Prize winner chooses either: 1x Unisex Tshirt / 1x Small Poster / 10x Small Stickers / OR 1x Small Photographic Art Print.
 * Equal chance for everyone, just do "!ticket" when giveaway opens!
-{: .sparkles}
+{: .bulleted}
 
 [See our shop here.](https://www.redbubble.com/people/devicatoutlet/shop/)
 

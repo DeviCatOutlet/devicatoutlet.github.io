@@ -18,7 +18,7 @@ Computer Specs
 * Headphones: Connectland Stereo Headset
 * Mouse: Deathadder Chroma
 * Chair: EWIN Champion Series
-{: .sparkles}
+{: .bulleted}
 
 ---
 
@@ -28,7 +28,7 @@ Drawing Specs
 * Wacom Intuos Comic Tablet
 * Creative Cloud – Adobe Photoshop
 * Lazy Nezumi
-{: .sparkles}
+{: .bulleted}
 
 ---
 
@@ -41,4 +41,4 @@ Streaming Specs
 * Muxy
 * OBS Studio
 * StreamElements
-{: .sparkles}
+{: .bulleted}
