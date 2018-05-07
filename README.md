@@ -32,3 +32,23 @@ accordingly. All pages which lack this directive will have class="devi-cat" :)
 * Gratitude Board is the only page that has sparkles bracketing a heading. Every
   other page uses hearts. Does it want to use hearts too? Or will sparkles be
   potentially used elsewhere, making it worth having a directive to add them?
+
+  (Notes from Devi)
+  1) Left-aligned and Centered
+Only adjustment I see at the moment is to align the character descriptions to the left instead of being centered. 
+Titles for pages as well as sections within a page can be centered (most of which are already) Only exception
+is the "name / title / personality etc" sections for the character pages (these can be left-aligned)
+
+In short:
+Titles = centered
+Bullet points / descriptions = left-aligned
+
+ 2) "A-Channel" is the title of the anime. See here: https://myanimelist.net/anime/9776/A-Channel
+
+ 3) Yes, they should receive trailing hearts.
+
+ 4) This should be hearts instead of sparkles as well.
+ Ideally would prefer:
+ Hearts for main headings.
+ Sparkles for sub headings (reference Hanabi Character page / art tips)
+ Normal bullet points for anything else instead of sparkles.
