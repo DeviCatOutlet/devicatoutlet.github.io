@@ -36,5 +36,5 @@ Momoko.
 
 ![Shizuko print](img/shizuko_print.png)
 
-First creation of Shizuko:<br>
+#### First creation of Shizuko:
 ![CCB Twins](img/ccb_twins.png)

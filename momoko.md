@@ -29,5 +29,5 @@ further inspired Devi to officially give her a body and then eventually a name.
 
 ![Trainer Chibi Momoko](img/momoko_trainer_chibi.png)
 
-First creation of Momoko:<br>
+#### First creation of Momoko:
 ![CCB Twins](img/ccb_twins.png)

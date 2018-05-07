@@ -27,5 +27,5 @@ Reiko the fauna.
 
 ![Rin in casual springwear](img/rin_casualwear.png)
 
-First creation of Rin:<br>
+#### First creation of Rin:
 ![Rin](img/rin.png)

@@ -44,7 +44,7 @@ div ul{
   padding-top: 20px;
 }
 
-.footer-style{
+footer {
   display: block;
   text-align: center;
   margin-top: 100px;
@@ -58,11 +58,14 @@ div ul{
 }
 
 li {
-	text-align: left;
 	list-style: none;
 }
 ul.bulleted li {
 	list-style: disc;
+}
+
+h1, h2, h3, h4 {
+	text-align: center;
 }
 
 /* If there are two adjacent head-ones, the second is a sort of subheading. */
@@ -88,6 +91,14 @@ h2:before, h2:after {
 	margin-left: 0.4em;
 	margin-top: -0.25em;
 	width: 1.5em;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+.left-align img {
+	margin: 0;
 }
 
 #gallery ~ p img {
@@ -129,10 +140,6 @@ h1#about, h1#home {
 #about ~ ul ul ul li {
 	margin-bottom: 0.5em;
 }
-#about-devicat {
-	/* This one looks better with the heading centered. */
-	text-align: center;
-}
 
 /* Some large SVGs get 'marked small' with asterisks - they're basically emoji. */
 em img {
@@ -143,9 +150,6 @@ em img {
 }
 
 #art-tips ~ h3 {
-	text-align: left;
-}
-#art-tips ~ p {
 	text-align: left;
 }
 
@@ -192,20 +196,22 @@ a.btn {
 	background-color: #00d1c5;
 }
 
-#twitch-sub-benefits ~ p {
-	text-align: left;
-}
-
-#twitch-channel-info ~ p {
-	text-align: left;
-}
-
-#contact ~ p {
-	text-align: left;
-}
 #contact ~ p a {
 	font-weight: bold;
 }
 #contact ~ ul a {
 	font-weight: bold;
+}
+
+.email:before, .email:after {
+	display: inline-block;
+	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/1f48c.svg");
+	position: relative;
+	top: 0.5em; left: -0.25em;
+	margin-left: 0.4em;
+	margin-top: -0.25em;
+	width: 1.5em;
+}
+.email {
+	margin: 0;
 }

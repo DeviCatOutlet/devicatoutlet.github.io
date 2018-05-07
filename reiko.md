@@ -29,5 +29,5 @@ counterpart, Rin the fauna.
 
 ![Reiko in casual springwear](img/reiko_casualwear.png)
 
-First creation of Reiko:<br>
+#### First creation of Reiko:
 ![Reiko](img/reiko.png)

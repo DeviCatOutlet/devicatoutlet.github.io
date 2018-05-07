@@ -1,11 +1,12 @@
 # Contact
 
-*![💌](https://s.w.org/images/core/emoji/2.2.1/svg/1f48c.svg)* Send an email to: *![💌](https://s.w.org/images/core/emoji/2.2.1/svg/1f48c.svg)*<br>
+Send an email to:
+{: .email}
 [devicatoutlet@gmail.com](mailto:devicatoutlet@gmail.com)
 
 PO BOX – Please read the details below:<br>
 ![<<address hidden in image to make it harder for bots>>](https://static-cdn.jtvnw.net/jtv_user_pictures/panel-54212603-image-4d4c695c-42e6-49cb-9c85-02b7411bb3a6)
-
+{: .left-align}
 
 Lettermail is accepted. If you wish to send something more than
 lettermail, we encourage you instead to consider:
