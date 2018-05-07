@@ -1,10 +1,8 @@
 # Characters
 
-Here you’ll find a list of our original characters.
-{: .hearts}
+## Here you’ll find a list of our original characters.
 
-Click below to find pictures and descriptions.
-{: .hearts}
+## Click below to find pictures and descriptions.
 
 **Artist Disclaimer:** Fanart for personal use of any of our original
 characters is welcomed and encouraged. Should you wish to do anything

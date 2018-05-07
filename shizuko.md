@@ -1,5 +1,5 @@
 # Shizuko
-## (Shiny CutieCakeBot)
+# (Shiny CutieCakeBot)
 
 * **Name:** Shizuko (Meaning: Quiet Child)
 * **Title:** Shiny CutieCakeBot
@@ -24,7 +24,7 @@ first. Though Momoko was technically established in the beginning, due to the
 representation, we can say that Shizuko’s despair gave birth to the strength of
 Momoko.
 
-### ✨ Shizuko to date: ✨
+### Shizuko to date:
 
 ![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
 

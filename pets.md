@@ -8,7 +8,7 @@ This page is in dedication to our pets / mascots of our channel! Here, you'll fi
 
 
 
-### ✨ Chii's Art✨
+### Chii's Art
 
 ![Anime Chii](img/Chii_anime.png)
 
@@ -18,7 +18,7 @@ This page is in dedication to our pets / mascots of our channel! Here, you'll fi
 
 ![Candy Corn Chii](img/candycornchii.png)
 
-### ✨ Lita's Art ✨
+### Lita's Art
 
 ![Anime Lita](img/lita_anime.png)
 
@@ -28,7 +28,7 @@ This page is in dedication to our pets / mascots of our channel! Here, you'll fi
 
 ![Lita Pumpkin](img/litapumpkin.png)
 
-### ✨ Katasha's Art ✨
+### Katasha's Art
 
 ![Katasha Chibi](img/katashachibi.png)
 

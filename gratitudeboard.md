@@ -1,18 +1,15 @@
 # Gratitude Board
 
-Here, you’ll find links for our Gratitude Board for Twitch & Patreon
-{: .hearts}
+## Here, you’ll find links for our Gratitude Board for Twitch & Patreon
 
-Patreon Gratitude Board
-{: .hearts}
+## Patreon Gratitude Board
 
 * [April, 2018](https://www.patreon.com/posts/gratitude-board-18034998/)
 * [March, 2018](https://www.patreon.com/posts/gratitude-board-17375670/)
 * [February, 2018](https://www.patreon.com/posts/gratitude-board-16839273/)
 * [January, 2018](https://www.patreon.com/posts/gratitude-board-16259097)
 
-Twitch Gratitude Board
-{: .hearts}
+## Twitch Gratitude Board
 
 
 

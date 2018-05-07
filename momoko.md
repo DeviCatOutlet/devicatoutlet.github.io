@@ -1,5 +1,5 @@
 # Momoko
-## (CutieCakeBot)
+# (CutieCakeBot)
 
 * **Name:** Momoko (Meaning: Peach Child)
 * **Title:** CutieCakeBot
@@ -17,7 +17,7 @@ she didn’t have a body or a personality at first. Over time, as the fan base
 grew, viewers attempted at creating their own interpretations of her which
 further inspired Devi to officially give her a body and then eventually a name.
 
-### ✨ Momoko to date: ✨
+### Momoko to date:
 
 ![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
 

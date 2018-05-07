@@ -1,5 +1,5 @@
 # Reiko
-## (Fauna Sister)
+# (Fauna Sister)
 
 * **Name:** Reiko (Meaning: Flower Child)
 * **Title:** Fauna Sister
@@ -19,7 +19,7 @@ is the symbol of pure happiness, the willingness to give others the benefit
 of the doubt and welcome everyone. She sticks very closely with her
 counterpart, Rin the fauna.
 
-### ✨ Reiko to date: ✨
+### Reiko to date:
 
 ![Reiko CloverGirl 2018](img/Reiko_CloverGirl_2018.png)
 

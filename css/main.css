@@ -65,6 +65,11 @@ ul.bulleted li {
 	list-style: disc;
 }
 
+/* If there are two adjacent head-ones, the second is a sort of subheading. */
+h1 ~ h1 {
+	font-size: 1.75em;
+}
+
 h3:before, h3:after {
 	display: inline-block;
 	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg");
@@ -75,7 +80,7 @@ h3:before, h3:after {
 	width: 1.5em;
 }
 
-.hearts:before, .hearts:after {
+h2:before, h2:after {
 	display: inline-block;
 	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/1f499.svg");
 	position: relative;

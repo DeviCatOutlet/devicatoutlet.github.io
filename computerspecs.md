@@ -1,7 +1,6 @@
 # Computer Specs
 
-Computer Specs
-{: .hearts}
+## Computer Specs
 
 * MSI Z97A SLI KRAIT Edition
 * GPU: MSI GeForce GTX 970
@@ -22,8 +21,7 @@ Computer Specs
 
 ---
 
-Drawing Specs
-{: .hearts}
+## Drawing Specs
 
 * Wacom Intuos Comic Tablet
 * Creative Cloud – Adobe Photoshop
@@ -32,8 +30,7 @@ Drawing Specs
 
 ---
 
-Streaming Specs
-{: .hearts}
+## Streaming Specs
 
 * Elgato Stream Deck
 * DeepBot

@@ -1,7 +1,6 @@
 # Goals
 
-Personal Goals / Milestones
-{: .hearts}
+## Personal Goals / Milestones
 
 * Art
   - DeviCat Inspiration Calendar [(Achieved!)](https://www.redbubble.com/people/devicatoutlet/calendars/29043609-devicat-inspiration-calendar?asc=u&p=calendar)

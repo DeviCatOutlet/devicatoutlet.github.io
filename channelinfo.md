@@ -1,7 +1,6 @@
 # Twitch Channel Info
 
-#### CutieCakeBot
-{: .hearts}
+## CutieCakeBot
 
 CCB helps to run the channel! From giveaways to providing answers for
 frequently asked questions. Below, you’ll find a list of the most commonly
@@ -9,8 +8,7 @@ used commands as well as an explanation for our ranking system! If you have
 any FAQ’s, ask one of the mods during a live broadcast, and they’ll be more
 than happy to do a command to answer your question with the help of CCB.
 
-#### Ranking System
-{: .hearts}
+## Ranking System
 
 Ranks increase the more you watch DeviCat when she is live! Rank levels are:
 Crumbs, Slice, Half, Cake, Double Layered & Triple Layered! You start as a
@@ -18,8 +16,7 @@ Kittencake and work your way up to: VanillaCake, ChocolateCake, LemonCake,
 PumpkinSpiceCake, StrawberryCheeseCake & BirthdayCake! To check your rank,
 do the !cake command.
 
-#### Commands
-{: .hearts}
+## Commands
 * !cake
   - 〉Displays Rank / Time / Cake
 * !info
@@ -30,8 +27,7 @@ do the !cake command.
   - 〉Spam Commands List
 {: .bulleted}
 
-#### Cake / Games
-{: .hearts}
+## Cake / Games
 **Here’s the Breakdown!**
 
 * Do !cake to see what you have.
@@ -48,8 +44,7 @@ do the !cake command.
 * Ask a mod to see who’s in the top 10.
 {: .bulleted}
 
-#### Cake Prize Bundle Giveaway
-{: .hearts}
+## Cake Prize Bundle Giveaway
 As a way to say thank you to those who lurk / actively chat, Devi will do a
 special raffle that requires cake to enter. 1 cake = 1 ticket. Maximum number
 of tickets per person is 2500.
@@ -66,8 +61,7 @@ Please note: Bundle giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x bundle giveaway in the same month.
 
 
-#### Super Prize Giveaway
-{: .hearts}
+## Super Prize Giveaway
 
 This is a special event we do monthly for our live broadcasts in order to celebrate our Twitch Partnership monthiversary.
 

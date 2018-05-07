@@ -1,5 +1,5 @@
 # Rin
-## (Fauna Sister)
+# (Fauna Sister)
 
 * **Name:** Rin (Meaning: Cold Child)
 * **Title:** Fauna Sister
@@ -19,7 +19,7 @@ people who were once friends. She is the symbol of judgement, the observer,
 and is fearful of betrayal. She sticks very closely with her counterpart,
 Reiko the fauna.
 
-### ✨ Rin to date: ✨
+### Rin to date:
 
 ![Autumn Rin](img/rin_autumn.png)
 
