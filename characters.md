@@ -1,8 +1,10 @@
 # Characters
 
-*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Here you’ll find a list of our original characters.
+Here you’ll find a list of our original characters.
+{: .hearts}
 
-*![💜](https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg)* Click below to find pictures and descriptions.
+Click below to find pictures and descriptions.
+{: .hearts}
 
 **Artist Disclaimer:** Fanart for personal use of any of our original
 characters is welcomed and encouraged. Should you wish to do anything

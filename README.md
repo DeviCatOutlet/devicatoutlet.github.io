@@ -24,9 +24,6 @@ accordingly. All pages which lack this directive will have class="devi-cat" :)
 * Settle what should be left-aligned and what should be centered. Figure out some
   simple rules, and encode those into the CSS, rather than messing with tons of
   specific directives.
-* Character page has hearts on only one side of its headingish lines. Should they
-  receive trailing hearts as well, for consistency? Would also mean they can be
-  done with the {: .hearts} marker instead of the long-winded image directives.
 * Gratitude Board is the only page that has sparkles bracketing a heading. Every
   other page uses hearts. Does it want to use hearts too? Or will sparkles be
   potentially used elsewhere, making it worth having a directive to add them?
@@ -40,8 +37,6 @@ is the "name / title / personality etc" sections for the character pages (these 
 In short:
 Titles = centered
 Bullet points / descriptions = left-aligned
-
- 3) Yes, they should receive trailing hearts.
 
  4) This should be hearts instead of sparkles as well.
  Ideally would prefer:
