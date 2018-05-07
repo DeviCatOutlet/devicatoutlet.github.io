@@ -19,14 +19,20 @@ To customize a group of pages, add front-matter to the pages thus:
 The body tag will then have class="foo-cat" and its contents can be styled
 accordingly. All pages which lack this directive will have class="devi-cat" :)
 
+Heading usage:
+
+* H1 ("# Foo") is used once only, at the start of the page. If there are multiple
+  lines with this heading style, subsequent ones are displayed smaller.
+* H2 ("## Bar") marks the start of a broad section, and will be bracketed with
+  hearts.
+* H3 ("### Spam") introduces a subsection, and is bracketed with sparkles.
+* No other heading levels are currently used.
+
 ### TODO
 
 * Settle what should be left-aligned and what should be centered. Figure out some
   simple rules, and encode those into the CSS, rather than messing with tons of
   specific directives.
-* Gratitude Board is the only page that has sparkles bracketing a heading. Every
-  other page uses hearts. Does it want to use hearts too? Or will sparkles be
-  potentially used elsewhere, making it worth having a directive to add them?
 
   (Notes from Devi)
   1) Left-aligned and Centered
@@ -37,9 +43,3 @@ is the "name / title / personality etc" sections for the character pages (these 
 In short:
 Titles = centered
 Bullet points / descriptions = left-aligned
-
- 4) This should be hearts instead of sparkles as well.
- Ideally would prefer:
- Hearts for main headings.
- Sparkles for sub headings (reference Hanabi Character page / art tips)
- Normal bullet points for anything else instead of sparkles.
