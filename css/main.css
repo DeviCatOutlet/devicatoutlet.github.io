@@ -115,6 +115,11 @@ img {
 .modal-dialog {
 	max-width: 600px;
 }
+.wrap {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
 
 h1#about, h1#home {
 	/* Hide the "Home" and "About" headings - they aren't necessary. */
