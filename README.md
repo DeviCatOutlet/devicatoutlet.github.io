@@ -43,6 +43,3 @@ Bullet points / descriptions = left-aligned
  Hearts for main headings.
  Sparkles for sub headings (reference Hanabi Character page / art tips)
  Normal bullet points for anything else instead of sparkles.
-
- EXTRA NOTE:
- Could we swap out the purple heart for this one? 💙

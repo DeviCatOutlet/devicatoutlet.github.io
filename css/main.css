@@ -76,7 +76,7 @@ ul.sparkles li:before, #art-tips ~ h3:before {
 
 .hearts:before, .hearts:after {
 	display: inline-block;
-	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg");
+	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/1f499.svg");
 	position: relative;
 	top: 0.5em; left: -0.25em;
 	margin-left: 0.4em;
