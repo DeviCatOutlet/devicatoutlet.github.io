@@ -12,7 +12,7 @@ representation of personality types that are not always appreciated.
 
 The original concept in mind with the catcupcakes was to have ranks for viewers
 of the channel. The more you watched the channel, the more your rank increased,
-the further up the cake line you go. Now these little cuties have thier own personalities and character traits!
+the further up the cake line you go. Now these little cuties have their own personalities and character traits!
 
 ![Cats Carnival](img/catscarnival.png)
 
