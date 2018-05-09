@@ -1,16 +1,16 @@
-# Reiko
-# (Fauna Sister)
-
-* **Name:** Reiko (Meaning: Flower Child)
-* **Title:** Fauna Sister
-* **Hair Color:** Teal.
-* **Eye Color:** Teal.
-* **Personality:** Deredere (デレデレ) meaning to become ‘lovey dovey’. Someone
-  who wishes to be friends with everyone.
-* **Color Scheme:** White and teal.
-* **Symbol:** Elk antlers.
-* **Representation / Inspiration:** A chapter of Devi’s life: the symbol of
-  hope and friendship.
+---
+Character: Reiko
+Subtitle: Fauna Sister
+Info:
+  Name: "Reiko (Meaning: Flower Child)"
+  Title: Fauna Sister
+  Hair Color: Teal.
+  Eye Color: Teal.
+  Personality: Deredere (デレデレ) meaning to become ‘lovey dovey’. Someone who wishes to be friends with everyone.
+  Color Scheme: White and teal.
+  Symbol: Elk antlers.
+  Representation / Inspiration: A chapter of Devi’s life – the symbol of hope and friendship.
+---
 
 Reiko is the third out of the four main original characters for the channel.
 Not much is known of her yet as she is a fairly new and developed character.

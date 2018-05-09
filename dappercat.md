@@ -1,12 +1,13 @@
-# DapperCat
-
-* **Name:** DapperCat
-* **Title:** The dashing voice.
-* **Personality:** Oujidere – A princely character, smooth talker.
-* **Color Scheme:** White, pink and orange with hints of gold.
-* **Symbol:** Top hat.
-* **Representation / Inspiration:** A chapter of Devi’s life: the symbol
-  of guidance.
+---
+Character: DapperCat
+Info:
+  Name: DapperCat
+  Title: The dashing voice.
+  Personality: Oujidere – A princely character, smooth talker.
+  Color Scheme: White, pink and orange with hints of gold.
+  Symbol: Top hat.
+  Representation / Inspiration: A chapter of Devi’s life – the symbol of guidance.
+---
 
 There isn’t a whole lot to be said about DapperCat in his current state as he
 is a newly developed character. One could say that he is the representation of

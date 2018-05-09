@@ -57,11 +57,8 @@ footer {
 	margin: auto;
 }
 
-li {
+ul.layout li {
 	list-style: none;
-}
-ul.bulleted li {
-	list-style: disc;
 }
 
 h1, h2, h3, h4 {
@@ -123,7 +120,7 @@ img {
 
 h1#about, h1#home {
 	/* Hide the "Home" and "About" headings - they aren't necessary. */
-	/* Their presence, however, affect the styles of subsequent elements. */
+	/* Their presence, however, can affect the styles of subsequent elements. */
 	display: none;
 }
 #about ~ ul {
@@ -134,6 +131,7 @@ h1#about, h1#home {
 	padding: 0;
 }
 #about ~ ul li {
+	list-style-type: none;
 	margin: 0 10px;
 }
 #about ~ ul img {
@@ -143,6 +141,7 @@ h1#about, h1#home {
 	margin-bottom: 1em;
 }
 #about ~ ul ul ul li {
+	list-style-type: disc;
 	margin-bottom: 0.5em;
 }
 
@@ -171,18 +170,18 @@ em img {
 	height: 432px;
 }
 
-#home ~ ul {
+ul.cards {
 	display: flex;
 	flex-wrap: wrap;
 	margin: 0;
 	padding: 0;
 }
 
-#home ~ ul img {
+ul.cards img {
 	width: 344px;
 }
 
-#home ~ ul li {
+ul.cards li {
 	border: 1px solid #ddd;
 	border-radius: .25rem;
 	margin: 10px;

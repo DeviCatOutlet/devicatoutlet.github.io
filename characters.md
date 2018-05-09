@@ -19,4 +19,3 @@ discord channel [here](https://discordapp.com/invite/devicat), called
 * [DapperCat](dappercat)
 * [CatCupcakes](catcupcakes)
 * [Pets](pets)
-{: .bulleted}

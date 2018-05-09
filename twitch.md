@@ -7,4 +7,3 @@
 * [CutieCakeBot Commands List](ccb-giveaways-mm)
 
 * [Subscriber Benefits](twichsubbenefits)
-{: .bulleted}

@@ -37,4 +37,3 @@ These are personal experiences I have had being a full time broadcaster that I w
   audience give feedback or share their thoughts? 2) How can you give your
   audience recognition? 3) How can you make your audience aware of what they
   can do to support you?
-{: .bulleted}

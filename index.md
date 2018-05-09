@@ -39,3 +39,4 @@
   Learn about Devicat
 
   [Click Here](about){: .btn}
+{: .cards .layout}

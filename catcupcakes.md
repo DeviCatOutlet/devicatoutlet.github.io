@@ -1,10 +1,12 @@
-# CatCupcakes
-
-* **Name:** CatCupcakes (Berri, Punkin, Lemmy, Choco & Nilla)
-* **Title:** Marching Cats
-* **Personality:** Sarcastic Bliss, Smug, Excitement, Contentment, & Ignorance.
-* **Symbol:** Cats / Cake
-* **Representation / Inspiration:** Pure emotions.
+---
+Character: CatCupcakes
+Info:
+  Name: CatCupcakes (Berri, Punkin, Lemmy, Choco & Nilla)
+  Title: Marching Cats
+  Personality: Sarcastic Bliss, Smug, Excitement, Contentment, & Ignorance.
+  Symbol: Cats / Cake
+  Representation / Inspiration: Pure emotions.
+---
 
 There isn’t a whole lot to be said about the catcupcakes as they are newly
 developed characters of the channel. One could say they are the purest

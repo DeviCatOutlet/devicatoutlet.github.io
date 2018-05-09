@@ -22,7 +22,7 @@
       </a>
 
       <div class="collapse navbar-collapse">
-        <ul class="navbar-nav ml-auto">
+        <ul class="navbar-nav ml-auto layout">
 	  {%- for dest in site.nav %}{%- for info in dest -%}
 	    {%- if info[1].first -%}
               {%- comment %} It's an array of subpages (eg Characters) {% endcomment -%}
@@ -79,9 +79,14 @@
     {% endif %}
 
   <div>
-    <!-- Cards -->
-  
     <div class="container raised">
+      {% if page.Character %}
+      <h1>{{ page.Character }}</h1>
+      {% if page.Subtitle %}<h1>({{ page.Subtitle }})</h1>{% endif %}
+      <ul class="char-info layout">
+      {% for info in page.Info %}<li><strong>{{ info[0] }}:</strong> {{ info[1] }}</li>{% endfor %}
+      </ul>
+      {% endif %}
       {{ content }}
     </div>
   </div>

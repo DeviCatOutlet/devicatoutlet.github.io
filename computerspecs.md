@@ -17,7 +17,6 @@
 * Headphones: Connectland Stereo Headset
 * Mouse: Deathadder Chroma
 * Chair: EWIN Champion Series
-{: .bulleted}
 
 ---
 
@@ -26,7 +25,6 @@
 * Wacom Intuos Comic Tablet
 * Creative Cloud – Adobe Photoshop
 * Lazy Nezumi
-{: .bulleted}
 
 ---
 
@@ -38,4 +36,3 @@
 * Muxy
 * OBS Studio
 * StreamElements
-{: .bulleted}
