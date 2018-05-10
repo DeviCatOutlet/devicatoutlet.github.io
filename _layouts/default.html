@@ -91,15 +91,8 @@
     </div>
   </div>
 
-
-<div class="modal fade" id="imagemodal">
-	<div class="modal-dialog">
-		<img src="" id="imagepreview">
-		<div id="modal-caption"></div>
-	</div>
-</div>
-
-
+<div id=fader></div>
+<div id="popup"><div><img><div id="popup-caption"></div></div></div>
 
 
 
@@ -129,11 +122,13 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
 <script>
-    $('#gallery ~ p img').click(function() {
-        $('#imagepreview').attr('src', $(this).attr('src'));
-        //$('#modal-caption').text($(this).attr('alt')); //TODO: Style these up nicely and then enable them
-        $('#imagemodal').modal('show');
-    });
+document.querySelectorAll('#gallery ~ p img').forEach(img => img.onclick = function(ev) {
+	document.querySelector('#popup img').src = this.src;
+	//document.getElementById('#modal-caption').textContent = this.alt; //TODO: Style these up nicely and then enable them
+	document.documentElement.classList.add("show-modal");
+	ev.stopPropagation();
+});
+document.documentElement.onclick = function() {this.classList.remove("show-modal");}
 </script>
-  </body>
+</body>
 </html>

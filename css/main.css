@@ -52,11 +52,6 @@ footer {
   padding: 12px;
 }
 
-#modal-caption {
-	background: white;
-	margin: auto;
-}
-
 ul.layout li {
 	list-style: none;
 }
@@ -108,9 +103,6 @@ img {
 }
 #gallery ~ p img:hover{
   opacity: 0.8;
-}
-.modal-dialog {
-	max-width: 600px;
 }
 .wrap {
 	display: flex;
@@ -218,4 +210,38 @@ a.btn {
 }
 .email {
 	margin: 0;
+}
+
+/* Clicking Gallery images pops them up, fading the rest of the page. */
+/* Pre-allocate room for the scrollbars, where supported */
+html {overflow: overlay;}
+.show-modal {overflow: hidden;}
+#fader {
+	position: fixed;
+	left: 0; top: 0; right: 0; bottom: 0;
+	background: black;
+	opacity: 0; z-index: -1;
+    transition: opacity .25s, z-index .25s;
+}
+.show-modal #fader {opacity: 0.5; z-index: 1999;}
+#popup {
+	position: fixed;
+	left: 0; top: 0; right: 0; bottom: 0;
+	z-index: 2000;
+	padding-top: 30px;
+	visibility: hidden;
+	overflow: auto;
+	transition: visibility .5s;
+}
+.show-modal #popup {visibility: visible;}
+/* Fade the image in and pull it in from above the screen */
+#popup img {
+	position: relative;
+	top: -500px;
+	opacity: 0;
+	transition: top .5s, opacity .5s;
+}
+.show-modal #popup img {top: 0px; opacity: 1;}
+#popup > div {
+	margin: auto;
 }
