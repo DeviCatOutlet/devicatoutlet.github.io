@@ -31,6 +31,7 @@ Heading usage:
 
 TODO:
 * Remove Bootstrap's JS. Currently used only for menu popdown.
+  - Can then also remove Popper, only present as a dep for Bootstrap.
 * Remove Bootstrap's CSS. Possibly only being used on the landing page.
 * Remove jQuery. Dependency of Bootstrap; not used elsewhere AFAIK.
 * Verify whether the current use of FontAwesome is violating Twitter's TOS.
