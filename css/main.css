@@ -256,3 +256,9 @@ nav {
 nav img {
 	height: 42px;
 }
+.dropdown-menu a {
+	display: block;
+	padding: .25rem 1.5rem;
+	color: #212529;
+	white-space: nowrap;
+}
