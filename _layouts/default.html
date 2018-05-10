@@ -57,7 +57,6 @@
       </div>
     </nav>
     {% if page.title == "Home" %}
-    <!-- Jumbotron -->
     <section class="jumbotron text-center parallax">
       <div></div>
       <div id="twitch-embed"></div>
@@ -68,7 +67,7 @@
       <div></div>
     </section>
     <script src="https://embed.twitch.tv/embed/v1.js"></script>
-    <script type="text/javascript">
+    <script>
       new Twitch.Embed("twitch-embed", {
         width: 1280,
         height: 720,
