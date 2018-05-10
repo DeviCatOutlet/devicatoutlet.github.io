@@ -24,7 +24,7 @@ div ul{
   background-attachment: fixed;
   background-position: 0% 0%;
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 100vw;
   height: 100%;
 }
 
