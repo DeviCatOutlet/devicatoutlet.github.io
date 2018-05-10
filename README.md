@@ -37,5 +37,4 @@ TODO:
 * Verify whether the current use of FontAwesome is violating Twitter's TOS.
 * Ensure that everything is HTML5 and CSS3 standards compliant.
   - https://validator.w3.org/nu/?doc=http%3A%2F%2Fdevicatoutlet.com%2F
-  - Only a few failures.
 * Get everything to work (or at least mostly-work) on mobile.
