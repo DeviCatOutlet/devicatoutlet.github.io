@@ -17,11 +17,9 @@
 
     <!-- Navigation -->
     <nav class="navbar-expand-md navbar-light">
-      <a class="navbar-brand" href="/">
-          <img src="img/mainbanner.png" alt="DeviCat">
-      </a>
+      <a href="/"><img src="img/mainbanner.png" alt="DeviCat"></a>
 
-      <div class="collapse navbar-collapse">
+      <div class="navbar-collapse">
         <ul class="navbar-nav ml-auto layout">
 	  {%- for dest in site.nav %}{%- for info in dest -%}
 	    {%- if info[1].first -%}
