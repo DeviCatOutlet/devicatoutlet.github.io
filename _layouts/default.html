@@ -94,7 +94,7 @@
 
 <div class="modal fade" id="imagemodal">
 	<div class="modal-dialog">
-		<img src="" class="imagepreview">
+		<img src="" id="imagepreview">
 		<div id="modal-caption"></div>
 	</div>
 </div>
@@ -130,7 +130,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
 <script>
     $('#gallery ~ p img').click(function() {
-        $('.imagepreview').attr('src', $(this).attr('src'));
+        $('#imagepreview').attr('src', $(this).attr('src'));
         //$('#modal-caption').text($(this).attr('alt')); //TODO: Style these up nicely and then enable them
         $('#imagemodal').modal('show');
     });
