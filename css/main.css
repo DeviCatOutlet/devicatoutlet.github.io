@@ -14,10 +14,6 @@ div ul{
   background-color: #7e21d4;
 }
 
-.navbar-brand>img {
-  height: 42px;
-}
-
 .ds {
   box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.15);
   background-color: rgba(248, 249, 250, 1) ;
@@ -244,4 +240,19 @@ html {overflow: overlay;}
 .show-modal #popup img {top: 0px; opacity: 1;}
 #popup > div {
 	margin: auto;
+}
+
+nav {
+	position: fixed;
+	top: 0; left: 0; right: 0;
+	z-index: 1030;
+	background-color: #f8f9fa;
+	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.15);
+	display: flex; flex-flow: row nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	padding: .5rem 1rem;
+}
+nav img {
+	height: 42px;
 }
