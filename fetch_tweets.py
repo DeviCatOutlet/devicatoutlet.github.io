@@ -51,5 +51,9 @@ for tweet in r.json():
 		new_grats += "* [%s %d%s, %d](https://twitter.com/DeviCatOutlet/status/%s)\n" % (
 			date.strftime("%B"), date.day, suffix, date.year, tweet["id_str"])
 
-with open("gratitudeboard.md", "w") as f:
-	f.write(grats_header + "Twitch Gratitude Board\n\n" + new_grats + "\n".join(grats_lines) + "\n")
+if new_grats:
+	with open("gratitudeboard.md", "w") as f:
+		f.write(grats_header + "Twitch Gratitude Board\n\n" + new_grats + "\n".join(grats_lines) + "\n")
+	print("Updated.")
+else:
+	print("No new tweets.")
