@@ -22,34 +22,31 @@
       <div class="navbar-collapse">
         <ul class="navbar-nav ml-auto layout">
 	  {%- for dest in site.nav %}{%- for info in dest -%}
-	    {%- if info[1].first -%}
-              {%- comment %} It's an array of subpages (eg Characters) {% endcomment -%}
+            {%- if info[1] -%}
               {%- assign name = info[0] -%}
+              {%- assign url = info[1] -%}
+            {%- else -%}
+              {%- assign name = dest -%}
+              {%- assign url = dest | downcase | replace: " ", "" -%}
+            {%- endif -%}
+	    {% assign active = "" %}{% assign current = "" %}
+            {%- if page.title == name %}{% assign active = " active" %}{% assign current = '<span class="sr-only">(current)</span>' %}{% endif %}
+            <li class="nav-item {{active}}">
+            {%- if info[1].first -%}
+              {%- comment %} It's an array of subpages (eg Characters) {% endcomment %}
 	      {%- assign url = name | downcase | replace: " ", "" %}
-              <li class="nav-item dropdown{% if page.title == name %} active{% endif %}">
-                <a class="nav-link dropdown-toggle" href="{{ url }}" id="dropdown-{{ url }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ name }}{% if page.title == name %}<span class="sr-only">(current)</span>{% endif %}</a>
+                <a class="nav-link dropdown-toggle" href="{{ url }}" id="dropdown-{{ url }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ name }}{{current}}</a>
                 <div class="dropdown-menu" aria-labelledby="dropdown-{{ url }}">
 		{%- for subdest in info[1] -%}
 		  {%- assign url = subdest | downcase | replace: " ", "" | replace: ",", "-" %}
                   <a href="{{ url }}">{{ subdest }}</a>
 		{%- endfor %}
                 </div>
-              </li>
 	    {%- else -%}
-              {%- comment %} It's a single page (maybe with a specified URL) {% endcomment -%}
-              {%- if info[1] -%}
-                {%- assign name = info[0] -%}
-                {%- assign url = info[1] -%}
-              {%- else -%}
-                {%- assign name = dest -%}
-                {%- assign url = dest | downcase | replace: " ", "" -%}
-              {%- endif -%}
-              {%- if page.title == name -%}{%- assign active = " active" -%}{% capture current %}<span class="sr-only">(current)</span>{% endcapture -%}
-              {%- else %}{% assign active = "" %}{% assign current = "" %}{% endif %}
-              <li class="nav-item{{ active }}">
+              {%- comment %} It's a single page (maybe with a specified URL) {% endcomment %}
                 <a class="nav-link" href="{{ url }}">{{ name }}{{ current }}</a>
-              </li>
-	    {%- endif -%}
+	    {%- endif %}
+            </li>
           {%- endfor %}{% endfor %}
         </ul>
       </div>
