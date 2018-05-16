@@ -35,8 +35,8 @@
             {%- if info[1].first -%}
               {%- comment %} It's an array of subpages (eg Characters) {% endcomment %}
 	      {%- assign url = name | downcase | replace: " ", "" %}
-              <a class="nav-link dropdown-toggle" href="{{ url }}" id="dropdown-{{ url }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ name }}{{current}}</a>
-              <div class="dropdown-menu" aria-labelledby="dropdown-{{ url }}">
+              <a class="nav-link nav-dropdown" href="{{ url }}" id="dropdown-{{ url }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ name }}{{current}}</a>
+              <div class="nav-submenu" aria-labelledby="dropdown-{{ url }}">
 	        {%- for subdest in info[1] -%}
 		  {%- assign url = subdest | downcase | replace: " ", "" | replace: ",", "-" %}
                   <a href="{{ url }}">{{ subdest }}</a>
@@ -113,9 +113,6 @@
         </div>
     
     </footer>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
 <script>
 document.querySelectorAll('#gallery ~ p img').forEach(img => img.onclick = function(ev) {
@@ -124,7 +121,16 @@ document.querySelectorAll('#gallery ~ p img').forEach(img => img.onclick = funct
 	document.documentElement.classList.add("show-modal");
 	ev.stopPropagation();
 });
-document.documentElement.onclick = function() {this.classList.remove("show-modal");}
+document.querySelectorAll('.nav-dropdown').forEach(a => a.onclick = function(ev) {
+	//Collapse other dropdowns, and toggle this one (so there's a max of one open at a time)
+	document.querySelectorAll('.nav-dropdown').forEach(a => a != this && a.setAttribute('aria-expanded', 'false'));
+	this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') != "true");
+	ev.stopPropagation(); ev.preventDefault();
+});
+document.documentElement.onclick = function() {
+	this.classList.remove("show-modal");
+	document.querySelectorAll('.nav-dropdown').forEach(a => a.setAttribute('aria-expanded', 'false'));
+}
 </script>
 </body>
 </html>

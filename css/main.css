@@ -262,3 +262,24 @@ nav img {
 	color: #212529;
 	white-space: nowrap;
 }
+
+.nav-dropdown:after {
+	content: "▼";
+	font-size: 0.75em;
+	margin-left: 0.25em;
+}
+.nav-submenu {display: none;}
+.nav-dropdown[aria-expanded="true"] ~ .nav-submenu {
+	display: flex;
+	position: absolute;
+	flex-direction: column;
+	padding: 0.5em;
+	margin: 0.125em;
+	background-color: #fff;
+	border: 1px solid black;
+	border-radius: 0.25em;
+}
+.nav-submenu a {
+	color: #212529;
+	margin: 0.25em 1em;
+}
