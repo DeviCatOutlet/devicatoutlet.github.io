@@ -70,3 +70,6 @@ This is a special event we do monthly for our live broadcasts in order to celebr
 
 Please note: Monthly giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x monthly giveaway in the same month.
+
+Privacy Policy for Giveaways:
+All personal information is for delivery for prize only.
