@@ -30,10 +30,7 @@ Heading usage:
 * No other heading levels are currently used.
 
 TODO:
-* Remove Bootstrap's JS. Currently used only for menu popdown.
-  - Can then also remove Popper, only present as a dep for Bootstrap.
 * Remove Bootstrap's CSS. Possibly only being used on the landing page.
-* Remove jQuery. Dependency of Bootstrap; not used elsewhere AFAIK.
 * Verify whether the current use of FontAwesome is violating Twitter's TOS.
 * Ensure that everything is HTML5 and CSS3 standards compliant.
   - https://validator.w3.org/nu/?doc=http%3A%2F%2Fdevicatoutlet.com%2F

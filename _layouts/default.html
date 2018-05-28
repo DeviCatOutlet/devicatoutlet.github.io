@@ -21,35 +21,32 @@
 
       <div class="navbar-collapse">
         <ul class="navbar-nav ml-auto layout">
-	  {%- for dest in site.nav %}{%- for info in dest -%}
-	    {%- if info[1].first -%}
-              {%- comment %} It's an array of subpages (eg Characters) {% endcomment -%}
+          {%- for dest in site.nav %}{%- for info in dest -%}
+            {%- if info[1] -%}
               {%- assign name = info[0] -%}
+              {%- assign url = info[1] -%}
+            {%- else -%}
+              {%- assign name = dest -%}
+              {%- assign url = dest | downcase | replace: " ", "" -%}
+            {%- endif -%}
+	    {% assign active = "" %}{% assign current = "" %}
+            {%- if page.title == name %}{% assign active = " active" %}{% assign current = '<span class="sr-only">(current)</span>' %}{% endif %}
+            <li class="nav-item {{active}}">
+            {%- if info[1].first -%}
+              {%- comment %} It's an array of subpages (eg Characters) {% endcomment %}
 	      {%- assign url = name | downcase | replace: " ", "" %}
-              <li class="nav-item dropdown{% if page.title == name %} active{% endif %}">
-                <a class="nav-link dropdown-toggle" href="{{ url }}" id="dropdown-{{ url }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ name }}{% if page.title == name %}<span class="sr-only">(current)</span>{% endif %}</a>
-                <div class="dropdown-menu" aria-labelledby="dropdown-{{ url }}">
-		{%- for subdest in info[1] -%}
+              <a class="nav-link nav-dropdown" href="{{ url }}" id="dropdown-{{ url }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ name }}{{current}}</a>
+              <div class="nav-submenu" aria-labelledby="dropdown-{{ url }}">
+	        {%- for subdest in info[1] -%}
 		  {%- assign url = subdest | downcase | replace: " ", "" | replace: ",", "-" %}
                   <a href="{{ url }}">{{ subdest }}</a>
-		{%- endfor %}
-                </div>
-              </li>
-	    {%- else -%}
-              {%- comment %} It's a single page (maybe with a specified URL) {% endcomment -%}
-              {%- if info[1] -%}
-                {%- assign name = info[0] -%}
-                {%- assign url = info[1] -%}
-              {%- else -%}
-                {%- assign name = dest -%}
-                {%- assign url = dest | downcase | replace: " ", "" -%}
-              {%- endif -%}
-              {%- if page.title == name -%}{%- assign active = " active" -%}{% capture current %}<span class="sr-only">(current)</span>{% endcapture -%}
-              {%- else %}{% assign active = "" %}{% assign current = "" %}{% endif %}
-              <li class="nav-item{{ active }}">
-                <a class="nav-link" href="{{ url }}">{{ name }}{{ current }}</a>
-              </li>
-	    {%- endif -%}
+	        {%- endfor %}
+              </div>
+            {%- else -%}
+              {%- comment %} It's a single page (maybe with a specified URL) {% endcomment %}
+              <a class="nav-link" href="{{ url }}">{{ name }}{{ current }}</a>
+            {%- endif %}
+            </li>
           {%- endfor %}{% endfor %}
         </ul>
       </div>
@@ -111,14 +108,11 @@
         </div>
         <div class="container">
             <div class="row justify-content-center">
-                    <p>	&copy; DeviCat Outlet 2018 </p>
+                    <p> &copy; DeviCat Outlet 2018 </p>
             </div>
         </div>
     
     </footer>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
 <script>
 document.querySelectorAll('#gallery ~ p img').forEach(img => img.onclick = function(ev) {
@@ -127,7 +121,16 @@ document.querySelectorAll('#gallery ~ p img').forEach(img => img.onclick = funct
 	document.documentElement.classList.add("show-modal");
 	ev.stopPropagation();
 });
-document.documentElement.onclick = function() {this.classList.remove("show-modal");}
+document.querySelectorAll('.nav-dropdown').forEach(a => a.onclick = function(ev) {
+	//Collapse other dropdowns, and toggle this one (so there's a max of one open at a time)
+	document.querySelectorAll('.nav-dropdown').forEach(a => a != this && a.setAttribute('aria-expanded', 'false'));
+	this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') != "true");
+	ev.stopPropagation(); ev.preventDefault();
+});
+document.documentElement.onclick = function() {
+	this.classList.remove("show-modal");
+	document.querySelectorAll('.nav-dropdown').forEach(a => a.setAttribute('aria-expanded', 'false'));
+}
 </script>
 </body>
 </html>
