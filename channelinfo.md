@@ -49,7 +49,7 @@ of tickets per person is 2500.
 
 Current prize bundle includes:
 
-* Next cake prize bundle scheduled for: May 30th at 6:30pm EST
+* Next cake prize bundle scheduled for: June 28th at 6:30pm EST
 * 1x handwritten thank you letter
 * 1x surprise sticker
 * 2x Devi branded pin back buttons
@@ -57,19 +57,3 @@ Current prize bundle includes:
 Please note: Bundle giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x bundle giveaway in the same month.
 
-
-## Super Prize Giveaway
-
-This is a special event we do monthly for our live broadcasts in order to celebrate our Twitch Partnership monthiversary.
-
-* Next monthly giveaway scheduled for: May 26th, 27th, 28th at 6:30pm EST each of the three days.
-* Prize winner chooses either: 1x Unisex Tshirt / 1x Small Poster / 10x Small Stickers / OR 1x Small Photographic Art Print.
-* Equal chance for everyone, just do "!ticket" when giveaway opens!
-
-[See our shop here.](https://www.redbubble.com/people/devicatoutlet/shop/)
-
-Please note: Monthly giveaways are capped to 1x winner per month. As in, everyone
-is allowed to win up to 1x monthly giveaway in the same month.
-
-Privacy Policy for Giveaways:
-All personal information is for delivery for prize only and for emailing confirmation of the prize to the prize recipient.
