@@ -15,37 +15,42 @@ with open(sys.argv[1]) as f:
 	giveaways = list(csv.DictReader(f, fieldnames=fieldnames))[1:]
 
 commands = []
-def make(kwd, tag, next, message):
-	commands.append({
-		# All commands have these settings: enabled, mod-only, and invisible in DeepBot's web page.
-		"status": True, "accessLevel": 8, "hideFromCmdList": True,
-		"command": "!" + kwd + tag, "message": message,
-		"CommandChaningCmdName": next and ("!" + kwd + next), # Trigger command "chaning" [sic]
-	})
-	print(message)
+def make(cmd, *messages):
+	messages = [m for m in messages if m]
+	print(cmd)
+	for pos, msg in enumerate(messages):
+		last = (pos == len(messages) - 1)
+		commands.append({
+			# All commands have these settings: enabled, mod-only, and invisible in DeepBot's web page.
+			"status": True, "accessLevel": 8, "hideFromCmdList": True,
+			"command": "%s%d" % (cmd, pos) if pos else cmd, "message": msg,
+			"CommandChaningCmdName": "" if last else "%s%d" % (cmd, pos+1), # Trigger command "chaning" [sic]
+		})
+		print(msg)
+		if len(msg) > 400:
+			print("** Message exceeds 400 characters, probably won't work **", file=sys.stderr)
+			sys.exit(1)
 
 for info in giveaways:
 	# Unless overridden, the keyword is the giver's username.
 	# Should we strip out hyphens and underscores?
 	kwd = info["keyword"] or info["username"].lower()
-	print("\n!" + kwd)
 	sparkles = "\u2728 %s \u2728" % info["username"]
 	# There are potentially two social media links, but either or both could be absent.
 	if info["social1"] and info["social2"]:
 		social = info["social1"] + " | " + info["social2"]
 	else:
 		social = info["social1"] or info["social2"] # or ""
-	# First command is !keyword and has the main details.
-	make(kwd, "", "ref", "%s %s! %s Wait for the raffle to begin and do a !ticket command to join!" % (
-			sparkles, info["title"], info["description"]))
-	make(kwd, "ref", "bio", "%s Giveaway reference: %s" % (sparkles, info["reference"]))
-	# Second command is the biography. No chaining if no social.
-	make(kwd, "bio", social and "social", sparkles + " " + info["bio"])
-	# Finally, the social media link(s), if any.
-	if social: make(kwd, "social", "", sparkles + " " + social)
-	print("!" + kwd + "win")
-	make(kwd, "win", "", "/w @target@ Congratulations! You won username's %s! To claim your gift, send a message to %s" % (
+	# First command is !keyword and has the main details. It chains.
+	make("!" + kwd, "%s %s! %s Wait for the raffle to begin and do a !ticket command to join!" % (
+			sparkles, info["title"], info["description"]),
+		sparkles + " Giveaway reference: " + info["reference"],
+		sparkles + " " + info["bio"],
+		social and sparkles + " " + social,
+	)
+	make("!%swin" % kwd, "/w @target@ Congratulations! You won username's %s! To claim your gift, send a message to %s" % (
 		info["title"], info["email"]))
+	print()
 
 import json
 with open("giveaways.json", "w") as fp:
