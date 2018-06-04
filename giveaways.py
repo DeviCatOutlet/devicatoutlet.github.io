@@ -1,6 +1,7 @@
 # Parse a CSV export of the giveaway spreadsheet and construct an import file
 # for CutieCakeBot (DeepBot). Nothing to do with the web site, technically.
 import csv
+import json
 import sys
 
 if len(sys.argv) < 2:
@@ -31,6 +32,8 @@ def make(cmd, *messages):
 			print("** Message exceeds 400 characters, probably won't work **", file=sys.stderr)
 			sys.exit(1)
 
+modinfo = []
+
 for info in giveaways:
 	# Unless overridden, the keyword is the giver's username.
 	# Should we strip out hyphens and underscores?
@@ -59,11 +62,15 @@ for info in giveaways:
 		social and sparkles + " " + social,
 	)
 	# Then we have the "!keywordwin" command for the mods to tag the winner with.
-	make("!%swin" % kwd, "/w @target@ Congratulations! You won username's %s! To claim your gift, send a message to %s" % (
-		info["title"], info["email"]))
+	win = "/w @target@ Congratulations! You won username's %s! To claim your gift, send a message to %s" % (
+		info["title"], info["email"])
+	make("!%swin" % kwd, win)
 	print()
 
-import json
+	modinfo.append([info["username"], info["title"], "!" + kwd, "!%swin" % kwd, win])
+
 with open("giveaways.json", "w") as fp:
 	json.dump(commands, fp=fp, indent=4)
+with open("giveaways.csv", "w") as fp:
+	csv.writer(fp).writerows(modinfo)
 print("%d commands created." % len(commands))
