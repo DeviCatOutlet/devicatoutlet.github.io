@@ -57,3 +57,4 @@ Current prize bundle includes:
 Please note: Bundle giveaways are capped to 1x winner per month. As in, everyone
 is allowed to win up to 1x bundle giveaway in the same month.
 
+Privacy note: Information received from giveaway winners is specifically for sending out their gift and nothing more.
