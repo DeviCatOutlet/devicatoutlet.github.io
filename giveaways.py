@@ -42,6 +42,9 @@ for info in giveaways:
 	make(kwd, "bio", social and "social", sparkles + " " + info["bio"])
 	# Finally, the social media link(s), if any.
 	if social: make(kwd, "social", "", sparkles + " " + social)
+	print("!" + kwd + "win")
+	make(kwd, "win", "", "/w @target@ Congratulations! You won username's %s! To claim your gift, send a message to %s" % (
+		info["title"], info["email"]))
 
 import json
 with open("giveaways.json", "w") as fp:
