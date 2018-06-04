@@ -41,13 +41,24 @@ for info in giveaways:
 		social = info["social1"] + " | " + info["social2"]
 	else:
 		social = info["social1"] or info["social2"] # or ""
+	# Shipping isn't needed for everything. If it is, there may be restrictions.
+	if info["need_shipping"] == "Yes":
+		shipping = sparkles + " NOTE: This is a physical item; you will need to provide a shipping address."
+		if "International" in info["destinations"]:
+			shipping += " Can be shipped anywhere in the world!"
+		else:
+			shipping += " Ships to " + info["destinations"].replace(", ", " and ") + " only."
+	else:
+		shipping = ""
 	# First command is !keyword and has the main details. It chains.
 	make("!" + kwd, "%s %s! %s Wait for the raffle to begin and do a !ticket command to join!" % (
 			sparkles, info["title"], info["description"]),
 		sparkles + " Giveaway reference: " + info["reference"],
+		shipping,
 		sparkles + " " + info["bio"],
 		social and sparkles + " " + social,
 	)
+	# Then we have the "!keywordwin" command for the mods to tag the winner with.
 	make("!%swin" % kwd, "/w @target@ Congratulations! You won username's %s! To claim your gift, send a message to %s" % (
 		info["title"], info["email"]))
 	print()
