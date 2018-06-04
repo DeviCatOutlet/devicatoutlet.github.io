@@ -36,8 +36,9 @@ for info in giveaways:
 	else:
 		social = info["social1"] or info["social2"] # or ""
 	# First command is !keyword and has the main details.
-	make(kwd, "", "bio", "%s %s! %s Wait for the raffle to begin and do a !ticket command to join!" % (
+	make(kwd, "", "ref", "%s %s! %s Wait for the raffle to begin and do a !ticket command to join!" % (
 			sparkles, info["title"], info["description"]))
+	make(kwd, "ref", "bio", "%s Giveaway reference: %s" % (sparkles, info["reference"]))
 	# Second command is the biography. No chaining if no social.
 	make(kwd, "bio", social and "social", sparkles + " " + info["bio"])
 	# Finally, the social media link(s), if any.
