@@ -27,6 +27,8 @@ Momoko.
 
 ### Shizuko to date:
 
+![Shizuko Mermaid 2018](img/ShizukoMermaid2018.png)
+
 ![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
 
 ![Shizuko Winter Sprite 2018](img/ShizukoWinterSprite2018.png)

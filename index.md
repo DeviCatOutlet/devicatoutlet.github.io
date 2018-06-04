@@ -1,6 +1,6 @@
 # Home
 
-* [![Gallery](img/momoko_preview.png)](gallery)
+* [![Gallery](img/ShizukoMermaid2018.png)](gallery)
 
   #### Gallery
 
@@ -8,7 +8,7 @@
 
   [Click Here](gallery){: .btn}
 
-* [![Characters](img/character_preview.png)](characters)
+* [![Characters](img/ccb_lolita_twins_2018.png)](characters)
 
   #### Characters
 
@@ -16,7 +16,7 @@
 
   [Click Here](characters){: .btn}
 
-* [![Goals](img/goals_preview.png)](goals)
+* [![Goals](img/devicat_donut_girl 2018.png)](goals)
 
   #### Goals
 
@@ -24,7 +24,7 @@
 
   [Click Here](goals){: .btn}
 
-* [![Shop](img/shop_preview.png)](https://www.redbubble.com/people/devicatoutlet/shop/)
+* [![Shop](img/artshop_panel.png)](https://www.redbubble.com/people/devicatoutlet/shop/)
 
   #### Shop
 

@@ -1,6 +1,7 @@
 # Gallery
 
 
+![Shizuko Mermaid 2018](img/ShizukoMermaid2018.png)
 ![DeviCat Donut Girl](img/devicat_donut_girl 2018.png)
 ![Earth Kitsune](img/earthkitsune2018.png)
 ![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
@@ -15,5 +16,4 @@
 ![Momoko](img/momoko.png)
 ![Maika](img/maika.png)
 ![Dapper Cat](img/dappercat.png)
-![Hallway Raptor](img/hallwayraptor.png)
 {: .wrap}
