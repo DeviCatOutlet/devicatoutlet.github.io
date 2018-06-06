@@ -5,9 +5,7 @@ import json
 import sys
 
 if len(sys.argv) < 2:
-	print("Provide a CSV file to parse, please! You may be able to do this by")
-	print("dragging and dropping the file onto me.")
-	sys.exit(1)
+	sys.argv += [r"C:\Users\DeviCat\Desktop\Streaming Work Files\Work Note Pads\Twitch Partner Anni App.csv"]
 
 # Override the columns so we get actual keywords
 # This needs to correspond, column by column, to the spreadsheet Google Forms creates.
