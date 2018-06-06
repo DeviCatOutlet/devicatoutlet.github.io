@@ -61,8 +61,8 @@ for info in giveaways:
 		social and sparkles + " " + social,
 	)
 	# Then we have the "!keywordwin" command for the mods to tag the winner with.
-	win = "/w @target@ Congratulations! You won username's %s! To claim your gift, send a message to %s" % (
-		info["title"], info["email"])
+	win = "/w @target@ Congratulations! You won %s's %s! To claim your gift, send a message to %s" % (
+		info["username"], info["title"], info["email"])
 	make("!%swin" % kwd, win)
 	print()
 
