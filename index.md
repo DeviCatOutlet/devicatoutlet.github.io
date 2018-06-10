@@ -4,7 +4,7 @@
 
   #### Gallery
 
-  click here to view all of my illustrations!
+  Click here to view all of my illustrations!
 
   [Click Here](gallery){: .btn}
 
