@@ -9,7 +9,7 @@ characters is welcomed and encouraged. Should you wish to do anything
 more, please contact DeviCat at devicatoutlet@gmail.com for further
 inquiries / negotiations. You’re also welcome to submit fanart in our
 discord channel [here](https://discordapp.com/invite/devicat), called
-#devicat-fanart (under “Sharing”).
+#fanart_of_devicat_twitch (under “Sharing & Discussion”).
 
 * [Momoko (CutieCakeBot)](momoko)
 * [Shizuko (Shiny CutieCakeBot)](shizuko)
