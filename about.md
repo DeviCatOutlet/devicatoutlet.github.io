@@ -30,9 +30,9 @@
   * **Interested In:** Being able to help inspire and change the lives of those that I come in contact with.
   * **♡Married to:♡** [HallwayRaptor](https://www.twitter.com/HallwayRaptor)
   * **Favorite Hobby:** Nature Walking
-  * **Favorite Games:** Atelier Series / Animal Crossing / Visual Novels
+  * **Favorite Games:** Atelier Series / Visual Novels
   * **Favorite Drink:** Coffee
-  * **Favorite Anime:** A-Channel / K-ON! / CardCaptor Sakura / Kiniro Mosaic / Flying Witch / Konohana Kitan / Slow Start
+  * **Favorite Anime:** A-Channel / K-ON! / CardCaptor Sakura / Kiniro Mosaic / Flying Witch / Konohana Kitan / Natsume's Book of Friends
   * **Awards / Accomplishments:**
     - Animaritime Art Contest 2017, 1st Place.
     - Charity Stream: Create for Kids 2017 (Raised over $600 USD)
