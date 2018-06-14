@@ -1,6 +1,7 @@
 # Gallery
 
 
+![Goddess Madoka 2018](img/goddessmadoka2018.png)
 ![Shizuko Mermaid 2018](img/ShizukoMermaid2018.png)
 ![DeviCat Donut Girl](img/devicat_donut_girl 2018.png)
 ![Earth Kitsune](img/earthkitsune2018.png)
@@ -15,5 +16,4 @@
 ![DeviCat](img/devicatcoffee.png)
 ![Momoko](img/momoko.png)
 ![Maika](img/maika.png)
-![Dapper Cat](img/dappercat.png)
 {: .wrap}
