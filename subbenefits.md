@@ -13,6 +13,6 @@
 | *![💌](https://s.w.org/images/core/emoji/2.2.1/svg/1f48c.svg)* | $24.99 Tier 3: prestige Tier 3 sub emote, & optional thank you package. Read below for details. (Also gifts 6 subscriber points to the channel.)
 
 <br>
-<small>Note: Starting in June 20th, 2018, every time you sub / resub / gift as a Tier 3 during a live stream, the Tier 3 sub will receive a whisper from CutieCakeBot to claim their thank you gift! They'll have until the 5th of the next month to fill out their claim form. </small>
+<small>Note: Starting in June 20th, 2018, every time you sub / resub / gift as a Tier 3 during a live stream, the Tier 3 sub will receive a whisper from CutieCakeBot to claim their thank you gift! They'll have until the 5th of the next month to fill out their claim form. Thank you gift includes a handwritten greeting card, sticker and business card from DeviCat herself! </small>
 
 
