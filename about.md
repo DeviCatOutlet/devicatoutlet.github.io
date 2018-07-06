@@ -30,7 +30,7 @@
   * **Interested In:** Being able to help inspire and change the lives of those that I come in contact with.
   * **♡Married to:♡** [HallwayRaptor](https://www.twitter.com/HallwayRaptor)
   * **Favorite Hobby:** Nature Walking
-  * **Favorite Games:** Atelier Series / Visual Novels
+  * **Favorite Games:** Visual Novels
   * **Favorite Drink:** Coffee
   * **Favorite Anime:** A-Channel / K-ON! / CardCaptor Sakura / Kiniro Mosaic / Flying Witch / Konohana Kitan / Natsume's Book of Friends
   * **Awards / Accomplishments:**
@@ -44,11 +44,9 @@
 
 * ## Our Symbol
 
-  The rainbow and the wings / antlers are the representation of: *The freedom
-  and wisdom to accept everyone and the freedom and wisdom to be accepted by
-  everyone.* It is what we stand for and hope to inspire in others.
+  *“I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them." - DeviCat* 
 
-* ![](img/devicatloveemote.png)
+* ![](img/TakeRootDream_icon.png)
 
 ---
 
