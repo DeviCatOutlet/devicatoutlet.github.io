@@ -4,6 +4,11 @@
 
 ## Patreon Gratitude Board
 
+
+
+* [July, 2018](https://www.patreon.com/posts/gratitude-board-19922807)
+* [June, 2018](https://www.patreon.com/posts/gratitude-board-19285323)
+* [May, 2018](https://www.patreon.com/posts/gratitude-board-18658569)
 * [April, 2018](https://www.patreon.com/posts/gratitude-board-18034998/)
 * [March, 2018](https://www.patreon.com/posts/gratitude-board-17375670/)
 * [February, 2018](https://www.patreon.com/posts/gratitude-board-16839273/)
