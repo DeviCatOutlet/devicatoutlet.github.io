@@ -1,8 +1,7 @@
 # Goals
 ## Personal Goals / Milestones
 ### Art
-* Looking for: Art Contests / Events to participate in.
-* Animaritime Art Contest - 2018
+* Tattoo to represent personal milestone over the past few years of being a content creator. Looking to have this done either when we reach 1000 sub points on Twitch or when we are debt free (whichever comes first.)
 
 ### Twitch Goals
 * 800 Sub Points: 1 New Emote.
