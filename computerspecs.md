@@ -34,5 +34,5 @@
 * DeepBot
 * StreamLabs
 * Muxy
-* OBS Studio
+* StreamLabs OBS
 * StreamElements
