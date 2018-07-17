@@ -20,7 +20,6 @@
 * [July 15th, 2018](https://twitter.com/DeviCatOutlet/status/1018312135468871680)
 * [July 13th, 2018](https://twitter.com/DeviCatOutlet/status/1017588123566596097)
 * [July 12th, 2018](https://twitter.com/DeviCatOutlet/status/1017223071374151680)
-* [July 7th, 2018](https://twitter.com/DeviCatOutlet/status/1015618306672353280)
 * [July 6th, 2018](https://twitter.com/DeviCatOutlet/status/1015044474467180545)
 * [July 5th, 2018](https://twitter.com/DeviCatOutlet/status/1014677888510111744)
 * [July 3rd, 2018](https://twitter.com/DeviCatOutlet/status/1013956052205953029)
