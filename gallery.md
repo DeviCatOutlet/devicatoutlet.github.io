@@ -1,6 +1,7 @@
 # Gallery
 
 
+![Abigail and Junimo](img/SDV_Abigail_n_Junimo_2018.png)
 ![Reiko Forest Fauna](img/Reiko_Forest_Fauna_2018.png)
 ![Goddess Madoka 2018](img/goddessmadoka2018.png)
 ![Shizuko Mermaid 2018](img/ShizukoMermaid2018.png)
@@ -14,6 +15,5 @@
 ![Reiko CloverGirl 2018](img/Reiko_CloverGirl_2018.png)
 ![BerriChan 2018](img/berrichan_2018.png)
 ![Shizuko Winter Sprite 2018](img/ShizukoWinterSprite2018.png)
-![DeviCat](img/devicatcoffee.png)
 ![Maika](img/maika.png)
 {: .wrap}
