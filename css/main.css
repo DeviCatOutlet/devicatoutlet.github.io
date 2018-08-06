@@ -156,11 +156,6 @@ em img {
 	margin: 0 auto;
 }
 
-#twitch-embed iframe {
-	width: 768px;
-	height: 432px;
-}
-
 ul.cards {
 	display: flex;
 	flex-wrap: wrap;
