@@ -28,10 +28,6 @@ div ul{
   height: 100%;
 }
 
-/* TODO: Style this up so it makes the nice centered box without needing
-pixel-width measurements and media queries. Setting it position:absolute
-and setting left and right to pixel widths works beautifully, except for
-the fact that the footer doesn't end up underneath. */
 main {
   background-color: #ffffff;
   border-radius: 5px;
@@ -39,12 +35,9 @@ main {
   padding: 20px 15px;
   margin-top: 40px;
   margin-left: auto; margin-right: auto;
-  width: 100%;
+  width: calc(100% - 90px);
+  max-width: 1140px; min-width: 400px;
 }
-@media (min-width: 576px) {main {max-width: 540px;}} /* 36px min margin */
-@media (min-width: 768px) {main {max-width: 720px;}} /* 48px */
-@media (min-width: 992px) {main {max-width: 940px;}} /* 52px */
-@media (min-width: 1200px) {main {max-width: 1140px;}} /* 60px */
 
 .top-buffer {
   padding-top: 20px;
