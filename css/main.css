@@ -29,8 +29,9 @@ div ul{
 }
 
 /* TODO: Style this up so it makes the nice centered box without needing
-class="container" and the associated pixel-width measurements and media
-queries. Make it properly mobile-friendly at the same time! */
+pixel-width measurements and media queries. Setting it position:absolute
+and setting left and right to pixel widths works beautifully, except for
+the fact that the footer doesn't end up underneath. */
 main {
   background-color: #ffffff;
   border-radius: 5px;
