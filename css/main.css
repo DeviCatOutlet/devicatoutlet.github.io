@@ -44,11 +44,11 @@ main {
 }
 
 footer {
-  display: block;
   text-align: center;
   margin-top: 100px;
   background: #E3E3E3;
   padding: 12px;
+  color: #868e96;
 }
 
 ul.layout li {
