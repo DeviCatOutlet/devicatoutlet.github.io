@@ -55,22 +55,13 @@
     <section class="jumbotron text-center parallax">
       <h2 class="sr-only">Embedded Twitch stream</h2>
       <div></div>
-      <div id="twitch-embed"></div>
+      <div><iframe src="https://embed.twitch.tv?channel=devicat&amp;layout=video" allowfullscreen="" scrolling="no" frameborder="0" allow="autoplay; fullscreen" width="768" height="432"></iframe></div>
       <div>
         <a href="https://www.patreon.com/devicatoutlet"><img src="img/patreon.png" alt="Become a Patron"></a><br>
         <a href="https://discord.gg/devicat"><img src="img/discord.png" alt="Join the discussion"></a>
       </div>
       <div></div>
     </section>
-    <script src="https://embed.twitch.tv/embed/v1.js"></script>
-    <script>
-      new Twitch.Embed("twitch-embed", {
-        width: 768,
-        height: 432,
-        channel: "devicat",
-        layout: "video",
-      });
-    </script>
     {% endif %}
 
   <main class="container">
