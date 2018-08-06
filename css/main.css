@@ -37,7 +37,13 @@ main {
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.15);
   padding: 20px 15px;
   margin-top: 40px;
+  margin-left: auto; margin-right: auto;
+  width: 100%;
 }
+@media (min-width: 576px) {main {max-width: 540px;}} /* 36px min margin */
+@media (min-width: 768px) {main {max-width: 720px;}} /* 48px */
+@media (min-width: 992px) {main {max-width: 960px;}} /* 32px */
+@media (min-width: 1200px) {main {max-width: 1140px;}} /* 60px */
 
 .top-buffer {
   padding-top: 20px;
