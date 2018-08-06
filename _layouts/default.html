@@ -20,7 +20,7 @@
       <a href="/"><img src="img/mainbanner.png" alt="DeviCat"></a>
 
       <div class="navbar-collapse">
-        <ul class="navbar-nav ml-auto layout">
+        <ul class="navbar-nav ml-auto">
           {%- for dest in site.nav %}{%- for info in dest -%}
             {%- if info[1] -%}
               {%- assign name = info[0] -%}
@@ -77,7 +77,7 @@
       {% if page.Character %}
       <h1>{{ page.Character }}</h1>
       {% if page.Subtitle %}<h1>({{ page.Subtitle }})</h1>{% endif %}
-      <ul class="char-info layout">
+      <ul class="layout">
       {% for info in page.Info %}<li><strong>{{ info[0] }}:</strong> {{ info[1] }}</li>{% endfor %}
       </ul>
       {% endif %}
