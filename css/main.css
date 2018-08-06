@@ -43,7 +43,7 @@ main {
 }
 @media (min-width: 576px) {main {max-width: 540px;}} /* 36px min margin */
 @media (min-width: 768px) {main {max-width: 720px;}} /* 48px */
-@media (min-width: 992px) {main {max-width: 960px;}} /* 32px */
+@media (min-width: 992px) {main {max-width: 940px;}} /* 52px */
 @media (min-width: 1200px) {main {max-width: 1140px;}} /* 60px */
 
 .top-buffer {
