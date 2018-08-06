@@ -35,3 +35,7 @@ TODO:
 * Ensure that everything is (remains) HTML5 and CSS3 standards compliant.
   - https://validator.w3.org/nu/?doc=http%3A%2F%2Fdevicatoutlet.com%2F
 * Get everything to work (or at least mostly-work) on mobile.
+* A11y compliance:
+  - Colour contrast on the nav bar may be insufficient for those with poor vision.
+  - Colour contrast on links, ditto
+  - Colour contrast on footer copyright, ditto
