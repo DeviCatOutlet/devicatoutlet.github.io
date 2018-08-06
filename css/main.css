@@ -28,7 +28,7 @@ div ul{
   height: 100%;
 }
 
-.raised {
+main {
   background-color: #ffffff;
   border-radius: 5px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.15);
