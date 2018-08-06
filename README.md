@@ -39,3 +39,4 @@ TODO:
   - Colour contrast on the nav bar may be insufficient for those with poor vision.
   - Colour contrast on links, ditto
   - Colour contrast on footer copyright, ditto
+  - Jumping from H1 to H3 is not recommended. Would be a pain to fix perfectly though.

@@ -28,6 +28,9 @@ div ul{
   height: 100%;
 }
 
+/* TODO: Style this up so it makes the nice centered box without needing
+class="container" and the associated pixel-width measurements and media
+queries. Make it properly mobile-friendly at the same time! */
 main {
   background-color: #ffffff;
   border-radius: 5px;
