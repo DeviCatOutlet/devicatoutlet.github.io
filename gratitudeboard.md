@@ -16,6 +16,9 @@
 
 ## Twitch Gratitude Board
 
+* [August 7th, 2018](https://twitter.com/DeviCatOutlet/status/1026642953136164866)
+* [August 6th, 2018](https://twitter.com/DeviCatOutlet/status/1026277461967941632)
+* [August 5th, 2018](https://twitter.com/DeviCatOutlet/status/1025917035405082624)
 * [August 3rd, 2018](https://twitter.com/DeviCatOutlet/status/1025189971114766336)
 * [August 2nd, 2018](https://twitter.com/DeviCatOutlet/status/1024827329997099008)
 * [July 31th, 2018](https://twitter.com/DeviCatOutlet/status/1024108963917451265)
