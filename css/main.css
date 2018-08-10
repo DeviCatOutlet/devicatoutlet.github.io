@@ -254,7 +254,7 @@ nav {
 nav input {
 	/* The magical checkbox */
 	position: absolute;
-	width: 40px; height: 32px;
+	width: 43px; height: 37px;
 	display: none;
 	opacity: 0;
 }
@@ -268,7 +268,7 @@ nav input {
 }
 nav input:checked ~ * {display: block}
 nav img {
-	height: 42px;
+	width: 77px;
 }
 nav a {
 	/* TODO: Improve color contrast (insufficient for a11y compliance) */
@@ -289,9 +289,12 @@ logo will do the same. TODO: Do we even need a Home link in the nav? */
 	nav input, #raptor_button {
 		display: block;
 		cursor: pointer;
+		padding: 5px;
 	}
 	nav > .keep {
 		display: block;
+		position: absolute;
+		left: calc(50% - 77px / 2);
 	}
 	nav > a, nav > .nav-menucontainer {
 		display: none;
