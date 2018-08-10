@@ -103,9 +103,12 @@ document.querySelectorAll('.nav-dropdown').forEach(a => a.onclick = function(ev)
 	this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') != "true");
 	ev.stopPropagation(); ev.preventDefault();
 });
-document.documentElement.onclick = function() {
+document.documentElement.onclick = function(ev) {
 	this.classList.remove("show-modal");
 	document.querySelectorAll('.nav-dropdown').forEach(a => a.setAttribute('aria-expanded', 'false'));
+	//Also collapse the Raptor menu (applicable only on narrow screens)
+	const cb = document.querySelector("nav input");
+	if (ev.target != cb) cb.checked = false;
 }
 </script>
 </body>
