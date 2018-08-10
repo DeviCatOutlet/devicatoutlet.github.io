@@ -277,10 +277,6 @@ nav a {
 nav > a, nav > .nav-menucontainer {
 	padding: .5rem;
 }
-/* On smallish screens, hide the "Home" link, since clicking on the main
-logo will do the same. TODO: Do we even need a Home link in the nav? */
-@media (max-width: 860px) {nav a[href="/"]:not(.keep) {display: none;}}
-
 /* Below 725px of width, collapse to Raptor Mode */
 @media (max-width: 725px)
 {
