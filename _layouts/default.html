@@ -16,8 +16,11 @@
   <body class="{{ page.category | default: "devi" }}-cat">
 
     <!-- Navigation -->
+    <!-- Hamburger menu styling and technique inspired by https://codepen.io/erikterwan/pen/EVzeRP by Erik Terwan and made available under the terms of the MIT license -->
     <nav>
-      <a href="/"><img src="img/mainbanner.png" alt="DeviCat"></a>
+      <input type=checkbox>
+      <div id=raptor_button><div></div><div></div><div></div></div>
+      <a class=keep href="/"><img src="img/mainbanner.png" alt="DeviCat"></a>
       <div style="flex-grow: 1"></div>
           {%- for dest in site.nav %}{%- for info in dest -%}
             {%- if info[1] -%}
@@ -32,7 +35,7 @@
             {%- if info[1].first -%}
               {%- comment %} It's an array of subpages (eg Characters) {% endcomment %}
 	      {%- assign url = name | downcase | replace: " ", "" %}
-	      <div>
+	      <div class="nav-menucontainer">
               <a class="nav-dropdown {{active}}" href="{{ url }}" id="dropdown-{{ url }}" role="button" aria-haspopup="true" aria-expanded="false">{{ name }}{{current}}</a>
               <div class="nav-submenu" aria-labelledby="dropdown-{{ url }}">
 	        {%- for subdest in info[1] -%}
