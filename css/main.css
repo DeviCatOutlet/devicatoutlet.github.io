@@ -290,6 +290,7 @@ logo will do the same. TODO: Do we even need a Home link in the nav? */
 		display: block;
 		cursor: pointer;
 		padding: 5px;
+		margin-top: 12px;
 	}
 	nav > .keep {
 		display: block;
