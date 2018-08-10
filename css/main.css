@@ -11,15 +11,6 @@ div ul{
 	padding: 10px;
 }
 
-.bg-purple {
-  background-color: #7e21d4;
-}
-
-.ds {
-  box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.15);
-  background-color: rgba(248, 249, 250, 1) ;
-}
-
 .parallax { 
   background-image: url("../img/TakeRootAndDreamBanner.png");
   background-attachment: fixed;
@@ -172,18 +163,6 @@ ul.cards li {
 	border-radius: .25rem;
 	margin: 10px;
 	text-align: center;
-}
-a.btn {
-	/* "Click Here" buttons on the home page */
-	display: inline-block;
-	font-weight: bold;
-	text-align: center;
-	padding: .375rem .75rem;
-	line-height: 1.5;
-	border: 1px solid transparent;
-	border-radius: .25rem;
-	color: white;
-	background-color: #00d1c5;
 }
 
 #contact ~ p a {
