@@ -247,7 +247,6 @@ nav {
 	background-color: #f8f9fa;
 	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.15);
 	display: flex; flex-flow: row nowrap;
-	justify-content: flex-start;
 	align-items: center;
 	padding: .5rem 1rem;
 }
