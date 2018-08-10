@@ -35,8 +35,7 @@ TODO:
 * Ensure that everything is (remains) HTML5 and CSS3 standards compliant.
   - https://validator.w3.org/nu/?doc=http%3A%2F%2Fdevicatoutlet.com%2F
 * Get everything to work (or at least mostly-work) on mobile.
-  - The nav bar should probably go into a hamburger menu. (!burger FTW)
-  - On narrow displays, some images exceed their available width.
+  - Biggest issues are now solved.
   - TODO: Get someone with a phone to try the site and give feedback.
 * A11y compliance:
   - Jumping from H1 to H3 is not recommended. Would be a pain to fix perfectly though.
