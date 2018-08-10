@@ -273,6 +273,8 @@ nav img {
 nav a {
 	/* TODO: Improve color contrast (insufficient for a11y compliance) */
 	color: rgba(0,0,0,.5);
+}
+nav > a, nav > .nav-menucontainer {
 	padding: .5rem;
 }
 /* On smallish screens, hide the "Home" link, since clicking on the main
@@ -290,7 +292,7 @@ logo will do the same. TODO: Do we even need a Home link in the nav? */
 		display: block;
 		cursor: pointer;
 		padding: 5px;
-		margin-top: 12px;
+		margin: 12px 0 0 6px;
 	}
 	nav > .keep {
 		display: block;
