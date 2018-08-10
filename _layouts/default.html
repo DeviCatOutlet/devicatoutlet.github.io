@@ -106,9 +106,8 @@ document.querySelectorAll('.nav-dropdown').forEach(a => a.onclick = function(ev)
 document.documentElement.onclick = function(ev) {
 	this.classList.remove("show-modal");
 	document.querySelectorAll('.nav-dropdown').forEach(a => a.setAttribute('aria-expanded', 'false'));
-	//Also collapse the Raptor menu (applicable only on narrow screens)
-	const cb = document.querySelector("nav input");
-	if (ev.target != cb) cb.checked = false;
+	//Also collapse the Raptor menu (applicable only on narrow screens) if you click outside nav
+	if (!ev.target.closest("nav")) document.querySelector("nav input").checked = false;
 }
 </script>
 </body>
