@@ -248,7 +248,7 @@ nav {
 	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.15);
 	display: flex; flex-flow: row nowrap;
 	align-items: center;
-	padding: .5rem 1rem;
+	padding: .5rem 0;
 }
 nav img {
 	height: 42px;
@@ -258,6 +258,11 @@ nav a {
 	color: rgba(0,0,0,.5);
 	padding: .5rem;
 }
+/* On smallish screens, hide the "Home" link, since clicking on the main
+logo will do the same. TODO: Do we even need a Home link in the nav? */
+@media (max-width: 860px) {nav a[href="/"]:not(:first-child) {display: none;}}
+
+/* TODO: Below 725px of width, collapse to Raptor Mode */
 .dropdown-menu a {
 	display: block;
 	padding: .25rem 1.5rem;
