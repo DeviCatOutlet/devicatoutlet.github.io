@@ -18,9 +18,7 @@
     <!-- Navigation -->
     <nav class="navbar-expand-md navbar-light">
       <a href="/"><img src="img/mainbanner.png" alt="DeviCat"></a>
-
-      <div class="navbar-collapse">
-        <ul class="navbar-nav ml-auto">
+        <ul class="navbar-nav">
           {%- for dest in site.nav %}{%- for info in dest -%}
             {%- if info[1] -%}
               {%- assign name = info[0] -%}
@@ -49,7 +47,6 @@
             </li>
           {%- endfor %}{% endfor %}
         </ul>
-      </div>
     </nav>
     {% if page.title == "Home" %}
     <section class="jumbotron text-center parallax">
