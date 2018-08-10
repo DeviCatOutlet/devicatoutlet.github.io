@@ -18,7 +18,7 @@
     <!-- Navigation -->
     <nav class="navbar-expand-md navbar-light">
       <a href="/"><img src="img/mainbanner.png" alt="DeviCat"></a>
-        <ul class="navbar-nav">
+      <div style="flex-grow: 1"></div>
           {%- for dest in site.nav %}{%- for info in dest -%}
             {%- if info[1] -%}
               {%- assign name = info[0] -%}
@@ -29,11 +29,10 @@
             {%- endif -%}
 	    {% assign active = "" %}{% assign current = "" %}
             {%- if page.title == name %}{% assign active = " active" %}{% assign current = '<span class="sr-only">(current)</span>' %}{% endif %}
-            <li class="nav-item {{active}}">
             {%- if info[1].first -%}
               {%- comment %} It's an array of subpages (eg Characters) {% endcomment %}
 	      {%- assign url = name | downcase | replace: " ", "" %}
-              <a class="nav-link nav-dropdown" href="{{ url }}" id="dropdown-{{ url }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ name }}{{current}}</a>
+              <a class="nav-dropdown {{active}}" href="{{ url }}" id="dropdown-{{ url }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ name }}{{current}}</a>
               <div class="nav-submenu" aria-labelledby="dropdown-{{ url }}">
 	        {%- for subdest in info[1] -%}
 		  {%- assign url = subdest | downcase | replace: " ", "" | replace: ",", "-" %}
@@ -42,9 +41,8 @@
               </div>
             {%- else -%}
               {%- comment %} It's a single page (maybe with a specified URL) {% endcomment %}
-              <a class="nav-link" href="{{ url }}">{{ name }}{{ current }}</a>
+              <a class="{{active}}" href="{{ url }}">{{ name }}{{ current }}</a>
             {%- endif %}
-            </li>
           {%- endfor %}{% endfor %}
         </ul>
     </nav>
