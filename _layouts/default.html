@@ -33,7 +33,7 @@
               {%- comment %} It's an array of subpages (eg Characters) {% endcomment %}
 	      {%- assign url = name | downcase | replace: " ", "" %}
 	      <div>
-              <a class="nav-dropdown {{active}}" href="{{ url }}" id="dropdown-{{ url }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ name }}{{current}}</a>
+              <a class="nav-dropdown {{active}}" href="{{ url }}" id="dropdown-{{ url }}" role="button" aria-haspopup="true" aria-expanded="false">{{ name }}{{current}}</a>
               <div class="nav-submenu" aria-labelledby="dropdown-{{ url }}">
 	        {%- for subdest in info[1] -%}
 		  {%- assign url = subdest | downcase | replace: " ", "" | replace: ",", "-" %}

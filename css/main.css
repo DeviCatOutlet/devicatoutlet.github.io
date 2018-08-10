@@ -290,3 +290,4 @@ logo will do the same. TODO: Do we even need a Home link in the nav? */
 	color: #212529;
 	margin: 0.25em 1em;
 }
+.active {color: rgba(0,0,0,.9);}
