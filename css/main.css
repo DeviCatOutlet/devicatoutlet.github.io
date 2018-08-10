@@ -4,7 +4,8 @@ body {
 }
 
 a {
-  color: #11acb8;
+  color: #087cb8;
+  font-weight: bold;
 }
 div ul{
 	padding: 10px;
@@ -48,7 +49,6 @@ footer {
   margin-top: 100px;
   background: #E3E3E3;
   padding: 12px;
-  color: #868e96;
 }
 
 ul.layout li {
@@ -271,8 +271,8 @@ nav img {
 	width: 77px;
 }
 nav a {
-	/* TODO: Improve color contrast (insufficient for a11y compliance) */
-	color: rgba(0,0,0,.5);
+	color: black;
+	font-weight: normal;
 }
 nav > a, nav > .nav-menucontainer {
 	padding: .5rem;
@@ -327,4 +327,4 @@ nav > a, nav > .nav-menucontainer {
 	color: #212529;
 	margin: 0.25em 1em;
 }
-.active {color: rgba(0,0,0,.9);}
+.active {text-decoration: underline;}

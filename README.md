@@ -39,7 +39,4 @@ TODO:
   - On narrow displays, some images exceed their available width.
   - TODO: Get someone with a phone to try the site and give feedback.
 * A11y compliance:
-  - Colour contrast on the nav bar may be insufficient for those with poor vision.
-  - Colour contrast on links, ditto
-  - Colour contrast on footer copyright, ditto
   - Jumping from H1 to H3 is not recommended. Would be a pain to fix perfectly though.
