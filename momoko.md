@@ -21,6 +21,8 @@ further inspired Devi to officially give her a body and then eventually a name.
 
 ### Momoko to date:
 
+![CCB Candy Carnival](img/ccb_candy_carnival_2018.png)
+
 ![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
 
 ![CCBunny](img/ccbunny.png)
