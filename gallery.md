@@ -1,6 +1,7 @@
 # Gallery
 
 
+![Deer Devi 2018](img/deerdevi_2018.png)
 ![CCB Candy Carnival](img/ccb_candy_carnival_2018.png)
 ![Abigail and Junimo](img/SDV_Abigail_n_Junimo_2018.png)
 ![Reiko Forest Fauna](img/Reiko_Forest_Fauna_2018.png)
@@ -13,7 +14,6 @@
 ![Katasha Chibi](img/katashachibi.png)
 ![CCBunny](img/ccbunny.png)
 ![CardCaptor Sakura Clear Card](img/cardcaptorsakura_clearcard.png)
-![Reiko CloverGirl 2018](img/Reiko_CloverGirl_2018.png)
 ![BerriChan 2018](img/berrichan_2018.png)
 ![Maika](img/maika.png)
 {: .wrap}
