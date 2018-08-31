@@ -84,15 +84,9 @@ div ul {
 	justify-content: space-around;
 }
 
-/* check where */
+/* Character pages have vertically-aligned images */
 img {
-	display: block;
 	margin: auto;
-}
-
-/* Contact only */
-.left-align img {
-	margin: 0;
 }
 
 /* Lightbox for image gallery */
