@@ -5,7 +5,7 @@ Info:
   Name: "Shizuko (Meaning: Quiet Child)"
   Title: Shiny CutieCakeBot
   Hair Color: Blue.
-  Eye Color: Hot pink.
+  Eye Color: Pink.
   Personality: Dandere. The “dan” in dandere comes from the Japanese word
     “danmari” (黙り) meaning silence. Thus a dandere is a quiet and often
     antisocial character.

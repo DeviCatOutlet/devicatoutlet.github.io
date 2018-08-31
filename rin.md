@@ -4,8 +4,8 @@ Subtitle: Fauna Sister
 Info:
   Name: "Rin (Meaning: Cold Child)"
   Title: Fauna Sister
-  Hair Color: Light blonde / gold.
-  Eye Color: Hot pink, gold and yellow.
+  Hair Color: Light blonde.
+  Eye Color: Pink and yellow.
   Personality: Kuudere – calm and composed. Serious on the outside, they are the observer, reluctant to trust.
   Color Scheme: White and gold.
   Symbol: Ram horns.
