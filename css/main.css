@@ -1,55 +1,23 @@
+/* Site-wide global styling */
 body {
-  background-color: #f0f0f0;
-  padding-top: 60px;
-}
-
-a {
-  color: #087cb8;
-  font-weight: bold;
-}
-div ul{
-	padding: 10px;
-}
-
-.parallax { 
-  background-image: url("../img/TakeRootAndDreamBanner.png");
-  background-attachment: fixed;
-  background-position: 0% 0%;
-  background-repeat: no-repeat;
-  background-size: 100vw;
-  height: 100%;
+	background-color: #f0f0f0;
+	padding-top: 60px;
 }
 
 main {
-  background-color: #ffffff;
-  border-radius: 5px;
-  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.15);
-  padding: 20px 15px;
-  margin-top: 40px;
-  margin-left: auto; margin-right: auto;
-  width: calc(100% - 90px);
-  max-width: 1140px; min-width: 400px;
+	background-color: #ffffff;
+	border-radius: 5px;
+	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.15);
+	padding: 20px 15px;
+	margin-top: 40px;
+	margin-left: auto; margin-right: auto;
+	width: calc(100% - 90px);
+	max-width: 1140px; min-width: 400px;
 }
 
-.top-buffer {
-  padding-top: 20px;
-}
-
-footer {
-  text-align: center;
-  margin-top: 100px;
-  background: #E3E3E3;
-  padding: 12px;
-}
-footer svg, footer img {
-	display: inline-block;
-	height: 32px;
-	margin: 0 8px; /* Comply with Instagram's TOS by having half an icon of gap */
-	vertical-align: baseline; /* override _reboot.scss from bootstrap */
-}
-
-ul.layout li {
-	list-style: none;
+a {
+	color: #087cb8;
+	font-weight: bold;
 }
 
 h1, h2, h3, h4 {
@@ -59,16 +27,6 @@ h1, h2, h3, h4 {
 /* If there are two adjacent head-ones, the second is a sort of subheading. */
 h1 ~ h1 {
 	font-size: 1.75em;
-}
-
-h3:before, h3:after {
-	display: inline-block;
-	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg");
-	position: relative;
-	top: 0.3333em; left: -0.33333em;
-	margin-left: 0.4em;
-	margin-top: -0.25em;
-	width: 1.5em;
 }
 
 h2:before, h2:after {
@@ -81,14 +39,74 @@ h2:before, h2:after {
 	width: 1.5em;
 }
 
+h3:before, h3:after {
+	display: inline-block;
+	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg");
+	position: relative;
+	top: 0.3333em; left: -0.33333em;
+	margin-left: 0.4em;
+	margin-top: -0.25em;
+	width: 1.5em;
+}
+
+/* Footer of every page - copyright, social links, etc */
+footer {
+	text-align: center;
+	margin-top: 100px;
+	background: #E3E3E3;
+	padding: 12px;
+}
+footer svg, footer img {
+	display: inline-block;
+	height: 32px;
+	margin: 0 8px; /* Comply with Instagram's TOS by having half an icon of gap */
+	vertical-align: baseline; /* override _reboot.scss from bootstrap */
+}
+
+ul.layout li {
+	list-style: none;
+}
+
+/* where? */
+div ul {
+	padding: 10px;
+}
+
+/* Home only */
+.parallax { 
+	background-image: url("../img/TakeRootAndDreamBanner.png");
+	background-attachment: fixed;
+	background-position: 0% 0%;
+	background-repeat: no-repeat;
+	background-size: 100vw;
+	height: 100%;
+}
+/* Same as the above */
+.jumbotron {
+	display: flex;
+}
+
+.jumbotron div {
+	margin: 0 auto;
+}
+
+/* unused? */
+.top-buffer {
+	padding-top: 20px;
+}
+
+/* check where */
 img {
 	display: block;
 	margin: auto;
 }
+
+/* Contact only */
 .left-align img {
 	margin: 0;
 }
 
+/* Lightbox for image gallery */
 #gallery ~ p img {
 	max-height: 300px;
 	cursor: pointer;
@@ -98,14 +116,48 @@ img {
 	padding: 10px;
 }
 #gallery ~ p img:hover{
-  opacity: 0.8;
+	opacity: 0.8;
 }
-.wrap {
+.wrap { /* Specific to gallery */
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
 }
+/* Clicking Gallery images pops them up, fading the rest of the page. */
+/* Pre-allocate room for the scrollbars, where supported */
+html {overflow: overlay;}
+.show-modal {overflow: hidden;}
+#fader {
+	position: fixed;
+	left: 0; top: 0; right: 0; bottom: 0;
+	background: black;
+	opacity: 0; z-index: -1;
+    transition: opacity .25s, z-index .25s;
+}
+.show-modal #fader {opacity: 0.5; z-index: 1999;}
+#popup {
+	position: fixed;
+	left: 0; top: 0; right: 0; bottom: 0;
+	z-index: 2000;
+	padding-top: 30px;
+	visibility: hidden;
+	overflow: auto;
+	transition: visibility .5s;
+}
+.show-modal #popup {visibility: visible;}
+/* Fade the image in and pull it in from above the screen */
+#popup img {
+	position: relative;
+	top: -500px;
+	opacity: 0;
+	transition: top .5s, opacity .5s;
+}
+.show-modal #popup img {top: 0px; opacity: 1;}
+#popup > div {
+	margin: auto;
+}
 
+/* The Aboot page has a lot of magic to it :( */
 h1#about, h1#home {
 	/* Hide the "Home" and "About" headings - they aren't necessary. */
 	/* Their presence, however, can affect the styles of subsequent elements. */
@@ -134,9 +186,11 @@ h1#about, h1#home {
 }
 
 /* Some large SVGs get 'marked small' with asterisks - they're basically emoji. */
+/* Currently only subbenefits uses this */
 em img {
 	width: 1.5em;
 }
+
 #goals ~ ul {
 	font-size: 125%;
 }
@@ -145,14 +199,7 @@ em img {
 	text-align: left;
 }
 
-.jumbotron {
-	display: flex;
-}
-
-.jumbotron div {
-	margin: 0 auto;
-}
-
+/* Home only */
 ul.cards {
 	display: flex;
 	flex-wrap: wrap;
@@ -191,40 +238,7 @@ ul.cards li {
 	margin: 0;
 }
 
-/* Clicking Gallery images pops them up, fading the rest of the page. */
-/* Pre-allocate room for the scrollbars, where supported */
-html {overflow: overlay;}
-.show-modal {overflow: hidden;}
-#fader {
-	position: fixed;
-	left: 0; top: 0; right: 0; bottom: 0;
-	background: black;
-	opacity: 0; z-index: -1;
-    transition: opacity .25s, z-index .25s;
-}
-.show-modal #fader {opacity: 0.5; z-index: 1999;}
-#popup {
-	position: fixed;
-	left: 0; top: 0; right: 0; bottom: 0;
-	z-index: 2000;
-	padding-top: 30px;
-	visibility: hidden;
-	overflow: auto;
-	transition: visibility .5s;
-}
-.show-modal #popup {visibility: visible;}
-/* Fade the image in and pull it in from above the screen */
-#popup img {
-	position: relative;
-	top: -500px;
-	opacity: 0;
-	transition: top .5s, opacity .5s;
-}
-.show-modal #popup img {top: 0px; opacity: 1;}
-#popup > div {
-	margin: auto;
-}
-
+/* The nav bar and its hamburger button */
 nav {
 	position: fixed;
 	top: 0; left: 0; right: 0;
