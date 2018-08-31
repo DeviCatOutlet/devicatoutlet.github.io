@@ -143,6 +143,7 @@ html {overflow: overlay;}
 /* The Aboot page has a lot of magic to it :( */
 h1#about, h1#home {
 	/* Hide the "Home" and "About" headings - they aren't necessary. */
+	/* TODO: If they're of value to screenreaders, is there a better way to hide them? */
 	/* Their presence, however, can affect the styles of subsequent elements. */
 	display: none;
 }
@@ -169,7 +170,6 @@ h1#about, h1#home {
 }
 
 /* Some large SVGs get 'marked small' with asterisks - they're basically emoji. */
-/* Currently only subbenefits uses this */
 em img {
 	width: 1.5em;
 }
