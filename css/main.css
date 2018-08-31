@@ -84,11 +84,6 @@ div ul {
 	justify-content: space-around;
 }
 
-/* unused? */
-.top-buffer {
-	padding-top: 20px;
-}
-
 /* check where */
 img {
 	display: block;
