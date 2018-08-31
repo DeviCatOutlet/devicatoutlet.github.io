@@ -2,6 +2,7 @@
 body {
 	background-color: #f0f0f0;
 	padding-top: 60px;
+	font-family: sans-serif;
 }
 
 main {
@@ -24,10 +25,10 @@ h1, h2, h3, h4 {
 	text-align: center;
 }
 
-/* If there are two adjacent head-ones, the second is a sort of subheading. */
-h1 ~ h1 {
-	font-size: 1.75em;
-}
+h1 {font-size: 2.5em;}
+h2 {font-size: 2em;}
+/* If there are two adjacent head-ones, the second is a sort of subheading. Size it like a head-three. */
+h3, h1~h1 {font-size: 1.75em;}
 
 h2:before, h2:after {
 	display: inline-block;
