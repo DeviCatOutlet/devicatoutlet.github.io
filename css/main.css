@@ -81,10 +81,7 @@ div ul {
 	background-size: 100vw;
 	height: 100%;
 	display: flex;
-}
-
-.jumbotron div {
-	margin: 0 auto;
+	justify-content: space-around;
 }
 
 /* unused? */
