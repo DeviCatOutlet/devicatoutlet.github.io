@@ -75,4 +75,6 @@ It’s a team effort, be it with Raptor and myself, our mods and this community.
 We cannot thank you enough for these opportunities, and every day we are doing
 our best to give back and pay your kindness forward.
 
-💕Thank you for believing in us.💕
+*![💕](https://s.w.org/images/core/emoji/2.2.1/svg/1f495.svg)*
+Thank you for believing in us.
+*![💕](https://s.w.org/images/core/emoji/2.2.1/svg/1f495.svg)*
