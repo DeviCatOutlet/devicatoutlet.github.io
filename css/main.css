@@ -1,8 +1,13 @@
+*, ::after, ::before {
+	/* box-sizing: border-box; */
+}
+
 /* Site-wide global styling */
 body {
 	background-color: #f0f0f0;
 	padding-top: 60px;
 	font-family: sans-serif;
+	line-height: 1.5; /* TODO: Simplify the various line-height and top/bottom margin rules for headings etc */
 }
 
 main {
@@ -23,6 +28,9 @@ a {
 
 h1, h2, h3, h4 {
 	text-align: center;
+	font-weight: 500; /* Medium, rather than full bold. Is this coffee or text? */
+	margin-bottom: .5rem;
+	line-height: 1.2;
 }
 
 h1 {font-size: 2.5em;}
@@ -312,4 +320,13 @@ nav > a, nav > .nav-menucontainer {
 	color: #212529;
 	margin: 0.25em 1em;
 }
+a {text-decoration: none;}
 .active {text-decoration: underline;}
+
+/* Hide from screenreaders (they're scary!) */
+.screenreader {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}

@@ -36,5 +36,6 @@ TODO:
 * Get everything to work (or at least mostly-work) on mobile.
   - Biggest issues are now solved.
   - TODO: Get someone with a phone to try the site and give feedback.
+  - Notably, what do touch gestures do? Are they sane? Check the nav.
 * A11y compliance:
   - Jumping from H1 to H3 is not recommended. Would be a pain to fix perfectly though.
