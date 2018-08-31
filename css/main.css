@@ -6,6 +6,7 @@
 body {
 	background-color: #f0f0f0;
 	padding-top: 60px;
+	margin: 0;
 	font-family: sans-serif;
 	line-height: 1.5; /* TODO: Simplify the various line-height and top/bottom margin rules for headings etc */
 }
@@ -26,7 +27,7 @@ a {
 	font-weight: bold;
 }
 
-ul {margin-top: 0;}
+ul, p {margin-top: 0;}
 
 h1, h2, h3, h4 {
 	text-align: center;
@@ -332,3 +333,5 @@ a {text-decoration: none;}
     height: 1px;
     overflow: hidden;
 }
+
+hr {margin-bottom: 1rem;}
