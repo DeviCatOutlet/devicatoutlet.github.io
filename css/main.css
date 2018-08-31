@@ -73,16 +73,13 @@ div ul {
 }
 
 /* Home only */
-.parallax { 
+.jumbotron {
 	background-image: url("../img/TakeRootAndDreamBanner.png");
 	background-attachment: fixed;
 	background-position: 0% 0%;
 	background-repeat: no-repeat;
 	background-size: 100vw;
 	height: 100%;
-}
-/* Same as the above */
-.jumbotron {
 	display: flex;
 }
 
