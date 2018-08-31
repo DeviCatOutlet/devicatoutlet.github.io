@@ -49,7 +49,7 @@ of tickets per person is 2500.
 
 Current prize bundle includes:
 
-* Next cake prize bundle scheduled for: August 30th at 6:30pm EST
+* Next cake prize bundle scheduled for: September 30th at 6:30pm EST
 * 1x handwritten thank you letter
 * 1x surprise sticker
 * 2x Devi branded business cards
