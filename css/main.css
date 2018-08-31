@@ -87,6 +87,7 @@ div ul {
 
 /* Character pages have vertically-aligned images */
 img {
+	display: block;
 	margin: auto;
 }
 
