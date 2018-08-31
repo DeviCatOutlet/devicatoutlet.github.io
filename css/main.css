@@ -73,7 +73,6 @@ footer svg, footer img {
 	display: inline-block;
 	height: 32px;
 	margin: 0 8px; /* Comply with Instagram's TOS by having half an icon of gap */
-	vertical-align: baseline; /* override _reboot.scss from bootstrap */
 }
 
 ul.layout li {
