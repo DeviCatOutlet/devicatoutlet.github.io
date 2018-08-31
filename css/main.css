@@ -223,6 +223,7 @@ ul.cards li {
 #contact ~ ul a {
 	font-weight: bold;
 }
+.left-align img {margin: 0;} /* Contact page only */
 
 .email:before, .email:after {
 	display: inline-block;
