@@ -14,7 +14,7 @@ lettermail, we encourage you instead to consider:
 * Subscribing to either [DeviCat](https://go.twitch.tv/subs/devicat) or
   [HallwayRaptor](https://go.twitch.tv/subs/hallwayraptor).
 * Upgrading your Twitch sub to a Tier 2 / Tier 3.
-* Pledging to our [Patreon](https://patreon.com/devicatoutlet) coloring book.
+* Pledging to our [Patreon](https://patreon.com/devicatoutlet).
 * Leaving a [tip](https://streamlabs.com/devicat).
 * Leaving a [cheer](https://help.twitch.tv/customer/en/portal/articles/2449458).
 
