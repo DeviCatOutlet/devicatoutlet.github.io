@@ -29,16 +29,19 @@
   * **Self Taught:** Traditional Art (all my life) / Digital Art (2+ years)
   * **Interested In:** Being able to help inspire and change the lives of those that I come in contact with.
   * **♡Married to:♡** [HallwayRaptor](https://www.twitter.com/HallwayRaptor)
-  * **Favorite Hobby:** Nature Walking
+  * **Favorite Hobby:** Nature Walking, Vocaloid Dancing
   * **Favorite Games:** Visual Novels
   * **Favorite Drink:** Coffee
-  * **Favorite Anime:** A-Channel / K-ON! / CardCaptor Sakura / Kiniro Mosaic / Flying Witch / Konohana Kitan / Natsume's Book of Friends
+  * **Favorite Anime:** A-Channel / K-ON! / CardCaptor Sakura / Love Live / Sailor Moon Crystal
   * **Awards / Accomplishments:**
     - Animaritime Art Contest 2017, 1st Place.
-    - Charity Stream: Create for Kids 2017 (Raised over $600 USD)
-    - Charity Stream: 1000 Dreams Fund 2018 (Raised over $600 USD)
+    - Charity Stream: Create for Kids 2017 
+    - Charity Stream: 1000 Dreams Fund 2018 
+    - Charity Stream: Create for Kids 2018 
     - Featured on Twitch Front Page (Anime Spotlight): October 26th & November 2nd 2017.
     - Featured on Twitch Front Page (Women's History Month): March 14th, 2018.
+    - Featured on Twitch Front Page (Create For Kids): August 12th & August 13th, 2018.
+
 
 ---
 
