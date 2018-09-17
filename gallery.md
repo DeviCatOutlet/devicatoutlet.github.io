@@ -1,6 +1,7 @@
 # Gallery
 
 
+![Rin The Gratitude Tree 2018](img/Rin_The_Gratitude_Tree_2018.png)
 ![Deer Devi 2018](img/deerdevi_2018.png)
 ![CCB Candy Carnival](img/ccb_candy_carnival_2018.png)
 ![Abigail and Junimo](img/SDV_Abigail_n_Junimo_2018.png)
@@ -12,7 +13,6 @@
 ![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
 ![Hanabi](img/hanabi.png)
 ![Katasha Chibi](img/katashachibi.png)
-![CCBunny](img/ccbunny.png)
 ![CardCaptor Sakura Clear Card](img/cardcaptorsakura_clearcard.png)
 ![BerriChan 2018](img/berrichan_2018.png)
 ![Maika](img/maika.png)

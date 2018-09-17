@@ -21,6 +21,8 @@ Reiko the fauna.
 
 ### Rin to date:
 
+![Rin The Gratitude Tree 2018](img/Rin_The_Gratitude_Tree_2018.png)
+
 ![Autumn Rin](img/rin_autumn.png)
 
 ![Sitting Study ­– Rin](img/rin_sitting.png)
