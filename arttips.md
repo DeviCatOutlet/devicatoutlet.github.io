@@ -26,7 +26,4 @@ When you have 20 minutes of spare time, watch [this video](https://www.youtube.c
 from Neil Gaiman. This has saved me time and again as an artist and as a human being.
 
 ### Where do you get inspiration from?
-* [Design Doll](http://terawell.net/terawell/?lang=en) – Modelling poses.
-* [Draw A Box](http://drawabox.com/) – Strengthening drawing fundamentals.
-* [Senshi Stock](https://senshistock.deviantart.com/gallery/) – Modelling poses / Reference Images.
-* [Shutter Stock](https://www.shutterstock.com/home) – Modelling poses / Reference Images.
+From pure enjoyment of LIFE. Taking breaks to do my favorite things, whatever is relaxing in the moment helps me to stop tunnel visioning and open my mind to new ideas and concepts. Do whatever is best for you to relax, enjoy yourself, have fun, and a whole new world will open to you of ideas and inspirations.
