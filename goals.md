@@ -2,7 +2,7 @@
 
 ## Next On Our List!
 - ⭐Collect more t-shirt designs from my RedBubble store to model for our YouTube / Instagram.
-- ⭐Be sponsored for box opening content on our YouTube
+- ⭐Be sponsored for box opening content on our YouTube.
 - ⭐Be invited as a guest for future conventions.
 
 
@@ -18,6 +18,7 @@
 - Charity Stream: Create for Kids 2017
 - Charity Stream: 1000 Dreams Fund 2018
 - Charity Stream: Create for Kids 2018
+
 - Featured on Twitch Front Page (Anime Spotlight): October 26th & November 2nd 2017.
 - Featured on Twitch Front Page (Women's History Month): March 14th, 2018.
 - Featured on Twitch Front Page (Create For Kids): August 12th & August 13th, 2018.
