@@ -1,6 +1,6 @@
 # Goals
 
-### Next On Our List!
+## Next On Our List!
 - ⭐Collect more t-shirt designs from my RedBubble store to model for our YouTube / Instagram.
 - ⭐Be sponsored for box opening content on our YouTube
 - ⭐Be invited as a guest for future conventions.
