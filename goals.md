@@ -1,9 +1,10 @@
 # Goals
 
 ## Next On Our List!
-- ⭐Collect more t-shirt designs from my RedBubble store to model for our YouTube / Instagram.
-- ⭐Be sponsored for box opening content on our YouTube.
-- ⭐Be invited as a guest for future conventions.
+- ⭐Affiliations with content related to our platform.
+- ⭐Sponsorships with content related to our platform.
+- ⭐Licensing / Royalties of our original designs.
+- ⭐Art contests to participate in.
 
 
 ## Current / Past Achievements 
