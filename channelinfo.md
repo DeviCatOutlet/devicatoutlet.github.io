@@ -38,24 +38,7 @@ do the !cake command.
 * Bake off: Gamble your cakes! Do “!bake #” where # is the number of cake
   you want to bake.
 * Cake Prize Giveaway: See details for how to use your cake for tickets
-  further below this page.
+ during a live stream on Twitch.
 * Cake resets to 1 at the beginning of a new month.
 * Ask a mod to see who’s in the top 10.
 
-## Cake Prize Bundle Giveaway
-As a way to say thank you to those who lurk / actively chat, Devi will do a
-special raffle that requires cake to enter. 1 cake = 1 ticket. Maximum number
-of tickets per person is 2500.
-
-Current prize bundle includes:
-
-* Next cake prize bundle scheduled for: September 30th at 6:30pm EST
-* 1x handwritten thank you letter
-* 1x surprise sticker
-* 2x Devi branded business cards
-* 2x Devi branded pin back buttons
-
-Please note: Bundle giveaways are capped to 1x winner per month. As in, everyone
-is allowed to win up to 1x bundle giveaway in the same month.
-
-We value your privacy. Therefore, information received from giveaway winners is specifically for sending out their gift and nothing more.
