@@ -22,6 +22,8 @@ This page is in dedication to our pets / mascots of our channel! Here, you'll fi
 
 ### Lita's Art
 
+![Lita Chibi Witch 2018](img/litachibiwitch_2018.png)
+
 ![Anime Lita](img/lita_anime.png)
 
 ![Lucky Lita](img/luckylita.png)

@@ -1,6 +1,8 @@
 # Gallery
 
 
+![Lita Chibi Witch 2018](img/litachibiwitch_2018.png)
+![Mimikyu Chibi 2018](img/mimikyuchibi_2018.png)
 ![Rin The Gratitude Tree 2018](img/Rin_The_Gratitude_Tree_2018.png)
 ![Deer Devi 2018](img/deerdevi_2018.png)
 ![CCB Candy Carnival](img/ccb_candy_carnival_2018.png)
@@ -12,8 +14,6 @@
 ![Earth Kitsune](img/earthkitsune2018.png)
 ![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
 ![Hanabi](img/hanabi.png)
-![Katasha Chibi](img/katashachibi.png)
 ![CardCaptor Sakura Clear Card](img/cardcaptorsakura_clearcard.png)
 ![BerriChan 2018](img/berrichan_2018.png)
-![Maika](img/maika.png)
 {: .wrap}
