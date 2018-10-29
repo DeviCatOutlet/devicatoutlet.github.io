@@ -1,6 +1,7 @@
 # Gallery
 
 
+![Blathers Animal Crossing 2018](img/blathers_animalcrossing_2018.png)
 ![Dark Magician Girl 2018](img/darkmagiciangirl_2018.png)
 ![Lita Chibi Witch 2018](img/litachibiwitch_2018.png)
 ![Mimikyu Chibi 2018](img/mimikyuchibi_2018.png)
@@ -15,5 +16,4 @@
 ![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
 ![Hanabi](img/hanabi.png)
 ![CardCaptor Sakura Clear Card](img/cardcaptorsakura_clearcard.png)
-![BerriChan 2018](img/berrichan_2018.png)
 {: .wrap}
