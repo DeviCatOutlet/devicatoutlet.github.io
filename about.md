@@ -32,7 +32,7 @@
   * **Favorite Hobby:** Nature Walking, Vocaloid Dancing
   * **Favorite Games:** Visual Novels
   * **Favorite Drink:** Coffee
-  * **Favorite Anime:** A-Channel / K-ON! / CardCaptor Sakura / Love Live / Sailor Moon Crystal
+  * **Favorite Anime:** Anything slice of life genre.
 
 
 ---
@@ -61,9 +61,7 @@ help take care of us. And over the course of the past couple of years we’ve
 moved provinces, got married, upgraded our equipment, improved our quality of
 content, and over all evolved into a professional full time channel. Our
 motivation comes from wanting to inspire others to work through their personal
-obstacles by setting a positive example ourselves. Our long term goals are to
-become financially independent so that we can become investors and one day do
-amazing things such as creating foundations or charities.
+obstacles by setting a positive example ourselves. 
 
 To this day, HallwayRaptor now works alongside me at home to help manage this.
 It’s a team effort, be it with Raptor and myself, our mods and this community.
