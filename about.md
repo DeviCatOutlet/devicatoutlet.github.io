@@ -26,8 +26,8 @@
   * **Streaming on Twitch since:** May 28, 2015
   * **Partnered on Twitch since:** July 5, 2016
   * **Role:** Artist / Speaker / Community Leader
-  * **Self Taught:** Traditional Art (all my life) / Digital Art (2+ years)
-  * **Interested In:** Doing my part with helping to inspire others with little bits of happiness, so that this inspiration can help you feel motivated to give your personal best every day.
+  * **Self Taught:** Traditional Art / Digital Art
+  * **Interested In:** Creating to put a smile on your face and a warmth in your heart.
   * **♡Married to:♡** [HallwayRaptor](https://www.twitter.com/HallwayRaptor)
   * **Favorite Hobby:** Nature Walking, Vocaloid Dancing
   * **Favorite Games:** Visual Novels
