@@ -10,13 +10,13 @@
 
   #### [Characters](characters)
 
-  Learn about all of my original characters
+  Learn about all of my original characters.
 
 * [![Goals](img/devicat_donut_girl 2018.png)](goals)
 
   #### [Goals](goals)
 
-  View a list of my goals and milestones
+  View a list of my goals and milestones.
 
 * [![Shop](img/artshop_panel.png)](https://www.redbubble.com/people/devicatoutlet/shop/)
 
@@ -28,5 +28,11 @@
 
   #### [About](about)
 
-  Learn about Devicat
+  Learn about Devicat.
+
+* [![Contact](img/pobox_panel.png)](contact)
+
+  #### [Contact](contact)
+
+  Contact DeviCat here.
 {: .cards .layout}
