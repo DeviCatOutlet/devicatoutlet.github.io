@@ -3,8 +3,8 @@
 * ![](img/aboutdevicat.png)
 * ## DeviCat
 
-  I’m a self taught digital illustrator, and a full
-  time Twitch Partnered broadcaster. Here, we encourage the ideals of positive
+  I’m a self taught digital illustrator, full
+  time Twitch Partnered broadcaster, and part time video creator on YouTube. Here, we encourage the ideals of positive
   community through creativity and determination.
 
 ---
@@ -55,16 +55,16 @@ Originally, before I started on Twitch, my healing began with writing blogs on
 this website, taking dance lessons, doing odd little jobs like house sitting,
 and watching a lot of Day9TV (Mostly Walking), Markiplier, and ManlyBadAssHero
 before I was introduced to the wonderful world of Twitch. And even when I began
-doing this full time, I had no idea what I was doing. We started from the ground
+doing this, I had no idea what I was doing. We started from the ground
 up as a tiny variety channel, knowing no one, my husband working his day job to
-help take care of us. And over the course of the past couple of years we’ve
-moved provinces, got married, upgraded our equipment, improved our quality of
-content, and over all evolved into a professional full time channel. Our
+help take care of us. And over the course of the past few years we’ve
+moved provinces, got married, improved our quality of
+content, and over all evolved into professional full time content creators. Our
 motivation comes from wanting to inspire others to work through their personal
 obstacles by setting a positive example ourselves. 
 
 To this day, HallwayRaptor now works alongside me at home to help manage this.
-It’s a team effort, be it with Raptor and myself, our mods and this community.
+It’s a team effort, be it with Raptor and myself, our friends and this community.
 We cannot thank you enough for these opportunities, and every day we are doing
 our best to give back and pay your kindness forward.
 
