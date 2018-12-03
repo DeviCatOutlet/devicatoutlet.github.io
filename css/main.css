@@ -275,8 +275,8 @@ nav a {
 nav > a, nav > .nav-menucontainer {
 	padding: .5rem;
 }
-/* Below 725px of width, collapse to Raptor Mode */
-@media (max-width: 725px)
+/* Below 822px of width, collapse to Raptor Mode */
+@media (max-width: 822px)
 {
 	nav {
 		flex-direction: column;
