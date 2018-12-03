@@ -21,6 +21,8 @@ Reiko the fauna.
 
 ### Rin to date:
 
+![Rin Pumpkin Chibi 2018](img/RinPumpkinChibi2018.png)
+
 ![Rin The Gratitude Tree 2018](img/Rin_The_Gratitude_Tree_2018.png)
 
 ![Autumn Rin](img/rin_autumn.png)

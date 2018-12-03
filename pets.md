@@ -32,7 +32,7 @@ This page is in dedication to our pets / mascots of our channel! Here, you'll fi
 
 ![Lita Pumpkin](img/litapumpkin.png)
 
-### Katasha's Art
+### Katasha's Art (Rest In Peace: Oct 30, 2018)
 
 ![Katasha Chibi](img/katashachibi.png)
 
