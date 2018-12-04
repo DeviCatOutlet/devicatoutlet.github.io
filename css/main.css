@@ -74,6 +74,9 @@ footer svg, footer img {
 	height: 32px;
 	margin: 0 8px; /* Comply with Instagram's TOS by having half an icon of gap */
 }
+/* Trim the outside margins to fit the footer images on slightly smaller screens w/o wrapping */
+footer a:first-child img, footer a:first-child svg {margin-left: 0;}
+footer a:last-child img, footer a:last-child svg {margin-right: 0;}
 
 ul.layout li {
 	list-style: none;
