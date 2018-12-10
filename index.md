@@ -10,7 +10,7 @@
 
   #### [About](about)
 
-  Learn about Devicat.
+  Learn about DeviCat.
 
 * [![Contact](img/pobox_panel.png)](contact)
 
