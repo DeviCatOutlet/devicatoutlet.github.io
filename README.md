@@ -30,7 +30,6 @@ Heading usage:
 * No other heading levels are currently used.
 
 TODO:
-* Remove Bootstrap's CSS. Possibly only being used on the landing page.
 * Ensure that everything is (remains) HTML5 and CSS3 standards compliant.
   - https://validator.w3.org/nu/?doc=http%3A%2F%2Fdevicatoutlet.com%2F
 * Get everything to work (or at least mostly-work) on mobile.
