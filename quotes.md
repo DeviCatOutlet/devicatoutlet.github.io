@@ -17,7 +17,7 @@ command `!quote N` for some number N.
 * 5: "Everyone just be yourselves, now let's flip tables." -Devi_Cat (14-Nov-15)
 * 6: "Link , stop being hot!" -Devi_Cat (17-Nov-15)
 * 7 <missing quote, ask CCB for it please>
-* 8: "You two could play hide and seek under coffee cups :D " -Locust530 (02-Dec-15)
+* 8: "You two could play hide and seek under coffee cups ![:D](https://static-cdn.jtvnw.net/emoticons/v1/496/1.0) " -Locust530 (02-Dec-15)
 * 9 <missing quote, ask CCB for it please>
 * 10: " *salami Xpress* a tattoo and a sandwich shop all in 1 place. not very sanitary but we'll keep you fed and looking right" -Salami_express (06-Dec-15)
 * 11: "Imma take some catnip, flip a table then get back to work ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/80393/1.0) " -Devi_Cat (07-Dec-15)
@@ -41,7 +41,7 @@ command `!quote N` for some number N.
 * 35: " I will call him.... minibit." -TreyCalico (27-Jun-16)
 * 36: "It's so cute to see you with your sweet little voice singing to a deep bass drop song." -Rebekah_erhardt (30-Jun-16)
 * 37 <missing quote, ask CCB for it please>
-* 38: "CutieCupCake. It's like the mobile version. <3 ![PJSugar](https://static-cdn.jtvnw.net/emoticons/v1/102556/1.0) " -SkyePyro (06-Aug-16)
+* 38: "CutieCupCake. It's like the mobile version. ![<3](https://static-cdn.jtvnw.net/emoticons/v1/483/1.0) ![PJSugar](https://static-cdn.jtvnw.net/emoticons/v1/102556/1.0) " -SkyePyro (06-Aug-16)
 * 39: "[ Jessabot]: ' I cried 6 oceans of tears for Midna!' [ Speedfreak86]: ' Aren't there 7?' [ Jessabot ]: ' I'm saving the 7th for later!'" -Jessabot & Speed_Freak86 (12-Aug-16)
 * 40 <missing quote, ask CCB for it please>
 * 41: ""If you need something white, make it blue"" -DEVI_CAT (28-Aug-16)
@@ -150,7 +150,7 @@ command `!quote N` for some number N.
 * 166: "Hold on i gotta put this girl away ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DEVI_CAT (20-Sep-17)
 * 167-168 <missing these quotes, please ask CCB for them>
 * 169: "Draw good sticks" -DEVI_CAT (25-Sep-17)
-* 170: "Looks like she's crying out the universe :P ." -Foxifly (28-Sep-17)
+* 170: "Looks like she's crying out the universe ![:P](https://static-cdn.jtvnw.net/emoticons/v1/490/1.0) ." -Foxifly (28-Sep-17)
 * 171: "And suddenly there was a rapping, as if a Raptor was gently tapping, knocking on Devi's office door." -hatandsandalsguy (28-Sep-17)
 * 172 <missing quote, ask CCB for it please>
 * 173: "I'm going to hide the body... ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DEVI_CAT (02-Oct-17)
@@ -345,7 +345,7 @@ command `!quote N` for some number N.
 * 390: "On those days when I'm feeling hungry, the answer is: Eat more. Eat more bacon!" -DeviCat (16-May-18)
 * 391: "PowerUpL Download the new DeviTrainer app for all your fitness and nutrition needs! ![PowerUpR](https://static-cdn.jtvnw.net/emoticons/v1/425671/1.0) ." -EmoWithoutACause (16-May-18)
 * 392: "Lavender! You're so huge!" -DeviCat (17-May-18)
-* 393: "omg you are creating masterpieces by combining random things <3 !" -cakiMK (17-May-18)
+* 393: "omg you are creating masterpieces by combining random things ![<3](https://static-cdn.jtvnw.net/emoticons/v1/483/1.0) !" -cakiMK (17-May-18)
 * 394: "I've seen pictures of you! Not all of you - just snippets of you." -DeviCat (21-May-18)
 * 395: "And then Devi had Cutiac Arrest." -a_tiny_little_cat (26-May-18)
 * 396: "I want Tambri's mind to explode into rainbows and unicorns. Very red ones." -DeviCat (26-May-18)
