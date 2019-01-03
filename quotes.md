@@ -460,8 +460,8 @@ command `!quote N` for some number N.
 * 545: "We this Pove ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0) ." -DuCkY245 (17-Dec-18)
 * <missing quotes 546-549, please ask CCB for them>
 * 550: "I almost took its ears with it ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (24-Dec-18)
-* <missing quote 551, ask CCB for it please>
+* 551: "I'm missing an armpit!" -DeviCat (30-Dec-18)
 * 552: "I'm not gonna finish my sentence, 'cause it's just gonna get added to the quotes, so never mind!" ~" -DeviCat (02-Jan-19)
 
-This list is missing 225 quotes, plus any that have been recently added.
+This list is missing 224 quotes, plus any that have been recently added.
 
