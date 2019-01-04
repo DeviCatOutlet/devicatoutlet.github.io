@@ -30,7 +30,8 @@ command `!quote N` for some number N.
 * 22: "Come face me, my chocolate chips hungers for souls!" -Fiendishly_Juicy (17-May-16)
 * <missing quotes 23-24, please ask CCB for them>
 * 25: "✨ I wish my eyes had little stars in them...✨" -TreyCalico (26-May-16)
-* <missing quotes 26-27, please ask CCB for them>
+* 26: "I need to remove your skin so I can do your hair ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -Devi_Cat (04-Jun-16)
+* 27: "I am clearly a chipmunk." -Devi_Cat (06-Jun-16)
 * 28: "You stole 75 cupcakes? Do you want diabetes?! thats how you get diabetes. " -Hoot_and_the_fisherman (06-Jun-16)
 * 29: "You are contaminating the stream with your Raptorisms!" -Devi_Cat (11-Jun-16)
 * <missing quote 30, ask CCB for it please>
@@ -249,7 +250,8 @@ command `!quote N` for some number N.
 * 278: "Does the Raptor summoning ritual require the sacrifice of a hamburger ![hallwaLurk](https://static-cdn.jtvnw.net/emoticons/v1/550688/1.0) ?" -Blacksouls92 (10-Feb-18)
 * <missing quote 279, ask CCB for it please>
 * 280: "Or Pickaxeing a chicken, no one saw that ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0) ." -DeviCat (12-Feb-18)
-* <missing quotes 281-285, please ask CCB for them>
+* 281: "I always keep tons of cheddar on me." -DeviCat (12-Feb-18)
+* <missing quotes 282-285, please ask CCB for them>
 * 286: "If you ever get a male manga, would it be a mango? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -Rosuav (18-Feb-18)
 * 287: "Rip to the bee FOR DEVI HAS RISEN HAHA" -DeviCat (18-Feb-18)
 * <missing quotes 288-292, please ask CCB for them>
@@ -367,7 +369,8 @@ command `!quote N` for some number N.
 * 421: "Have a Devi day means there better be magic floating everywhere ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/1291593/1.0) ." -Blacksouls92 (11-Jun-18)
 * <missing quotes 422-423, please ask CCB for them>
 * 424: "Sometimes ankles need to blush to, Somtimes they get embarrassed" -DeviCat (20-Jun-18)
-* <missing quotes 425-427, please ask CCB for them>
+* <missing quotes 425-426, please ask CCB for them>
+* 427: "Her shorts look like frosting! I could eat them!" -DeviCat (24-Jun-18)
 * 428: "We would have to send PhotoSvein a giant flaming hula hoop, and they would have to take a video of themselves jumping through it, and then we'd allow them the honor of posting a link." -Hihohotdog (25-Jun-18)
 * <missing quotes 429-431, please ask CCB for them>
 * 432: "They call me the bell ringer of the streams <cheer50> <cheer50> <cheer50>" -Sax5K (02-Jul-18)
@@ -376,7 +379,8 @@ command `!quote N` for some number N.
 * 437: "Today has been one of those "Hey, Devi! Let's do all the things today. Except art." days." -DeviCat (04-Jul-18)
 * <missing quote 438, ask CCB for it please>
 * 439: "Thank you. I shall tip my headphones to you." -DeviCat (05-Jul-18)
-* <missing quotes 440-441, please ask CCB for them>
+* 440: "... because once I start talking, I basically don't stop talking..." -DeviCat (05-Jul-18)
+* <missing quote 441, ask CCB for it please>
 * 442: "I know you're real." -DeviCat (07-Jul-18)
 * 443: "What is Devi's hair colour?" -everyone (07-Jul-18)
 * 444: "welcome to @Devicat part hooman part cat. What color is her beard ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0) ." -derppicklejar (08-Jul-18)
@@ -407,9 +411,10 @@ command `!quote N` for some number N.
 * 477: "But I was SO wrong. And I haven't even done the hair yet!" -DeviCat (18-Aug-18)
 * <missing quote 478, ask CCB for it please>
 * 479: "Devi, have you ever drawn a pancake in PhotoShop? You'd need to flip it periodically... ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1291580/1.0) ." -Rosuav (20-Aug-18)
-* <missing quotes 480-481, please ask CCB for them>
+* 480: "The problem is, this is a Dragon not a cute anime Girl ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0) ." -DeviCat (20-Aug-18)
+* <missing quote 481, ask CCB for it please>
 * 482: "the square root of branch is tree ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -eggrinthebox (25-Aug-18)
-* <missing quote 483, ask CCB for it please>
+* 483: "I know this doesn't look very anime, It looks like a door but that because it is ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (27-Aug-18)
 * 484: "Welcome to DeviCat's Twitch Channel, where you will learn how to defend yourself with a tablet pen. The technique is simple: If someone tries to grab you, you Wac'om!" -Rosuav (27-Aug-18)
 * 485: "I'm sorry! I forgot about the door!" -DeviCat (29-Aug-18)
 * 486: "I've found your tears!" -DeviCat (29-Aug-18)
@@ -463,5 +468,5 @@ command `!quote N` for some number N.
 * 551: "I'm missing an armpit!" -DeviCat (30-Dec-18)
 * 552: "I'm not gonna finish my sentence, 'cause it's just gonna get added to the quotes, so never mind!" ~" -DeviCat (02-Jan-19)
 
-This list is missing 224 quotes, plus any that have been recently added.
+This list is missing 217 quotes, plus any that have been recently added.
 
