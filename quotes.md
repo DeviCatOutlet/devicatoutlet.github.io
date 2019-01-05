@@ -16,12 +16,14 @@ command `!quote N` for some number N.
 * 4: "Stop trying to kill yourself and do some ice breakers!" -Devi_Cat (14-Nov-15)
 * 5: "Everyone just be yourselves, now let's flip tables." -Devi_Cat (14-Nov-15)
 * 6: "Link , stop being hot!" -Devi_Cat (17-Nov-15)
-* <missing quote 7, ask CCB for it please>
+* 7: "Everyone do the sponge I love it!" -Devi_Cat (21-Nov-15)
 * 8: "You two could play hide and seek under coffee cups ![:D](https://static-cdn.jtvnw.net/emoticons/v1/3/1.0) " -Locust530 (02-Dec-15)
 * <missing quote 9, ask CCB for it please>
 * 10: " *salami Xpress* a tattoo and a sandwich shop all in 1 place. not very sanitary but we'll keep you fed and looking right" -Salami_express (06-Dec-15)
 * 11: "Imma take some catnip, flip a table then get back to work ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -Devi_Cat (07-Dec-15)
-* <missing quotes 12-16, please ask CCB for them>
+* <missing quotes 12-13, please ask CCB for them>
+* 14: "Anyone a single pringle and ready to mingle? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -EricMCP2 (21-Dec-15)
+* <missing quotes 15-16, please ask CCB for them>
 * 17: "Devi, I have some serious cattitude today. But I am purrsuading you to believe that your drawing is pawsitive on this fine Caturday." -Rebekah_erhardt (13-Feb-16)
 * 18: "You see guys, when devi was younger her parents put an "awesome" magnet in her head. So now everything awesome is drawn to Devi like moths to a flame" -MadPlaidGaming (17-Mar-16)
 * <missing quote 19, ask CCB for it please>
@@ -403,10 +405,12 @@ command `!quote N` for some number N.
 * 466: "Oh yeah, she's still missing her fingernails!" -DeviCat (04-Aug-18)
 * <missing quote 467, ask CCB for it please>
 * 468: "Deer Devi, This is Lita. I am watching from behind this glass. I know I did this to myself, I never learn, but i would like you to open it for me." -DuCkY245 (06-Aug-18)
-* <missing quotes 469-471, please ask CCB for them>
+* <missing quote 469, ask CCB for it please>
+* 470: "It is no longer fiber arts, it is fiber carts! Because we drive around in our art. Or go shopping with it!" -DeviCat (09-Aug-18)
+* <missing quote 471, ask CCB for it please>
 * 472: "My eyelashes! Where are they? Where did I put them? ... Oh I'm in the wrong area." -DeviCat (12-Aug-18)
 * <missing quotes 473-474, please ask CCB for them>
-* 475: "devicatHIYO I was so excited about the pink that I forgot to say "Hi Everyone!"." -Ro_i3 (15-Aug-18)
+* 475: " ![devicatHIYO](https://static-cdn.jtvnw.net/emoticons/v1/1291585/1.0) I was so excited about the pink that I forgot to say "Hi Everyone!"." -Ro_i3 (15-Aug-18)
 * 476: "DeviCatOutlet: Brand-name positivity at wholesale prices! ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1291588/1.0) Get your kawaii direct from the factory outlet and save!" -Rosuav (16-Aug-18)
 * 477: "But I was SO wrong. And I haven't even done the hair yet!" -DeviCat (18-Aug-18)
 * <missing quote 478, ask CCB for it please>
@@ -463,10 +467,12 @@ command `!quote N` for some number N.
 * 543: "Welcome to the Devi-Cat Estates! Only the finest in butt box design to maximize your comfort. Made for even the most quiet of lurkers! Enjoy your stay in the this home of happy hypu where you feel the love every day. Oh. And cake." -LadyDreamTV (13-Dec-18)
 * 544: "Oml Devi you have the soft demeaner and patience of a kindergarten teacher bless u XD" -ManufacturedRainbows (17-Dec-18)
 * 545: "We this Pove ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0) ." -DuCkY245 (17-Dec-18)
-* <missing quotes 546-549, please ask CCB for them>
+* <missing quote 546, ask CCB for it please>
+* 547: "I discovered very quickly that I hit buttons. ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0) !" -DeviCat (19-Dec-18)
+* <missing quotes 548-549, please ask CCB for them>
 * 550: "I almost took its ears with it ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (24-Dec-18)
 * 551: "I'm missing an armpit!" -DeviCat (30-Dec-18)
 * 552: "I'm not gonna finish my sentence, 'cause it's just gonna get added to the quotes, so never mind!" ~" -DeviCat (02-Jan-19)
 
-This list is missing 217 quotes, plus any that have been recently added.
+This list is missing 213 quotes, plus any that have been recently added.
 
