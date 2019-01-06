@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 552 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 554 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -207,7 +207,9 @@ command `!quote N` for some number N.
 * 224: "I! Just! Want! Mayo!" -DeviCat (02-Dec-17)
 * 225: "Danny Where'd you go OH NO DANNY COME BACK ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (03-Dec-17)
 * 226: "It's a very confused chicken. "Why did I get blown up?"" -DeviCat (06-Dec-17)
-* <missing quotes 227-231, please ask CCB for them>
+* <missing quotes 227-228, please ask CCB for them>
+* 229: "Don't worry guys im just doing some minor surgery ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (09-Dec-17)
+* <missing quotes 230-231, please ask CCB for them>
 * 232: "Don't kill yourself! -- don't worry, that's what the seaweed is for." -DeviCat (09-Dec-17)
 * <missing quotes 233-234, please ask CCB for them>
 * 235: "Convention clothing, as opposed to conventional clothing ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1293025/1.0) ." -rosuav (11-Dec-17)
@@ -253,7 +255,9 @@ command `!quote N` for some number N.
 * <missing quote 279, ask CCB for it please>
 * 280: "Or Pickaxeing a chicken, no one saw that ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0) ." -DeviCat (12-Feb-18)
 * 281: "I always keep tons of cheddar on me." -DeviCat (12-Feb-18)
-* <missing quotes 282-285, please ask CCB for them>
+* <missing quotes 282-283, please ask CCB for them>
+* 284: "Requires valuable... chewing time." -DeviCat (15-Feb-18)
+* <missing quote 285, ask CCB for it please>
 * 286: "If you ever get a male manga, would it be a mango? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -Rosuav (18-Feb-18)
 * 287: "Rip to the bee FOR DEVI HAS RISEN HAHA" -DeviCat (18-Feb-18)
 * <missing quotes 288-292, please ask CCB for them>
@@ -295,7 +299,9 @@ command `!quote N` for some number N.
 * 330: "And then my hips went kerBAM!" -DeviCat (01-Apr-18)
 * <missing quote 331, ask CCB for it please>
 * 332: "I'm just going to finish this thumb... if I can devicatNOM ..." -DeviCat (02-Apr-18)
-* <missing quotes 333-337, please ask CCB for them>
+* <missing quotes 333-334, please ask CCB for them>
+* 335: "Blacksouls and Rosu quote everything. If it flies out of my mouth and it's funny, they quote it." -DeviCat (02-Apr-18)
+* <missing quotes 336-337, please ask CCB for them>
 * 338: "All those hugs! ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/1291590/1.0) You're making painting hair that much more fun." -DeviCat (04-Apr-18)
 * 339: "the trees have begun to breed" -r4v3n_x (05-Apr-18)
 * 340: "I'm a bard in this world. I give buffs by singing and dancing." -DeviCat (07-Apr-18)
@@ -363,7 +369,9 @@ command `!quote N` for some number N.
 * 406: "Did I lose the ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1293027/1.0) ? Nooooo! I lost the booty!" -DeviCat (02-Jun-18)
 * 407: "Please tell Hallway Raptor to buy some more light bulbs. The bulb in the broom closet has burned out. Living Room T-Rex is also hiding up on a chair because there is a spider on the flood." -Broom_Closet_Triceratops (02-Jun-18)
 * 408: "Devi's dad had the perfect skills to be a con artist. And now his daugher is an artist who goes to cons." -Rosuav (03-Jun-18)
-* <missing quotes 409-415, please ask CCB for them>
+* <missing quotes 409-411, please ask CCB for them>
+* 412: "We can turn the color on or off... actually that looks badass, let's keep it like that ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/1291593/1.0) !" -DeviCat (04-Jun-18)
+* <missing quotes 413-415, please ask CCB for them>
 * 416: "For some reason Twitch gave me more bitties. For some reason, I want to eat the sparkles." -a_tiny_little_cat (07-Jun-18)
 * <missing quotes 417-418, please ask CCB for them>
 * 419: "I found the sparkles!!" -DeviCat (09-Jun-18)
@@ -392,7 +400,8 @@ command `!quote N` for some number N.
 * 448: "ALL the best artists are masochists! ![devicatCCB](https://static-cdn.jtvnw.net/emoticons/v1/1291599/1.0) ." -LadyDreamTV (11-Jul-18)
 * 449: "I was going to stream today, but you exist." -a_tiny_little_cat (11-Jul-18)
 * 450: "I'm missing something terribly important! I'm missing skin!!" -DeviCat (11-Jul-18)
-* <missing quotes 451-452, please ask CCB for them>
+* 451: "Okay green. Okay green. Where art thou?" -DeviCat (12-Jul-18)
+* <missing quote 452, ask CCB for it please>
 * 453: "My eyes are real ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (14-Jul-18)
 * <missing quotes 454-457, please ask CCB for them>
 * 458: "I'm glad it turned into a caramel sauce and not, you know, a desert animal." -DeviCat (18-Jul-18)
@@ -436,7 +445,8 @@ command `!quote N` for some number N.
 * <missing quotes 501-502, please ask CCB for them>
 * 503: "The butt fortress, The secret layer of the butt squad ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1291580/1.0) ." -Blacksouls92 (26-Sep-18)
 * 504: "Too late to explore the world, to early to explore the universe but just in time to see bowsette memes. What a time to be alive!" -BoozeWash (29-Sep-18)
-* <missing quotes 505-508, please ask CCB for them>
+* 505: "I'm just going to fix the bottom stairwell - by removing it altogether" -DeviCat (03-Oct-18)
+* <missing quotes 506-508, please ask CCB for them>
 * 509: "I have to look at my own knee for a minute ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0) ." -DeviCat (06-Oct-18)
 * 510: "I did that yesterday and erased your entire head... I was like, oh my God thank you for the back button ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) !" -eggrinthebox (07-Oct-18)
 * <missing quotes 511-512, please ask CCB for them>
@@ -473,6 +483,8 @@ command `!quote N` for some number N.
 * 550: "I almost took its ears with it ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (24-Dec-18)
 * 551: "I'm missing an armpit!" -DeviCat (30-Dec-18)
 * 552: "I'm not gonna finish my sentence, 'cause it's just gonna get added to the quotes, so never mind!" ~" -DeviCat (02-Jan-19)
+* 553: "And its very dead, Cause its been jammed ![deviMM](https://cdn.betterttv.net/frankerfacez_emote/170353/1) ." -DeviCat (05-Jan-19)
+* 554: "Taste the rainbow more like taste the magic!" -Lavodnas (05-Jan-19)
 
-This list is missing 213 quotes, plus any that have been recently added.
+This list is missing 207 quotes, plus any that have been recently added.
 
