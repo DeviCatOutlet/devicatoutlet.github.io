@@ -48,7 +48,9 @@ command `!quote N` for some number N.
 * 39: "[ Jessabot]: ' I cried 6 oceans of tears for Midna!' [ Speedfreak86]: ' Aren't there 7?' [ Jessabot ]: ' I'm saving the 7th for later!'" -Jessabot & Speed_Freak86 (12-Aug-16)
 * <missing quote 40, ask CCB for it please>
 * 41: ""If you need something white, make it blue"" -DEVI_CAT (28-Aug-16)
-* <missing quotes 42-45, please ask CCB for them>
+* <missing quote 42, ask CCB for it please>
+* 43: "what actually happens she sends a carrier pigeon to tell you it's been received. and it's a Canadian pigeon so it knows what's up" -peckapon (31-Aug-16)
+* <missing quotes 44-45, please ask CCB for them>
 * 46: "E's are difficult, don't mess with them. They'll getchu ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1293024/1.0) " -Devi_Cat (08-Sep-16)
 * 47: "Well Devi, from what I can tell bits work like this: You have a shotglass altar of marshmallow now and people go on Amazon to buy jewelry to put in the glass to pay tribute to the marshmallow." -CiriIon (12-Sep-16)
 * 48: "Who put their mini trampoline at the bottom of the cup again ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -aru_ari (16-Sep-16)
@@ -191,7 +193,8 @@ command `!quote N` for some number N.
 * 205: "Nothing happens on a Wednesday!" -- Twitch laughs in the face of your expected quietude ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -Rosuav (15-Nov-17)
 * <missing quote 206, ask CCB for it please>
 * 207: "!nake 100" -DeviCat (16-Nov-17)
-* <missing quotes 208-209, please ask CCB for them>
+* <missing quote 208, ask CCB for it please>
+* 209: "The soul market shall grow ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0) ." -Blacksouls92 (18-Nov-17)
 * 210: "Want DeviCat as Queen Waifu? Want art that is so fly a plane can't compare? Hit that waifu heart and tune in to your local Canadian Bob Ross reincarnation! ![KappaRoss](https://static-cdn.jtvnw.net/emoticons/v1/70433/1.0) ." -dearpicklejar (18-Nov-17)
 * 211: "I know we're zoomed in on cleavage right now, but I'm doing it just to change the line-art, I swear!" -DeviCat (18-Nov-17)
 * 212: "Every day is a good day when you ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) !" -PhotoSvein (19-Nov-17)
@@ -260,9 +263,13 @@ command `!quote N` for some number N.
 * <missing quote 285, ask CCB for it please>
 * 286: "If you ever get a male manga, would it be a mango? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -Rosuav (18-Feb-18)
 * 287: "Rip to the bee FOR DEVI HAS RISEN HAHA" -DeviCat (18-Feb-18)
-* <missing quotes 288-292, please ask CCB for them>
+* <missing quotes 288-289, please ask CCB for them>
+* 290: "I'm just going to go naked for a second. ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (19-Feb-18)
+* <missing quotes 291-292, please ask CCB for them>
 * 293: "Sorry, we're talking about removing FACES, not HAIR." -DeviCat (21-Feb-18)
-* <missing quotes 294-296, please ask CCB for them>
+* <missing quote 294, ask CCB for it please>
+* 295: "Cheetos dust is bad for you." -HallwayRaptor (24-Feb-18)
+* <missing quote 296, ask CCB for it please>
 * 297: "Pardon me while I sit here cackling evilly..." -DeviCat (24-Feb-18)
 * 298: "Devi Wings: when Red Bull isn't enough and you need that extra lift!" -dearpicklejar (24-Feb-18)
 * 299: "I can become big for a while ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0) and I can make fire... Life is good. ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1293020/1.0) ." -DeviCat (26-Feb-18)
@@ -403,7 +410,9 @@ command `!quote N` for some number N.
 * 451: "Okay green. Okay green. Where art thou?" -DeviCat (12-Jul-18)
 * <missing quote 452, ask CCB for it please>
 * 453: "My eyes are real ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (14-Jul-18)
-* <missing quotes 454-457, please ask CCB for them>
+* <missing quote 454, ask CCB for it please>
+* 455: "I am Devimeter. Hear me Gaige." -DeviCat (15-Jul-18)
+* <missing quotes 456-457, please ask CCB for them>
 * 458: "I'm glad it turned into a caramel sauce and not, you know, a desert animal." -DeviCat (18-Jul-18)
 * 459: "Whenever I do something good with a body part, I want to keep it exposed." -DeviCat (19-Jul-18)
 * <missing quotes 460-461, please ask CCB for them>
@@ -468,7 +477,9 @@ command `!quote N` for some number N.
 * 531: "Thank you for all those butts, they are beautiful." -DeviCat (14-Nov-18)
 * <missing quote 532, ask CCB for it please>
 * 533: "That was a bad butt manoeuvre ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1293027/1.0) ." -DeviCat (21-Nov-18)
-* <missing quotes 534-537, please ask CCB for them>
+* <missing quote 534, ask CCB for it please>
+* 535: "Aaaaagh! I moved the nose altogether!" -DeviCat (26-Nov-18)
+* <missing quotes 536-537, please ask CCB for them>
 * 538: "guys, he proposed in a hallway whilst wearing one of those raptor suits. Believe me I was the suit ![scudDance](https://cdn.betterttv.net/emote/55b947aa8bc2bcfa0d99f669/1x) ." -ElaineSpencer (05-Dec-18)
 * 539: "penguin: Hello tiny Mortals my name is Sir Squeh. bow down to my shiny feet, feed me cheeseburgers ,give me your magic powers. all hail the mighty Squeh ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1293025/1.0) ." -pickledeggrin (06-Dec-18)
 * 540: "The cat is basically done, but I want to play with it a bit more." -DeviCat (06-Dec-18)
@@ -486,5 +497,5 @@ command `!quote N` for some number N.
 * 553: "And its very dead, Cause its been jammed ![deviMM](https://cdn.betterttv.net/frankerfacez_emote/170353/1) ." -DeviCat (05-Jan-19)
 * 554: "Taste the rainbow more like taste the magic!" -Lavodnas (05-Jan-19)
 
-This list is missing 207 quotes, plus any that have been recently added.
+This list is missing 201 quotes, plus any that have been recently added.
 
