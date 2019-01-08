@@ -24,4 +24,6 @@ the further up the cake line you go. Now these little cuties have their own pers
 
 ![BerriChan 2018](img/berrichan_2018.png)
 
+![BerriChan Candy Cane Girl 2018](img/BerriChan_CandyCaneGirl_2018.png)
+
 ![Birthday Nilla](img/birthday.png)

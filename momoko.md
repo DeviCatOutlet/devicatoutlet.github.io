@@ -21,6 +21,9 @@ further inspired Devi to officially give her a body and then eventually a name.
 
 ### Momoko to date:
 
+
+![CCB KawaiiGirl FairyKei 2018](img/CCB_KawaiiGirl_FairyKei_2018.png)
+
 ![CCB Candy Carnival](img/ccb_candy_carnival_2018.png)
 
 ![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
