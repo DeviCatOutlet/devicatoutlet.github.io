@@ -12,7 +12,7 @@
 
   Learn about DeviCat.
 
-* [![Contact](img/pobox_panel.png)](contact)
+* [![Contact](img/pobox_panel_letter.png)](contact)
 
   #### [Contact](contact)
 
