@@ -1,6 +1,6 @@
 # Home
 
-* [![Shop](img/artshop_panel.png)](https://www.redbubble.com/people/devicatoutlet/shop/)
+* [![Shop](img/artshop_panel_cakie.png)](https://www.redbubble.com/people/devicatoutlet/shop/)
 
   #### [Shop](https://www.redbubble.com/people/devicatoutlet/shop/)
 
