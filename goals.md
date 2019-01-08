@@ -1,15 +1,9 @@
 # Goals
 
 ## Next On Our List!
+- ⭐Applying for ambassador / reviewer for content related to our platform.
 - ⭐Affiliations & Sponsorships with content related to our platform.
 - ⭐Licensing / Royalties of our original designs.
-- ⭐Art contests to participate in.
-
-
-## Current Projects / Rewards
-- Twitch stream schedule: 5x nights per week. 
-- YouTube upload schedule: 1-3x per week.
-- Patreon monthly rewards: gratitude videos & coloring book pages.
 
 
 ## Past Achievements 
