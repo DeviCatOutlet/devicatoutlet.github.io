@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 554 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 555 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -146,7 +146,9 @@ command `!quote N` for some number N.
 * 154: "My PO box is a TARDIS" -DEVI_CAT (06-Sep-17)
 * 155: "Devi's going full Titanic mode Forcing it to sink ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -Rosuav (06-Sep-17)
 * 156: "Is this gonna be one of those 'we need to turn off the moon' situations ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0) ?" -Blacksouls92 (07-Sep-17)
-* <missing quotes 157-160, please ask CCB for them>
+* <missing quotes 157-158, please ask CCB for them>
+* 159: "Kay! KKKKKKKKKKKKK!" -DEVI_CAT (11-Sep-17)
+* <missing quote 160, ask CCB for it please>
 * 161: "#charity" -Wuistinger (14-Sep-17)
 * 162: "I see her twirling she be cuteing ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -SakuraKoneko (16-Sep-17)
 * 163: "What about grenade-resistant zombies?" -mogarringa (16-Sep-17)
@@ -323,7 +325,8 @@ command `!quote N` for some number N.
 * 349: "Death by crazy sailor!!" -DeviCat (09-Apr-18)
 * 350: "I wonder how Sodapop would feel about us doing stuff with his giraffe ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1291580/1.0) ." -DeviCat (09-Apr-18)
 * 351: "its because Spyro has the same color combo as this pop tart, He is secretly Wild Berry ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1291580/1.0) ." -DeviCat (09-Apr-18)
-* <missing quotes 352-353, please ask CCB for them>
+* 352: "I have barely any anatomy" -DeviCat (09-Apr-18)
+* <missing quote 353, ask CCB for it please>
 * 354: "I have to pull down the shorts a bit" -DeviCat (12-Apr-18)
 * 355: "And by 'speaking skills', I mean 'I never shut up'." -devicat (14-Apr-18)
 * 356: "Welcome to a DeviCat stream where we are used to be known for doing magic but now we are primarily known for writing names ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1291580/1.0) !" -xangel56 (14-Apr-18)
@@ -446,7 +449,9 @@ command `!quote N` for some number N.
 * 490: "Its like a bank heist but your baking cake ![devicatCAKE](https://static-cdn.jtvnw.net/emoticons/v1/1293021/1.0) ." -DeviCat (03-Sep-18)
 * 491: "Guess what? This is the part where we get to hide our character!" -DeviCat (03-Sep-18)
 * 492: "Look at this dirt! It's so dirty! It's awesome!" -DeviCat (03-Sep-18)
-* <missing quotes 493-496, please ask CCB for them>
+* <missing quote 493, ask CCB for it please>
+* 494: "Just a friendly reminder that if you have an active gift sub you can renew your sub for only 1 dollar, just call 1-800 DeviCat. just kidding dont call that fake number but please do renew your sub!" -BoozeWash (12-Sep-18)
+* <missing quotes 495-496, please ask CCB for them>
 * 497: "We can make a few different candies for the store" -DeviCat (16-Sep-18)
 * 498: "Ah, I just go to bed when I'm exhausted ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1291580/1.0) ." -HatsuneMiku6458 (16-Sep-18)
 * <missing quote 499, ask CCB for it please>
@@ -496,6 +501,7 @@ command `!quote N` for some number N.
 * 552: "I'm not gonna finish my sentence, 'cause it's just gonna get added to the quotes, so never mind!" ~" -DeviCat (02-Jan-19)
 * 553: "And its very dead, Cause its been jammed ![deviMM](https://cdn.betterttv.net/frankerfacez_emote/170353/1) ." -DeviCat (05-Jan-19)
 * 554: "Taste the rainbow more like taste the magic!" -Lavodnas (05-Jan-19)
+* 555: "I'm a terrible influence AHAHA ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1) ." -DeviCat (07-Jan-19)
 
-This list is missing 201 quotes, plus any that have been recently added.
+This list is missing 198 quotes, plus any that have been recently added.
 
