@@ -37,7 +37,7 @@ do the !cake command.
   between 1 and 10.
 * Bake off: Gamble your cakes! Do “!bake #” where # is the number of cake
   you want to bake.
-* Cake Prize Giveaway: See details for how to use your cake for tickets
+* Giveaways: See details for how to use your cake for tickets
  during a live stream on Twitch.
 * Cake resets to 1 at the beginning of a new month.
 * Ask a mod to see who’s in the top 10.
