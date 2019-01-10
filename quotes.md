@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 555 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 556 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -85,7 +85,9 @@ command `!quote N` for some number N.
 * 79: "I need teeth" -DEVI_CAT (12-Apr-17)
 * 80: "Oh no, your hand is so orange. Whatever shall we do?" -Devi_Cat (12-Apr-17)
 * 81: "Are those space pants? Because your butt is out of this world.... ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -Rebekah_Chan (12-Apr-17)
-* <missing quotes 82-84, please ask CCB for them>
+* <missing quote 82, ask CCB for it please>
+* 83: "I can eat cereal your of a freaking Devi bowl ![PogChamp](https://static-cdn.jtvnw.net/emoticons/v1/88/1.0) ." -SkullxKnight_ (12-Apr-17)
+* <missing quote 84, ask CCB for it please>
 * 85: "How dare you merge with a thumbnail ![DeviRawr](https://cdn.betterttv.net/frankerfacez_emote/70999/1) ." -DEVI_CAT (13-Apr-17)
 * 86: "geez that bed weights 300 pounds you may want to get a lighter bed that may be why he doesnt want to sleep in it" -Speed_freak86 (13-Apr-17)
 * 87: "I got a notebook so I could keep curious Kitties ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1293024/1.0) ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1293025/1.0) ." -DEVI_CAT (13-Apr-17)
@@ -106,9 +108,13 @@ command `!quote N` for some number N.
 * <missing quotes 102-103, please ask CCB for them>
 * 104: "MEW" -Austin1617 (13-May-17)
 * 105: "HOW DARE YOU PUT THE COOKIE IN THE MELON JAR" -DEVI_CAT (14-May-17)
-* <missing quotes 106-108, please ask CCB for them>
+* <missing quote 106, ask CCB for it please>
+* 107: "May 14, 2017 The night that everything happened" -Blacksouls92 (14-May-17)
+* <missing quote 108, ask CCB for it please>
 * 109: "Devi was riding her snowmobile across the frozen tundra of the Canadian north, and she served to miss a random snow weasel, she flipped, and was trapped under her ride for 2 days, surviving on melted snow until she dug her way out and navigted home by the light of the moon because she couldn't miss streaming for us." -TriellFreschi (22-May-17)
-* <missing quotes 110-112, please ask CCB for them>
+* <missing quote 110, ask CCB for it please>
+* 111: "TILDE'S AND CARROTS" -DEVI_CAT (24-May-17)
+* <missing quote 112, ask CCB for it please>
 * 113: "Were gonna turn the moon on" -DEVI_CAT (01-Jun-17)
 * 114: "I TOLD YOU GUYS NOT TO READ IT ![DeviRawr](https://cdn.betterttv.net/frankerfacez_emote/70999/1) " -ciri_ion (04-Jun-17)
 * <missing quotes 115-116, please ask CCB for them>
@@ -124,7 +130,9 @@ command `!quote N` for some number N.
 * <missing quotes 126-127, please ask CCB for them>
 * 128: "I want my work space back Goddammit" -DEVI_CAT (05-Jul-17)
 * 129: "So I hit a shortcut but I didnt know what I did" -DEVI_CAT (05-Jul-17)
-* <missing quotes 130-132, please ask CCB for them>
+* <missing quote 130, ask CCB for it please>
+* 131: "Believe it or not i have ears ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1293025/1.0) ." -DEVI_CAT (08-Jul-17)
+* <missing quote 132, ask CCB for it please>
 * 133: "MuxyMucs" -xFaTaLxGLITCHx (15-Jul-17)
 * 134: "I like the ways these feet turned out, These feet look awesome" -DEVI_CAT (17-Jul-17)
 * 135: "Devi makes us think she uses that tablet to draw but its all just a ruse to distract us from the fact that she uses her mind powers to draw on the computer ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -Blacksouls92 (20-Jul-17)
@@ -216,9 +224,12 @@ command `!quote N` for some number N.
 * 229: "Don't worry guys im just doing some minor surgery ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (09-Dec-17)
 * <missing quotes 230-231, please ask CCB for them>
 * 232: "Don't kill yourself! -- don't worry, that's what the seaweed is for." -DeviCat (09-Dec-17)
-* <missing quotes 233-234, please ask CCB for them>
+* 233: "Who needs chat when you can have Blacksouls ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0) ." -DeviCat (10-Dec-17)
+* <missing quote 234, ask CCB for it please>
 * 235: "Convention clothing, as opposed to conventional clothing ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1293025/1.0) ." -rosuav (11-Dec-17)
-* <missing quotes 236-238, please ask CCB for them>
+* <missing quote 236, ask CCB for it please>
+* 237: "Who needs sap when you can have a sword?" -DeviCat (16-Dec-17)
+* <missing quote 238, ask CCB for it please>
 * 239: "I guess I'll go water my cat ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1293025/1.0) ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1293024/1.0) ." -DeviCat (21-Dec-17)
 * 240: "Who needs algae when you pick mushrooms" -DeviCat (23-Dec-17)
 * <missing quote 241, ask CCB for it please>
@@ -310,7 +321,8 @@ command `!quote N` for some number N.
 * 332: "I'm just going to finish this thumb... if I can devicatNOM ..." -DeviCat (02-Apr-18)
 * <missing quotes 333-334, please ask CCB for them>
 * 335: "Blacksouls and Rosu quote everything. If it flies out of my mouth and it's funny, they quote it." -DeviCat (02-Apr-18)
-* <missing quotes 336-337, please ask CCB for them>
+* <missing quote 336, ask CCB for it please>
+* 337: "Want to know how to wake up chat? Make a box! Want to know how to REALLY wake up chat? Give that box cat ears!" -DeviCat (04-Apr-18)
 * 338: "All those hugs! ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/1291590/1.0) You're making painting hair that much more fun." -DeviCat (04-Apr-18)
 * 339: "the trees have begun to breed" -r4v3n_x (05-Apr-18)
 * 340: "I'm a bard in this world. I give buffs by singing and dancing." -DeviCat (07-Apr-18)
@@ -345,7 +357,7 @@ command `!quote N` for some number N.
 * 369: "I'm just picturing CCB spitting poison ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1291602/1.0) ." -DeviCat (19-Apr-18)
 * <missing quote 370, ask CCB for it please>
 * 371: "You are Indeed huge devicatNOM ." -DeviCat (22-Apr-18)
-* <missing quote 372, ask CCB for it please>
+* 372: "Guys, I am SAVAGE about drinking water ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1291602/1.0) !" -DeviCat (23-Apr-18)
 * 373: "I was going to make myself a belt made out of watches, but then I realized it would be a waist of time" -KokomoKitty (26-Apr-18)
 * 374: "I have a miscellaneous layer!" -DeviCat (26-Apr-18)
 * 375: "Is that an ice cube? ... Oh it's a toaster." -DeviCat (28-Apr-18)
@@ -502,6 +514,7 @@ command `!quote N` for some number N.
 * 553: "And its very dead, Cause its been jammed ![deviMM](https://cdn.betterttv.net/frankerfacez_emote/170353/1) ." -DeviCat (05-Jan-19)
 * 554: "Taste the rainbow more like taste the magic!" -Lavodnas (05-Jan-19)
 * 555: "I'm a terrible influence AHAHA ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1) ." -DeviCat (07-Jan-19)
+* 556: "I'm going to join the next one, because I have cake to burn!" -DeviCat (09-Jan-19)
 
-This list is missing 198 quotes, plus any that have been recently added.
+This list is missing 190 quotes, plus any that have been recently added.
 
