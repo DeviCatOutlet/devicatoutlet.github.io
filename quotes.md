@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 556 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 558 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -61,7 +61,7 @@ command `!quote N` for some number N.
 * 53: "Snickerdoodle with Chocolate chips.... because raisin cookies are why I have trust issues." -Imperialgrrl (02-Nov-16)
 * <missing quotes 54-55, please ask CCB for them>
 * 56: "Devi is a dealer of serotonin, dopamine and oxytosin. Don't tell Twitch. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -CiriIon (18-Dec-16)
-* <missing quote 57, ask CCB for it please>
+* 57: "Everyone needs itchy balls in their stream." -Cmd_Itchy_Balls (29-Dec-16)
 * 58: "This is cute already and it's only a box. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -Rebekah_Erhardt (05-Jan-17)
 * 59: "Devi's this pretty rave girl, I'll sing a song about her. And when she's senpai to me, butterflies go right through me. devicatDO " -CiriIon (28-Jan-17)
 * 60: "Talk to me or i will throw a scythe at you..." -Devi_Cat (12-Feb-17)
@@ -144,7 +144,8 @@ command `!quote N` for some number N.
 * 142: "I come in and missed the Murder ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -QuirkyQwerssie (12-Aug-17)
 * 143: "I have the strange, Strong urge to use pencil crayons" -luthiensurion44 (17-Aug-17)
 * 144: "Lets slice Austin into pieces ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1) 🔪 ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -Painted_Universe (19-Aug-17)
-* <missing quotes 145-147, please ask CCB for them>
+* 145: "You took a nice slice off Austin ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1) 🔪 ." -DEVI_CAT (19-Aug-17)
+* <missing quotes 146-147, please ask CCB for them>
 * 148: "Chii: Thug life chose meow. ![CoolCat](https://static-cdn.jtvnw.net/emoticons/v1/58127/1.0) ." -Catalyst_Puppet (20-Aug-17)
 * 149: "I'm really proud of this leg. ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1293024/1.0) " -DEVI_CAT (24-Aug-17)
 * 150: "Burnt Devi is like burnt toast. Good for absorbing a drink and not much else." -Rosuav (26-Aug-17)
@@ -225,7 +226,7 @@ command `!quote N` for some number N.
 * <missing quotes 230-231, please ask CCB for them>
 * 232: "Don't kill yourself! -- don't worry, that's what the seaweed is for." -DeviCat (09-Dec-17)
 * 233: "Who needs chat when you can have Blacksouls ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0) ." -DeviCat (10-Dec-17)
-* <missing quote 234, ask CCB for it please>
+* 234: "I wanna be the very best Ross Like no one ever was To draw happy little trees is my real test To grow them is my cause I will travel across twitch Searching far and wide Each Devimon to understand The art that's inside Devimon, gotta draw 'em all Its you and me I know it's my destiny Devimon, oh, you're my best friend In a world we must color Devimon, gotta catch 'em all A heart so true Our courage will pull us through ![PokPikachu](https://static-cdn.jtvnw.net/emoticons/v1/743904/1.0) ![PokGengar](https://static-cdn.jtvnw.net/emoticons/v1/743886/1.0) ." -dearpicklejar (10-Dec-17)
 * 235: "Convention clothing, as opposed to conventional clothing ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1293025/1.0) ." -rosuav (11-Dec-17)
 * <missing quote 236, ask CCB for it please>
 * 237: "Who needs sap when you can have a sword?" -DeviCat (16-Dec-17)
@@ -278,7 +279,8 @@ command `!quote N` for some number N.
 * 287: "Rip to the bee FOR DEVI HAS RISEN HAHA" -DeviCat (18-Feb-18)
 * <missing quotes 288-289, please ask CCB for them>
 * 290: "I'm just going to go naked for a second. ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (19-Feb-18)
-* <missing quotes 291-292, please ask CCB for them>
+* 291: "We lost a hammer! ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1293020/1.0) ." -DeviCat (21-Feb-18)
+* <missing quote 292, ask CCB for it please>
 * 293: "Sorry, we're talking about removing FACES, not HAIR." -DeviCat (21-Feb-18)
 * <missing quote 294, ask CCB for it please>
 * 295: "Cheetos dust is bad for you." -HallwayRaptor (24-Feb-18)
@@ -515,6 +517,8 @@ command `!quote N` for some number N.
 * 554: "Taste the rainbow more like taste the magic!" -Lavodnas (05-Jan-19)
 * 555: "I'm a terrible influence AHAHA ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1) ." -DeviCat (07-Jan-19)
 * 556: "I'm going to join the next one, because I have cake to burn!" -DeviCat (09-Jan-19)
+* 557: "Yay! Nothing is broken! Yay! Everything is working!" -DeviCat (10-Jan-19)
+* 558: "I can't wait for the day that you're able to make a visual novel DeviCat Magica: Love Starts With Sparkles ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1291588/1.0) ." -pickledeggrin (10-Jan-19)
 
-This list is missing 190 quotes, plus any that have been recently added.
+This list is missing 186 quotes, plus any that have been recently added.
 
