@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 558 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 559 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -215,7 +215,9 @@ command `!quote N` for some number N.
 * 216: "Oh stop. I'm just going to kill you now." -DeviCat (25-Nov-17)
 * <missing quote 217, ask CCB for it please>
 * 218: "the guest is so good tho. *noms* ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -yankeekitty (27-Nov-17)
-* <missing quotes 219-221, please ask CCB for them>
+* <missing quote 219, ask CCB for it please>
+* 220: "Take the sword! We need money for chickens anyway." -DeviCat (29-Nov-17)
+* <missing quote 221, ask CCB for it please>
 * 222: "OH NOOO!!! I ate the potato!" -DeviCat (29-Nov-17)
 * 223: "be freeeeeeeee..in..your..corner... ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0) ." -DeviCat (02-Dec-17)
 * 224: "I! Just! Want! Mayo!" -DeviCat (02-Dec-17)
@@ -389,11 +391,14 @@ command `!quote N` for some number N.
 * 401: "We got a couple of minutes to kill you guys ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1293020/1.0) ." -DeviCat (28-May-18)
 * <missing quote 402, ask CCB for it please>
 * 403: "I did a search for 'kawaii pens'..." -DeviCat (30-May-18)
-* <missing quotes 404-405, please ask CCB for them>
+* 404: "My most recent weak spots were feet and flowers." -DeviCat (30-May-18)
+* <missing quote 405, ask CCB for it please>
 * 406: "Did I lose the ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1293027/1.0) ? Nooooo! I lost the booty!" -DeviCat (02-Jun-18)
 * 407: "Please tell Hallway Raptor to buy some more light bulbs. The bulb in the broom closet has burned out. Living Room T-Rex is also hiding up on a chair because there is a spider on the flood." -Broom_Closet_Triceratops (02-Jun-18)
 * 408: "Devi's dad had the perfect skills to be a con artist. And now his daugher is an artist who goes to cons." -Rosuav (03-Jun-18)
-* <missing quotes 409-411, please ask CCB for them>
+* <missing quote 409, ask CCB for it please>
+* 410: "Sorry, I got distracted by a picture of my face ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0) ." -DeviCat (03-Jun-18)
+* <missing quote 411, ask CCB for it please>
 * 412: "We can turn the color on or off... actually that looks badass, let's keep it like that ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/1291593/1.0) !" -DeviCat (04-Jun-18)
 * <missing quotes 413-415, please ask CCB for them>
 * 416: "For some reason Twitch gave me more bitties. For some reason, I want to eat the sparkles." -a_tiny_little_cat (07-Jun-18)
@@ -406,7 +411,8 @@ command `!quote N` for some number N.
 * <missing quotes 425-426, please ask CCB for them>
 * 427: "Her shorts look like frosting! I could eat them!" -DeviCat (24-Jun-18)
 * 428: "We would have to send PhotoSvein a giant flaming hula hoop, and they would have to take a video of themselves jumping through it, and then we'd allow them the honor of posting a link." -Hihohotdog (25-Jun-18)
-* <missing quotes 429-431, please ask CCB for them>
+* 429: "I made Dirt look at my dirt, i am so proud of that ground" -DeviCat (25-Jun-18)
+* <missing quotes 430-431, please ask CCB for them>
 * 432: "They call me the bell ringer of the streams <cheer50> <cheer50> <cheer50>" -Sax5K (02-Jul-18)
 * <missing quotes 433-435, please ask CCB for them>
 * 436: "I look up and it's just like BOOM! In your face. Cheers!" -DeviCat (04-Jul-18)
@@ -434,7 +440,7 @@ command `!quote N` for some number N.
 * 459: "Whenever I do something good with a body part, I want to keep it exposed." -DeviCat (19-Jul-18)
 * <missing quotes 460-461, please ask CCB for them>
 * 462: "Group the rocket!" -DeviCat (28-Jul-18)
-* <missing quote 463, ask CCB for it please>
+* 463: "I shouldn't say "you're right", because you're right, but still" -DeviCat (28-Jul-18)
 * 464: "(repeated line) So that happened." -DeviCat (30-Jul-18)
 * 465: "Let me put the music notes back... And on that note...." -DeviCat (02-Aug-18)
 * 466: "Oh yeah, she's still missing her fingernails!" -DeviCat (04-Aug-18)
@@ -519,6 +525,7 @@ command `!quote N` for some number N.
 * 556: "I'm going to join the next one, because I have cake to burn!" -DeviCat (09-Jan-19)
 * 557: "Yay! Nothing is broken! Yay! Everything is working!" -DeviCat (10-Jan-19)
 * 558: "I can't wait for the day that you're able to make a visual novel DeviCat Magica: Love Starts With Sparkles ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1291588/1.0) ." -pickledeggrin (10-Jan-19)
+* 559: "Cheer cup! I found you, cheer cup, my precious friend!" -DeviCat (12-Jan-19)
 
-This list is missing 186 quotes, plus any that have been recently added.
+This list is missing 181 quotes, plus any that have been recently added.
 
