@@ -25,7 +25,7 @@
   * **Nationality:** Canadian
   * **Streaming on Twitch since:** May 28, 2015
   * **Partnered on Twitch since:** July 5, 2016
-  * **Role:** Artist / Speaker / Community Leader
+  * **Role:** Artist / Content Creator
   * **Self Taught:** Traditional Art / Digital Art
   * **Interested In:** Creating to put a smile on your face and a warmth in your heart.
   * **♡Married to:♡** [HallwayRaptor](https://www.twitter.com/HallwayRaptor)
