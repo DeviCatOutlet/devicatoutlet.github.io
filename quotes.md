@@ -400,7 +400,9 @@ command `!quote N` for some number N.
 * 410: "Sorry, I got distracted by a picture of my face ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0) ." -DeviCat (03-Jun-18)
 * <missing quote 411, ask CCB for it please>
 * 412: "We can turn the color on or off... actually that looks badass, let's keep it like that ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/1291593/1.0) !" -DeviCat (04-Jun-18)
-* <missing quotes 413-415, please ask CCB for them>
+* <missing quote 413, ask CCB for it please>
+* 414: "Devi: "I don't have to worry about anything today!" Windows: "Oh ho ho ho you aren't allowed to get complacent..."" -Rosuav (07-Jun-18)
+* <missing quote 415, ask CCB for it please>
 * 416: "For some reason Twitch gave me more bitties. For some reason, I want to eat the sparkles." -a_tiny_little_cat (07-Jun-18)
 * <missing quotes 417-418, please ask CCB for them>
 * 419: "I found the sparkles!!" -DeviCat (09-Jun-18)
@@ -414,7 +416,9 @@ command `!quote N` for some number N.
 * 429: "I made Dirt look at my dirt, i am so proud of that ground" -DeviCat (25-Jun-18)
 * <missing quotes 430-431, please ask CCB for them>
 * 432: "They call me the bell ringer of the streams <cheer50> <cheer50> <cheer50>" -Sax5K (02-Jul-18)
-* <missing quotes 433-435, please ask CCB for them>
+* <missing quote 433, ask CCB for it please>
+* 434: "We get excited about things, and then they turn into memes, and then the world explodes." -DeviCat (02-Jul-18)
+* <missing quote 435, ask CCB for it please>
 * 436: "I look up and it's just like BOOM! In your face. Cheers!" -DeviCat (04-Jul-18)
 * 437: "Today has been one of those "Hey, Devi! Let's do all the things today. Except art." days." -DeviCat (04-Jul-18)
 * <missing quote 438, ask CCB for it please>
@@ -527,5 +531,5 @@ command `!quote N` for some number N.
 * 558: "I can't wait for the day that you're able to make a visual novel DeviCat Magica: Love Starts With Sparkles ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1291588/1.0) ." -pickledeggrin (10-Jan-19)
 * 559: "Cheer cup! I found you, cheer cup, my precious friend!" -DeviCat (12-Jan-19)
 
-This list is missing 181 quotes, plus any that have been recently added.
+This list is missing 179 quotes, plus any that have been recently added.
 
