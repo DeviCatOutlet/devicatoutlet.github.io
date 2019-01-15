@@ -21,7 +21,8 @@ command `!quote N` for some number N.
 * <missing quote 9, ask CCB for it please>
 * 10: " *salami Xpress* a tattoo and a sandwich shop all in 1 place. not very sanitary but we'll keep you fed and looking right" -Salami_express (06-Dec-15)
 * 11: "Imma take some catnip, flip a table then get back to work ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -Devi_Cat (07-Dec-15)
-* <missing quotes 12-13, please ask CCB for them>
+* 12: "I went shopping bcuz groceries is a thing and food is a thing and I mostly needed more pizza pockets." -Devi_Cat (08-Dec-15)
+* <missing quote 13, ask CCB for it please>
 * 14: "Anyone a single pringle and ready to mingle? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -EricMCP2 (21-Dec-15)
 * <missing quotes 15-16, please ask CCB for them>
 * 17: "Devi, I have some serious cattitude today. But I am purrsuading you to believe that your drawing is pawsitive on this fine Caturday." -Rebekah_erhardt (13-Feb-16)
@@ -484,14 +485,18 @@ command `!quote N` for some number N.
 * 503: "The butt fortress, The secret layer of the butt squad ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1291580/1.0) ." -Blacksouls92 (26-Sep-18)
 * 504: "Too late to explore the world, to early to explore the universe but just in time to see bowsette memes. What a time to be alive!" -BoozeWash (29-Sep-18)
 * 505: "I'm just going to fix the bottom stairwell - by removing it altogether" -DeviCat (03-Oct-18)
-* <missing quotes 506-508, please ask CCB for them>
+* <missing quote 506, ask CCB for it please>
+* 507: "DeviChina, when you sell plates on Redbubble." -Rosuav (06-Oct-18)
+* <missing quote 508, ask CCB for it please>
 * 509: "I have to look at my own knee for a minute ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0) ." -DeviCat (06-Oct-18)
 * 510: "I did that yesterday and erased your entire head... I was like, oh my God thank you for the back button ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) !" -eggrinthebox (07-Oct-18)
 * <missing quotes 511-512, please ask CCB for them>
 * 513: "Dark mathematics. You say "multiply" and it casts a shadow." -Rosuav (13-Oct-18)
 * <missing quote 514, ask CCB for it please>
 * 515: "I think we may be able to just flip this leg and warp it a bit." -DeviCat (22-Oct-18)
-* <missing quotes 516-518, please ask CCB for them>
+* <missing quote 516, ask CCB for it please>
+* 517: "GIRL POWER! Just get a girl, put wires on her, and you can run PhotoShop on the pure magic created! ." -Rosuav (24-Oct-18)
+* <missing quote 518, ask CCB for it please>
 * 519: "I found the ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1293027/1.0) that's all that matters" -DeviCat (27-Oct-18)
 * <missing quote 520, ask CCB for it please>
 * 521: "Good news! I can finally leave the pumpkins now." -DeviCat (29-Oct-18)
@@ -531,5 +536,5 @@ command `!quote N` for some number N.
 * 558: "I can't wait for the day that you're able to make a visual novel DeviCat Magica: Love Starts With Sparkles ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1291588/1.0) ." -pickledeggrin (10-Jan-19)
 * 559: "Cheer cup! I found you, cheer cup, my precious friend!" -DeviCat (12-Jan-19)
 
-This list is missing 179 quotes, plus any that have been recently added.
+This list is missing 176 quotes, plus any that have been recently added.
 
