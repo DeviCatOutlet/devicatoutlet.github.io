@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 559 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 562 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -24,7 +24,8 @@ command `!quote N` for some number N.
 * 12: "I went shopping bcuz groceries is a thing and food is a thing and I mostly needed more pizza pockets." -Devi_Cat (08-Dec-15)
 * <missing quote 13, ask CCB for it please>
 * 14: "Anyone a single pringle and ready to mingle? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -EricMCP2 (21-Dec-15)
-* <missing quotes 15-16, please ask CCB for them>
+* 15: "Ramen and coffee are healthy I swear ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -Bmo77 (30-Dec-15)
+* <missing quote 16, ask CCB for it please>
 * 17: "Devi, I have some serious cattitude today. But I am purrsuading you to believe that your drawing is pawsitive on this fine Caturday." -Rebekah_erhardt (13-Feb-16)
 * 18: "You see guys, when devi was younger her parents put an "awesome" magnet in her head. So now everything awesome is drawn to Devi like moths to a flame" -MadPlaidGaming (17-Mar-16)
 * <missing quote 19, ask CCB for it please>
@@ -51,7 +52,8 @@ command `!quote N` for some number N.
 * 41: ""If you need something white, make it blue"" -DEVI_CAT (28-Aug-16)
 * <missing quote 42, ask CCB for it please>
 * 43: "what actually happens she sends a carrier pigeon to tell you it's been received. and it's a Canadian pigeon so it knows what's up" -peckapon (31-Aug-16)
-* <missing quotes 44-45, please ask CCB for them>
+* <missing quote 44, ask CCB for it please>
+* 45: "i might not always have pants on..... but i have shorts" -Devi_Cat (08-Sep-16)
 * 46: "E's are difficult, don't mess with them. They'll getchu ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1293024/1.0) " -Devi_Cat (08-Sep-16)
 * 47: "Well Devi, from what I can tell bits work like this: You have a shotglass altar of marshmallow now and people go on Amazon to buy jewelry to put in the glass to pay tribute to the marshmallow." -CiriIon (12-Sep-16)
 * 48: "Who put their mini trampoline at the bottom of the cup again ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -aru_ari (16-Sep-16)
@@ -60,7 +62,8 @@ command `!quote N` for some number N.
 * 51: "we bake together, we die together! Cakey" -Darthiande (06-Oct-16)
 * <missing quote 52, ask CCB for it please>
 * 53: "Snickerdoodle with Chocolate chips.... because raisin cookies are why I have trust issues." -Imperialgrrl (02-Nov-16)
-* <missing quotes 54-55, please ask CCB for them>
+* 54: "You know, as a guy I never get called beautiful, I to wanna feel pink flowers inside but that doesn't sound normal or healthy." -HiMew (07-Nov-16)
+* <missing quote 55, ask CCB for it please>
 * 56: "Devi is a dealer of serotonin, dopamine and oxytosin. Don't tell Twitch. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -CiriIon (18-Dec-16)
 * 57: "Everyone needs itchy balls in their stream." -Cmd_Itchy_Balls (29-Dec-16)
 * 58: "This is cute already and it's only a box. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -Rebekah_Erhardt (05-Jan-17)
@@ -165,7 +168,8 @@ command `!quote N` for some number N.
 * <missing quote 164, ask CCB for it please>
 * 165: "NO Don't go in the pumpkin ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DEVI_CAT (18-Sep-17)
 * 166: "Hold on i gotta put this girl away ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DEVI_CAT (20-Sep-17)
-* <missing quotes 167-168, please ask CCB for them>
+* <missing quote 167, ask CCB for it please>
+* 168: "To who ever took my copy of Microsoft I will find you, you have my word ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -LunaReisen (24-Sep-17)
 * 169: "Draw good sticks" -DEVI_CAT (25-Sep-17)
 * 170: "Looks like she's crying out the universe ![:P](https://static-cdn.jtvnw.net/emoticons/v1/12/1.0) ." -Foxifly (28-Sep-17)
 * 171: "And suddenly there was a rapping, as if a Raptor was gently tapping, knocking on Devi's office door." -hatandsandalsguy (28-Sep-17)
@@ -200,7 +204,7 @@ command `!quote N` for some number N.
 * 200: "introducing blacksouls92 branded souls. each soul is one of a kind just like you. to purchase please drop blacksouls a smile and a snuggly hug. This ad was brought to you today by devi_cat branded subscriber" -dearpicklejar (11-Nov-17)
 * <missing quote 201, ask CCB for it please>
 * 202: "I just cut the heels, I was just like bye heels ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DEVI_CAT (12-Nov-17)
-* <missing quote 203, ask CCB for it please>
+* 203: "Murder ALL the dance Florida!" -sprout884 (13-Nov-17)
 * 204: "Raptors gonna Spam Spam Spam and the Devis gonna Draw Draw Draw. Chat is gonna Chat it all, so chat it off chat it off" -KokomoKitty (13-Nov-17)
 * 205: "Nothing happens on a Wednesday!" -- Twitch laughs in the face of your expected quietude ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -Rosuav (15-Nov-17)
 * <missing quote 206, ask CCB for it please>
@@ -275,7 +279,8 @@ command `!quote N` for some number N.
 * <missing quote 279, ask CCB for it please>
 * 280: "Or Pickaxeing a chicken, no one saw that ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0) ." -DeviCat (12-Feb-18)
 * 281: "I always keep tons of cheddar on me." -DeviCat (12-Feb-18)
-* <missing quotes 282-283, please ask CCB for them>
+* 282: "Ah ha! There's my pupil. I found my pupil." -devicat (14-Feb-18)
+* <missing quote 283, ask CCB for it please>
 * 284: "Requires valuable... chewing time." -DeviCat (15-Feb-18)
 * <missing quote 285, ask CCB for it please>
 * 286: "If you ever get a male manga, would it be a mango? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -Rosuav (18-Feb-18)
@@ -535,6 +540,9 @@ command `!quote N` for some number N.
 * 557: "Yay! Nothing is broken! Yay! Everything is working!" -DeviCat (10-Jan-19)
 * 558: "I can't wait for the day that you're able to make a visual novel DeviCat Magica: Love Starts With Sparkles ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1291588/1.0) ." -pickledeggrin (10-Jan-19)
 * 559: "Cheer cup! I found you, cheer cup, my precious friend!" -DeviCat (12-Jan-19)
+* 560: "What a conversation to walk in on - we're talking about marshmallow ![deviMM](https://cdn.betterttv.net/frankerfacez_emote/170353/1) butts ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1293027/1.0) ." -DeviCat (12-Jan-19)
+* 561: "But I digress. We were talking about food, and now I'm going to spin the wheel." -DeviCat (17-Jan-19)
+* 562: "Sometimes you just have to stare up close at noses." -DeviCat (17-Jan-19)
 
-This list is missing 176 quotes, plus any that have been recently added.
+This list is missing 170 quotes, plus any that have been recently added.
 
