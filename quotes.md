@@ -333,7 +333,7 @@ command `!quote N` for some number N.
 * 335: "Blacksouls and Rosu quote everything. If it flies out of my mouth and it's funny, they quote it." -DeviCat (02-Apr-18)
 * <missing quote 336, ask CCB for it please>
 * 337: "Want to know how to wake up chat? Make a box! Want to know how to REALLY wake up chat? Give that box cat ears!" -DeviCat (04-Apr-18)
-* 338: "All those hugs! ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/1291590/1.0) You're making painting hair that much more fun." -DeviCat (04-Apr-18)
+* 338: "All those hugs! ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/1846641/1.0) You're making painting hair that much more fun." -DeviCat (04-Apr-18)
 * 339: "the trees have begun to breed" -r4v3n_x (05-Apr-18)
 * 340: "I'm a bard in this world. I give buffs by singing and dancing." -DeviCat (07-Apr-18)
 * 341: "I found a grabby hand, and I can't make it let go." -DeviCat (07-Apr-18)
