@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 562 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 564 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -398,7 +398,7 @@ command `!quote N` for some number N.
 * <missing quote 402, ask CCB for it please>
 * 403: "I did a search for 'kawaii pens'..." -DeviCat (30-May-18)
 * 404: "My most recent weak spots were feet and flowers." -DeviCat (30-May-18)
-* <missing quote 405, ask CCB for it please>
+* 405: "I lose the ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1293027/1.0) ? Nooooo! I lost the booty!" -Did (02-Jun-18)
 * 406: "Did I lose the ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1293027/1.0) ? Nooooo! I lost the booty!" -DeviCat (02-Jun-18)
 * 407: "Please tell Hallway Raptor to buy some more light bulbs. The bulb in the broom closet has burned out. Living Room T-Rex is also hiding up on a chair because there is a spider on the flood." -Broom_Closet_Triceratops (02-Jun-18)
 * 408: "Devi's dad had the perfect skills to be a con artist. And now his daugher is an artist who goes to cons." -Rosuav (03-Jun-18)
@@ -467,7 +467,7 @@ command `!quote N` for some number N.
 * <missing quote 478, ask CCB for it please>
 * 479: "Devi, have you ever drawn a pancake in PhotoShop? You'd need to flip it periodically... ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1291580/1.0) ." -Rosuav (20-Aug-18)
 * 480: "The problem is, this is a Dragon not a cute anime Girl ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0) ." -DeviCat (20-Aug-18)
-* <missing quote 481, ask CCB for it please>
+* 481: "Who cares about art? We're here for food and science!" -DeviCat (23-Aug-18)
 * 482: "the square root of branch is tree ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -eggrinthebox (25-Aug-18)
 * 483: "I know this doesn't look very anime, It looks like a door but that because it is ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (27-Aug-18)
 * 484: "Welcome to DeviCat's Twitch Channel, where you will learn how to defend yourself with a tablet pen. The technique is simple: If someone tries to grab you, you Wac'om!" -Rosuav (27-Aug-18)
@@ -543,6 +543,8 @@ command `!quote N` for some number N.
 * 560: "What a conversation to walk in on - we're talking about marshmallow ![deviMM](https://cdn.betterttv.net/frankerfacez_emote/170353/1) butts ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1293027/1.0) ." -DeviCat (12-Jan-19)
 * 561: "But I digress. We were talking about food, and now I'm going to spin the wheel." -DeviCat (17-Jan-19)
 * 562: "Sometimes you just have to stare up close at noses." -DeviCat (17-Jan-19)
+* 563: "Glowsticks - it's positivity liquid in plastic ![devicatGLO](https://static-cdn.jtvnw.net/emoticons/v1/1291596/1.0) ![devicatGLO2](https://static-cdn.jtvnw.net/emoticons/v1/1291597/1.0) ![devicatGLO2](https://static-cdn.jtvnw.net/emoticons/v1/1291597/1.0) !" -CuteBugBubbles (19-Jan-19)
+* 564: "When I embrace the cuteness, the cuteness just... explodes." -DeviCat (19-Jan-19)
 
-This list is missing 170 quotes, plus any that have been recently added.
+This list is missing 168 quotes, plus any that have been recently added.
 
