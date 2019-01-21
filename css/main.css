@@ -275,9 +275,11 @@ nav a {
 	color: black;
 	font-weight: normal;
 }
+/*
 nav > a, nav > .nav-menucontainer {
 	padding: .5rem;
 }
+*/
 /* Below 822px of width, collapse to Raptor Mode */
 @media (max-width: 822px)
 {
