@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 564 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 567 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -32,7 +32,8 @@ command `!quote N` for some number N.
 * 20: "(⊙ヮ⊙) I have passion...fruit" -CiriIon (27-Apr-16)
 * 21: "I can tell you're secretly a rainbow ![KappaPride](https://static-cdn.jtvnw.net/emoticons/v1/55338/1.0) " -xfatalxglitchx (12-May-16)
 * 22: "Come face me, my chocolate chips hungers for souls!" -Fiendishly_Juicy (17-May-16)
-* <missing quotes 23-24, please ask CCB for them>
+* <missing quote 23, ask CCB for it please>
+* 24: "No, your fiance is real it is that you have other parts of the house is the part we don't believe. We think you live in a section of a tiny dollhouse." -Tinzien (21-May-16)
 * 25: "✨ I wish my eyes had little stars in them...✨" -TreyCalico (26-May-16)
 * 26: "I need to remove your skin so I can do your hair ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) " -Devi_Cat (04-Jun-16)
 * 27: "I am clearly a chipmunk." -Devi_Cat (06-Jun-16)
@@ -75,7 +76,8 @@ command `!quote N` for some number N.
 * <missing quote 64, ask CCB for it please>
 * 65: "Gurl, where'd I put your legs?" -DeviCat (26-Mar-17)
 * 66: "I might have clipped some of her finger but its fine" -DEVI_CAT (26-Mar-17)
-* <missing quotes 67-68, please ask CCB for them>
+* 67: "you must become one with the shirt young padawan" -DEVI_CAT (27-Mar-17)
+* <missing quote 68, ask CCB for it please>
 * 69: "Yes i did remove her skin she did'nt need it anymore" -DEVI_CAT (02-Apr-17)
 * 70: "no i think bob ross is awesome. its just.... the way the song is. I can see him singing this as hes stalking you in the dark with a very sharp brush ![CoolStoryBob](https://static-cdn.jtvnw.net/emoticons/v1/123171/1.0) " -Kahj_ (03-Apr-17)
 * <missing quote 71, ask CCB for it please>
@@ -131,7 +133,8 @@ command `!quote N` for some number N.
 * 123: "I think when were done with her skin we'll go work on a cupcake ![DeviFear](https://cdn.betterttv.net/frankerfacez_emote/70998/1) ." -DEVI_CAT (24-Jun-17)
 * <missing quote 124, ask CCB for it please>
 * 125: "DOT" -glassholio (28-Jun-17)
-* <missing quotes 126-127, please ask CCB for them>
+* <missing quote 126, ask CCB for it please>
+* 127: "anyroom is dance room unless its a library ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1293025/1.0) " -Sax5K (03-Jul-17)
 * 128: "I want my work space back Goddammit" -DEVI_CAT (05-Jul-17)
 * 129: "So I hit a shortcut but I didnt know what I did" -DEVI_CAT (05-Jul-17)
 * <missing quote 130, ask CCB for it please>
@@ -144,7 +147,8 @@ command `!quote N` for some number N.
 * 137: "FierceKittenz isnt here i just Saw Blacksouls flipping sewing machines ![DeviFear](https://cdn.betterttv.net/frankerfacez_emote/70998/1) ." -DEVI_CAT (24-Jul-17)
 * <missing quote 138, ask CCB for it please>
 * 139: "Cute ...... and Sinister. ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1) " -Rosuav (30-Jul-17)
-* <missing quotes 140-141, please ask CCB for them>
+* 140: "And we're all very proud of you for being healthier than we are. ![Keepo](https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0) ." -rosuav (03-Aug-17)
+* <missing quote 141, ask CCB for it please>
 * 142: "I come in and missed the Murder ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -QuirkyQwerssie (12-Aug-17)
 * 143: "I have the strange, Strong urge to use pencil crayons" -luthiensurion44 (17-Aug-17)
 * 144: "Lets slice Austin into pieces ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1) 🔪 ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0) ." -Painted_Universe (19-Aug-17)
@@ -545,6 +549,9 @@ command `!quote N` for some number N.
 * 562: "Sometimes you just have to stare up close at noses." -DeviCat (17-Jan-19)
 * 563: "Glowsticks - it's positivity liquid in plastic ![devicatGLO](https://static-cdn.jtvnw.net/emoticons/v1/1291596/1.0) ![devicatGLO2](https://static-cdn.jtvnw.net/emoticons/v1/1291597/1.0) ![devicatGLO2](https://static-cdn.jtvnw.net/emoticons/v1/1291597/1.0) !" -CuteBugBubbles (19-Jan-19)
 * 564: "When I embrace the cuteness, the cuteness just... explodes." -DeviCat (19-Jan-19)
+* 565: "This is just how it is in the land of PhotoShop. We Frankenstein as we go." -DeviCat (20-Jan-19)
+* 566: "Aaah! I raised the whisker! I'm sorry, whisker!!" -DeviCat (20-Jan-19)
+* 567: "I forgot I made this mouth so cute! Let's borrow this mouth." -DeviCat (20-Jan-19)
 
-This list is missing 168 quotes, plus any that have been recently added.
+This list is missing 164 quotes, plus any that have been recently added.
 
