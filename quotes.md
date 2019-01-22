@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 567 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 569 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -111,7 +111,8 @@ command `!quote N` for some number N.
 * <missing quote 99, ask CCB for it please>
 * 100: "Hold on I need to look at my ankles for a minute" -DEVI_CAT (03-May-17)
 * 101: "Did you know? Beep is the sound of taking someones head off - Chronicles of Devi_Knowledge" -DEVI_CAT (03-May-17)
-* <missing quotes 102-103, please ask CCB for them>
+* <missing quote 102, ask CCB for it please>
+* 103: "I'll save the world in BotW after all the chickens have proper housing. That's the true crime of the game" -kelchu_ (10-May-17)
 * 104: "MEW" -Austin1617 (13-May-17)
 * 105: "HOW DARE YOU PUT THE COOKIE IN THE MELON JAR" -DEVI_CAT (14-May-17)
 * <missing quote 106, ask CCB for it please>
@@ -123,7 +124,8 @@ command `!quote N` for some number N.
 * <missing quote 112, ask CCB for it please>
 * 113: "Were gonna turn the moon on" -DEVI_CAT (01-Jun-17)
 * 114: "I TOLD YOU GUYS NOT TO READ IT ![DeviRawr](https://cdn.betterttv.net/frankerfacez_emote/70999/1) " -ciri_ion (04-Jun-17)
-* <missing quotes 115-116, please ask CCB for them>
+* 115: "CAUSE WHEN DEVI'S WIIIITH MEEEEE... I'M FREEEEEEEE. I'M CAAAARELESS, I BELIEEEVE. ABOVE ALL THE OOOOTHERRRRS, WE'LL FLLLYYYYYYY. WHICH BRINGS TEEEEARS, TO MY EEEEYYYYEEES. MY SACRIFICE" -BloomerForTheWin (05-Jun-17)
+* <missing quote 116, ask CCB for it please>
 * 117: "all of chat is a sprinkle compared to Blacksouls's rain ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1293027/1.0) " -glassholio (10-Jun-17)
 * <missing quote 118, ask CCB for it please>
 * 119: "The food is crying it knows its death is near ![DeviFear](https://cdn.betterttv.net/frankerfacez_emote/70998/1) ![DeviCry](https://cdn.betterttv.net/frankerfacez_emote/70993/1) ." -DEVI_CAT (14-Jun-17)
@@ -380,7 +382,8 @@ command `!quote N` for some number N.
 * 378: "We'll put some clothing on me. ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) I need clothes!" -DeviCat (05-May-18)
 * 379: "Thank you for having such a warm welcoming stream! Literally feel like I'm sitting in a comfy outfit floating on a doughnut floaty in a cup of coffee ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1291602/1.0) ." -caitlyncosplay (05-May-18)
 * 380: "By removing some of the clothing, I'm able to get practice drawing elbows and other joints" -DeviCat (07-May-18)
-* <missing quotes 381-382, please ask CCB for them>
+* 381: "I am your nomming unicorn." -derppicklejar (07-May-18)
+* <missing quote 382, ask CCB for it please>
 * 383: "Walking away for a minute is good, but coming back is equally important. ![devicatLURK](https://static-cdn.jtvnw.net/emoticons/v1/1291569/1.0) ." -stephenangelico (12-May-18)
 * 384: "If you want to slap my face, do it." -DeviCat (13-May-18)
 * <missing quote 385, ask CCB for it please>
@@ -418,9 +421,11 @@ command `!quote N` for some number N.
 * 419: "I found the sparkles!!" -DeviCat (09-Jun-18)
 * 420: "Yeah, I guess it would be scary if I exploded." -DeviCat (10-Jun-18)
 * 421: "Have a Devi day means there better be magic floating everywhere ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/1291593/1.0) ." -Blacksouls92 (11-Jun-18)
-* <missing quotes 422-423, please ask CCB for them>
+* <missing quote 422, ask CCB for it please>
+* 423: "O-Hiyo Everyone!!! ![devicatHIYO](https://static-cdn.jtvnw.net/emoticons/v1/1291585/1.0) I like that I come in and the first thing I see is Rosu saying 'A Box'" -DuCkY245 (20-Jun-18)
 * 424: "Sometimes ankles need to blush to, Somtimes they get embarrassed" -DeviCat (20-Jun-18)
-* <missing quotes 425-426, please ask CCB for them>
+* 425: "I am just full of boxes today!" -DeviCat (21-Jun-18)
+* <missing quote 426, ask CCB for it please>
 * 427: "Her shorts look like frosting! I could eat them!" -DeviCat (24-Jun-18)
 * 428: "We would have to send PhotoSvein a giant flaming hula hoop, and they would have to take a video of themselves jumping through it, and then we'd allow them the honor of posting a link." -Hihohotdog (25-Jun-18)
 * 429: "I made Dirt look at my dirt, i am so proud of that ground" -DeviCat (25-Jun-18)
@@ -449,7 +454,8 @@ command `!quote N` for some number N.
 * 453: "My eyes are real ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0) ." -DeviCat (14-Jul-18)
 * <missing quote 454, ask CCB for it please>
 * 455: "I am Devimeter. Hear me Gaige." -DeviCat (15-Jul-18)
-* <missing quotes 456-457, please ask CCB for them>
+* 456: "I'm in a tree mood." -DeviCat (18-Jul-18)
+* <missing quote 457, ask CCB for it please>
 * 458: "I'm glad it turned into a caramel sauce and not, you know, a desert animal." -DeviCat (18-Jul-18)
 * 459: "Whenever I do something good with a body part, I want to keep it exposed." -DeviCat (19-Jul-18)
 * <missing quotes 460-461, please ask CCB for them>
@@ -552,6 +558,8 @@ command `!quote N` for some number N.
 * 565: "This is just how it is in the land of PhotoShop. We Frankenstein as we go." -DeviCat (20-Jan-19)
 * 566: "Aaah! I raised the whisker! I'm sorry, whisker!!" -DeviCat (20-Jan-19)
 * 567: "I forgot I made this mouth so cute! Let's borrow this mouth." -DeviCat (20-Jan-19)
+* 568: "Well… well… well… well… well… well… well… well!" -DeviCat (21-Jan-19)
+* 569: "When ![devicatLURK](https://static-cdn.jtvnw.net/emoticons/v1/1291569/1.0) is backwards, it becomes cruel!" -DeviCat (21-Jan-19)
 
-This list is missing 164 quotes, plus any that have been recently added.
+This list is missing 158 quotes, plus any that have been recently added.
 
