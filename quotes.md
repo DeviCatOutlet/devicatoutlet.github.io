@@ -334,7 +334,7 @@ command `!quote N` for some number N.
 * <missing quote 329, ask CCB for it please>
 * 330: "And then my hips went kerBAM!" -DeviCat (01-Apr-18)
 * <missing quote 331, ask CCB for it please>
-* 332: "I'm just going to finish this thumb... if I can devicatNOM ..." -DeviCat (02-Apr-18)
+* 332: "I'm just going to finish this thumb... if I can ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/819947/1.0) ..." -DeviCat (02-Apr-18)
 * <missing quotes 333-334, please ask CCB for them>
 * 335: "Blacksouls and Rosu quote everything. If it flies out of my mouth and it's funny, they quote it." -DeviCat (02-Apr-18)
 * <missing quote 336, ask CCB for it please>
@@ -358,7 +358,7 @@ command `!quote N` for some number N.
 * 354: "I have to pull down the shorts a bit" -DeviCat (12-Apr-18)
 * 355: "And by 'speaking skills', I mean 'I never shut up'." -devicat (14-Apr-18)
 * 356: "Welcome to a DeviCat stream where we are used to be known for doing magic but now we are primarily known for writing names ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0) !" -xangel56 (14-Apr-18)
-* 357: "Moms know all candy devicatNOM ." -derppicklejar (14-Apr-18)
+* 357: "Moms know all candy ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/819947/1.0) ." -derppicklejar (14-Apr-18)
 * 358: "Where is Raptor? Might be in his office... might be in the hallways... he migrates, especially when cheeseburgers are involved." -DeviCat (14-Apr-18)
 * <missing quote 359, ask CCB for it please>
 * 360: "Dear Mr Souls this is Ginger Bread I am here to collect your eyes! 👀👁i need eyes! give me eyes! eyes! eyes! ." -derppicklejar (15-Apr-18)
@@ -372,7 +372,7 @@ command `!quote N` for some number N.
 * <missing quote 368, ask CCB for it please>
 * 369: "I'm just picturing CCB spitting poison ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1857253/1.0) ." -DeviCat (19-Apr-18)
 * <missing quote 370, ask CCB for it please>
-* 371: "You are Indeed huge devicatNOM ." -DeviCat (22-Apr-18)
+* 371: "You are Indeed huge ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/819947/1.0) ." -DeviCat (22-Apr-18)
 * 372: "Guys, I am SAVAGE about drinking water ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1857253/1.0) !" -DeviCat (23-Apr-18)
 * 373: "I was going to make myself a belt made out of watches, but then I realized it would be a waist of time" -KokomoKitty (26-Apr-18)
 * 374: "I have a miscellaneous layer!" -DeviCat (26-Apr-18)
