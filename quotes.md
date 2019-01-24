@@ -155,7 +155,8 @@ command `!quote N` for some number N.
 * 143: "I have the strange, Strong urge to use pencil crayons" -luthiensurion44 (17-Aug-17)
 * 144: "Lets slice Austin into pieces ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1 "deviDO") 🔪 ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Painted_Universe (19-Aug-17)
 * 145: "You took a nice slice off Austin ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1 "deviDO") 🔪 ." -DEVI_CAT (19-Aug-17)
-* <missing quotes 146-147, please ask CCB for them>
+* 146: "How many dance floors do you have to murder before you get a bulk discount on jail time?" -AgentArrow (20-Aug-17)
+* <missing quote 147, ask CCB for it please>
 * 148: "Chii: Thug life chose meow. ![CoolCat](https://static-cdn.jtvnw.net/emoticons/v1/58127/1.0 "CoolCat") ." -Catalyst_Puppet (20-Aug-17)
 * 149: "I'm really proud of this leg. ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") " -DEVI_CAT (24-Aug-17)
 * 150: "Burnt Devi is like burnt toast. Good for absorbing a drink and not much else." -Rosuav (26-Aug-17)
@@ -165,7 +166,8 @@ command `!quote N` for some number N.
 * 154: "My PO box is a TARDIS" -DEVI_CAT (06-Sep-17)
 * 155: "Devi's going full Titanic mode Forcing it to sink ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Rosuav (06-Sep-17)
 * 156: "Is this gonna be one of those 'we need to turn off the moon' situations ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0 "LUL") ?" -Blacksouls92 (07-Sep-17)
-* <missing quotes 157-158, please ask CCB for them>
+* 157: " ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") Wear with caution though. A BUTTon at the wrong event could be a CATastrophe ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") " -Ciri_Ion (09-Sep-17)
+* <missing quote 158, ask CCB for it please>
 * 159: "Kay! KKKKKKKKKKKKK!" -DEVI_CAT (11-Sep-17)
 * <missing quote 160, ask CCB for it please>
 * 161: "#charity" -Wuistinger (14-Sep-17)
@@ -228,15 +230,17 @@ command `!quote N` for some number N.
 * 218: "the guest is so good tho. *noms* ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -yankeekitty (27-Nov-17)
 * <missing quote 219, ask CCB for it please>
 * 220: "Take the sword! We need money for chickens anyway." -DeviCat (29-Nov-17)
-* <missing quote 221, ask CCB for it please>
+* 221: "Awwwwwwwwww Yea guys were getting them chickens ![devicatHIYO](https://static-cdn.jtvnw.net/emoticons/v1/1857272/1.0 "devicatHIYO") ." -DeviCat (29-Nov-17)
 * 222: "OH NOOO!!! I ate the potato!" -DeviCat (29-Nov-17)
 * 223: "be freeeeeeeee..in..your..corner... ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DeviCat (02-Dec-17)
 * 224: "I! Just! Want! Mayo!" -DeviCat (02-Dec-17)
 * 225: "Danny Where'd you go OH NO DANNY COME BACK ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (03-Dec-17)
 * 226: "It's a very confused chicken. "Why did I get blown up?"" -DeviCat (06-Dec-17)
-* <missing quotes 227-228, please ask CCB for them>
+* 227: "I'll show you stickers - but first, let me kill this bat ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1857237/1.0 "devicatPOW") ." -DeviCat (07-Dec-17)
+* <missing quote 228, ask CCB for it please>
 * 229: "Don't worry guys im just doing some minor surgery ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (09-Dec-17)
-* <missing quotes 230-231, please ask CCB for them>
+* 230: "Oohhmmaaaiizzzgurgh!" -DeviCat (09-Dec-17)
+* <missing quote 231, ask CCB for it please>
 * 232: "Don't kill yourself! -- don't worry, that's what the seaweed is for." -DeviCat (09-Dec-17)
 * 233: "Who needs chat when you can have Blacksouls ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0 "LUL") ." -DeviCat (10-Dec-17)
 * 234: "I wanna be the very best Ross Like no one ever was To draw happy little trees is my real test To grow them is my cause I will travel across twitch Searching far and wide Each Devimon to understand The art that's inside Devimon, gotta draw 'em all Its you and me I know it's my destiny Devimon, oh, you're my best friend In a world we must color Devimon, gotta catch 'em all A heart so true Our courage will pull us through ![PokPikachu](https://static-cdn.jtvnw.net/emoticons/v1/743904/1.0 "PokPikachu") ![PokGengar](https://static-cdn.jtvnw.net/emoticons/v1/743886/1.0 "PokGengar") ." -dearpicklejar (10-Dec-17)
@@ -265,7 +269,8 @@ command `!quote N` for some number N.
 * 257: "qualiTEA is an awesome thing. It's a channel on twitch, known to the people as "DeviCat". It features creating anime style artwork (when they aren't stuck on the gratitude board), and sometimes even gaming. Fun stuff." -ElaineSpencer (15-Jan-18)
 * 258: "So there is some physics here. If you get crushed by a boulder... you get crushed by a boulder. ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DeviCat (17-Jan-18)
 * 259: "No coffee ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1857253/1.0 "devicatCUP") for you! Here, take my arm. ![PowerUpR](https://static-cdn.jtvnw.net/emoticons/v1/425671/1.0 "PowerUpR") ." -DeviCat (18-Jan-18)
-* <missing quotes 260-261, please ask CCB for them>
+* 260: "Nooooo! I touched the fairy" -DeviCat (20-Jan-18)
+* <missing quote 261, ask CCB for it please>
 * 262: "I only talked about murder,I didnt actually murder" -DeviCat (20-Jan-18)
 * 263: "Its like im playing basketball but with explosives ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (20-Jan-18)
 * 264: "quick question... does hallcat need a hallpass to be in the hall... or is it a security guard and if hallcat catches you in the hall without a hall pass then hallcat scratches your face ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -I30T (20-Jan-18)
@@ -277,7 +282,8 @@ command `!quote N` for some number N.
 * <missing quote 270, ask CCB for it please>
 * 271: "I just realized that Milli Lita is bleeding on the screen" -DeviCat (28-Jan-18)
 * 272: "I'm just going to borrow her face. devicatCHII" -DeviCat (28-Jan-18)
-* <missing quotes 273-274, please ask CCB for them>
+* <missing quote 273, ask CCB for it please>
+* 274: "She doesnt have to be mad... she is just thinking really hard while chewing a cookie. ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") " -CuteBugBubbles (01-Feb-18)
 * 275: "I will continue to be ![PowerUpL](https://static-cdn.jtvnw.net/emoticons/v1/425688/1.0 "PowerUpL") beefy ![PowerUpR](https://static-cdn.jtvnw.net/emoticons/v1/425671/1.0 "PowerUpR") cat!" -DeviCat (05-Feb-18)
 * 276: "Okay, I'm going to try French Vanillaaaaaaaaaaaaa!" -devicat (07-Feb-18)
 * <missing quote 277, ask CCB for it please>
@@ -561,5 +567,5 @@ command `!quote N` for some number N.
 * 568: "Well… well… well… well… well… well… well… well!" -DeviCat (21-Jan-19)
 * 569: "When ![devicatLURK](https://static-cdn.jtvnw.net/emoticons/v1/1857281/1.0 "devicatLURK") is backwards, it becomes cruel!" -DeviCat (21-Jan-19)
 
-This list is missing 158 quotes, plus any that have been recently added.
+This list is missing 151 quotes, plus any that have been recently added.
 
