@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 569 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 570 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -297,7 +297,8 @@ command `!quote N` for some number N.
 * <missing quote 285, ask CCB for it please>
 * 286: "If you ever get a male manga, would it be a mango? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Rosuav (18-Feb-18)
 * 287: "Rip to the bee FOR DEVI HAS RISEN HAHA" -DeviCat (18-Feb-18)
-* <missing quotes 288-289, please ask CCB for them>
+* <missing quote 288, ask CCB for it please>
+* 289: "*sigh It does look better. *grumble*" -DeviCat (18-Feb-18)
 * 290: "I'm just going to go naked for a second. ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (19-Feb-18)
 * 291: "We lost a hammer! ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1857237/1.0 "devicatPOW") ." -DeviCat (21-Feb-18)
 * <missing quote 292, ask CCB for it please>
@@ -341,7 +342,8 @@ command `!quote N` for some number N.
 * 330: "And then my hips went kerBAM!" -DeviCat (01-Apr-18)
 * <missing quote 331, ask CCB for it please>
 * 332: "I'm just going to finish this thumb... if I can ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/819947/1.0 "devicatNOM") ..." -DeviCat (02-Apr-18)
-* <missing quotes 333-334, please ask CCB for them>
+* 333: "I'll add you to the gratitude board in a sec i just need to finish this thumb" -DeviCat (02-Apr-18)
+* <missing quote 334, ask CCB for it please>
 * 335: "Blacksouls and Rosu quote everything. If it flies out of my mouth and it's funny, they quote it." -DeviCat (02-Apr-18)
 * <missing quote 336, ask CCB for it please>
 * 337: "Want to know how to wake up chat? Make a box! Want to know how to REALLY wake up chat? Give that box cat ears!" -DeviCat (04-Apr-18)
@@ -404,7 +406,8 @@ command `!quote N` for some number N.
 * 394: "I've seen pictures of you! Not all of you - just snippets of you." -DeviCat (21-May-18)
 * 395: "And then Devi had Cutiac Arrest." -a_tiny_little_cat (26-May-18)
 * 396: "I want Tambri's mind to explode into rainbows and unicorns. Very red ones." -DeviCat (26-May-18)
-* <missing quotes 397-398, please ask CCB for them>
+* <missing quote 397, ask CCB for it please>
+* 398: "I didn't break it - I just adjusted it!" -DeviCat (27-May-18)
 * 399: "Did i actually fix this arm *CRACK* OH thats how you work ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (27-May-18)
 * 400: "I spent an hour recording a bowl, worth it." -HallwayRaptor (28-May-18)
 * 401: "We got a couple of minutes to kill you guys ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1857237/1.0 "devicatPOW") ." -DeviCat (28-May-18)
@@ -522,7 +525,8 @@ command `!quote N` for some number N.
 * <missing quote 520, ask CCB for it please>
 * 521: "Good news! I can finally leave the pumpkins now." -DeviCat (29-Oct-18)
 * 522: "I have bananas and mangoes! I can give you bananas and mangoes!" -DeviCat (01-Nov-18)
-* <missing quotes 523-524, please ask CCB for them>
+* 523: "Well then, I wish to be a dryer!" -DeviCat (01-Nov-18)
+* <missing quote 524, ask CCB for it please>
 * 525: "I will plaster that note with stickers. Why? Because I can." -DeviCat (08-Nov-18)
 * 526: "tangents are great just like tangerines , How are they the similar well they sound the same ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0 "devicatLOL") ." -DeviCat (08-Nov-18)
 * 527: "The character is naked, but most importantly, she's got a sheep, and that's all that matters ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DeviCat (10-Nov-18)
@@ -566,6 +570,7 @@ command `!quote N` for some number N.
 * 567: "I forgot I made this mouth so cute! Let's borrow this mouth." -DeviCat (20-Jan-19)
 * 568: "Well… well… well… well… well… well… well… well!" -DeviCat (21-Jan-19)
 * 569: "When ![devicatLURK](https://static-cdn.jtvnw.net/emoticons/v1/1857281/1.0 "devicatLURK") is backwards, it becomes cruel!" -DeviCat (21-Jan-19)
+* 570: "I am now rolling in cake, apparently - and I'm going to drink some water ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1857253/1.0 "devicatCUP") ." -DeviCat (24-Jan-19)
 
-This list is missing 151 quotes, plus any that have been recently added.
+This list is missing 147 quotes, plus any that have been recently added.
 
