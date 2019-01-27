@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 570 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 572 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -426,7 +426,8 @@ command `!quote N` for some number N.
 * 414: "Devi: "I don't have to worry about anything today!" Windows: "Oh ho ho ho you aren't allowed to get complacent..."" -Rosuav (07-Jun-18)
 * <missing quote 415, ask CCB for it please>
 * 416: "For some reason Twitch gave me more bitties. For some reason, I want to eat the sparkles." -a_tiny_little_cat (07-Jun-18)
-* <missing quotes 417-418, please ask CCB for them>
+* 417: "Nyxiel! Nyxiel! Where did I put you??" -DeviCat (09-Jun-18)
+* <missing quote 418, ask CCB for it please>
 * 419: "I found the sparkles!!" -DeviCat (09-Jun-18)
 * 420: "Yeah, I guess it would be scary if I exploded." -DeviCat (10-Jun-18)
 * 421: "Have a Devi day means there better be magic floating everywhere ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/1291593/1.0 "devicatMAGIC") ." -Blacksouls92 (11-Jun-18)
@@ -438,7 +439,8 @@ command `!quote N` for some number N.
 * 427: "Her shorts look like frosting! I could eat them!" -DeviCat (24-Jun-18)
 * 428: "We would have to send PhotoSvein a giant flaming hula hoop, and they would have to take a video of themselves jumping through it, and then we'd allow them the honor of posting a link." -Hihohotdog (25-Jun-18)
 * 429: "I made Dirt look at my dirt, i am so proud of that ground" -DeviCat (25-Jun-18)
-* <missing quotes 430-431, please ask CCB for them>
+* 430: "Never thought id be brought down by a tortilla ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -Endlessbowlofnoodles (28-Jun-18)
+* <missing quote 431, ask CCB for it please>
 * 432: "They call me the bell ringer of the streams <cheer50> <cheer50> <cheer50>" -Sax5K (02-Jul-18)
 * <missing quote 433, ask CCB for it please>
 * 434: "We get excited about things, and then they turn into memes, and then the world explodes." -DeviCat (02-Jul-18)
@@ -467,7 +469,8 @@ command `!quote N` for some number N.
 * <missing quote 457, ask CCB for it please>
 * 458: "I'm glad it turned into a caramel sauce and not, you know, a desert animal." -DeviCat (18-Jul-18)
 * 459: "Whenever I do something good with a body part, I want to keep it exposed." -DeviCat (19-Jul-18)
-* <missing quotes 460-461, please ask CCB for them>
+* <missing quote 460, ask CCB for it please>
+* 461: "I love this hand ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/1857261/1.0 "devicatHUG") ." -DeviCat (23-Jul-18)
 * 462: "Group the rocket!" -DeviCat (28-Jul-18)
 * 463: "I shouldn't say "you're right", because you're right, but still" -DeviCat (28-Jul-18)
 * 464: "(repeated line) So that happened." -DeviCat (30-Jul-18)
@@ -479,7 +482,8 @@ command `!quote N` for some number N.
 * 470: "It is no longer fiber arts, it is fiber carts! Because we drive around in our art. Or go shopping with it!" -DeviCat (09-Aug-18)
 * <missing quote 471, ask CCB for it please>
 * 472: "My eyelashes! Where are they? Where did I put them? ... Oh I'm in the wrong area." -DeviCat (12-Aug-18)
-* <missing quotes 473-474, please ask CCB for them>
+* 473: "No we're not going to talk about ![Baby](https://static-cdn.jtvnw.net/emoticons/v1/21158/1.0 "Baby") Legos again" -DeviCat (13-Aug-18)
+* <missing quote 474, ask CCB for it please>
 * 475: " ![devicatHIYO](https://static-cdn.jtvnw.net/emoticons/v1/1857272/1.0 "devicatHIYO") I was so excited about the pink that I forgot to say "Hi Everyone!"." -Ro_i3 (15-Aug-18)
 * 476: "DeviCatOutlet: Brand-name positivity at wholesale prices! ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1857263/1.0 "devicatAWW") Get your kawaii direct from the factory outlet and save!" -Rosuav (16-Aug-18)
 * 477: "But I was SO wrong. And I haven't even done the hair yet!" -DeviCat (18-Aug-18)
@@ -500,12 +504,14 @@ command `!quote N` for some number N.
 * 492: "Look at this dirt! It's so dirty! It's awesome!" -DeviCat (03-Sep-18)
 * <missing quote 493, ask CCB for it please>
 * 494: "Just a friendly reminder that if you have an active gift sub you can renew your sub for only 1 dollar, just call 1-800 DeviCat. just kidding dont call that fake number but please do renew your sub!" -BoozeWash (12-Sep-18)
-* <missing quotes 495-496, please ask CCB for them>
+* 495: "One day, my arms will be beefy instead of noodley" -DeviCat (12-Sep-18)
+* <missing quote 496, ask CCB for it please>
 * 497: "We can make a few different candies for the store" -DeviCat (16-Sep-18)
 * 498: "Ah, I just go to bed when I'm exhausted ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0 "devicatLOL") ." -HatsuneMiku6458 (16-Sep-18)
 * <missing quote 499, ask CCB for it please>
 * 500: "Devi wears almost as many layers as she creates. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -rebekah_chan (19-Sep-18)
-* <missing quotes 501-502, please ask CCB for them>
+* 501: "Is Raptor in the business of finding old artifacts in exotic places? (In the Shadow of the Raptor Raider ![TombRaid](https://static-cdn.jtvnw.net/emoticons/v1/864205/1.0 "TombRaid") )" -mlasuk (22-Sep-18)
+* <missing quote 502, ask CCB for it please>
 * 503: "The butt fortress, The secret layer of the butt squad ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0 "devicatLOL") ." -Blacksouls92 (26-Sep-18)
 * 504: "Too late to explore the world, to early to explore the universe but just in time to see bowsette memes. What a time to be alive!" -BoozeWash (29-Sep-18)
 * 505: "I'm just going to fix the bottom stairwell - by removing it altogether" -DeviCat (03-Oct-18)
@@ -514,7 +520,8 @@ command `!quote N` for some number N.
 * <missing quote 508, ask CCB for it please>
 * 509: "I have to look at my own knee for a minute ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DeviCat (06-Oct-18)
 * 510: "I did that yesterday and erased your entire head... I was like, oh my God thank you for the back button ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") !" -eggrinthebox (07-Oct-18)
-* <missing quotes 511-512, please ask CCB for them>
+* <missing quote 511, ask CCB for it please>
+* 512: "Thankfully, she doesn't have too much skin" -DeviCat (13-Oct-18)
 * 513: "Dark mathematics. You say "multiply" and it casts a shadow." -Rosuav (13-Oct-18)
 * <missing quote 514, ask CCB for it please>
 * 515: "I think we may be able to just flip this leg and warp it a bit." -DeviCat (22-Oct-18)
@@ -538,7 +545,8 @@ command `!quote N` for some number N.
 * 533: "That was a bad butt manoeuvre ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (21-Nov-18)
 * <missing quote 534, ask CCB for it please>
 * 535: "Aaaaagh! I moved the nose altogether!" -DeviCat (26-Nov-18)
-* <missing quotes 536-537, please ask CCB for them>
+* 536: "These are the ones I use the most, and they are: Undo and Redo." -DeviCat (02-Dec-18)
+* <missing quote 537, ask CCB for it please>
 * 538: "guys, he proposed in a hallway whilst wearing one of those raptor suits. Believe me I was the suit ![scudDance](https://cdn.betterttv.net/emote/55b947aa8bc2bcfa0d99f669/1x "scudDance") ." -ElaineSpencer (05-Dec-18)
 * 539: "penguin: Hello tiny Mortals my name is Sir Squeh. bow down to my shiny feet, feed me cheeseburgers ,give me your magic powers. all hail the mighty Squeh ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ." -pickledeggrin (06-Dec-18)
 * 540: "The cat is basically done, but I want to play with it a bit more." -DeviCat (06-Dec-18)
@@ -571,6 +579,8 @@ command `!quote N` for some number N.
 * 568: "Well… well… well… well… well… well… well… well!" -DeviCat (21-Jan-19)
 * 569: "When ![devicatLURK](https://static-cdn.jtvnw.net/emoticons/v1/1857281/1.0 "devicatLURK") is backwards, it becomes cruel!" -DeviCat (21-Jan-19)
 * 570: "I am now rolling in cake, apparently - and I'm going to drink some water ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1857253/1.0 "devicatCUP") ." -DeviCat (24-Jan-19)
+* 571: "Speaking of burning, has anyone started a bake-off today?" -DeviCat (26-Jan-19)
+* 572: "That would be the next level, but I hope we don't break any necks in the process." -DeviCat (26-Jan-19)
 
-This list is missing 147 quotes, plus any that have been recently added.
+This list is missing 139 quotes, plus any that have been recently added.
 
