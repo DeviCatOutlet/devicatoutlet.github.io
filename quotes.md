@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 572 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 574 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -18,7 +18,7 @@ command `!quote N` for some number N.
 * 6: "Link , stop being hot!" -Devi_Cat (17-Nov-15)
 * 7: "Everyone do the sponge I love it!" -Devi_Cat (21-Nov-15)
 * 8: "You two could play hide and seek under coffee cups ![:D](https://static-cdn.jtvnw.net/emoticons/v1/3/1.0 ":D") " -Locust530 (02-Dec-15)
-* <missing quote 9, ask CCB for it please>
+* 9: "Put happy little strawberries all over the canvas. No amount is too much. And we put the happy little strawberries on happy little bushes." -GamesBoyAdvance (06-Dec-15)
 * 10: " *salami Xpress* a tattoo and a sandwich shop all in 1 place. not very sanitary but we'll keep you fed and looking right" -Salami_express (06-Dec-15)
 * 11: "Imma take some catnip, flip a table then get back to work ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -Devi_Cat (07-Dec-15)
 * 12: "I went shopping bcuz groceries is a thing and food is a thing and I mostly needed more pizza pockets." -Devi_Cat (08-Dec-15)
@@ -28,11 +28,11 @@ command `!quote N` for some number N.
 * <missing quote 16, ask CCB for it please>
 * 17: "Devi, I have some serious cattitude today. But I am purrsuading you to believe that your drawing is pawsitive on this fine Caturday." -Rebekah_erhardt (13-Feb-16)
 * 18: "You see guys, when devi was younger her parents put an "awesome" magnet in her head. So now everything awesome is drawn to Devi like moths to a flame" -MadPlaidGaming (17-Mar-16)
-* <missing quote 19, ask CCB for it please>
+* 19: "I need to eat more...later." -Devi_Cat (13-Apr-16)
 * 20: "(⊙ヮ⊙) I have passion...fruit" -CiriIon (27-Apr-16)
 * 21: "I can tell you're secretly a rainbow ![KappaPride](https://static-cdn.jtvnw.net/emoticons/v1/55338/1.0 "KappaPride") " -xfatalxglitchx (12-May-16)
 * 22: "Come face me, my chocolate chips hungers for souls!" -Fiendishly_Juicy (17-May-16)
-* <missing quote 23, ask CCB for it please>
+* 23: " PG = Progresso Soup" - porkbunman (19-May-16)
 * 24: "No, your fiance is real it is that you have other parts of the house is the part we don't believe. We think you live in a section of a tiny dollhouse." -Tinzien (21-May-16)
 * 25: "✨ I wish my eyes had little stars in them...✨" -TreyCalico (26-May-16)
 * 26: "I need to remove your skin so I can do your hair ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -Devi_Cat (04-Jun-16)
@@ -186,10 +186,10 @@ command `!quote N` for some number N.
 * 174: "I'll just quote someone from the channel and say if redbubble sold states, their small would be texas" -Xillians (05-Oct-17)
 * 175: "Hi Lilac! We're talking about Satan." -DEVI_CAT (07-Oct-17)
 * 176: "D!" -Resubs (11-Oct-17)
-* <missing quote 177, ask CCB for it please>
+* 177: "Hello tiny cat in bucket!! You're took pure for this world ![BibleThump](https://static-cdn.jtvnw.net/emoticons/v1/86/1.0 "BibleThump") ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") ." -KokomoKitty (14-Oct-17)
 * 178: "It sounds morbid, but it's actually cute" -DEVI_CAT (15-Oct-17)
 * 179: "Hear that guys I glow just like a glowstick ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0 "LUL") ." -DEVI_CAT (19-Oct-17)
-* <missing quote 180, ask CCB for it please>
+* 180: "coming soon to a human near you @devi_cat brand clothes,candy,animes,and hot dogs. That's right folks @devi_cat brand everything coming fall 20**" -dearpicklejar (21-Oct-17)
 * 181: "I don't like those Russian dolls. They're so full of themselves ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") ." -LunaReisen (22-Oct-17)
 * <missing quote 182, ask CCB for it please>
 * 183: "Omg noooo XD I didn’t not want to be named after a hotdog ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -sprout884 (23-Oct-17)
@@ -525,7 +525,7 @@ command `!quote N` for some number N.
 * 513: "Dark mathematics. You say "multiply" and it casts a shadow." -Rosuav (13-Oct-18)
 * <missing quote 514, ask CCB for it please>
 * 515: "I think we may be able to just flip this leg and warp it a bit." -DeviCat (22-Oct-18)
-* <missing quote 516, ask CCB for it please>
+* 516: "I think imma murder everything with pink destruction ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0 "devicatLOL") ." -Blacksouls92 (24-Oct-18)
 * 517: "GIRL POWER! Just get a girl, put wires on her, and you can run PhotoShop on the pure magic created! ." -Rosuav (24-Oct-18)
 * <missing quote 518, ask CCB for it please>
 * 519: "I found the ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") that's all that matters" -DeviCat (27-Oct-18)
@@ -557,7 +557,8 @@ command `!quote N` for some number N.
 * 545: "We this Pove ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DuCkY245 (17-Dec-18)
 * <missing quote 546, ask CCB for it please>
 * 547: "I discovered very quickly that I hit buttons. ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0 "devicatGRR") !" -DeviCat (19-Dec-18)
-* <missing quotes 548-549, please ask CCB for them>
+* <missing quote 548, ask CCB for it please>
+* 549: "Let's just Google 'hot chocolate' and see what comes up!" -DeviCat (22-Dec-18)
 * 550: "I almost took its ears with it ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (24-Dec-18)
 * 551: "I'm missing an armpit!" -DeviCat (30-Dec-18)
 * 552: "I'm not gonna finish my sentence, 'cause it's just gonna get added to the quotes, so never mind!" ~" -DeviCat (02-Jan-19)
@@ -581,6 +582,8 @@ command `!quote N` for some number N.
 * 570: "I am now rolling in cake, apparently - and I'm going to drink some water ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1857253/1.0 "devicatCUP") ." -DeviCat (24-Jan-19)
 * 571: "Speaking of burning, has anyone started a bake-off today?" -DeviCat (26-Jan-19)
 * 572: "That would be the next level, but I hope we don't break any necks in the process." -DeviCat (26-Jan-19)
+* 573: "Try to build a cat out of circles and sticks." -DeviCat (27-Jan-19)
+* 574: "Ducky! Try again. You were so excited that you added extra peas!" -DeviCat (27-Jan-19)
 
-This list is missing 139 quotes, plus any that have been recently added.
+This list is missing 132 quotes, plus any that have been recently added.
 
