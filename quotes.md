@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 574 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 575 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -22,10 +22,10 @@ command `!quote N` for some number N.
 * 10: " *salami Xpress* a tattoo and a sandwich shop all in 1 place. not very sanitary but we'll keep you fed and looking right" -Salami_express (06-Dec-15)
 * 11: "Imma take some catnip, flip a table then get back to work ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -Devi_Cat (07-Dec-15)
 * 12: "I went shopping bcuz groceries is a thing and food is a thing and I mostly needed more pizza pockets." -Devi_Cat (08-Dec-15)
-* <missing quote 13, ask CCB for it please>
+* 13: "Whenever I join this chat, I feel like it might be a good idea to go bathe in strawberry toothpaste while singing along to ten hours of "just keep swimming" from Finding Nemo." -aceridleyslayer (12-Dec-15)
 * 14: "Anyone a single pringle and ready to mingle? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -EricMCP2 (21-Dec-15)
 * 15: "Ramen and coffee are healthy I swear ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -Bmo77 (30-Dec-15)
-* <missing quote 16, ask CCB for it please>
+* 16: "OCD - Overly Confident Donuts ![FatCat](https://cdn.betterttv.net/frankerfacez_emote/50983/1 "FatCat") " -hiMew (10-Feb-16)
 * 17: "Devi, I have some serious cattitude today. But I am purrsuading you to believe that your drawing is pawsitive on this fine Caturday." -Rebekah_erhardt (13-Feb-16)
 * 18: "You see guys, when devi was younger her parents put an "awesome" magnet in her head. So now everything awesome is drawn to Devi like moths to a flame" -MadPlaidGaming (17-Mar-16)
 * 19: "I need to eat more...later." -Devi_Cat (13-Apr-16)
@@ -39,7 +39,7 @@ command `!quote N` for some number N.
 * 27: "I am clearly a chipmunk." -Devi_Cat (06-Jun-16)
 * 28: "You stole 75 cupcakes? Do you want diabetes?! thats how you get diabetes. " -Hoot_and_the_fisherman (06-Jun-16)
 * 29: "You are contaminating the stream with your Raptorisms!" -Devi_Cat (11-Jun-16)
-* <missing quote 30, ask CCB for it please>
+* 30: " Words fail. Let's draw" -CraigZed (17-Jun-16)
 * 31: "DEVI_CAT 3D printer: Injest coffee. Eject artwork. Perfection guaranteed ☕" -MurderofPhoenixes (18-Jun-16)
 * 32: " Wait? if you burn an angel fruitcake does it turn into a demon fruitcake?" -Devi_Cat (23-Jun-16)
 * <missing quote 33, ask CCB for it please>
@@ -51,9 +51,9 @@ command `!quote N` for some number N.
 * 39: "[ Jessabot]: ' I cried 6 oceans of tears for Midna!' [ Speedfreak86]: ' Aren't there 7?' [ Jessabot ]: ' I'm saving the 7th for later!'" -Jessabot & Speed_Freak86 (12-Aug-16)
 * <missing quote 40, ask CCB for it please>
 * 41: ""If you need something white, make it blue"" -DEVI_CAT (28-Aug-16)
-* <missing quote 42, ask CCB for it please>
+* 42: "I will be your lime ![<3](https://static-cdn.jtvnw.net/emoticons/v1/9/1.0 "<3") " -Devi_Cat (28-Aug-16)
 * 43: "what actually happens she sends a carrier pigeon to tell you it's been received. and it's a Canadian pigeon so it knows what's up" -peckapon (31-Aug-16)
-* <missing quote 44, ask CCB for it please>
+* 44: "Can't complete my take out dinner without Subbing Devi for dessert" -0blivionOathkeeper (08-Sep-16)
 * 45: "i might not always have pants on..... but i have shorts" -Devi_Cat (08-Sep-16)
 * 46: "E's are difficult, don't mess with them. They'll getchu ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") " -Devi_Cat (08-Sep-16)
 * 47: "Well Devi, from what I can tell bits work like this: You have a shotglass altar of marshmallow now and people go on Amazon to buy jewelry to put in the glass to pay tribute to the marshmallow." -CiriIon (12-Sep-16)
@@ -61,7 +61,7 @@ command `!quote N` for some number N.
 * 49: "So 54 is just a void. This stream isn't even happening. We're all just staring at blank screens at the exact same time imagining things." -CiriIon (16-Sep-16)
 * 50: "I made a deal with my husband so I could sub to more people, haha. You're worth more than my Starbucks impgrrlLove" -Imperialgrrl (03-Oct-16)
 * 51: "we bake together, we die together! Cakey" -Darthiande (06-Oct-16)
-* <missing quote 52, ask CCB for it please>
+* 52: "I'm so salty, I could make the perfect ramen dish! >:c" -Devi_Cat (17-Oct-16)
 * 53: "Snickerdoodle with Chocolate chips.... because raisin cookies are why I have trust issues." -Imperialgrrl (02-Nov-16)
 * 54: "You know, as a guy I never get called beautiful, I to wanna feel pink flowers inside but that doesn't sound normal or healthy." -HiMew (07-Nov-16)
 * <missing quote 55, ask CCB for it please>
@@ -73,7 +73,7 @@ command `!quote N` for some number N.
 * 61: "I'm not gonna complain about link in boxers ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -Ciri_Ion (20-Mar-17)
 * 62: "I'm gonna have them remove the feet ![DeviFear](https://cdn.betterttv.net/frankerfacez_emote/70998/1 "DeviFear") " -DEVI_CAT (23-Mar-17)
 * 63: "Do you guys wanna see unicorn pants" -DEVI_CAT (25-Mar-17)
-* <missing quote 64, ask CCB for it please>
+* 64: "I come for the music, I stay for the unicorn pants" -Cmd_Itchy_Balls (25-Mar-17)
 * 65: "Gurl, where'd I put your legs?" -DeviCat (26-Mar-17)
 * 66: "I might have clipped some of her finger but its fine" -DEVI_CAT (26-Mar-17)
 * 67: "you must become one with the shirt young padawan" -DEVI_CAT (27-Mar-17)
@@ -87,13 +87,13 @@ command `!quote N` for some number N.
 * 75: "fear no more! rebekah_chan and her lightning fingers are here to help you." -linkleaf (08-Apr-17)
 * 76: "I'm not making it lewd ![OpieOP](https://static-cdn.jtvnw.net/emoticons/v1/100590/1.0 "OpieOP") I'm just saying it's special OpieOP" -SakuraKoneko (09-Apr-17)
 * 77: "Yeah, this stream's hype ebbs and flows. Sometimes this place is so chill you could keep ice cream in it, other times it's a hypefest like it's 1999." -Rosuav (09-Apr-17)
-* <missing quote 78, ask CCB for it please>
+* 78: "We should go for a break...... soon" -DEVI_CAT (10-Apr-17)
 * 79: "I need teeth" -DEVI_CAT (12-Apr-17)
 * 80: "Oh no, your hand is so orange. Whatever shall we do?" -Devi_Cat (12-Apr-17)
 * 81: "Are those space pants? Because your butt is out of this world.... ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Rebekah_Chan (12-Apr-17)
 * <missing quote 82, ask CCB for it please>
 * 83: "I can eat cereal your of a freaking Devi bowl ![PogChamp](https://static-cdn.jtvnw.net/emoticons/v1/88/1.0 "PogChamp") ." -SkullxKnight_ (12-Apr-17)
-* <missing quote 84, ask CCB for it please>
+* 84: "Go gao gao into my gallery ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") ." -DEVI_CAT (13-Apr-17)
 * 85: "How dare you merge with a thumbnail ![DeviRawr](https://cdn.betterttv.net/frankerfacez_emote/70999/1 "DeviRawr") ." -DEVI_CAT (13-Apr-17)
 * 86: "geez that bed weights 300 pounds you may want to get a lighter bed that may be why he doesnt want to sleep in it" -Speed_freak86 (13-Apr-17)
 * 87: "I got a notebook so I could keep curious Kitties ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ." -DEVI_CAT (13-Apr-17)
@@ -584,6 +584,7 @@ command `!quote N` for some number N.
 * 572: "That would be the next level, but I hope we don't break any necks in the process." -DeviCat (26-Jan-19)
 * 573: "Try to build a cat out of circles and sticks." -DeviCat (27-Jan-19)
 * 574: "Ducky! Try again. You were so excited that you added extra peas!" -DeviCat (27-Jan-19)
+* 575: "Its poor little butt! How did I not draw its butt?" -DeviCat (28-Jan-19)
 
-This list is missing 132 quotes, plus any that have been recently added.
+This list is missing 123 quotes, plus any that have been recently added.
 
