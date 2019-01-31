@@ -42,14 +42,14 @@ command `!quote N` for some number N.
 * 30: " Words fail. Let's draw" -CraigZed (17-Jun-16)
 * 31: "DEVI_CAT 3D printer: Injest coffee. Eject artwork. Perfection guaranteed ☕" -MurderofPhoenixes (18-Jun-16)
 * 32: " Wait? if you burn an angel fruitcake does it turn into a demon fruitcake?" -Devi_Cat (23-Jun-16)
-* <missing quote 33, ask CCB for it please>
+* 33: "Eye whites, mmm, tasty...." -Devi_Cat (26-Jun-16)
 * 34: " I see DanishBit as a little, smaller version of DanishBot. Like his little brother." -Rebekah_erhardt (27-Jun-16)
 * 35: " I will call him.... minibit." -TreyCalico (27-Jun-16)
 * 36: "It's so cute to see you with your sweet little voice singing to a deep bass drop song." -Rebekah_erhardt (30-Jun-16)
-* <missing quote 37, ask CCB for it please>
+* 37: "Where did I put my grass? ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") " -Devi_Cat (15-Jul-16)
 * 38: "CutieCupCake. It's like the mobile version. ![<3](https://static-cdn.jtvnw.net/emoticons/v1/9/1.0 "<3") ![PJSugar](https://static-cdn.jtvnw.net/emoticons/v1/102556/1.0 "PJSugar") " -SkyePyro (06-Aug-16)
 * 39: "[ Jessabot]: ' I cried 6 oceans of tears for Midna!' [ Speedfreak86]: ' Aren't there 7?' [ Jessabot ]: ' I'm saving the 7th for later!'" -Jessabot & Speed_Freak86 (12-Aug-16)
-* <missing quote 40, ask CCB for it please>
+* 40: " I'm gonna conquer the world today...by shaving my face!! >:3 " -devi_cat (16-Aug-16)
 * 41: ""If you need something white, make it blue"" -DEVI_CAT (28-Aug-16)
 * 42: "I will be your lime ![<3](https://static-cdn.jtvnw.net/emoticons/v1/9/1.0 "<3") " -Devi_Cat (28-Aug-16)
 * 43: "what actually happens she sends a carrier pigeon to tell you it's been received. and it's a Canadian pigeon so it knows what's up" -peckapon (31-Aug-16)
@@ -64,7 +64,7 @@ command `!quote N` for some number N.
 * 52: "I'm so salty, I could make the perfect ramen dish! >:c" -Devi_Cat (17-Oct-16)
 * 53: "Snickerdoodle with Chocolate chips.... because raisin cookies are why I have trust issues." -Imperialgrrl (02-Nov-16)
 * 54: "You know, as a guy I never get called beautiful, I to wanna feel pink flowers inside but that doesn't sound normal or healthy." -HiMew (07-Nov-16)
-* <missing quote 55, ask CCB for it please>
+* 55: "Together we will be a salad chat ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -SaladPizza (08-Dec-16)
 * 56: "Devi is a dealer of serotonin, dopamine and oxytosin. Don't tell Twitch. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -CiriIon (18-Dec-16)
 * 57: "Everyone needs itchy balls in their stream." -Cmd_Itchy_Balls (29-Dec-16)
 * 58: "This is cute already and it's only a box. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -Rebekah_Erhardt (05-Jan-17)
@@ -77,10 +77,10 @@ command `!quote N` for some number N.
 * 65: "Gurl, where'd I put your legs?" -DeviCat (26-Mar-17)
 * 66: "I might have clipped some of her finger but its fine" -DEVI_CAT (26-Mar-17)
 * 67: "you must become one with the shirt young padawan" -DEVI_CAT (27-Mar-17)
-* <missing quote 68, ask CCB for it please>
+* 68: "Ankles are my nemesis" -DEVI_CAT (29-Mar-17)
 * 69: "Yes i did remove her skin she did'nt need it anymore" -DEVI_CAT (02-Apr-17)
 * 70: "no i think bob ross is awesome. its just.... the way the song is. I can see him singing this as hes stalking you in the dark with a very sharp brush ![CoolStoryBob](https://static-cdn.jtvnw.net/emoticons/v1/123171/1.0 "CoolStoryBob") " -Kahj_ (03-Apr-17)
-* <missing quote 71, ask CCB for it please>
+* 71: "Hey guys welcome to the stream, OH GOD ALL THE THINGS" -DEVI_CAT (05-Apr-17)
 * 72: "Gurl I gotta put away your face sorry" -DEVI_CAT (05-Apr-17)
 * 73: "If your head matches your foot then that works out great" -DEVI_CAT (05-Apr-17)
 * 74: "Your dammed if you Du and your dammed if you dont" -Fiendishly_Juicy (06-Apr-17)
@@ -91,7 +91,7 @@ command `!quote N` for some number N.
 * 79: "I need teeth" -DEVI_CAT (12-Apr-17)
 * 80: "Oh no, your hand is so orange. Whatever shall we do?" -Devi_Cat (12-Apr-17)
 * 81: "Are those space pants? Because your butt is out of this world.... ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Rebekah_Chan (12-Apr-17)
-* <missing quote 82, ask CCB for it please>
+* 82: "I love the cook cook ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") " -Blacksouls92 (12-Apr-17)
 * 83: "I can eat cereal your of a freaking Devi bowl ![PogChamp](https://static-cdn.jtvnw.net/emoticons/v1/88/1.0 "PogChamp") ." -SkullxKnight_ (12-Apr-17)
 * 84: "Go gao gao into my gallery ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") ." -DEVI_CAT (13-Apr-17)
 * 85: "How dare you merge with a thumbnail ![DeviRawr](https://cdn.betterttv.net/frankerfacez_emote/70999/1 "DeviRawr") ." -DEVI_CAT (13-Apr-17)
@@ -99,19 +99,19 @@ command `!quote N` for some number N.
 * 87: "I got a notebook so I could keep curious Kitties ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ." -DEVI_CAT (13-Apr-17)
 * 88: " ![devicatGLO](https://static-cdn.jtvnw.net/emoticons/v1/1291596/1.0 "devicatGLO") rebekah and Blacksouls ![devicatGLO2](https://static-cdn.jtvnw.net/emoticons/v1/1291597/1.0 "devicatGLO2") WITH OUR POWERS COMBINED WE ARE CLIPATRON" -Blacksouls92 (13-Apr-17)
 * 89: "There's always one bit that's rage quitting in the cup ![DeviRawr](https://cdn.betterttv.net/frankerfacez_emote/70999/1 "DeviRawr") ." -DEVI_CAT (15-Apr-17)
-* <missing quote 90, ask CCB for it please>
+* 90: "Happy Easter everyone, I hope no one had to SHELL out too much on chocolate! No need to get EGGsasperated, I'm just sharing a YOKE or two, I think they are CRACKING." -Orion_Matrix2015 (16-Apr-17)
 * 91: "Chat ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") FRECKLES ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ." -Entire (16-Apr-17)
-* <missing quote 92, ask CCB for it please>
+* 92: "I could just be a potatoe ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") ." -DEVI_CAT (17-Apr-17)
 * 93: "Save ccb from this pika pain.. PikaChuuu ." -linkleaf (17-Apr-17)
-* <missing quote 94, ask CCB for it please>
+* 94: "They're leg panties now, She's wearing leg panties deal with it # legpanties ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ." -DEVI_CAT (17-Apr-17)
 * 95: "why can I imagine us all dancing to this with unicorn frappes?" -SakuraKoneko (19-Apr-17)
-* <missing quote 96, ask CCB for it please>
+* 96: "You are my senpai, my only senpai, my heart goes doki, with what you say, you'll never notice me, but still I love you, because you're sugoi kawaii desu ne"" -TriellFreschi (20-Apr-17)
 * 97: "I misplaced your skin." -DeviCat (20-Apr-17)
 * 98: "Proceed to burst everyones ear drums, YAY my favorite activity" -DEVI_CAT (24-Apr-17)
-* <missing quote 99, ask CCB for it please>
+* 99: "I wanna be quote 100" -rebekah_chan (24-Apr-17)
 * 100: "Hold on I need to look at my ankles for a minute" -DEVI_CAT (03-May-17)
 * 101: "Did you know? Beep is the sound of taking someones head off - Chronicles of Devi_Knowledge" -DEVI_CAT (03-May-17)
-* <missing quote 102, ask CCB for it please>
+* 102: "CH" -xFaTaLxGLITCHx (07-May-17)
 * 103: "I'll save the world in BotW after all the chickens have proper housing. That's the true crime of the game" -kelchu_ (10-May-17)
 * 104: "MEW" -Austin1617 (13-May-17)
 * 105: "HOW DARE YOU PUT THE COOKIE IN THE MELON JAR" -DEVI_CAT (14-May-17)
@@ -119,7 +119,7 @@ command `!quote N` for some number N.
 * 107: "May 14, 2017 The night that everything happened" -Blacksouls92 (14-May-17)
 * <missing quote 108, ask CCB for it please>
 * 109: "Devi was riding her snowmobile across the frozen tundra of the Canadian north, and she served to miss a random snow weasel, she flipped, and was trapped under her ride for 2 days, surviving on melted snow until she dug her way out and navigted home by the light of the moon because she couldn't miss streaming for us." -TriellFreschi (22-May-17)
-* <missing quote 110, ask CCB for it please>
+* 110: "Devi Devi she's so fine, just so fine she blows your mind! Raptor raptor he's the best, hes the first to beat a quest! Devi Devi she's so sweet, the type of girl you'd like to meet! Raptor raptor he's the man, you can't do it but raptor can!" -BloomerForTheWin (22-May-17)
 * 111: "TILDE'S AND CARROTS" -DEVI_CAT (24-May-17)
 * <missing quote 112, ask CCB for it please>
 * 113: "Were gonna turn the moon on" -DEVI_CAT (01-Jun-17)
@@ -586,5 +586,5 @@ command `!quote N` for some number N.
 * 574: "Ducky! Try again. You were so excited that you added extra peas!" -DeviCat (27-Jan-19)
 * 575: "Its poor little butt! How did I not draw its butt?" -DeviCat (28-Jan-19)
 
-This list is missing 123 quotes, plus any that have been recently added.
+This list is missing 109 quotes, plus any that have been recently added.
 
