@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 580 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 581 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -131,7 +131,7 @@ command `!quote N` for some number N.
 * 119: "The food is crying it knows its death is near ![DeviFear](https://cdn.betterttv.net/frankerfacez_emote/70998/1 "DeviFear") ![DeviCry](https://cdn.betterttv.net/frankerfacez_emote/70993/1 "DeviCry") ." -DEVI_CAT (14-Jun-17)
 * 120: "I'm just saiyan , super saiyan ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ." -DEVI_CAT (14-Jun-17)
 * 121: "Dot" -HighVoltageEntertainment (15-Jun-17)
-* <missing quote 122, ask CCB for it please>
+* 122: "I'm just here for cute cats and happy music ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") " -hatandsandalsguy (17-Jun-17)
 * 123: "I think when were done with her skin we'll go work on a cupcake ![DeviFear](https://cdn.betterttv.net/frankerfacez_emote/70998/1 "DeviFear") ." -DEVI_CAT (24-Jun-17)
 * 124: "I've Never been so happy to see marching cats ![DeviSquee](https://cdn.betterttv.net/frankerfacez_emote/70996/1 "DeviSquee") ." -DEVI_CAT (28-Jun-17)
 * 125: "DOT" -glassholio (28-Jun-17)
@@ -150,13 +150,13 @@ command `!quote N` for some number N.
 * 138: "New Gatorade Zero: 0% Gator, 100% Flavour" -Rosuav (27-Jul-17)
 * 139: "Cute ...... and Sinister. ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1 "deviDO") " -Rosuav (30-Jul-17)
 * 140: "And we're all very proud of you for being healthier than we are. ![Keepo](https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0 "Keepo") ." -rosuav (03-Aug-17)
-* <missing quote 141, ask CCB for it please>
+* 141: "Dang gators, get off mah castle" -AgentArrow (10-Aug-17)
 * 142: "I come in and missed the Murder ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -QuirkyQwerssie (12-Aug-17)
 * 143: "I have the strange, Strong urge to use pencil crayons" -luthiensurion44 (17-Aug-17)
 * 144: "Lets slice Austin into pieces ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1 "deviDO") 🔪 ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Painted_Universe (19-Aug-17)
 * 145: "You took a nice slice off Austin ![deviDO](https://cdn.betterttv.net/frankerfacez_emote/172957/1 "deviDO") 🔪 ." -DEVI_CAT (19-Aug-17)
 * 146: "How many dance floors do you have to murder before you get a bulk discount on jail time?" -AgentArrow (20-Aug-17)
-* <missing quote 147, ask CCB for it please>
+* 147: "I'm sorry stephenangelico, I have to kill you too now." -DEVI_CAT (20-Aug-17)
 * 148: "Chii: Thug life chose meow. ![CoolCat](https://static-cdn.jtvnw.net/emoticons/v1/58127/1.0 "CoolCat") ." -Catalyst_Puppet (20-Aug-17)
 * 149: "I'm really proud of this leg. ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") " -DEVI_CAT (24-Aug-17)
 * 150: "Burnt Devi is like burnt toast. Good for absorbing a drink and not much else." -Rosuav (26-Aug-17)
@@ -167,9 +167,9 @@ command `!quote N` for some number N.
 * 155: "Devi's going full Titanic mode Forcing it to sink ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Rosuav (06-Sep-17)
 * 156: "Is this gonna be one of those 'we need to turn off the moon' situations ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0 "LUL") ?" -Blacksouls92 (07-Sep-17)
 * 157: " ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") Wear with caution though. A BUTTon at the wrong event could be a CATastrophe ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") " -Ciri_Ion (09-Sep-17)
-* <missing quote 158, ask CCB for it please>
+* 158: "would a combination of Chii and Lita be a Chiita get it Cheetah ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -Speed_freak86 (11-Sep-17)
 * 159: "Kay! KKKKKKKKKKKKK!" -DEVI_CAT (11-Sep-17)
-* <missing quote 160, ask CCB for it please>
+* 160: "Oh My God Dont eat the cat ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DEVI_CAT (11-Sep-17)
 * 161: "#charity" -Wuistinger (14-Sep-17)
 * 162: "I see her twirling she be cuteing ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -SakuraKoneko (16-Sep-17)
 * 163: "What about grenade-resistant zombies?" -mogarringa (16-Sep-17)
@@ -195,7 +195,7 @@ command `!quote N` for some number N.
 * 183: "Omg noooo XD I didn’t not want to be named after a hotdog ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -sprout884 (23-Oct-17)
 * 184: "I'm gonna refresh the cat devicatSMUG" -DEVI_CAT (26-Oct-17)
 * 185: "Send them over by Trebuchet, the superior siege engine." -BurningOil (26-Oct-17)
-* <missing quote 186, ask CCB for it please>
+* 186: "BURNGERS" -HallwayRaptor (26-Oct-17)
 * 187: "You'd look surprised too, if you were suddenly stabbed in the back of the head. ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DEVI_CAT (28-Oct-17)
 * 188: "I turned off her eyebrows earlier ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DEVI_CAT (01-Nov-17)
 * 189: "DESTROY chapped lips with new Ballistix Lip BOMB - For especially chapped lips choose the new NUCLEAR OPTION" -HallwayRaptor (01-Nov-17)
@@ -215,7 +215,7 @@ command `!quote N` for some number N.
 * 203: "Murder ALL the dance Florida!" -sprout884 (13-Nov-17)
 * 204: "Raptors gonna Spam Spam Spam and the Devis gonna Draw Draw Draw. Chat is gonna Chat it all, so chat it off chat it off" -KokomoKitty (13-Nov-17)
 * 205: "Nothing happens on a Wednesday!" -- Twitch laughs in the face of your expected quietude ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Rosuav (15-Nov-17)
-* <missing quote 206, ask CCB for it please>
+* 206: "Muahahaha All the wood shall be mine ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ." -DeviCat (16-Nov-17)
 * 207: "!nake 100" -DeviCat (16-Nov-17)
 * <missing quote 208, ask CCB for it please>
 * 209: "The soul market shall grow ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0 "LUL") ." -Blacksouls92 (18-Nov-17)
@@ -237,7 +237,7 @@ command `!quote N` for some number N.
 * 225: "Danny Where'd you go OH NO DANNY COME BACK ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (03-Dec-17)
 * 226: "It's a very confused chicken. "Why did I get blown up?"" -DeviCat (06-Dec-17)
 * 227: "I'll show you stickers - but first, let me kill this bat ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1857237/1.0 "devicatPOW") ." -DeviCat (07-Dec-17)
-* <missing quote 228, ask CCB for it please>
+* 228: "We're making Lita sushi ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ." -DeviCat (09-Dec-17)
 * 229: "Don't worry guys im just doing some minor surgery ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (09-Dec-17)
 * 230: "Oohhmmaaaiizzzgurgh!" -DeviCat (09-Dec-17)
 * 231: "Welcome to Devi Gardens where you too can find peace, inspiration, artspiration, health, and Raptor burgers. Please enjoy your stay. ![devicatLOVE](https://static-cdn.jtvnw.net/emoticons/v1/1291592/1.0 "devicatLOVE") ." -dearpicklejar (09-Dec-17)
@@ -317,7 +317,7 @@ command `!quote N` for some number N.
 * 305: "Devitude when Devi thanks you for your kindness and bakes a photoshop leg…" -derppicklejar (07-Mar-18)
 * <missing quote 306, ask CCB for it please>
 * 307: "I always like this stage; the character goes from super cute to "I'm going to murder you"." -DeviCat (11-Mar-18)
-* <missing quote 308, ask CCB for it please>
+* 308: "I was like a poofy marshmallow with legs" -DeviCat (11-Mar-18)
 * 309: "Where's my body? Ohh it's up there." -HallwayRaptor (17-Mar-18)
 * 310: "Wheres my Body oh its way up there ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0 "devicatGRR") ." -HallwayRaptor (17-Mar-18)
 * 311: "They can't follow me through the screen." -HallwayRaptor (17-Mar-18)
@@ -368,7 +368,7 @@ command `!quote N` for some number N.
 * 356: "Welcome to a DeviCat stream where we are used to be known for doing magic but now we are primarily known for writing names ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0 "devicatLOL") !" -xangel56 (14-Apr-18)
 * 357: "Moms know all candy ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/819947/1.0 "devicatNOM") ." -derppicklejar (14-Apr-18)
 * 358: "Where is Raptor? Might be in his office... might be in the hallways... he migrates, especially when cheeseburgers are involved." -DeviCat (14-Apr-18)
-* <missing quote 359, ask CCB for it please>
+* 359: "And then, burnt-out Devi. Well done, Devi. So well done you could stick a fork in it ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/819947/1.0 "devicatNOM") ." -devicat (15-Apr-18)
 * 360: "Dear Mr Souls this is Ginger Bread I am here to collect your eyes! 👀👁i need eyes! give me eyes! eyes! eyes! ." -derppicklejar (15-Apr-18)
 * 361: "Peanut butter and coffee! Sounds delicious!" -DeviCat (15-Apr-18)
 * 362: "Collect all of Devi's faces. No skin-peeling required!" -derppicklejar (15-Apr-18)
@@ -391,7 +391,7 @@ command `!quote N` for some number N.
 * 379: "Thank you for having such a warm welcoming stream! Literally feel like I'm sitting in a comfy outfit floating on a doughnut floaty in a cup of coffee ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1857253/1.0 "devicatCUP") ." -caitlyncosplay (05-May-18)
 * 380: "By removing some of the clothing, I'm able to get practice drawing elbows and other joints" -DeviCat (07-May-18)
 * 381: "I am your nomming unicorn." -derppicklejar (07-May-18)
-* <missing quote 382, ask CCB for it please>
+* 382: "I have to hide her glasses for a bit ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1857253/1.0 "devicatCUP") ." -DeviCat (09-May-18)
 * 383: "Walking away for a minute is good, but coming back is equally important. ![devicatLURK](https://static-cdn.jtvnw.net/emoticons/v1/1857281/1.0 "devicatLURK") ." -stephenangelico (12-May-18)
 * 384: "If you want to slap my face, do it." -DeviCat (13-May-18)
 * <missing quote 385, ask CCB for it please>
@@ -546,7 +546,7 @@ command `!quote N` for some number N.
 * 534: "Austin! Your tip caught me so off-guard that I had to blow my nose! ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") Gross. Sorry!" -DeviCat (21-Nov-18)
 * 535: "Aaaaagh! I moved the nose altogether!" -DeviCat (26-Nov-18)
 * 536: "These are the ones I use the most, and they are: Undo and Redo." -DeviCat (02-Dec-18)
-* <missing quote 537, ask CCB for it please>
+* 537: "Maybe we should do bare skin, Nah clothes will be classier" -DeviCat (03-Dec-18)
 * 538: "guys, he proposed in a hallway whilst wearing one of those raptor suits. Believe me I was the suit ![scudDance](https://cdn.betterttv.net/emote/55b947aa8bc2bcfa0d99f669/1x "scudDance") ." -ElaineSpencer (05-Dec-18)
 * 539: "penguin: Hello tiny Mortals my name is Sir Squeh. bow down to my shiny feet, feed me cheeseburgers ,give me your magic powers. all hail the mighty Squeh ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ." -pickledeggrin (06-Dec-18)
 * 540: "The cat is basically done, but I want to play with it a bit more." -DeviCat (06-Dec-18)
@@ -590,6 +590,7 @@ command `!quote N` for some number N.
 * 578: "From what I can tell my skeleton looks fine" -DeviCat (02-Feb-19)
 * 579: "Give me hugs and kisses! I want hugs and kisses!" -DeviCat (02-Feb-19)
 * 580: "It's alright - we don't judge crumbs around here!" -DeviCat (02-Feb-19)
+* 581: "Science, you guys! Science!" -DeviCat (03-Feb-19)
 
-This list is missing 79 quotes, plus any that have been recently added.
+This list is missing 67 quotes, plus any that have been recently added.
 
