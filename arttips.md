@@ -12,7 +12,7 @@ didn’t like. Of the things you didn’t like, make it your goal to improve on
 that with your new piece.
 
 ### How can I stop myself from comparing myself to others?
-In my experience, if I find myself comparing it usually means there's a skillset of mine that I feel I need to develop. Whenever I catch myself doing this, instead of thinking negatively about it, I try to think instead "Wow! This is amazing, now how can I go about levelling up my skill in < blank >. This could mean I need to develop my skills with perspective and dynamics, shading, color theory, anything.
+In my experience, if I find myself comparing it usually means there's a skillset of mine that I feel I need to develop. Whenever I catch myself doing this, instead of thinking negatively about it, I try to think instead, "Wow! This is amazing, now how can I go about levelling up my skill in < blank >." This could mean I need to develop my skills with perspective and dynamics, shading, color theory, anything.
 Another thing you can do compare your current works to your
 past works. This way you can see where you've grown and where you would like to grow next.
 
