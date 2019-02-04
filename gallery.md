@@ -1,6 +1,7 @@
 # Gallery
 
 
+![Donut Harajuku Girl 2019](img/DonutHarajukuGirl2019.png)
 ![CCB KawaiiGirl FairyKei 2018](img/CCB_KawaiiGirl_FairyKei_2018.png)
 ![BerriChan Candy Cane Girl 2018](img/BerriChan_CandyCaneGirl_2018.png)
 ![Rin Pumpkin Chibi 2018](img/RinPumpkinChibi2018.png)
@@ -10,7 +11,6 @@
 ![Mimikyu Chibi 2018](img/mimikyuchibi_2018.png)
 ![Rin The Gratitude Tree 2018](img/Rin_The_Gratitude_Tree_2018.png)
 ![Deer Devi 2018](img/deerdevi_2018.png)
-![CCB Candy Carnival](img/ccb_candy_carnival_2018.png)
 ![Abigail and Junimo](img/SDV_Abigail_n_Junimo_2018.png)
 ![Reiko Forest Fauna](img/Reiko_Forest_Fauna_2018.png)
 ![Goddess Madoka 2018](img/goddessmadoka2018.png)
