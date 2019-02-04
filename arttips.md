@@ -3,7 +3,7 @@
 These are personal experiences I have had from being a self taught artist and is written down here for you to help promote a healthy mentality of developing and strengthening your skills.
 
 ### Where should I start as a beginner?
-When first starting out, the most important step is to START. It's very easy to come up with excuses, or to put it off. Just start with anything you have on you. Whatever equipement or tools despite how used or how old. As you start getting into the mindset of creating and you find what works for you, then you can take baby steps to upgrading your materials. Nothing is worse than sinking a ton of money into something that it turns out is not for you.
+When first starting out, the most important step is to START. Be it 1 minute a day or a few hours a day. Build yourself into the habit of creating daily. When it comes to materials, start with anything you have on you. Whatever equipement or tools despite how used or how old. As you start getting into the mindset of creating and you find what works for you, then you can take baby steps to upgrading your tools. In addition to this, comb over your art fundamentals and foundations. Including (but not limited to): shapes (2d & 3d), contour lines (thickness and thin), light & shadow, values, textures, perspective, distance and more. Try to keep your goals short term and realistic to keep yourself encouraged. Depending on what your goals are after this will define the paths you need to take next. And depending on the paths you take, always make sure to research and cross reference your information. 
 
 ### How do I continue to develop and get better with my art?
 A way to keep improving is this: with every new piece you want to create, have
@@ -12,8 +12,11 @@ didn’t like. Of the things you didn’t like, make it your goal to improve on
 that with your new piece.
 
 ### How can I stop myself from comparing myself to others?
-Keep yourself in a positive mindset and only compare your current works to your
-past works. Everyone has different levels of experience. What matters is your
+In my experience, if I find myself comparing it usually means there's a skillset of mine that I feel I need to develop. Whenever I catch myself doing this, instead of thinking negatively about it, I try to think instead "Wow! This is amazing, now how can I go about levelling up my skill in < blank >. This could mean I need to develop my skills with perspective and dynamics, shading, color theory, anything.
+Another thing you can do compare your current works to your
+past works. This way you can see where you've grown and where you would like to grow next.
+
+Everyone has different levels of experience. What matters is your
 own personal improvement over time.
 
 ### I’ve never used a tablet before, and the concept of looking up from where I’m drawing is difficult. Is there any way to make this process easier to grasp?
