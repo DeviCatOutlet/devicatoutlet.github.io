@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 581 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 583 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -222,13 +222,13 @@ command `!quote N` for some number N.
 * 210: "Want DeviCat as Queen Waifu? Want art that is so fly a plane can't compare? Hit that waifu heart and tune in to your local Canadian Bob Ross reincarnation! ![KappaRoss](https://static-cdn.jtvnw.net/emoticons/v1/70433/1.0 "KappaRoss") ." -dearpicklejar (18-Nov-17)
 * 211: "I know we're zoomed in on cleavage right now, but I'm doing it just to change the line-art, I swear!" -DeviCat (18-Nov-17)
 * 212: "Every day is a good day when you ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") !" -PhotoSvein (19-Nov-17)
-* <missing quote 213, ask CCB for it please>
+* 213: "Blacksouls is gonna be like the pokemon Black Market" -Ciri_Ion (20-Nov-17)
 * 214: "Oh Rebekah we need to get you exposed" -DeviCat (22-Nov-17)
 * 215: "My birthday cake that I had for breakfast with coffee is the best thing I've eaten all day. " -DeviCat (23-Nov-17)
 * 216: "Oh stop. I'm just going to kill you now." -DeviCat (25-Nov-17)
 * 217: "if in doubt, be a ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") , unless you can be an unicorn, then be a unicorn ![devicatHIYO](https://static-cdn.jtvnw.net/emoticons/v1/1857272/1.0 "devicatHIYO") ." -PhotoSvein (25-Nov-17)
 * 218: "the guest is so good tho. *noms* ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -yankeekitty (27-Nov-17)
-* <missing quote 219, ask CCB for it please>
+* 219: "Devi is a tea cult leader ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0 "LUL") ." -bucketofboops (29-Nov-17)
 * 220: "Take the sword! We need money for chickens anyway." -DeviCat (29-Nov-17)
 * 221: "Awwwwwwwwww Yea guys were getting them chickens ![devicatHIYO](https://static-cdn.jtvnw.net/emoticons/v1/1857272/1.0 "devicatHIYO") ." -DeviCat (29-Nov-17)
 * 222: "OH NOOO!!! I ate the potato!" -DeviCat (29-Nov-17)
@@ -245,26 +245,26 @@ command `!quote N` for some number N.
 * 233: "Who needs chat when you can have Blacksouls ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0 "LUL") ." -DeviCat (10-Dec-17)
 * 234: "I wanna be the very best Ross Like no one ever was To draw happy little trees is my real test To grow them is my cause I will travel across twitch Searching far and wide Each Devimon to understand The art that's inside Devimon, gotta draw 'em all Its you and me I know it's my destiny Devimon, oh, you're my best friend In a world we must color Devimon, gotta catch 'em all A heart so true Our courage will pull us through ![PokPikachu](https://static-cdn.jtvnw.net/emoticons/v1/743904/1.0 "PokPikachu") ![PokGengar](https://static-cdn.jtvnw.net/emoticons/v1/743886/1.0 "PokGengar") ." -dearpicklejar (10-Dec-17)
 * 235: "Convention clothing, as opposed to conventional clothing ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ." -rosuav (11-Dec-17)
-* <missing quote 236, ask CCB for it please>
+* 236: "Dont get in Devi's way she'll take an axe to you ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat&CuteBugBubbles (16-Dec-17)
 * 237: "Who needs sap when you can have a sword?" -DeviCat (16-Dec-17)
 * 238: "Thats right bat thats what I have to say to you, just ripped it heart out of its chest ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (17-Dec-17)
 * 239: "I guess I'll go water my cat ![devicatSMUG](https://static-cdn.jtvnw.net/emoticons/v1/1857248/1.0 "devicatSMUG") ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") ." -DeviCat (21-Dec-17)
 * 240: "Who needs algae when you pick mushrooms" -DeviCat (23-Dec-17)
-* <missing quote 241, ask CCB for it please>
+* 241: "YES I DID IT! GOODBYE CHICKEN" -DeviCat (24-Dec-17)
 * 242: "It is always supposed to be dusty in Devi streams." -DeviCat (27-Dec-17)
 * 243: "Always light on the horizon. And if there isn't, there's normally a Mcdonalds and they do great McFlurrys. ![PJSugar](https://static-cdn.jtvnw.net/emoticons/v1/102556/1.0 "PJSugar") ." -burningoil (27-Dec-17)
 * 244: "Oh, it's story time. No eggplant for you." -DeviCat (30-Dec-17)
 * 245: "is Bennett Foddy the talkie guy or the bucket guy ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -HallwayRaptor (30-Dec-17)
-* <missing quote 246, ask CCB for it please>
+* 246: "Apparently i pickaxed the Bat ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DeviCat (30-Dec-17)
 * 247: "I guess Devi likes pina coladas & getting caught in the rain" -Ironmania2003 (31-Dec-17)
 * 248: "Oh, I missed a chunk of skin over there - I'll have to get it after." -DeviCat (05-Jan-18)
 * 249: "I believe in Devicat, the magical anime unicorn who's the Canadian Reincarnation of Bob Ross!" -ironmania2003 (05-Jan-18)
 * 250: "For anyone who's wondering, we ARE an adult." -DeviCat (06-Jan-18)
 * 251: "Ahhhh, she is looking so cute, i might just explode rainbows ![devicatCCB](https://static-cdn.jtvnw.net/emoticons/v1/1857241/1.0 "devicatCCB") ." -GuardiansOfTheTwitch (07-Jan-18)
 * 252: "I am so glad our cats' hairballs do not explode." -DeviCat (10-Jan-18)
-* <missing quote 253, ask CCB for it please>
+* 253: "Oh, I'm sorry. I didn't mean to make you on fire." -DeviCat (13-Jan-18)
 * 254: "Yes, that's Raptor. He IS cute... and he's mine!" -DeviCat (14-Jan-18)
-* <missing quote 255, ask CCB for it please>
+* 255: "Ah, Devi can be such a girly-girl sometimes. "This is the point where we get to work on my hair!" ("Girly-girl" is an improvement over "psychopathic murderer" right?)" -Rosuav (14-Jan-18)
 * 256: "Shizuko is sitting on a Devi tree that Devi planted in her mind years ago." -Speed_freak86 (14-Jan-18)
 * 257: "qualiTEA is an awesome thing. It's a channel on twitch, known to the people as "DeviCat". It features creating anime style artwork (when they aren't stuck on the gratitude board), and sometimes even gaming. Fun stuff." -ElaineSpencer (15-Jan-18)
 * 258: "So there is some physics here. If you get crushed by a boulder... you get crushed by a boulder. ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DeviCat (17-Jan-18)
@@ -282,7 +282,7 @@ command `!quote N` for some number N.
 * 270: "Cheese... mayo... Okay. Lettuce go on a mission." -DeviCat (27-Jan-18)
 * 271: "I just realized that Milli Lita is bleeding on the screen" -DeviCat (28-Jan-18)
 * 272: "I'm just going to borrow her face. devicatCHII" -DeviCat (28-Jan-18)
-* <missing quote 273, ask CCB for it please>
+* 273: "I had to cut off the hands at the time." -DeviCat (29-Jan-18)
 * 274: "She doesnt have to be mad... she is just thinking really hard while chewing a cookie. ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") " -CuteBugBubbles (01-Feb-18)
 * 275: "I will continue to be ![PowerUpL](https://static-cdn.jtvnw.net/emoticons/v1/425688/1.0 "PowerUpL") beefy ![PowerUpR](https://static-cdn.jtvnw.net/emoticons/v1/425671/1.0 "PowerUpR") cat!" -DeviCat (05-Feb-18)
 * 276: "Okay, I'm going to try French Vanillaaaaaaaaaaaaa!" -devicat (07-Feb-18)
@@ -292,20 +292,20 @@ command `!quote N` for some number N.
 * 280: "Or Pickaxeing a chicken, no one saw that ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0 "devicatGRR") ." -DeviCat (12-Feb-18)
 * 281: "I always keep tons of cheddar on me." -DeviCat (12-Feb-18)
 * 282: "Ah ha! There's my pupil. I found my pupil." -devicat (14-Feb-18)
-* <missing quote 283, ask CCB for it please>
+* 283: "Ooh that looks evil. ... That was fun." -DeviCat (14-Feb-18)
 * 284: "Requires valuable... chewing time." -DeviCat (15-Feb-18)
-* <missing quote 285, ask CCB for it please>
+* 285: "Get some of that HD-Devi Dental Insurance, call 1-800-LIT-DEVI today!" -DeviCat (17-Feb-18)
 * 286: "If you ever get a male manga, would it be a mango? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Rosuav (18-Feb-18)
 * 287: "Rip to the bee FOR DEVI HAS RISEN HAHA" -DeviCat (18-Feb-18)
 * 288: "I have two modes: 'sleep is for the weak' and 'sleep is for the week'. There's no in between." -Xillians (18-Feb-18)
 * 289: "*sigh It does look better. *grumble*" -DeviCat (18-Feb-18)
 * 290: "I'm just going to go naked for a second. ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (19-Feb-18)
 * 291: "We lost a hammer! ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1857237/1.0 "devicatPOW") ." -DeviCat (21-Feb-18)
-* <missing quote 292, ask CCB for it please>
+* 292: "When CCB gets in a relationship, does that make her CCBae? ![devicatCCB](https://static-cdn.jtvnw.net/emoticons/v1/1857241/1.0 "devicatCCB") ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ?" -dearpicklejar (21-Feb-18)
 * 293: "Sorry, we're talking about removing FACES, not HAIR." -DeviCat (21-Feb-18)
 * <missing quote 294, ask CCB for it please>
 * 295: "Cheetos dust is bad for you." -HallwayRaptor (24-Feb-18)
-* <missing quote 296, ask CCB for it please>
+* 296: "I'm in charge now,look at me, I'm devicat ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -HallwayRaptor (24-Feb-18)
 * 297: "Pardon me while I sit here cackling evilly..." -DeviCat (24-Feb-18)
 * 298: "Devi Wings: when Red Bull isn't enough and you need that extra lift!" -dearpicklejar (24-Feb-18)
 * 299: "I can become big for a while ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0 "devicatGRR") and I can make fire... Life is good. ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1857237/1.0 "devicatPOW") ." -DeviCat (26-Feb-18)
@@ -315,7 +315,7 @@ command `!quote N` for some number N.
 * 303: "Ginger lady here to hug you with tiny little hands . chat let me love you meow" -dearpicklejar (04-Mar-18)
 * 304: "Seriously, can we just take a moment to stare at these legs?" -DeviCat (04-Mar-18)
 * 305: "Devitude when Devi thanks you for your kindness and bakes a photoshop leg…" -derppicklejar (07-Mar-18)
-* <missing quote 306, ask CCB for it please>
+* 306: "Blacksouls92 mad respects for breaking! I mean how could you! ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -YukiOjo (08-Mar-18)
 * 307: "I always like this stage; the character goes from super cute to "I'm going to murder you"." -DeviCat (11-Mar-18)
 * 308: "I was like a poofy marshmallow with legs" -DeviCat (11-Mar-18)
 * 309: "Where's my body? Ohh it's up there." -HallwayRaptor (17-Mar-18)
@@ -533,13 +533,13 @@ command `!quote N` for some number N.
 * 521: "Good news! I can finally leave the pumpkins now." -DeviCat (29-Oct-18)
 * 522: "I have bananas and mangoes! I can give you bananas and mangoes!" -DeviCat (01-Nov-18)
 * 523: "Well then, I wish to be a dryer!" -DeviCat (01-Nov-18)
-* <missing quote 524, ask CCB for it please>
+* 524: "I was checking over the legs" -DeviCat (07-Nov-18)
 * 525: "I will plaster that note with stickers. Why? Because I can." -DeviCat (08-Nov-18)
 * 526: "tangents are great just like tangerines , How are they the similar well they sound the same ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0 "devicatLOL") ." -DeviCat (08-Nov-18)
 * 527: "The character is naked, but most importantly, she's got a sheep, and that's all that matters ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DeviCat (10-Nov-18)
 * 528: "It's your fault!! Your fault!! But thank you!" -DeviCat (10-Nov-18)
 * 529: "That's one small treat for the Tychus, one giant treat for the stream! ![FrankerZ](https://static-cdn.jtvnw.net/emoticons/v1/65/1.0 "FrankerZ") ." -Rosuav (11-Nov-18)
-* <missing quote 530, ask CCB for it please>
+* 530: "We're going to do some face surgery, are you ready for this?" -DeviCat (12-Nov-18)
 * 531: "Thank you for all those butts, they are beautiful." -DeviCat (14-Nov-18)
 * 532: "Ah! No! I did not mean to take the whole face. Mistakes were made!" -DeviCat (14-Nov-18)
 * 533: "That was a bad butt manoeuvre ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (21-Nov-18)
@@ -591,6 +591,8 @@ command `!quote N` for some number N.
 * 579: "Give me hugs and kisses! I want hugs and kisses!" -DeviCat (02-Feb-19)
 * 580: "It's alright - we don't judge crumbs around here!" -DeviCat (02-Feb-19)
 * 581: "Science, you guys! Science!" -DeviCat (03-Feb-19)
+* 582: "Power to the noses!" -DeviCat (06-Feb-19)
+* 583: "Oh no! I squished the kitty! I might have to rebuild the cat house." -DeviCat (06-Feb-19)
 
-This list is missing 55 quotes, plus any that have been recently added.
+This list is missing 40 quotes, plus any that have been recently added.
 
