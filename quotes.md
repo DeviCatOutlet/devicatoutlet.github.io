@@ -288,7 +288,7 @@ command `!quote N` for some number N.
 * 276: "Okay, I'm going to try French Vanillaaaaaaaaaaaaa!" -devicat (07-Feb-18)
 * 277: "Just to be clear, Canadia is different from Canada, which is where Devi lives." -BehindTheScenes (08-Feb-18)
 * 278: "Does the Raptor summoning ritual require the sacrifice of a hamburger ![hallwaLurk](https://static-cdn.jtvnw.net/emoticons/v1/550688/1.0 "hallwaLurk") ?" -Blacksouls92 (10-Feb-18)
-* <missing quote 279, ask CCB for it please>
+* 279: "Opps i set things a flame ![panicBasket](https://static-cdn.jtvnw.net/emoticons/v1/22998/1.0 "panicBasket") ." -DeviCat (12-Feb-18)
 * 280: "Or Pickaxeing a chicken, no one saw that ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0 "devicatGRR") ." -DeviCat (12-Feb-18)
 * 281: "I always keep tons of cheddar on me." -DeviCat (12-Feb-18)
 * 282: "Ah ha! There's my pupil. I found my pupil." -devicat (14-Feb-18)
@@ -303,7 +303,7 @@ command `!quote N` for some number N.
 * 291: "We lost a hammer! ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1857237/1.0 "devicatPOW") ." -DeviCat (21-Feb-18)
 * 292: "When CCB gets in a relationship, does that make her CCBae? ![devicatCCB](https://static-cdn.jtvnw.net/emoticons/v1/1857241/1.0 "devicatCCB") ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ?" -dearpicklejar (21-Feb-18)
 * 293: "Sorry, we're talking about removing FACES, not HAIR." -DeviCat (21-Feb-18)
-* <missing quote 294, ask CCB for it please>
+* 294: " devicatSHY Badge-kun noooooooooooooo Badge-kun are you okay devicatSHY ." -Blacksouls92 (22-Feb-18)
 * 295: "Cheetos dust is bad for you." -HallwayRaptor (24-Feb-18)
 * 296: "I'm in charge now,look at me, I'm devicat ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -HallwayRaptor (24-Feb-18)
 * 297: "Pardon me while I sit here cackling evilly..." -DeviCat (24-Feb-18)
@@ -326,11 +326,11 @@ command `!quote N` for some number N.
 * 314: "Mooooo" -@DeviCat (17-Mar-18)
 * 315: "Stroke more! Stroke more!!" -DeviCat (17-Mar-18)
 * 316: "cafeterias stopped serving French fries. They served "freedom fries" instead. Naturally, "French toast" became "freedom toast" as well." -Blacksouls92 (18-Mar-18)
-* <missing quote 317, ask CCB for it please>
+* 317: "I thought I saw another ant, but it was my hair, blowing in the breeze." -DeviCat (19-Mar-18)
 * 318: "Coming soon to an armpit near you: Devi branded deodorant. When you need a boost of inspiration and a decrease of perspiration. May your armpits be as smooth as Bob Ross with a paintbrush." -derppicklejar (21-Mar-18)
 * 319: "Coming soon to an armpit near you Devi branded deodorant. When you need a boost of inspiration and a decrease of perspiration. May your armpits be as smooth as Bob Ross with a paintbrush." -derppicklejar (21-Mar-18)
 * 320: "My sun! My sun! Where Art Thou Sun!? Oh there it is! blacksouls92 borrowed it to read a book ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0 "devicatGRR") ." -derppicklejar (25-Mar-18)
-* <missing quote 321, ask CCB for it please>
+* 321: "Sakura girl we're going to join forces and slowly but surely fill up Devi's bit bar. Let us skip through the poptart forest with cheeseburgers ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1857263/1.0 "devicatAWW") ." -derppicklejar (25-Mar-18)
 * 322: "Durrr" -Ryssbee (25-Mar-18)
 * 323: "I finally lost! Yay!" -DeviCat (25-Mar-18)
 * 324: "Am I a potato?" -DeviCat (25-Mar-18)
@@ -338,14 +338,14 @@ command `!quote N` for some number N.
 * 326: "Welcome To The Devicat Hand Talking Show! She Talks! She Draws! She Dances! She Laughs! And Sometimes Draws Boxes!! Don't Worry She Does Have A Head, You Just Can't See It. Tune In Next Time And See What Happens!" -DuCkY245 (26-Mar-18)
 * 327: "I want someone who looks at me the way Devi looks at that contrast ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") ." -KokomoKitty (28-Mar-18)
 * 328: "Forty minutes into the stream, and we've blended shoes." -DeviCat (31-Mar-18)
-* <missing quote 329, ask CCB for it please>
+* 329: "And white teeth cause he bushes ![ohmyRAPTOR](https://cdn.betterttv.net/frankerfacez_emote/165546/1 "ohmyRAPTOR") ." -HallwayRaptor (01-Apr-18)
 * 330: "And then my hips went kerBAM!" -DeviCat (01-Apr-18)
 * <missing quote 331, ask CCB for it please>
 * 332: "I'm just going to finish this thumb... if I can ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/819947/1.0 "devicatNOM") ..." -DeviCat (02-Apr-18)
 * 333: "I'll add you to the gratitude board in a sec i just need to finish this thumb" -DeviCat (02-Apr-18)
-* <missing quote 334, ask CCB for it please>
+* 334: "The same shade of Rebekah ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DeviCat (02-Apr-18)
 * 335: "Blacksouls and Rosu quote everything. If it flies out of my mouth and it's funny, they quote it." -DeviCat (02-Apr-18)
-* <missing quote 336, ask CCB for it please>
+* 336: "You guys and your flippin' boxes" -DeviCat (04-Apr-18)
 * 337: "Want to know how to wake up chat? Make a box! Want to know how to REALLY wake up chat? Give that box cat ears!" -DeviCat (04-Apr-18)
 * 338: "All those hugs! ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/1857261/1.0 "devicatHUG") You're making painting hair that much more fun." -DeviCat (04-Apr-18)
 * 339: "the trees have begun to breed" -r4v3n_x (05-Apr-18)
@@ -394,7 +394,7 @@ command `!quote N` for some number N.
 * 382: "I have to hide her glasses for a bit ![devicatCUP](https://static-cdn.jtvnw.net/emoticons/v1/1857253/1.0 "devicatCUP") ." -DeviCat (09-May-18)
 * 383: "Walking away for a minute is good, but coming back is equally important. ![devicatLURK](https://static-cdn.jtvnw.net/emoticons/v1/1857281/1.0 "devicatLURK") ." -stephenangelico (12-May-18)
 * 384: "If you want to slap my face, do it." -DeviCat (13-May-18)
-* <missing quote 385, ask CCB for it please>
+* 385: "It's not truly a ![deviCoolStory](https://cdn.betterttv.net/frankerfacez_emote/251430/1 "deviCoolStory") until Devi tells a story about how much cooler she is now." -rosuav (13-May-18)
 * 386: "I'm not popping babies. *hides needle* ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -Xillians (13-May-18)
 * <missing quote 387, ask CCB for it please>
 * 388: "I was trying to text the ingredient list for tamales to my cousin... I wanted dried child for cinco de mayo. PhonePls!! ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0 "devicatGRR") ." -ElaineSpencer (14-May-18)
@@ -505,25 +505,25 @@ command `!quote N` for some number N.
 * <missing quote 493, ask CCB for it please>
 * 494: "Just a friendly reminder that if you have an active gift sub you can renew your sub for only 1 dollar, just call 1-800 DeviCat. just kidding dont call that fake number but please do renew your sub!" -BoozeWash (12-Sep-18)
 * 495: "One day, my arms will be beefy instead of noodley" -DeviCat (12-Sep-18)
-* <missing quote 496, ask CCB for it please>
+* 496: "Uhh.... that's because the internet exists." -DeviCat (13-Sep-18)
 * 497: "We can make a few different candies for the store" -DeviCat (16-Sep-18)
 * 498: "Ah, I just go to bed when I'm exhausted ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0 "devicatLOL") ." -HatsuneMiku6458 (16-Sep-18)
 * <missing quote 499, ask CCB for it please>
 * 500: "Devi wears almost as many layers as she creates. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") " -rebekah_chan (19-Sep-18)
 * 501: "Is Raptor in the business of finding old artifacts in exotic places? (In the Shadow of the Raptor Raider ![TombRaid](https://static-cdn.jtvnw.net/emoticons/v1/864205/1.0 "TombRaid") )" -mlasuk (22-Sep-18)
-* <missing quote 502, ask CCB for it please>
+* 502: "So, now I can toggle her cheekies." -DeviCat (23-Sep-18)
 * 503: "The butt fortress, The secret layer of the butt squad ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0 "devicatLOL") ." -Blacksouls92 (26-Sep-18)
 * 504: "Too late to explore the world, to early to explore the universe but just in time to see bowsette memes. What a time to be alive!" -BoozeWash (29-Sep-18)
 * 505: "I'm just going to fix the bottom stairwell - by removing it altogether" -DeviCat (03-Oct-18)
-* <missing quote 506, ask CCB for it please>
+* 506: "I'm just gonna borrow this heart, don't mind me" -DeviCat (04-Oct-18)
 * 507: "DeviChina, when you sell plates on Redbubble." -Rosuav (06-Oct-18)
-* <missing quote 508, ask CCB for it please>
+* 508: "Arptor is the new Raptor." -DeviCat (06-Oct-18)
 * 509: "I have to look at my own knee for a minute ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DeviCat (06-Oct-18)
 * 510: "I did that yesterday and erased your entire head... I was like, oh my God thank you for the back button ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") !" -eggrinthebox (07-Oct-18)
 * 511: "no no no Ghost dont go in there ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -NO (07-Oct-18)
 * 512: "Thankfully, she doesn't have too much skin" -DeviCat (13-Oct-18)
 * 513: "Dark mathematics. You say "multiply" and it casts a shadow." -Rosuav (13-Oct-18)
-* <missing quote 514, ask CCB for it please>
+* 514: "devicatEH Where is his face... where did I put it...." -DeviCat (18-Oct-18)
 * 515: "I think we may be able to just flip this leg and warp it a bit." -DeviCat (22-Oct-18)
 * 516: "I think imma murder everything with pink destruction ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0 "devicatLOL") ." -Blacksouls92 (24-Oct-18)
 * 517: "GIRL POWER! Just get a girl, put wires on her, and you can run PhotoShop on the pure magic created! ." -Rosuav (24-Oct-18)
@@ -594,5 +594,5 @@ command `!quote N` for some number N.
 * 582: "Power to the noses!" -DeviCat (06-Feb-19)
 * 583: "Oh no! I squished the kitty! I might have to rebuild the cat house." -DeviCat (06-Feb-19)
 
-This list is missing 40 quotes, plus any that have been recently added.
+This list is missing 27 quotes, plus any that have been recently added.
 
