@@ -447,7 +447,7 @@ command `!quote N` for some number N.
 * 435: "Sorry Devi, I'm too busy setting you on fire" -derppicklejar (02-Jul-18)
 * 436: "I look up and it's just like BOOM! In your face. Cheers!" -DeviCat (04-Jul-18)
 * 437: "Today has been one of those "Hey, Devi! Let's do all the things today. Except art." days." -DeviCat (04-Jul-18)
-* <missing quote 438, ask CCB for it please>
+* 438: "You can tell how epic a day has been by the amount of buttage on the screen ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (04-Jul-18)
 * 439: "Thank you. I shall tip my headphones to you." -DeviCat (05-Jul-18)
 * 440: "... because once I start talking, I basically don't stop talking..." -DeviCat (05-Jul-18)
 * 441: "Devi pocket, the pizza pocket that taste like magic and Devicat...wait...I need to work on the slogan." -BoozeWash (05-Jul-18)
@@ -466,7 +466,7 @@ command `!quote N` for some number N.
 * 454: "It's okay though; she won't look TOO crazy." -DeviCat (14-Jul-18)
 * 455: "I am Devimeter. Hear me Gaige." -DeviCat (15-Jul-18)
 * 456: "I'm in a tree mood." -DeviCat (18-Jul-18)
-* <missing quote 457, ask CCB for it please>
+* 457: "We'll just have a quick tour, then I'll get back to my tree" -DeviCat (18-Jul-18)
 * 458: "I'm glad it turned into a caramel sauce and not, you know, a desert animal." -DeviCat (18-Jul-18)
 * 459: "Whenever I do something good with a body part, I want to keep it exposed." -DeviCat (19-Jul-18)
 * 460: "Okay, that eye looks messed-up." -DeviCat (22-Jul-18)
@@ -597,5 +597,5 @@ command `!quote N` for some number N.
 * 585: "This week is dedicated to the booty ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (10-Feb-19)
 * 586: "I had to put my name on the butt." -DeviCat (10-Feb-19)
 
-This list is missing 2 quotes, plus any that have been recently added.
+This list is missing 0 quotes, plus any that have been recently added.
 
