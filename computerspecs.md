@@ -11,6 +11,7 @@
 * PSU: EVGA G2 750W
 * Case: Thermaltake Chaser A41
 * Microphone: MXL 770
+* Audio Interface: PreSonus Audiobox USB
 * Keyboard: Razer Blackwidow Chroma RGB
 * Monitor: Acer H226HQ
 * Webcam: Logitech HD Pro C920
