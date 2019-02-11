@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 583 quotes have been recorded. Most of
+by CutieCakeBot and the mod team. So far, 586 quotes have been recorded. Most of
 them are listed below; to see the others, ask CutieCakeBot for a quote with the
 command `!quote N` for some number N.
 
@@ -420,22 +420,22 @@ command `!quote N` for some number N.
 * 408: "Devi's dad had the perfect skills to be a con artist. And now his daugher is an artist who goes to cons." -Rosuav (03-Jun-18)
 * 409: "I want this shield. I do not care about the human attached to it." -Xillians (03-Jun-18)
 * 410: "Sorry, I got distracted by a picture of my face ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/1291575/1.0 "devicatEH") ." -DeviCat (03-Jun-18)
-* <missing quote 411, ask CCB for it please>
+* 411: "I just want my chocobo to flyyyyyyy!" -DeviCat (04-Jun-18)
 * 412: "We can turn the color on or off... actually that looks badass, let's keep it like that ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/1291593/1.0 "devicatMAGIC") !" -DeviCat (04-Jun-18)
-* <missing quote 413, ask CCB for it please>
+* 413: "Well, by "mellow out" I mean ![devicatHYPU](https://static-cdn.jtvnw.net/emoticons/v1/1291594/1.0 "devicatHYPU") …" -DeviCat (06-Jun-18)
 * 414: "Devi: "I don't have to worry about anything today!" Windows: "Oh ho ho ho you aren't allowed to get complacent..."" -Rosuav (07-Jun-18)
-* <missing quote 415, ask CCB for it please>
+* 415: "... you'll unleash something kind of adorable ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1857263/1.0 "devicatAWW") ." -DeviCat (07-Jun-18)
 * 416: "For some reason Twitch gave me more bitties. For some reason, I want to eat the sparkles." -a_tiny_little_cat (07-Jun-18)
 * 417: "Nyxiel! Nyxiel! Where did I put you??" -DeviCat (09-Jun-18)
 * 418: "If I can draw bare feet, I will." -DeviCat (09-Jun-18)
 * 419: "I found the sparkles!!" -DeviCat (09-Jun-18)
 * 420: "Yeah, I guess it would be scary if I exploded." -DeviCat (10-Jun-18)
 * 421: "Have a Devi day means there better be magic floating everywhere ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/1291593/1.0 "devicatMAGIC") ." -Blacksouls92 (11-Jun-18)
-* <missing quote 422, ask CCB for it please>
+* 422: "!askchair Are you taking over Devi's life? ![devicatSALUT](https://static-cdn.jtvnw.net/emoticons/v1/1112113/1.0 "devicatSALUT") Chair senpai: I am one with Devi and Devi is one with me." -derppicklejar (11-Jun-18)
 * 423: "O-Hiyo Everyone!!! ![devicatHIYO](https://static-cdn.jtvnw.net/emoticons/v1/1857272/1.0 "devicatHIYO") I like that I come in and the first thing I see is Rosu saying 'A Box'" -DuCkY245 (20-Jun-18)
 * 424: "Sometimes ankles need to blush to, Somtimes they get embarrassed" -DeviCat (20-Jun-18)
 * 425: "I am just full of boxes today!" -DeviCat (21-Jun-18)
-* <missing quote 426, ask CCB for it please>
+* 426: "Devi we must climb your body, NO SHORTS Thats weird ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0 "devicatGRR") ." -DeviCat (24-Jun-18)
 * 427: "Her shorts look like frosting! I could eat them!" -DeviCat (24-Jun-18)
 * 428: "We would have to send PhotoSvein a giant flaming hula hoop, and they would have to take a video of themselves jumping through it, and then we'd allow them the honor of posting a link." -Hihohotdog (25-Jun-18)
 * 429: "I made Dirt look at my dirt, i am so proud of that ground" -DeviCat (25-Jun-18)
@@ -444,7 +444,7 @@ command `!quote N` for some number N.
 * 432: "They call me the bell ringer of the streams <cheer50> <cheer50> <cheer50>" -Sax5K (02-Jul-18)
 * 433: "Sax, you're getting another butt" -DeviCat (02-Jul-18)
 * 434: "We get excited about things, and then they turn into memes, and then the world explodes." -DeviCat (02-Jul-18)
-* <missing quote 435, ask CCB for it please>
+* 435: "Sorry Devi, I'm too busy setting you on fire" -derppicklejar (02-Jul-18)
 * 436: "I look up and it's just like BOOM! In your face. Cheers!" -DeviCat (04-Jul-18)
 * 437: "Today has been one of those "Hey, Devi! Let's do all the things today. Except art." days." -DeviCat (04-Jul-18)
 * <missing quote 438, ask CCB for it please>
@@ -461,9 +461,9 @@ command `!quote N` for some number N.
 * 449: "I was going to stream today, but you exist." -a_tiny_little_cat (11-Jul-18)
 * 450: "I'm missing something terribly important! I'm missing skin!!" -DeviCat (11-Jul-18)
 * 451: "Okay green. Okay green. Where art thou?" -DeviCat (12-Jul-18)
-* <missing quote 452, ask CCB for it please>
+* 452: "Yay for eating! ![NomNom](https://static-cdn.jtvnw.net/emoticons/v1/90075/1.0 "NomNom") !" -DeviCat (12-Jul-18)
 * 453: "My eyes are real ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -DeviCat (14-Jul-18)
-* <missing quote 454, ask CCB for it please>
+* 454: "It's okay though; she won't look TOO crazy." -DeviCat (14-Jul-18)
 * 455: "I am Devimeter. Hear me Gaige." -DeviCat (15-Jul-18)
 * 456: "I'm in a tree mood." -DeviCat (18-Jul-18)
 * <missing quote 457, ask CCB for it please>
@@ -476,14 +476,14 @@ command `!quote N` for some number N.
 * 464: "(repeated line) So that happened." -DeviCat (30-Jul-18)
 * 465: "Let me put the music notes back... And on that note...." -DeviCat (02-Aug-18)
 * 466: "Oh yeah, she's still missing her fingernails!" -DeviCat (04-Aug-18)
-* <missing quote 467, ask CCB for it please>
+* 467: "I don't care. I'm deleting the other eyes." -DeviCat (06-Aug-18)
 * 468: "Deer Devi, This is Lita. I am watching from behind this glass. I know I did this to myself, I never learn, but i would like you to open it for me." -DuCkY245 (06-Aug-18)
-* <missing quote 469, ask CCB for it please>
+* 469: "Are you days needing a little cuteness overload? Then pounce on over to DeviCat's stream and chat, where each day is full of pawsitive vibes! DeviCat brings those purrfectly cute moments to your stream every time! So sub on by for four ninety nine!" -astralsflame (08-Aug-18)
 * 470: "It is no longer fiber arts, it is fiber carts! Because we drive around in our art. Or go shopping with it!" -DeviCat (09-Aug-18)
-* <missing quote 471, ask CCB for it please>
+* 471: "I could crop the butt, I guess..." -DeviCat (11-Aug-18)
 * 472: "My eyelashes! Where are they? Where did I put them? ... Oh I'm in the wrong area." -DeviCat (12-Aug-18)
 * 473: "No we're not going to talk about ![Baby](https://static-cdn.jtvnw.net/emoticons/v1/21158/1.0 "Baby") Legos again" -DeviCat (13-Aug-18)
-* <missing quote 474, ask CCB for it please>
+* 474: "The ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/1857265/1.0 "devicatLOL") is being a devicatBUTT" -DeviCat (15-Aug-18)
 * 475: " ![devicatHIYO](https://static-cdn.jtvnw.net/emoticons/v1/1857272/1.0 "devicatHIYO") I was so excited about the pink that I forgot to say "Hi Everyone!"." -Ro_i3 (15-Aug-18)
 * 476: "DeviCatOutlet: Brand-name positivity at wholesale prices! ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1857263/1.0 "devicatAWW") Get your kawaii direct from the factory outlet and save!" -Rosuav (16-Aug-18)
 * 477: "But I was SO wrong. And I haven't even done the hair yet!" -DeviCat (18-Aug-18)
@@ -496,7 +496,7 @@ command `!quote N` for some number N.
 * 484: "Welcome to DeviCat's Twitch Channel, where you will learn how to defend yourself with a tablet pen. The technique is simple: If someone tries to grab you, you Wac'om!" -Rosuav (27-Aug-18)
 * 485: "I'm sorry! I forgot about the door!" -DeviCat (29-Aug-18)
 * 486: "I've found your tears!" -DeviCat (29-Aug-18)
-* <missing quote 487, ask CCB for it please>
+* 487: "All the actual art happens by pure magic, and the clicking that you hear is the gears in her brain turning as she tries to figure out if what Rosu just said was a compliment or not." -Rosuav (30-Aug-18)
 * 488: "Did you know the military used to enlist artists? They had to be dismissed because they kept drawing enemy fire ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/1291574/1.0 "devicatSPOOK") ." -LunaReisen (30-Aug-18)
 * 489: "Hold on, I'm going to put this ear over here so I can see it in comparison" -DeviCat (30-Aug-18)
 * 490: "Its like a bank heist but your baking cake ![devicatCAKE](https://static-cdn.jtvnw.net/emoticons/v1/1857251/1.0 "devicatCAKE") ." -DeviCat (03-Sep-18)
@@ -593,6 +593,9 @@ command `!quote N` for some number N.
 * 581: "Science, you guys! Science!" -DeviCat (03-Feb-19)
 * 582: "Power to the noses!" -DeviCat (06-Feb-19)
 * 583: "Oh no! I squished the kitty! I might have to rebuild the cat house." -DeviCat (06-Feb-19)
+* 584: "Mistakes might have been made oh no we're good it's okay" -DeviCat (10-Feb-19)
+* 585: "This week is dedicated to the booty ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (10-Feb-19)
+* 586: "I had to put my name on the butt." -DeviCat (10-Feb-19)
 
-This list is missing 15 quotes, plus any that have been recently added.
+This list is missing 2 quotes, plus any that have been recently added.
 
