@@ -5,9 +5,9 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 586 quotes have been recorded. Most of
-them are listed below; to see the others, ask CutieCakeBot for a quote with the
-command `!quote N` for some number N.
+by CutieCakeBot and the mod team. So far, 588 quotes have been recorded. To see
+them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
+number N.
 
 
 * 1: "I'M JUST A SEAGULL POSSESSED BY PEARS! I LIVE MY LIFE!" -Devi_Cat (10-Nov-15)
@@ -596,6 +596,8 @@ command `!quote N` for some number N.
 * 584: "Mistakes might have been made oh no we're good it's okay" -DeviCat (10-Feb-19)
 * 585: "This week is dedicated to the booty ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (10-Feb-19)
 * 586: "I had to put my name on the butt." -DeviCat (10-Feb-19)
+* 587: "More distinct blushes without making the character look sunburned." -DeviCat (13-Feb-19)
+* 588: "Where am I even at, any more? I don't know! Just hypu everywhere!" -DeviCat (13-Feb-19)
 
-This list is missing 0 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
 
