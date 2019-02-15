@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 588 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 590 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -598,6 +598,8 @@ number N.
 * 586: "I had to put my name on the butt." -DeviCat (10-Feb-19)
 * 587: "More distinct blushes without making the character look sunburned." -DeviCat (13-Feb-19)
 * 588: "Where am I even at, any more? I don't know! Just hypu everywhere!" -DeviCat (13-Feb-19)
+* 589: "[Lita] was literally splooged inside the box" -DeviCat (14-Feb-19)
+* 590: "Yaaaaay! I finally lost it!" -DeviCat (14-Feb-19)
 
 There may be quotes newer than these that have yet to be collected.
 
