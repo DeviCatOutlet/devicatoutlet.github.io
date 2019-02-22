@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 593 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 594 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -603,6 +603,7 @@ number N.
 * 591: "This isn't ASMR, we're listening to twinkles!" -DeviCat (17-Feb-19)
 * 592: "Oh God, my pantry's turned into Rosu's pantry!" -DeviCat (17-Feb-19)
 * 593: "iMagic, the latest DeviCat app from Apple ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/1291593/1.0 "devicatMAGIC") 🍎 ." -Rosuav (17-Feb-19)
+* 594: "Are you ready to ruin their score? I'M ready to ruin their score!!" -DeviCat (21-Feb-19)
 
 There may be quotes newer than these that have yet to be collected.
 
