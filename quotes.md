@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 595 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 598 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -605,6 +605,9 @@ number N.
 * 593: "iMagic, the latest DeviCat app from Apple ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/1291593/1.0 "devicatMAGIC") 🍎 ." -Rosuav (17-Feb-19)
 * 594: "Are you ready to ruin their score? I'M ready to ruin their score!!" -DeviCat (21-Feb-19)
 * 595: "For anyone who's wondering WHAT we are drawing, this is a thigh." -DeviCat (23-Feb-19)
+* 596: "No, it's not ALL cat butts, that's just the first thing you'll see when you walk in there." -DeviCat (25-Feb-19)
+* 597: "Hold on, I will increase the booty size ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") …" -DeviCat (25-Feb-19)
+* 598: "This has been a successful no-art day!" -DeviCat (25-Feb-19)
 
 There may be quotes newer than these that have yet to be collected.
 
