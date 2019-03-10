@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 600 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 602 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -610,6 +610,8 @@ number N.
 * 598: "This has been a successful no-art day!" -DeviCat (25-Feb-19)
 * 599: "Do not misgender your pigs, friends" -Cazzie_Bliss (28-Feb-19)
 * 600: "What about floof? I bought floof! I bought floof!" -DeviCat (02-Mar-19)
+* 601: "It's a marshmallow… a marshmallow with accessories and a face." -DeviCat (07-Mar-19)
+* 602: "It's okay, birdie, I will save you from Kotori's hair" -DeviCat (09-Mar-19)
 
 There may be quotes newer than these that have yet to be collected.
 
