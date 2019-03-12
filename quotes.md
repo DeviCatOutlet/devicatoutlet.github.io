@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 603 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 606 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -613,6 +613,9 @@ number N.
 * 601: "It's a marshmallow… a marshmallow with accessories and a face." -DeviCat (07-Mar-19)
 * 602: "It's okay, birdie, I will save you from Kotori's hair" -DeviCat (09-Mar-19)
 * 603: "You're the equivalent of doing a Kawaii Box." -DeviCat (10-Mar-19)
+* 604: "I'M OKAY! Well, it's true. I wasn't dead or anything." -DeviCat (11-Mar-19)
+* 605: "We're using CCB as a guinea pig, because whatever I do to her is fine." -DeviCat (11-Mar-19)
+* 606: "Hanging out and making art is the best medicine I could have... apart from, like, sleep." -DeviCat (11-Mar-19)
 
 There may be quotes newer than these that have yet to be collected.
 
