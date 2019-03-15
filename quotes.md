@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 607 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 608 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -617,6 +617,7 @@ number N.
 * 605: "We're using CCB as a guinea pig, because whatever I do to her is fine." -DeviCat (11-Mar-19)
 * 606: "Hanging out and making art is the best medicine I could have... apart from, like, sleep." -DeviCat (11-Mar-19)
 * 607: "born!!! ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/1857263/1.0 "devicatAWW") ." -ducky245 (13-Mar-19)
+* 608: "I don't know what I can do except give you MORE BUTTS!! ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") !!" -DeviCat (14-Mar-19)
 
 There may be quotes newer than these that have yet to be collected.
 
