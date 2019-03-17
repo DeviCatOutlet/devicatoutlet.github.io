@@ -22,6 +22,8 @@ further inspired Devi to officially give her a body and then eventually a name.
 ### Momoko to date:
 
 
+![CCB Trainer 2019](img/CCBTrainer2019.png)
+
 ![CCB KawaiiGirl FairyKei 2018](img/CCB_KawaiiGirl_FairyKei_2018.png)
 
 ![CCB Candy Carnival](img/ccb_candy_carnival_2018.png)
@@ -30,11 +32,7 @@ further inspired Devi to officially give her a body and then eventually a name.
 
 ![CCBunny](img/ccbunny.png)
 
-![Cafe Maid Momoko](img/momoko.png)
-
 ![Sitting Study ­– Momoko](img/momoko_sitting.png)
-
-![Trainer Chibi Momoko](img/momoko_trainer_chibi.png)
 
 #### First creation of Momoko:
 ![CCB Twins](img/ccb_twins.png)
