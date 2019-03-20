@@ -3,9 +3,11 @@
 * ![](img/aboutdevicat.png)
 * ## DeviCat
 
-  I’m a self taught digital illustrator, full
+  My name is Rachelle, but most people know me as DeviCat. I’m a self taught digital illustrator, full
   time Twitch Partnered broadcaster, and part time video creator on YouTube. Here, we encourage the ideals of positive
   community through creativity and determination.
+
+  The title "DeviCat" comes from Deviant Category. Which means to deviate from the ordinary, to take the path less known. 
 
 ---
 
@@ -37,8 +39,10 @@
 
 ---
 
-* ## Our Symbol
+* ## Take Root & Dream
 
+  This icon, with the flowers and the branches, is the representation of the evolution of my dream as an artist and as a person. It symbolizes to let your dreams bloom into the beautiful flower they were meant to be. No matter how much we may change and grow, it's important to reflect on our roots to appreciate who we are now.
+  
   *“I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them." - DeviCat* 
 
 * ![](img/TakeRootDream_icon.png)
