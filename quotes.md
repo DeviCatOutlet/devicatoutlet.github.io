@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 613 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 614 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -623,6 +623,7 @@ number N.
 * 611: "I have to find something to eat the chopsticks with" -DeviCat (18-Mar-19)
 * 612: "That's the problem. I have too many people I could break." -DeviCat (20-Mar-19)
 * 613: "The light at the end of the tunnel is pedal-powered. Get going." -Rosuav (21-Mar-19)
+* 614: "And then a bolt of lightning struck the tower, and Devi said "ARISE", and Lita *finally* got up off the chair and let Devi sit down." -Rosuav (23-Mar-19)
 
 There may be quotes newer than these that have yet to be collected.
 
