@@ -23,7 +23,7 @@
 * ![](img/devicatheartemote.png)
 
 * ## About DeviCat
-  * **Name:** Rachelle (Most people call me by Devi)
+  * **Name:** Rachelle 
   * **Nationality:** Canadian
   * **Streaming on Twitch since:** May 28, 2015
   * **Partnered on Twitch since:** July 5, 2016
