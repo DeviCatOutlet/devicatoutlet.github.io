@@ -1,10 +1,10 @@
 # Gallery
 
 
+![Kotori Chan Love Live 2019](img/KotoriChanLoveLive2019)
 ![CCB Trainer 2019](img/CCBTrainer2019.png)
 ![Subaru Chibi 2019](img/SubaruChibi2019.png)
 ![Donut Harajuku Girl 2019](img/DonutHarajukuGirl2019.png)
-![BerriChan Candy Cane Girl 2018](img/BerriChan_CandyCaneGirl_2018.png)
 ![Rin Pumpkin Chibi 2018](img/RinPumpkinChibi2018.png)
 ![Sylveon Chibi 2018](img/sylveonchibi_2018.png)
 ![Blathers Animal Crossing 2018](img/blathers_animalcrossing_2018.png)
