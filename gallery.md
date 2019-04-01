@@ -1,7 +1,7 @@
 # Gallery
 
 
-![Kotori Chan Love Live 2019](img/KotoriChanLoveLive2019)
+![Kotori Chan Love Live 2019](img/KotoriChanLoveLive2019.png)
 ![CCB Trainer 2019](img/CCBTrainer2019.png)
 ![Subaru Chibi 2019](img/SubaruChibi2019.png)
 ![Donut Harajuku Girl 2019](img/DonutHarajukuGirl2019.png)
