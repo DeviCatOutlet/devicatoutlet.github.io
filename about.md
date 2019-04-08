@@ -13,7 +13,7 @@
 
 * ## .hallwayRaptor™
 
-  HallwayRaptor, my husband who works behind the scenes to help make this
+  This is my husband, Robert, who works behind the scenes to help make this
   stream be able to run full time and managing the community.
 
 * ![](img/aboutraptor.png)
