@@ -68,7 +68,7 @@ motivation comes from wanting to inspire others to work through their personal
 obstacles by setting a positive example ourselves. 
 
 To this day, Robert now works alongside me at home to help manage this.
-It’s a team effort, be it with Raptor and myself, our friends and this community.
+It’s a team effort, be it with Robert and myself, our friends and this community.
 We cannot thank you enough for these opportunities, and every day we are doing
 our best to give back and pay your kindness forward.
 
