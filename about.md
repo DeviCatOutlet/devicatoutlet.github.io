@@ -52,7 +52,7 @@
 ## A Little Background Of Our Roots
 
 I was given the opportunity to start streaming full time back in May of 2015
-because of my husband HallwayRaptor. Back then I was going through major life
+because of my husband, Robert. Back then I was going through major life
 chapters; my dad had passed of cancer in March of 2014 and during this time
 frame I found myself to be fighting symptoms of PTSD from past verbal abuse.
 Originally, before I started on Twitch, my healing began with writing blogs on
@@ -67,7 +67,7 @@ content, and over all evolved into professional full time content creators. Our
 motivation comes from wanting to inspire others to work through their personal
 obstacles by setting a positive example ourselves. 
 
-To this day, HallwayRaptor now works alongside me at home to help manage this.
+To this day, Robert now works alongside me at home to help manage this.
 It’s a team effort, be it with Raptor and myself, our friends and this community.
 We cannot thank you enough for these opportunities, and every day we are doing
 our best to give back and pay your kindness forward.
