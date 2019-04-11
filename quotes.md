@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 620 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 621 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -630,6 +630,7 @@ number N.
 * 618: "What a fun way to come back to the stream! First we get spoiled rotten, then PhotoShop gets possessed..." -DeviCat (30-Mar-19)
 * 619: "CuteBugBubbles, you with all the ideas! First putting Lita in an eggshell, and now balloons!" -DeviCat (04-Apr-19)
 * 620: "I do enjoy me some Bleach" -Blacksouls92 (06-Apr-19)
+* 621: "We're good! I only lost 1 leg!" -DuCkY245 (10-Apr-19)
 
 There may be quotes newer than these that have yet to be collected.
 
