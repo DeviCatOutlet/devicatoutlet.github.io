@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 624 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 627 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -634,6 +634,9 @@ number N.
 * 622: "♪(┌・。・)┌ ironmania2003 dances with @DeviCat to brain power and scores 100% from the judges! KannaPls" -CutieCakeBot (13-Apr-19)
 * 623: "I forgot my glass of water! Keep raving, guys..." -DeviCat (14-Apr-19)
 * 624: "You guys are correct, I do indeed have one head so far." -DeviCat (15-Apr-19)
+* 625: "Im proud to be a DeviCat Slub. How about you?" -Pickle (17-Apr-19)
+* 626: "We'll just pretend she has paw-prints on her knees." -DeviCat (20-Apr-19)
+* 627: "Devi you should have a donut for a snack and be like 420 glaze it." -Erin (20-Apr-19)
 
 There may be quotes newer than these that have yet to be collected.
 
