@@ -98,12 +98,18 @@
   <p>&copy; DeviCat Outlet 2019</p>
 </footer>
 <script>
-document.querySelectorAll('#gallery ~ p img').forEach(img => img.onclick = function(ev) {
-	document.querySelector('#popup img').src = this.src;
-	//document.getElementById('#modal-caption').textContent = this.alt; //TODO: Style these up nicely and then enable them
-	document.documentElement.classList.add("show-modal");
-	ev.stopPropagation();
+const gallery = {};
+document.querySelectorAll('#gallery ~ p img').forEach(img => {
+	const imgname = "#" + /img\/(.*)\.png$/.exec(img.src)[1];
+	img.onclick = gallery[imgname] = function(ev) {
+		document.querySelector('#popup img').src = img.src;
+		//document.getElementById('#modal-caption').textContent = img.alt; //TODO: Style these up nicely and then enable them
+		document.documentElement.classList.add("show-modal");
+		history.replaceState(this.src, "", imgname);
+		if (ev) ev.stopPropagation();
+	};
 });
+const f = gallery[window.location.hash]; if (f) f(); //If the page has a valid hash link in it, open up that gallery image.
 document.querySelectorAll('.nav-dropdown').forEach(a => a.onclick = function(ev) {
 	//Collapse other dropdowns, and toggle this one (so there's a max of one open at a time)
 	document.querySelectorAll('.nav-dropdown').forEach(a => a != this && a.setAttribute('aria-expanded', 'false'));
@@ -113,6 +119,7 @@ document.querySelectorAll('.nav-dropdown').forEach(a => a.onclick = function(ev)
 document.documentElement.onclick = function(ev) {
 	this.classList.remove("show-modal");
 	document.querySelectorAll('.nav-dropdown').forEach(a => a.setAttribute('aria-expanded', 'false'));
+	if (window.location.hash.length > 1) history.replaceState("", "", "gallery");
 	//Also collapse the Raptor menu (applicable only on narrow screens) if you click outside nav
 	if (!ev.target.closest("nav")) document.querySelector("nav input").checked = false;
 }
