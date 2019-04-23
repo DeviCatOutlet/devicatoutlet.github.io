@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 627 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 628 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -631,12 +631,13 @@ number N.
 * 619: "CuteBugBubbles, you with all the ideas! First putting Lita in an eggshell, and now balloons!" -DeviCat (04-Apr-19)
 * 620: "I do enjoy me some Bleach" -Blacksouls92 (06-Apr-19)
 * 621: "We're good! I only lost 1 leg!" -DuCkY245 (10-Apr-19)
-* 622: "♪(┌・。・)┌ ironmania2003 dances with @DeviCat to brain power and scores 100% from the judges! KannaPls" -CutieCakeBot (13-Apr-19)
+* 622: "♪(┌・。・)┌ ironmania2003 dances with @DeviCat to brain power and scores 100% from the judges! ![KannaPls](https://cdn.betterttv.net/emote/5916e1cd2c0bc9150092b41f/1x "KannaPls") " -CutieCakeBot (13-Apr-19)
 * 623: "I forgot my glass of water! Keep raving, guys..." -DeviCat (14-Apr-19)
 * 624: "You guys are correct, I do indeed have one head so far." -DeviCat (15-Apr-19)
 * 625: "Im proud to be a DeviCat Slub. How about you?" -Pickle (17-Apr-19)
 * 626: "We'll just pretend she has paw-prints on her knees." -DeviCat (20-Apr-19)
 * 627: "Devi you should have a donut for a snack and be like 420 glaze it." -Erin (20-Apr-19)
+* 628: "On April 22nd, 2019. I made it in the world. I made it into the VIP section of DeviCat's stream ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -Lizabelle (22-Apr-19)
 
 There may be quotes newer than these that have yet to be collected.
 
