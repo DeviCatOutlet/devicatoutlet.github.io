@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 629 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 630 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -639,6 +639,7 @@ number N.
 * 627: "Devi you should have a donut for a snack and be like 420 glaze it." -Erin (20-Apr-19)
 * 628: "On April 22nd, 2019. I made it in the world. I made it into the VIP section of DeviCat's stream ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -Lizabelle (22-Apr-19)
 * 629: "Why is there a box?!" -DeviCat (24-Apr-19)
+* 630: "I'm TRYING to make my life EASIER!! NO! NO! Bad magic wand tool! ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1857237/1.0 "devicatPOW") AAARGH!" -DeviCat (27-Apr-19)
 
 There may be quotes newer than these that have yet to be collected.
 
