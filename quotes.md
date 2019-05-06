@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 635 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 636 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -645,6 +645,7 @@ number N.
 * 633: "Don't put your tail in my coffee and we're all good. ![devicatCHII](https://static-cdn.jtvnw.net/emoticons/v1/1857246/1.0 "devicatCHII") ." -DeviCat (01-May-19)
 * 634: "we were going to paint trees but we ended up resizing a ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") instead." -SolaceLion (04-May-19)
 * 635: "Sorry, I had too many bleeds" -DeviCat (04-May-19)
+* 636: "nah, I'm not into bars either.. unless they are made of Chocolate" -DuCkY245 (05-May-19)
 
 There may be quotes newer than these that have yet to be collected.
 
