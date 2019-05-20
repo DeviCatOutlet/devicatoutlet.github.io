@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 639 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 641 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -649,6 +649,8 @@ number N.
 * 637: "This is what happens! When I get surprised, I turn into a tomato." -DeviCat (09-May-19)
 * 638: "The ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") can just be on the ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (11-May-19)
 * 639: "Yay for being adults. Yay for spatulas!" -DeviCat (15-May-19)
+* 640: "I have so much love right now. I also have popcorn!" -DeviCat (19-May-19)
+* 641: "You get a sub, you get a sub, you get a sub, But I get stream boss." -MrCrazySailor (19-May-19)
 
 There may be quotes newer than these that have yet to be collected.
 
