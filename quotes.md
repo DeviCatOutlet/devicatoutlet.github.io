@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 642 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 644 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -652,6 +652,8 @@ number N.
 * 640: "I have so much love right now. I also have popcorn!" -DeviCat (19-May-19)
 * 641: "You get a sub, you get a sub, you get a sub, But I get stream boss." -MrCrazySailor (19-May-19)
 * 642: "Look, see? LOOK AT THOSE BEAUTIFUL ZEROES!" -DeviCat (20-May-19)
+* 643: "I have no idea what to do, except... art!" -DeviCat (26-May-19)
+* 644: "..." -DeviCat (26-May-19)
 
 There may be quotes newer than these that have yet to be collected.
 
