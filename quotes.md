@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 648 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 649 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -658,6 +658,7 @@ number N.
 * 646: "Ah ha!! It is approximately the right size of buttage!" -DeviCat (01-Jun-19)
 * 647: "It's just gonna be box, ![devicatBOX](https://static-cdn.jtvnw.net/emoticons/v1/300360860/1.0 "devicatBOX") box, ![devicatGIFT](https://static-cdn.jtvnw.net/emoticons/v1/1112114/1.0 "devicatGIFT") box." -DeviCat (01-Jun-19)
 * 648: "Once upon a time, ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") buttage happened. Devi was ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/300358683/1.0 "devicatSPOOK") spooked, and also ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/300358727/1.0 "devicatAWW") happy to the point of crying. She ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/300358729/1.0 "devicatHUG") loves us and finds our antics ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/300358731/1.0 "devicatLOL") hilarious. Eventually she ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/300358748/1.0 "devicatNOM") takes a break, and when she comes back, ![devicatCOOL](https://static-cdn.jtvnw.net/emoticons/v1/300358752/1.0 "devicatCOOL") it's cool cat time! People ![devicatHIYO](https://static-cdn.jtvnw.net/emoticons/v1/300358756/1.0 "devicatHIYO") come and ![devicatLURK](https://static-cdn.jtvnw.net/emoticons/v1/300358758/1.0 "devicatLURK") go, and MilliLita ![devicatSALUT](https://static-cdn.jtvnw.net/emoticons/v1/300360840/1.0 "devicatSALUT") greets us all." -Rosuav (01-Jun-19)
+* 649: "You, too, can have cat butt sparkles on your face. And have it be temporary." -DeviCat (05-Jun-19)
 
 There may be quotes newer than these that have yet to be collected.
 
