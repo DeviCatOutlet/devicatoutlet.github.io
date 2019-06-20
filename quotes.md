@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 651 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 652 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -661,6 +661,7 @@ number N.
 * 649: "You, too, can have cat butt sparkles on your face. And have it be temporary." -DeviCat (05-Jun-19)
 * 650: "Okay.... we're here to art... I think.... maybe." -DeviCat (15-Jun-19)
 * 651: "I felt creative, and I had no paper. So I used my skin." -DeviCat (17-Jun-19)
+* 652: "That's a bird. It's like the tiniest car alarm in the world." -DeviCat (19-Jun-19)
 
 There may be quotes newer than these that have yet to be collected.
 
