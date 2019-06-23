@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 655 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 657 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -665,6 +665,8 @@ number N.
 * 653: "I knew it! Oh ho ho, I'm coming for your whiskers! We're stealing the whisker!" -DeviCat (22-Jun-19)
 * 654: "I'll get you the butt, hold on ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (22-Jun-19)
 * 655: "I love his hair sooo much - it's like a soft dream giving you a hug ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/300358729/1.0 "devicatHUG") ." -picklewash (22-Jun-19)
+* 656: "LIFE HACK: Instead of holding shift when drawing lines in real life, you can place a ruler next to your pencil. It has the same effect as a shift key!!! It's amazing! ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/300358727/1.0 "devicatAWW") ." -Rosuav (23-Jun-19)
+* 657: " ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/300358729/1.0 "devicatHUG") I didn't choose the devicat thug life, the devicat thug life chose me ![devicatCOOL](https://static-cdn.jtvnw.net/emoticons/v1/300358752/1.0 "devicatCOOL") ." -LunaReisen (23-Jun-19)
 
 There may be quotes newer than these that have yet to be collected.
 
