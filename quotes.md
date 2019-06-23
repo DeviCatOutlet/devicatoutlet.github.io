@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 653 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 655 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -663,6 +663,8 @@ number N.
 * 651: "I felt creative, and I had no paper. So I used my skin." -DeviCat (17-Jun-19)
 * 652: "That's a bird. It's like the tiniest car alarm in the world." -DeviCat (19-Jun-19)
 * 653: "I knew it! Oh ho ho, I'm coming for your whiskers! We're stealing the whisker!" -DeviCat (22-Jun-19)
+* 654: "I'll get you the butt, hold on ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (22-Jun-19)
+* 655: "I love his hair sooo much - it's like a soft dream giving you a hug ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/300358729/1.0 "devicatHUG") ." -picklewash (22-Jun-19)
 
 There may be quotes newer than these that have yet to be collected.
 
