@@ -15,6 +15,7 @@ discord channel [here](https://discordapp.com/invite/devicat), called
 * [Shizuko (Shiny CutieCakeBot)](shizuko)
 * [Reiko (Fauna Sister)](reiko)
 * [Rin (Fauna Sister)](rin)
+* [BonBon Chan](bonbonchan)
 * [Hanabi (DJ Rainbow Sheep)](hanabi)
 * [DapperCat](dappercat)
 * [CatCupcakes](catcupcakes)
