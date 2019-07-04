@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 657 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 661 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -667,6 +667,9 @@ number N.
 * 655: "I love his hair sooo much - it's like a soft dream giving you a hug ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/300358729/1.0 "devicatHUG") ." -picklewash (22-Jun-19)
 * 656: "LIFE HACK: Instead of holding shift when drawing lines in real life, you can place a ruler next to your pencil. It has the same effect as a shift key!!! It's amazing! ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/300358727/1.0 "devicatAWW") ." -Rosuav (23-Jun-19)
 * 657: " ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/300358729/1.0 "devicatHUG") I didn't choose the devicat thug life, the devicat thug life chose me ![devicatCOOL](https://static-cdn.jtvnw.net/emoticons/v1/300358752/1.0 "devicatCOOL") ." -LunaReisen (23-Jun-19)
+* <missing quote 658, ask CCB for it please>
+* 659: "That's a pretty okay-looking foot!" -DeviCat (03-Jul-19)
+* 660: "Guys! I didn't lose my shoe! I still have my shoe!" -DeviCat (03-Jul-19)
+* 661: "Touch my abs!!" -DeviCat (03-Jul-19)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
