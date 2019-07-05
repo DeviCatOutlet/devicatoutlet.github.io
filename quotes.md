@@ -667,9 +667,10 @@ number N.
 * 655: "I love his hair sooo much - it's like a soft dream giving you a hug ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/300358729/1.0 "devicatHUG") ." -picklewash (22-Jun-19)
 * 656: "LIFE HACK: Instead of holding shift when drawing lines in real life, you can place a ruler next to your pencil. It has the same effect as a shift key!!! It's amazing! ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/300358727/1.0 "devicatAWW") ." -Rosuav (23-Jun-19)
 * 657: " ![devicatHUG](https://static-cdn.jtvnw.net/emoticons/v1/300358729/1.0 "devicatHUG") I didn't choose the devicat thug life, the devicat thug life chose me ![devicatCOOL](https://static-cdn.jtvnw.net/emoticons/v1/300358752/1.0 "devicatCOOL") ." -LunaReisen (23-Jun-19)
-* <missing quote 658, ask CCB for it please>
+* 658: "DeviCat but I wanted you to turn into a magical girl & take me into space with you! ![devicatSPARKLE](https://static-cdn.jtvnw.net/emoticons/v1/1857235/1.0 "devicatSPARKLE") ." -Ironmania2003 (26-Jun-19)
 * 659: "That's a pretty okay-looking foot!" -DeviCat (03-Jul-19)
 * 660: "Guys! I didn't lose my shoe! I still have my shoe!" -DeviCat (03-Jul-19)
 * 661: "Touch my abs!!" -DeviCat (03-Jul-19)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
