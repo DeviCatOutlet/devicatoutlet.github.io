@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 665 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 666 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -675,6 +675,7 @@ number N.
 * 663: "Tara……… Enjoy your sub perks. ![devicatLOL](https://static-cdn.jtvnw.net/emoticons/v1/300358731/1.0 "devicatLOL") ." -DeviCat (07-Jul-19)
 * 664: "The rule of thumb is: There's a face in everything." -DeviCat (08-Jul-19)
 * 665: "I'm making a duplicate ear so I have a backup." -DeviCat (11-Jul-19)
+* 666: "That seems to be the obvious answer. ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/300358748/1.0 "devicatNOM") When in doubt - more chocolate!" -DeviCat (14-Jul-19)
 
 There may be quotes newer than these that have yet to be collected.
 
