@@ -21,6 +21,8 @@ counterpart, Rin the fauna.
 
 ### Reiko to date:
 
+![Reiko Mermaid 2019](img/ReikoMermaid2019.png)
+
 ![Reiko Forest Fauna](img/Reiko_Forest_Fauna_2018.png)
 
 ![Reiko CloverGirl 2018](img/Reiko_CloverGirl_2018.png)
