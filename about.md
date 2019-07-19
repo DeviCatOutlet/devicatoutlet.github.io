@@ -7,7 +7,7 @@
   time Twitch Partnered broadcaster, and part time video creator on YouTube. Here, we encourage the ideals of positive
   community through creativity and determination.
 
-  The title "DeviCat" comes from Deviant Category. Which means to deviate from the ordinary, to take the path less known. 
+The title "DeviCat" has a whole history to its creation. It started as a nickname for a cat character I had to animate for a school project. When I decided to start streaming on Twitch, I wanted a username that wasn't my real name, so I decided to use "DeviCat" instead as my pseudonym. To this day, some people still joke and think it means a "devil cat", others take it to a deeper meaning and refer to "Devi" as "goddess." Myself? I just think it sounds cute!
 
 ---
 
