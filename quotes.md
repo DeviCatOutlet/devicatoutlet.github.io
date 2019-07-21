@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 667 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 668 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -677,6 +677,7 @@ number N.
 * 665: "I'm making a duplicate ear so I have a backup." -DeviCat (11-Jul-19)
 * 666: "That seems to be the obvious answer. ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/300358748/1.0 "devicatNOM") When in doubt - more chocolate!" -DeviCat (14-Jul-19)
 * 667: "cut my life into pizza! 🍕 This is my plastic fork!🍴 " -Ironmania2003 (15-Jul-19)
+* 668: "Frig... I was trying to finish... <cue buttage alert>" -DeviCat (20-Jul-19)
 
 There may be quotes newer than these that have yet to be collected.
 
