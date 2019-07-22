@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 668 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 670 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -678,6 +678,8 @@ number N.
 * 666: "That seems to be the obvious answer. ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/300358748/1.0 "devicatNOM") When in doubt - more chocolate!" -DeviCat (14-Jul-19)
 * 667: "cut my life into pizza! 🍕 This is my plastic fork!🍴 " -Ironmania2003 (15-Jul-19)
 * 668: "Frig... I was trying to finish... <cue buttage alert>" -DeviCat (20-Jul-19)
+* 669: "Daaaaaaaaaaaaaamn ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/300358727/1.0 "devicatAWW") (in Reference to TheTega art work) ." -Devicat (21-Jul-19)
+* 670: "Gotta get going for work, take care. Hope all your puns are Gouda, Brie right back, I like watching from work. I harvardly got to be here in stream today. I think these puns will fondue until I get back." -Angie_Furclad (21-Jul-19)
 
 There may be quotes newer than these that have yet to be collected.
 
