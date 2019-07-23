@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 670 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 671 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -680,6 +680,7 @@ number N.
 * 668: "Frig... I was trying to finish... <cue buttage alert>" -DeviCat (20-Jul-19)
 * 669: "Daaaaaaaaaaaaaamn ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/300358727/1.0 "devicatAWW") (in Reference to TheTega art work) ." -Devicat (21-Jul-19)
 * 670: "Gotta get going for work, take care. Hope all your puns are Gouda, Brie right back, I like watching from work. I harvardly got to be here in stream today. I think these puns will fondue until I get back." -Angie_Furclad (21-Jul-19)
+* 671: "this lady / character looks like she gets the boys to win her things at the arcade only to get bored with them, its a pretty big mood" -@actuallyrj (22-Jul-19)
 
 There may be quotes newer than these that have yet to be collected.
 
