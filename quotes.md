@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 674 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 677 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -684,6 +684,9 @@ number N.
 * 672: "he looks like a tiny, dignified lion" -@actuallyrj (22-Jul-19)
 * 673: "NOT THE RUBIK'S CUBE! NOT THE RUBIK'S CUBE!!!" -DeviCat (27-Jul-19)
 * 674: "Claptrap! I know you're drunk... just... go sideways!" -DeviCat (28-Jul-19)
+* 675: "I found the ears but I lost the fluff! Where's the fluff?!" -DeviCat (29-Jul-19)
+* 676: "I just drew a cute nose! Where did it go??? ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/300358727/1.0 "devicatAWW") ?" -DeviCat (31-Jul-19)
+* 677: "Confetti Kindness with butt and love ![devicatCAKE](https://static-cdn.jtvnw.net/emoticons/v1/1857251/1.0 "devicatCAKE") ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ![devicatLOVE](https://static-cdn.jtvnw.net/emoticons/v1/1291592/1.0 "devicatLOVE") ." -DeviCat (31-Jul-19)
 
 There may be quotes newer than these that have yet to be collected.
 
