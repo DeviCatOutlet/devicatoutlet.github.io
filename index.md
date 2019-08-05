@@ -1,8 +1,8 @@
 # Home
 
-* [![Shop](img/artshop_panel_cakie.png)](https://www.redbubble.com/people/devicatoutlet/shop/)
+* [![Shop](img/artshop_panel_cakie.png)](http://bit.ly/DeviCatShop)
 
-  #### [Shop](https://www.redbubble.com/people/devicatoutlet/shop/)
+  #### [Shop](http://bit.ly/DeviCatShop)
 
   Want to buy some awesome DeviCat loot?
 
