@@ -7,32 +7,18 @@ Info:
   Hair Color: Pink / Peach
   Eye Color: Blue
   Personality: A kamidere, in the simplest terms, is an anime archetype for characters with a god complex.
-  Color Scheme: White and pink.
-  Symbol: Angel wings.
-  Representation / Inspiration: A chapter of Devi’s life – the symbol of confidence.
+  Representation / Inspiration: Symbol of confidence.
+  Reference Sheet: [Hair & Colors](https://devicatoutlet.com/img/Momoko_ColorsandHair_Ref.png) | [Outfit](https://devicatoutlet.com/img/Momoko_CandyPop_Ref.png)
 ---
 
 Momoko is the first out of the four main original characters for the channel.
 Originally named CutieCakeBot, the initial concept was to be a bot for the
 channel that dispensed cakes as the currency for the viewers. This in mind,
-she didn’t have a body or a personality at first. Over time, as the fan base
+Momoko didn’t have a body or a personality at first. Over time, as the fan base
 grew, viewers attempted at creating their own interpretations of her which
 further inspired Devi to officially give her a body and then eventually a name.
 
-### Momoko to date:
+
+![Candy Pop CCB 2019](img/CandyPopCCB2019.png)
 
 
-![CCB Trainer 2019](img/CCBTrainer2019.png)
-
-![CCB KawaiiGirl FairyKei 2018](img/CCB_KawaiiGirl_FairyKei_2018.png)
-
-![CCB Candy Carnival](img/ccb_candy_carnival_2018.png)
-
-![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
-
-![CCBunny](img/ccbunny.png)
-
-![Sitting Study ­– Momoko](img/momoko_sitting.png)
-
-#### First creation of Momoko:
-![CCB Twins](img/ccb_twins.png)
