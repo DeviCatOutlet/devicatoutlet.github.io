@@ -67,7 +67,16 @@
       <h1>{{ page.Character }}</h1>
       {% if page.Subtitle %}<h1>({{ page.Subtitle }})</h1>{% endif %}
       <ul class="layout">
-      {% for info in page.Info %}<li><strong>{{ info[0] }}:</strong> {{ info[1] }}</li>{% endfor %}
+      {%- for info in page.Info %}
+        <li><strong>{{ info[0] }}:</strong> {% if info[1].first -%}
+        {% for link in info[1] %}{% unless forloop.first %} | {% endunless %}{% for item in link -%}
+	  <a href="{{ item[1] }}">{{ item[0] }}</a>
+	{%- endfor %}{% endfor -%}
+        {%- else -%}
+        {{ info[1] }}
+        {%- endif -%}
+        </li>
+      {%- endfor %}
       </ul>
       {% endif %}
       {{ content }}
