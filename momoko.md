@@ -8,7 +8,8 @@ Info:
   Eye Color: Blue
   Personality: A kamidere, in the simplest terms, is an anime archetype for characters with a god complex.
   Representation / Inspiration: Symbol of confidence.
-  Reference Sheet: [Hair & Colors](https://devicatoutlet.com/img/Momoko_ColorsandHair_Ref.png) | [Outfit](https://devicatoutlet.com/img/Momoko_CandyPop_Ref.png)
+  Reference Sheet 1: [Hair & Colors](https://devicatoutlet.com/img/Momoko_ColorsandHair_Ref.png) 
+  Reference Sheet 2: [Outfit](https://devicatoutlet.com/img/Momoko_CandyPop_Ref.png)
 ---
 
 Momoko is the first out of the four main original characters for the channel.
