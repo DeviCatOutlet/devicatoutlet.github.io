@@ -4,9 +4,7 @@ Info:
   Name: Hanabi
   Title: DJ Rainbow Sheep
   Personality: Brave, determined and open minded. A natural firework.
-  Color Scheme: Cyan, pink and yellow.
-  Symbol: Headphones.
-  Representation / Inspiration: A chapter of Devi’s life – the representation of her inner childhood. A collection of Momoko, Shizuko, Reiko & Rin into one.
+  Representation / Inspiration: The meaning behind Devi's real name, a chapter from her childhood.
 ---
 
 ### Hanabi's Original Form
