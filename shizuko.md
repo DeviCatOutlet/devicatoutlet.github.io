@@ -9,9 +9,9 @@ Info:
   Personality: Dandere. The “dan” in dandere comes from the Japanese word
     “danmari” (黙り) meaning silence. Thus a dandere is a quiet and often
     antisocial character.
-  Color Scheme: White and blue.
-  Symbol: Angel wings.
-  Representation / Inspiration: A chapter of Devi’s life – the symbol of despair, a longing for hope.
+  Representation / Inspiration: Symbol of despair, a longing for hope.
+  Reference Sheet 1: [Hair & Colors](https://devicatoutlet.com/img/Shizuko_ColorsandHair_Ref.png) 
+  Reference Sheet 2: [Outfit](https://devicatoutlet.com/img/Shiuko_signature_outfit_ref.png)
 ---
 
 Shizuko is the second out of the four main original characters for the channel.
@@ -25,19 +25,5 @@ first. Though Momoko was technically established in the beginning, due to the
 representation, we can say that Shizuko’s despair gave birth to the strength of
 Momoko.
 
-### Shizuko to date:
+###Signature Outfit Coming Soon
 
-![Shizuko Mermaid 2018](img/ShizukoMermaid2018.png)
-
-![CCB Lolita Twins](img/ccb_lolita_twins_2018.png)
-
-![Shizuko Winter Sprite 2018](img/ShizukoWinterSprite2018.png)
-
-![Gothic Lolita Shizuko](img/shizuko_gothiclolita.png)
-
-![Sitting Study ­– Shizuko](img/shizuko_sitting.png)
-
-![Shizuko print](img/shizuko_print.png)
-
-#### First creation of Shizuko:
-![CCB Twins](img/ccb_twins.png)
