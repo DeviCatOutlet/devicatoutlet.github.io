@@ -7,9 +7,7 @@ Info:
   Hair Color: Teal.
   Eye Color: Teal.
   Personality: Deredere (デレデレ) meaning to become ‘lovey dovey’. Someone who wishes to be friends with everyone.
-  Color Scheme: White and teal.
-  Symbol: Elk antlers.
-  Representation / Inspiration: A chapter of Devi’s life – the symbol of hope and friendship.
+  Representation / Inspiration: Symbol of hope and friendship.
 ---
 
 Reiko is the third out of the four main original characters for the channel.
@@ -19,19 +17,7 @@ is the symbol of pure happiness, the willingness to give others the benefit
 of the doubt and welcome everyone. She sticks very closely with her
 counterpart, Rin the fauna.
 
-### Reiko to date:
-
-![Reiko Mermaid 2019](img/ReikoMermaid2019.png)
-
 ![Reiko Forest Fauna](img/Reiko_Forest_Fauna_2018.png)
 
-![Reiko CloverGirl 2018](img/Reiko_CloverGirl_2018.png)
 
-![Starry Chibi Reiko](img/reiko_starry_chibi.png)
 
-![Sitting Study ­– Reiko](img/reiko_sitting.png)
-
-![Reiko in casual springwear](img/reiko_casualwear.png)
-
-#### First creation of Reiko:
-![Reiko](img/reiko.png)
