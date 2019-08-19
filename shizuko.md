@@ -10,8 +10,10 @@ Info:
     “danmari” (黙り) meaning silence. Thus a dandere is a quiet and often
     antisocial character.
   Representation / Inspiration: Symbol of despair, a longing for hope.
-  Reference Sheet 1: [Hair & Colors](https://devicatoutlet.com/img/Shizuko_ColorsandHair_Ref.png) 
-  Reference Sheet 2: [Outfit](https://devicatoutlet.com/img/Shiuko_signature_outfit_ref.png)
+  Reference Sheet:
+  - Hair / Colors: img/Shizuko_ColorsandHair_Ref.png
+  - Outfit: img/Shizuko_signature_outfit_ref.png
+
 ---
 
 Shizuko is the second out of the four main original characters for the channel.
