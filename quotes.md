@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 683 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 685 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -693,6 +693,8 @@ number N.
 * 681: "I knooww. My hair turns into pasta half the time xD" -RuntyInk (14-Aug-19)
 * 682: "I need to be sharpened sometimes too please!" -DeviCat (15-Aug-19)
 * 683: "I'm trying to build you a house, but the butts are awkward ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (18-Aug-19)
+* 684: " ![devicatGLO](https://static-cdn.jtvnw.net/emoticons/v1/1291596/1.0 "devicatGLO") When you want to take lighting up your life to another level! ![devicatGLO2](https://static-cdn.jtvnw.net/emoticons/v1/1291597/1.0 "devicatGLO2") ." -DeviConstellation: (19-Aug-19)
+* 685: "You guys don't understand cups are hard ![devicatCRY](https://static-cdn.jtvnw.net/emoticons/v1/300413742/1.0 "devicatCRY") ." -DeviCat (19-Aug-19)
 
 There may be quotes newer than these that have yet to be collected.
 
