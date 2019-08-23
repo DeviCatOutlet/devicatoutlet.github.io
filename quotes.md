@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 686 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 687 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -696,6 +696,7 @@ number N.
 * 684: " ![devicatGLO](https://static-cdn.jtvnw.net/emoticons/v1/1291596/1.0 "devicatGLO") When you want to take lighting up your life to another level! ![devicatGLO2](https://static-cdn.jtvnw.net/emoticons/v1/1291597/1.0 "devicatGLO2") ." -DeviConstellation: (19-Aug-19)
 * 685: "You guys don't understand cups are hard ![devicatCRY](https://static-cdn.jtvnw.net/emoticons/v1/300413742/1.0 "devicatCRY") ." -DeviCat (19-Aug-19)
 * 686: "Erin is... special." -DeviCat (21-Aug-19)
+* 687: "since devi is a sweet streamer 420 Glaze It ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/300413841/1.0 "devicatNOM") ." -mydearestpickle (22-Aug-19)
 
 There may be quotes newer than these that have yet to be collected.
 
