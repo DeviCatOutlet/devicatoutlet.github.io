@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 689 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 692 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -699,6 +699,9 @@ number N.
 * 687: "since devi is a sweet streamer 420 Glaze It ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/300413841/1.0 "devicatNOM") ." -mydearestpickle (22-Aug-19)
 * 688: "Alright, you little demonic cupcake ![DeviRawr](https://cdn.betterttv.net/frankerfacez_emote/70999/1 "DeviRawr") of doom!" -DeviCat (24-Aug-19)
 * 689: "Rosu, I gotta move your butt down!" -DeviCat (28-Aug-19)
+* 690: "Accessories?? NO! She ![devicatCCB](https://static-cdn.jtvnw.net/emoticons/v1/1857241/1.0 "devicatCCB") does not have a beard!!" -DeviCat (10-Sep-19)
+* 691: "NO! I don't want a book! I want clay!" -DeviCat (10-Sep-19)
+* 692: "Do you want to say hello? With your face? ![ohmyRAPTOR](https://cdn.betterttv.net/frankerfacez_emote/165546/1 "ohmyRAPTOR") ." -DeviCat (10-Sep-19)
 
 There may be quotes newer than these that have yet to be collected.
 
