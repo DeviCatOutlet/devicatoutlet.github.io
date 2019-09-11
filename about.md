@@ -32,7 +32,7 @@ The title "DeviCat" has a whole history to its creation. It started as a nicknam
   * **Self Taught:** Traditional Art / Digital Art / Vocaloid Dance
   * **Interested In:** Creating to put a smile on your face and a warmth in your heart.
   * **♡Married to:♡** [HallwayRaptor](https://www.twitter.com/HallwayRaptor)
-  * **Favorite Hobby:** Nature Walking, Vocaloid Dancing
+  * **Favorite Hobby:** Nature Walking
   * **Favorite Games:** Visual Novels
   * **Favorite Drink:** Coffee
   * **Favorite Anime:** Anything slice of life genre.
