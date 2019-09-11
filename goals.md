@@ -7,6 +7,9 @@
 
 
 ## Past Achievements 
+- Sponsored by Blippo January 2019
+- Sponsored by KawaiiBox August 2019
+
 - Animaritime Art Contest 2017, 1st Place.
 - Twitch Charity Stream: Create for Kids 2017
 - Twitch Charity Stream: 1000 Dreams Fund 2018
