@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 692 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 693 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -702,6 +702,7 @@ number N.
 * 690: "Accessories?? NO! She ![devicatCCB](https://static-cdn.jtvnw.net/emoticons/v1/1857241/1.0 "devicatCCB") does not have a beard!!" -DeviCat (10-Sep-19)
 * 691: "NO! I don't want a book! I want clay!" -DeviCat (10-Sep-19)
 * 692: "Do you want to say hello? With your face? ![ohmyRAPTOR](https://cdn.betterttv.net/frankerfacez_emote/165546/1 "ohmyRAPTOR") ." -DeviCat (10-Sep-19)
+* 693: "It's just so cute! ![Look](https://static-cdn.jtvnw.net/emoticons/v1/81770/1.0 "Look") how demonic it is. It's precious!" -DeviCat (12-Sep-19)
 
 There may be quotes newer than these that have yet to be collected.
 
