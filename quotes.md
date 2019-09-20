@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 696 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 697 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -706,6 +706,7 @@ number N.
 * 694: "I've seen people do crazy things in this channel…" -DeviCat (13-Sep-19)
 * 695: "Welcome to the land of Devi. It's a great place to be, you'll see. Cuddling with pets like Lita and Chii. ![Hype](https://static-cdn.jtvnw.net/emoticons/v1/46510/1.0 "Hype") and happiness gets you around. Getting excited to "victory" sound! Seeing great characters like the one and only CCB. Many loves ![devicatLOVE](https://static-cdn.jtvnw.net/emoticons/v1/1291592/1.0 "devicatLOVE") ." -Xillians (16-Sep-19)
 * 696: "I'm chopping off the top of my head! Chop chop chop! There, that's better." -DeviCat (17-Sep-19)
+* 697: "Wait! With the power of my phone, I can produce dog barks on command!" -DeviCat (19-Sep-19)
 
 There may be quotes newer than these that have yet to be collected.
 
