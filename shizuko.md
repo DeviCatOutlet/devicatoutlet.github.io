@@ -27,5 +27,5 @@ first. Though Momoko was technically established in the beginning, due to the
 representation, we can say that Shizuko’s despair gave birth to the strength of
 Momoko.
 
-### Signature Outfit Coming Soon
+![Pastel Goth Girl Shizuko 2019](img/pggShizuko2019.png)
 
