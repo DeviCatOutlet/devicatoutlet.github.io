@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 698 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 699 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -708,6 +708,7 @@ number N.
 * 696: "I'm chopping off the top of my head! Chop chop chop! There, that's better." -DeviCat (17-Sep-19)
 * 697: "Wait! With the power of my phone, I can produce dog barks on command!" -DeviCat (19-Sep-19)
 * 698: "I feel like a walking, breathing poptart in this t-shirt." -DeviCat (27-Sep-19)
+* 699: ". ![devicatFLAG](https://static-cdn.jtvnw.net/emoticons/v1/300413887/1.0 "devicatFLAG") "Join" resulting in a financial contribution sounds like a cult." -HoshiDreams (03-Oct-19)
 
 There may be quotes newer than these that have yet to be collected.
 
