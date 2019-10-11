@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 701 quotes have been recorded. To see
+by CutieCakeBot and the mod team. So far, 702 quotes have been recorded. To see
 them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
 number N.
 
@@ -711,6 +711,7 @@ number N.
 * 699: ". ![devicatFLAG](https://static-cdn.jtvnw.net/emoticons/v1/300413887/1.0 "devicatFLAG") "Join" resulting in a financial contribution sounds like a cult." -HoshiDreams (03-Oct-19)
 * 700: "Everyone be nice to poison!" -DeviCat (03-Oct-19)
 * 701: "Yesss! I have become a balloon ![devicatSALUT](https://static-cdn.jtvnw.net/emoticons/v1/300413883/1.0 "devicatSALUT") !" -DeviCat (07-Oct-19)
+* 702: "Gosh darn it Iron, why can't you have a short name like the rest of us ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/300358683/1.0 "devicatSPOOK") ?" -DeviCat (10-Oct-19)
 
 There may be quotes newer than these that have yet to be collected.
 
