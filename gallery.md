@@ -11,7 +11,7 @@
 ![Goddess Madoka 2018](img/goddessmadoka2018.png)
 ![Fran Chibi 2019](img/FranChibi2019.png)
 ![Blathers Animal Crossing 2018](img/blathers_animalcrossing_2018.png)
-![Mimikyu Chibi 2018](img/mimikyuchibi_2018.png)
+![Halloween Pikachu 2019](img/HalloweenPikachu2019.png)
 ![Abigail and Junimo](img/SDV_Abigail_n_Junimo_2018.png)
 ![Reiko Forest Fauna](img/Reiko_Forest_Fauna_2018.png)
 ![Shizuko Mermaid 2018](img/ShizukoMermaid2018.png)
