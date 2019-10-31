@@ -5,8 +5,8 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by CutieCakeBot and the mod team. So far, 705 quotes have been recorded. To see
-them in chat, ask CutieCakeBot for a quote with the command `!quote N` for some
+by the faithful bot and the mod team. So far, 707 quotes have been recorded. To
+see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
 
@@ -715,6 +715,8 @@ number N.
 * 703: "I'm finally seeing the light at the end of the tunnel ![devicatSPARKLE](https://static-cdn.jtvnw.net/emoticons/v1/1857235/1.0 "devicatSPARKLE") - and it involves… a hand." -DeviCat (25-Oct-19)
 * 704: "Kitten is not a flavour, obviously." -DeviCat (28-Oct-19)
 * 705: "I'm trying to visualize this dude's skeleton" -Devicat (29-Oct-19)
+* 706: "There is no more ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") booty!" -DeviCat (30-Oct-19)
+* 707: "Don't feel bad for complimenting the neck." -DeviCat (30-Oct-19)
 
 There may be quotes newer than these that have yet to be collected.
 
