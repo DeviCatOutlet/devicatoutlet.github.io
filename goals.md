@@ -9,6 +9,7 @@
 ## Past Achievements 
 - Ambassador for RedBubble August 2019
 
+- Sponsored by KawaiiBox October 2019
 - Sponsored by KawaiiBox August 2019
 - Sponsored by Blippo January 2019
 
