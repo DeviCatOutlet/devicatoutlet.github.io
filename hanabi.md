@@ -4,7 +4,7 @@ Info:
   Name: Hanabi
   Title: DJ Rainbow Sheep
   Personality: Brave, determined and open minded. A natural firework.
-  Representation / Inspiration: The meaning behind Devi's real name, a chapter from her childhood.
+  Representation / Inspiration: Fierce determination.
 ---
 
 ### Hanabi's Original Form

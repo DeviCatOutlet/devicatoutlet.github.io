@@ -7,9 +7,6 @@ Info:
   Representation / Inspiration: Symbol of guidance.
 ---
 
-One could say that DapperCat is the representation of
-unexpected helping hands that Devi has had in her life of various people.
-
 ### DapperCat Original Form
 
 ![Dapper Cat with Tea](img/dappercat_tea.png)
