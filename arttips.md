@@ -8,8 +8,7 @@ When first starting out, build yourself into the habit of creating daily. This c
 ### How do I continue to develop and get better with my art?
 A way to keep improving is this: with every new piece you want to create, have
 a look at your last one. Take note of what you liked, now take note of what you
-didn’t like. Of the things you didn’t like, make it your goal to improve on
-that with your new piece.
+didn’t like. Of the things you didn’t like, make it your goal to work on this with your new piece.
 
 ### How can I stop myself from comparing myself to others?
 In my experience, if I find myself comparing it usually means there's a skillset of mine that I feel I need to develop. Whenever I catch myself doing this, instead of thinking negatively about it, I try to think instead, "Wow! This is amazing, now how can I go about levelling up my skill in < blank >." This could mean I need to develop my skills with perspective and dynamics, shading, color theory, anything.

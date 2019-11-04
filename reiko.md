@@ -10,9 +10,7 @@ Info:
   Representation / Inspiration: Symbol of hope and friendship.
 ---
 
-Reiko is the third out of the four main original characters for the channel.
-Not much is known of her yet as she is a fairly new and developed character.
-Some could say she is from times of Devi’s life when she was blissful. She
+She
 is the symbol of pure happiness, the willingness to give others the benefit
 of the doubt and welcome everyone. She sticks very closely with her
 counterpart, Rin the fauna.

@@ -10,10 +10,7 @@ Info:
   Representation / Inspiration: Symbol of judgement.
 ---
 
-Rin is the fourth out of the four main original characters for the channel.
-Not much is known of her yet as she is a fairly new and developed character.
-Some could say she is from times of Devi’s life when she lost all trust with
-people who were once friends. She is the symbol of judgement, the observer,
+She is the symbol of judgement, the observer,
 and is fearful of betrayal. She sticks very closely with her counterpart,
 Reiko the fauna.
 

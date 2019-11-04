@@ -16,7 +16,6 @@ Info:
 
 ---
 
-Shizuko is the second out of the four main original characters for the channel.
 Originally named Shiny CutieCakeBot, the initial concept was to be a shiny
 version of Momoko (a similar concept to a colored skin.) As time went on, Devi
 felt that this character deserved the right to be it’s own person and not just

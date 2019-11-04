@@ -29,9 +29,8 @@ These are personal experiences I have had being a full time broadcaster that I w
   yourself.
 
 * **Ignore trolls. Stay focused on what matters and your direction for the
-  channel.** Teach your mods and your community to 100% ignore them, and over
-  time, trolls won’t even bother or if they do it will be at least less often
-  over time.
+  channel.** Over
+  time, trolls won’t even bother or if they do it will be at least less often.
 
 * **As time progresses, ask yourself these questions:** 1) How can you have your
   audience give feedback or share their thoughts? 2) How can you give your
