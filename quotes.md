@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 707 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 709 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -690,7 +690,7 @@ number N.
 * 678: "First Name! Do you just want more butts added to you??" -DeviCat (10-Aug-19)
 * 679: "She got absorbed into my soul ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/300413841/1.0 "devicatNOM") ." -DeviCat (11-Aug-19)
 * 680: "Good news - I have my box!" -DeviCat (14-Aug-19)
-* 681: "I knooww. My hair turns into pasta half the time xD" -RuntyInk (14-Aug-19)
+* 681: "I knooww. My hair turns into pasta half the time xD ![pastaThat](https://static-cdn.jtvnw.net/emoticons/v1/112289/1.0 "pastaThat") " -RuntyInk (14-Aug-19)
 * 682: "I need to be sharpened sometimes too please!" -DeviCat (15-Aug-19)
 * 683: "I'm trying to build you a house, but the butts are awkward ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") ." -DeviCat (18-Aug-19)
 * 684: " ![devicatGLO](https://static-cdn.jtvnw.net/emoticons/v1/1291596/1.0 "devicatGLO") When you want to take lighting up your life to another level! ![devicatGLO2](https://static-cdn.jtvnw.net/emoticons/v1/1291597/1.0 "devicatGLO2") ." -DeviConstellation: (19-Aug-19)
@@ -717,6 +717,8 @@ number N.
 * 705: "I'm trying to visualize this dude's skeleton" -Devicat (29-Oct-19)
 * 706: "There is no more ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/1857257/1.0 "devicatBUTT") booty!" -DeviCat (30-Oct-19)
 * 707: "Don't feel bad for complimenting the neck." -DeviCat (30-Oct-19)
+* 708: "I have to hide the devil for a bit" -DeviCat (04-Nov-19)
+* 709: "We've had a lot of butts tonight! devicatBUTT" -DeviCat (04-Nov-19)
 
 There may be quotes newer than these that have yet to be collected.
 
