@@ -20,7 +20,7 @@ The title "DeviCat" has a whole history to its creation. It started as a nicknam
 
 ---
 
-* ![](img/devicatheartemote.png)
+* ![](img/devicatlogobrand.png)
 
 * ## About DeviCat
   * **Name:** Rachelle 
