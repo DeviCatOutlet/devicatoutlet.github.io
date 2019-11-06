@@ -11,7 +11,7 @@
   * **Role:** Artist / Content Creator
   * **Self Taught:** Traditional Art / Digital Art / Vocaloid Dance
   * **Interested In:** Creating to put a smile on your face and a warmth in your heart.
-  * **♡Married to:♡** [HallwayRaptor](https://www.twitter.com/HallwayRaptor)
+  * **♡Married to:♡** [HallwayRaptor](https://www.instagram.com/HallwayRaptor)
   * **Favorite Hobby:** Nature Walking
   * **Favorite Games:** Visual Novels
   * **Favorite Drink:** Coffee
