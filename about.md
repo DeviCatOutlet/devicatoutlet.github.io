@@ -1,25 +1,5 @@
 # About
 
-* ![](img/aboutdevicat.png)
-* ## DeviCat
-
-  My name is Rachelle, but most people know me as DeviCat. I’m a self taught digital illustrator and full time content creator on Twitch.tv, YouTube and Patreon. Here, we encourage the ideals of positive community through creativity and determination.
-
-The title "DeviCat" has a whole history to its creation. It started as a nickname for a cat character I had to animate for a school project. When I decided to start streaming on Twitch, I wanted a username that wasn't my real name, so I decided to use "DeviCat" instead as my pseudonym. To this day, some people still joke and think it means a "devil cat", others take it to a deeper meaning and refer to "Devi" as "goddess." Myself? I just think it sounds cute!
-
-“I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them.” - DeviCat
-
----
-
-* ## .hallwayRaptor™
-
-  This is my husband, Robert, who works behind the scenes to help make this
-  stream be able to run full time and managing the community.
-
-* ![](img/aboutraptor.png)
-
----
-
 * ![](img/devicatlogobrand.png)
 
 * ## About DeviCat
@@ -37,6 +17,24 @@ The title "DeviCat" has a whole history to its creation. It started as a nicknam
   * **Favorite Drink:** Coffee
   * **Favorite Anime:** Anything slice of life genre.
 
+  ---
+
+* ![](img/aboutdevicat.png)
+
+  My name is Rachelle, but most people know me as DeviCat. I’m a self taught digital illustrator and full time content creator on Twitch.tv, YouTube and Patreon. Here, we encourage the ideals of positive community through creativity and determination.
+
+The title "DeviCat" has a whole history to its creation. It started as a nickname for a cat character I had to animate for a school project. When I decided to start streaming on Twitch, I wanted a username that wasn't my real name, so I decided to use "DeviCat" instead as my pseudonym. To this day, some people still joke and think it means a "devil cat", others take it to a deeper meaning and refer to "Devi" as "goddess." Myself? I just think it sounds cute!
+
+“I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them.” - DeviCat
+
+---
+
+* ## .hallwayRaptor™
+
+  This is my husband, Robert, who works behind the scenes to help make this
+  stream be able to run full time and managing the community.
+
+* ![](img/aboutraptor.png)
 
 ---
 
