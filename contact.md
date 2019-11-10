@@ -5,7 +5,7 @@ Send an email to:
 [devicatoutlet@gmail.com](mailto:devicatoutlet@gmail.com)
 
 PO BOX – Please read the details below:<br>
-![](img/pobox.png)
+* ![](img/pobox.png)
 
 To anyone interested in sending something more than lettermail to our PO Box,
 please take note of the following:
