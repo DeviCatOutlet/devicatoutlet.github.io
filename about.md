@@ -8,6 +8,7 @@
   * **Role:** Artist | Content Creator | Twitch Partner
   * **Interested In:** ♡ Anime ♡ Cats ♡ Coffee ♡ Fashion
   * **♡Married to:♡** [HallwayRaptor](https://www.instagram.com/HallwayRaptor)
+  
   ---
 
   My name is Rachelle, but most people know me as DeviCat. I’m a self taught digital illustrator and full time content creator.
