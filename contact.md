@@ -4,12 +4,12 @@ Send an email to:
 {: .email}
 [devicatoutlet@gmail.com](mailto:devicatoutlet@gmail.com)
 
-DeviCat
-PO Box 30034
-Prospect Plaza
-Fredericton, NB
-Canada
-E3B 0H8
+DeviCat <br>
+PO Box 30034 <br>
+Prospect Plaza <br>
+Fredericton, NB <br>
+Canada <br>
+E3B 0H8 <br>
 
 To anyone interested in sending something more than lettermail to our PO Box,
 please take note of the following:
