@@ -4,7 +4,7 @@ Send an email to:
 {: .email}
 [devicatoutlet@gmail.com](mailto:devicatoutlet@gmail.com)
 
-Send mail to:<br>
+💌 Send mail to: 💌<br>
 <b>DeviCat <br>
 PO Box 30034 <br>
 Prospect Plaza <br>
