@@ -1,6 +1,6 @@
 # Home
 
-* [![Shop](img/artshop_panel_cakie.png)](http://bit.ly/DeviCatShop)
+* [![Shop](img/artshoppanel.png)](http://bit.ly/DeviCatShop)
 
   #### [Shop](http://bit.ly/DeviCatShop)
 
@@ -12,7 +12,7 @@
 
   Learn about DeviCat.
 
-* [![Contact](img/pobox_panel_letter.png)](contact)
+* [![Contact](img/pobox2.png)](contact)
 
   #### [Contact](contact)
 
