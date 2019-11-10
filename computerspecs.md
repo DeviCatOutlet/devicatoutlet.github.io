@@ -31,9 +31,9 @@
 
 ## Streaming Specs
 
-* Elgato Stream Deck
 * DeepBot
+* Elgato Stream Deck
+* Kappamon
 * StreamLabs
-* Muxy
 * StreamLabs OBS
 * StreamElements
