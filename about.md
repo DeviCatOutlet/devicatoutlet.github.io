@@ -6,7 +6,7 @@
   * **Name:** Rachelle 
   * **Nationality:** Canadian
   * **Role:** Artist / Content Creator / Twitch Partner
-  * **Loves:** ♡ Anime ♡ Cats ♡ Coffee ♡ Fashion
+  * **Blogging:** ♡ Art ♡ Lifestyle ♡ Spotlights
   * **Married to:** [HallwayRaptor](https://www.instagram.com/HallwayRaptor)
 
   ---
