@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 710 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 711 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -720,6 +720,7 @@ number N.
 * 708: "I have to hide the devil for a bit" -DeviCat (04-Nov-19)
 * 709: "We've had a lot of butts tonight! devicatBUTT" -DeviCat (04-Nov-19)
 * 710: "And bug spray is good for making bugs stay in place! ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/1857237/1.0 "devicatPOW") ." -rosuav (07-Nov-19)
+* 711: "Poor Cheshire is going to have gingivitis by the time I get through with him!" -devicat (11-Nov-19)
 
 There may be quotes newer than these that have yet to be collected.
 
