@@ -1,3 +1,7 @@
+# Run this after updating emote data to see if any emotes got lost
+# It'll show a noisy diff for any emote that used to be an image and
+# is now text, but tries to avoid being too noisy if it's just that
+# the emote IDs are a digit longer.
 import subprocess
 
 block = []
