@@ -1,4 +1,4 @@
-# Goals
+# Milestones
 
 ## What's Next
 
@@ -6,7 +6,7 @@
 - ⭐Licensing / Royalties of my original designs.
 
 
-## Past Milestones
+## Past Achievements
 - Ambassador for RedBubble August 2019
 
 - Collaboration with KawaiiBox October 2019
