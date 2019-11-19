@@ -1,6 +1,6 @@
 # Goals
 
-## Next On Our List!
+## What's Next
 
 - ⭐Building inventory and selling my designs locally.
 - ⭐Licensing / Royalties of my original designs.
