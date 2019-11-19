@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 713 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 716 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -723,6 +723,9 @@ number N.
 * 711: "Poor Cheshire is going to have gingivitis by the time I get through with him!" -devicat (11-Nov-19)
 * 712: "Can I be Mr. Behave? He's her father." -Rosuav (12-Nov-19)
 * 713: "Why would anyone use their survey bits on Devi ? ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/301063796/1.0 "devicatEH") ." -speed_freak86 (14-Nov-19)
+* 714: "Gold Banned Itch Powder. ![devicatPOW](https://static-cdn.jtvnw.net/emoticons/v1/301012199/1.0 "devicatPOW") ." -Rosuav (15-Nov-19)
+* 715: "Hug, uwu, or butt?" -DeviCat (18-Nov-19)
+* 716: "safe-fuku ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Rosuav (19-Nov-19)
 
 There may be quotes newer than these that have yet to be collected.
 
