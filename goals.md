@@ -1,17 +1,17 @@
 # Goals
 
 ## Next On Our List!
-- ⭐Applying for ambassador / reviewer for content related to our platform.
-- ⭐Affiliations & Sponsorships with content related to our platform.
-- ⭐Licensing / Royalties of our original designs.
+
+- ⭐Building inventory and selling my designs locally.
+- ⭐Licensing / Royalties of my original designs.
 
 
-## Past Achievements 
+## Past Milestones
 - Ambassador for RedBubble August 2019
 
-- Sponsored by KawaiiBox October 2019
-- Sponsored by KawaiiBox August 2019
-- Sponsored by Blippo January 2019
+- Collaboration with KawaiiBox October 2019
+- Collaboration with KawaiiBox August 2019
+- Collaboration with Blippo January 2019
 
 - Twitch Charity Stream: Create for Kids 2018
 - Twitch Charity Stream: 1000 Dreams Fund 2018
