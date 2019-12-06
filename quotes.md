@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 721 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 722 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -731,6 +731,7 @@ number N.
 * 719: "Hold up your dress Marnie! devicatSHY ." -ciri_ion (27-Nov-19)
 * 720: "I'm in love with your stick. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -DeviCat (28-Nov-19)
 * 721: "OMG! I got the other arm!" -Ekas_ (04-Dec-19)
+* 722: "Try this one weird trick to find your belly button!! ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ." -rosuav (06-Dec-19)
 
 There may be quotes newer than these that have yet to be collected.
 
