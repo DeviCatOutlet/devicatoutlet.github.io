@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 725 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 730 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -735,6 +735,10 @@ number N.
 * 723: "I WILL MISBEHAVE! ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/1291582/1.0 "devicatGRR") ." -solacelion (09-Dec-19)
 * 724: "It looks like we shot it in the face, That's terrible ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ." -DeviCat (10-Dec-19)
 * 725: "Where'd my Butt Go ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/301012343/1.0 "devicatBUTT") ." -DeviCat (10-Dec-19)
+* <missing quote 726, ask CCB for it please>
+* 727: "Once upon a time, there was a sad Candicat who had no wings HahaShrugLeft ![devicatCRY](https://static-cdn.jtvnw.net/emoticons/v1/301012351/1.0 "devicatCRY") HahaShrugRight . One day, an explosion of magic hit her ![devicatSPARKLE](https://static-cdn.jtvnw.net/emoticons/v1/301012192/1.0 "devicatSPARKLE") ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/301012194/1.0 "devicatMAGIC") ![devicatSPARKLE](https://static-cdn.jtvnw.net/emoticons/v1/301012192/1.0 "devicatSPARKLE") and she fell into a deep sleep. The next day, she woke up ![devicatCOZY](https://static-cdn.jtvnw.net/emoticons/v1/301056419/1.0 "devicatCOZY") and all the sudden she had beautiful rainbow wings ![MercyWing1](https://static-cdn.jtvnw.net/emoticons/v1/1003187/1.0 "MercyWing1") ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ![MercyWing2](https://static-cdn.jtvnw.net/emoticons/v1/1003189/1.0 "MercyWing2") . That is the story of how Candicat got her wings ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/301012422/1.0 "devicatAWW") !" -SolaceLion (12-Dec-19)
+* 728: "Was your tangerine appealing? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -mlasuk (13-Dec-19)
+* 729: "I forgot her thumb... it was still attached ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ." -DeviCat (18-Dec-19)
+* 730: "Not until I get my !skinpeels command ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -boozewash (19-Dec-19)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
