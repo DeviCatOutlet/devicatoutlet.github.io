@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 732 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 734 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -742,6 +742,8 @@ number N.
 * 730: "Not until I get my !skinpeels command ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -boozewash (19-Dec-19)
 * 731: "Don't worry I'll rotate you properly. ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/301063796/1.0 "devicatEH") ." -devicat (24-Dec-19)
 * 732: "Lesson learned: Drawing animal portraits is the same as drawing potion bottles." -DeviCat (25-Dec-19)
+* 733: "Buy this DeviCat merch sold by CoolGuy84 ![deviCoolStory](https://cdn.betterttv.net/frankerfacez_emote/251430/1 "deviCoolStory") ." -solacelion (27-Dec-19)
+* 734: "When in doubt, just put a face on it ![devicatTADA](https://static-cdn.jtvnw.net/emoticons/v1/301091261/1.0 "devicatTADA") !" -DeviCat (27-Dec-19)
 
 There may be quotes newer than these that have yet to be collected.
 
