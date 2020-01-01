@@ -1,6 +1,7 @@
 {
   "cached_until": "529037424+",
-  "quotes": [
+  "quotes": [],
+  "quotes2019": [
     null,
     "\"I'M JUST A SEAGULL POSSESSED BY PEARS! I LIVE MY LIFE!\" -Devi_Cat (10-Nov-15)",
     "\"I want to stream... but I also want chocolate...so I guess I'll just be on fire instead.\" -Devi_Cat (13-Nov-15)",
@@ -738,5 +739,8 @@
     "\"When in doubt, just put a face on it devicatTADA !\" -DeviCat (27-Dec-19)",
     "\"What is art? baby don't hurt me don't hurt me no more . devicatSPOOK .\" -devicat (28-Dec-19)",
     "\"Someone is doing something..... I feel it in my feathers\" -Ducky245 (31-Dec-19)"
-  ]
+  ],
+  "sections": {
+    "quotes2019": "In the years up to 2019"
+  }
 }
