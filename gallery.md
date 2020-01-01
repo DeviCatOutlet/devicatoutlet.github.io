@@ -1,8 +1,9 @@
 # Gallery
 
 
-![Pastel Goth Girl Shizuko 2019](img/pggShizuko2019.png)
+![Make A Wish Reiko 2019](img/ReikoMakeAWish2019.png)
 ![Alice Madness Returns 2019](img/AliceMadnessReturns.png)
+![Pastel Goth Girl Shizuko 2019](img/pggShizuko2019.png)
 ![Kotori Chan Love Live 2019](img/KotoriChanLoveLive2019.png)
 ![CCB Trainer 2019](img/CCBTrainer2019.png)
 ![Kiki 2019](img/Kiki2019.png)
@@ -15,4 +16,5 @@
 ![Abigail and Junimo](img/SDV_Abigail_n_Junimo_2018.png)
 ![Reiko Forest Fauna](img/Reiko_Forest_Fauna_2018.png)
 ![Shizuko Mermaid 2018](img/ShizukoMermaid2018.png)
+
 {: .wrap}
