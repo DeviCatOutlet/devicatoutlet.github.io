@@ -16,5 +16,4 @@
 ![Abigail and Junimo](img/SDV_Abigail_n_Junimo_2018.png)
 ![Reiko Forest Fauna](img/Reiko_Forest_Fauna_2018.png)
 ![Shizuko Mermaid 2018](img/ShizukoMermaid2018.png)
-
 {: .wrap}
