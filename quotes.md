@@ -5,12 +5,13 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 1 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 2 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
 
 * 1: "Thankfully I was able to undo, and I only lost the eyes ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ." -PumpkinDays (01-Jan-20)
+* 2: ""It doesn't have to be perfect" ![deviCoolStory](https://cdn.betterttv.net/frankerfacez_emote/251430/1 "deviCoolStory") channeling Bob Ross again. just a happy little lemon slice ![deviCoolStory](https://cdn.betterttv.net/frankerfacez_emote/251430/1 "deviCoolStory") ." -aVeryRedFox (01-Jan-20)
 
 There may be quotes newer than these that have yet to be collected.
 
