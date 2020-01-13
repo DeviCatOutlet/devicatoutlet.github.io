@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 17 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 18 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -27,6 +27,7 @@ number N.
 * 15: "Getting Devi too 700 quotes? You're filled with determination! ![HahaShrugLeft](https://static-cdn.jtvnw.net/emoticons/v1/301108047/1.0 "HahaShrugLeft") ![devicatCOOL](https://static-cdn.jtvnw.net/emoticons/v1/301012541/1.0 "devicatCOOL") ![HahaShrugRight](https://static-cdn.jtvnw.net/emoticons/v1/301108045/1.0 "HahaShrugRight") ." -ciri_ion (11-Jan-20)
 * 16: "I am just going to tear right into this one. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -DeviCat (11-Jan-20)
 * 17: "best cheese is dad jokes" -mydearestpickle (11-Jan-20)
+* 18: "And two... uhh.... NO." -DeviCat (13-Jan-20)
 
 There may be quotes newer than these that have yet to be collected.
 
