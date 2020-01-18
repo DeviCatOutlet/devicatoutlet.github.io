@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 22 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 24 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -32,6 +32,8 @@ number N.
 * 20: "!heearts" -Ducky245 (14-Jan-20)
 * 21: "I saw a block of rainbow with arms coming out of it, and I was confused ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/301063796/1.0 "devicatEH") ." -DeviCat (15-Jan-20)
 * 22: "A knight owl is Sir TurnsHisHeadAllAround. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Rosuav (15-Jan-20)
+* 23: "Special pictures with Erin! ![Kreygasm](https://static-cdn.jtvnw.net/emoticons/v1/41/1.0 "Kreygasm") ." -DeviCat (17-Jan-20)
+* 24: "We don't need my head." -DeviCat (17-Jan-20)
 
 There may be quotes newer than these that have yet to be collected.
 
