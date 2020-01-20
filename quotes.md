@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 25 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 28 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -35,6 +35,9 @@ number N.
 * 23: "Special pictures with Erin! ![Kreygasm](https://static-cdn.jtvnw.net/emoticons/v1/41/1.0 "Kreygasm") ." -DeviCat (17-Jan-20)
 * 24: "We don't need my head." -DeviCat (17-Jan-20)
 * 25: "I have to transform myself into a child!" -DeviCat (17-Jan-20)
+* 26: "A labyrinth of pans? Sounds like a Paradise for chefs. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -SolaceLion (20-Jan-20)
+* 27: "I saw birbs. ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/301012422/1.0 "devicatAWW") ." -sakurakoneko (20-Jan-20)
+* 28: "I turn red when I'm hot. ![devicatSHY](https://static-cdn.jtvnw.net/emoticons/v1/301080121/1.0 "devicatSHY") ." -solacelion (20-Jan-20)
 
 There may be quotes newer than these that have yet to be collected.
 
