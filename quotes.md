@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 33 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 34 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -43,6 +43,7 @@ number N.
 * 31: "devicatSTINK ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -solacelion (21-Jan-20)
 * 32: "Do you have a huge can of soup, or a cat?" -DeviCat (21-Jan-20)
 * 33: "Erin's block of text confuses me. ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/301063796/1.0 "devicatEH") ." -SolaceLion (22-Jan-20)
+* 34: "Someone was going to eventually take the last butt! ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/301012343/1.0 "devicatBUTT") ." -Devi (25-Jan-20)
 
 There may be quotes newer than these that have yet to be collected.
 
