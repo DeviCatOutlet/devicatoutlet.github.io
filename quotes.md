@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 35 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 39 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -45,6 +45,10 @@ number N.
 * 33: "Erin's block of text confuses me. ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/301063796/1.0 "devicatEH") ." -SolaceLion (22-Jan-20)
 * 34: "Someone was going to eventually take the last butt! ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/301012343/1.0 "devicatBUTT") ." -Devi (25-Jan-20)
 * 35: "My fingers would go ![imGlitch](https://static-cdn.jtvnw.net/emoticons/v1/112290/1.0 "imGlitch") Twitch! and I'd be in a different spot ![twitchRaid](https://static-cdn.jtvnw.net/emoticons/v1/62836/1.0 "twitchRaid") !" -DeviCat (27-Jan-20)
+* 36: "If you want a good immune system even though you don't go anywhere, just be a total slob. ![Keepo](https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0 "Keepo") ." -Rosuav (28-Jan-20)
+* 37: "Sorry, I'm not your mom! ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -DeviCat (28-Jan-20)
+* 38: "ALL THE BACKUPS! ![HahaPoint](https://static-cdn.jtvnw.net/emoticons/v1/301108057/1.0 "HahaPoint") ![devicatBUTT](https://static-cdn.jtvnw.net/emoticons/v1/301012343/1.0 "devicatBUTT") ." -DeviCat (28-Jan-20)
+* 39: "Devi loves the feeling of blood. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -Rosuav (28-Jan-20)
 
 There may be quotes newer than these that have yet to be collected.
 
