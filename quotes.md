@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 46 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 47 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -56,6 +56,7 @@ number N.
 * 44: "#TattooTuesday ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (01-Feb-20)
 * 45: "it turns out they are in fact zits! ![HahaCat](https://static-cdn.jtvnw.net/emoticons/v1/301108083/1.0 "HahaCat") ." -ravnnightwolf (02-Feb-20)
 * 46: "*proud Devi noises* ![devicatSHY](https://static-cdn.jtvnw.net/emoticons/v1/301080121/1.0 "devicatSHY") ." -ekas_ (02-Feb-20)
+* 47: "I'm not going to die from a FRIGGIN' POTATO ![devicatGRR](https://static-cdn.jtvnw.net/emoticons/v1/301068354/1.0 "devicatGRR") !" -DeviCat (05-Feb-20)
 
 There may be quotes newer than these that have yet to be collected.
 
