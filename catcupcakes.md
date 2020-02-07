@@ -23,3 +23,6 @@ of the channel. Now these little cuties have their own personalities and charact
 
 ### Berri in Human Form
 ![BerriChan 2018](img/berrichan_2018.png)
+
+### Lemmy in Human Form
+![LemmyChan 2020](img/LemmyChan2020.png)
