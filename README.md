@@ -1,6 +1,6 @@
 # DeviCat
 
-Source code for the [DeviCat Outlet](http://devicatoutlet.com/) web site.
+Source code for the [DeviCat Outlet](https://devicatoutlet.com/) web site.
 
 To build and test locally:
 
