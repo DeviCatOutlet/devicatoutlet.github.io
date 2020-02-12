@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 50 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 54 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -60,6 +60,10 @@ number N.
 * 48: "E-Bae ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -oatmeallion (07-Feb-20)
 * 49: "Welcome to my lap! ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -DeviCat (07-Feb-20)
 * 50: "Would you like to hide a body? does it have to be in one piece. ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -angie_furclad (08-Feb-20)
+* 51: "Rosuav knocked Erin out on purpose.... ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -DeviCat (11-Feb-20)
+* 52: "Don't Judge ![DansGame](https://static-cdn.jtvnw.net/emoticons/v1/33/1.0 "DansGame") ." -DeviCat (11-Feb-20)
+* 53: "If women don't find you handsome they should at least find you handy." -hallwayraptor (11-Feb-20)
+* 54: "I'm just looking at some real lips through Google" -DeviCat (11-Feb-20)
 
 There may be quotes newer than these that have yet to be collected.
 
