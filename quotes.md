@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 54 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 55 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -64,6 +64,7 @@ number N.
 * 52: "Don't Judge ![DansGame](https://static-cdn.jtvnw.net/emoticons/v1/33/1.0 "DansGame") ." -DeviCat (11-Feb-20)
 * 53: "If women don't find you handsome they should at least find you handy." -hallwayraptor (11-Feb-20)
 * 54: "I'm just looking at some real lips through Google" -DeviCat (11-Feb-20)
+* 55: "Her eyes look like she has a mountain landscape with a moon in the sky ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/301012422/1.0 "devicatAWW") ." -nikkidearest (12-Feb-20)
 
 There may be quotes newer than these that have yet to be collected.
 
