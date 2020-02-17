@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 55 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 61 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -65,6 +65,12 @@ number N.
 * 53: "If women don't find you handsome they should at least find you handy." -hallwayraptor (11-Feb-20)
 * 54: "I'm just looking at some real lips through Google" -DeviCat (11-Feb-20)
 * 55: "Her eyes look like she has a mountain landscape with a moon in the sky ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/301012422/1.0 "devicatAWW") ." -nikkidearest (12-Feb-20)
+* 56: "Ekas! Your pizza pushed me in the right direction ![devicatHYPU](https://static-cdn.jtvnw.net/emoticons/v1/301012190/1.0 "devicatHYPU") !" -DeviCat (14-Feb-20)
+* 57: "oh my God look at how many of you are dead right now on stream! ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -DeviCat (14-Feb-20)
+* 58: "it's like how when you say "ROFL", we don't expect you to actually get out of your chair, roll around on the floor for a while, and then get back up and type "ROFL" in chat . ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -Rosuav (14-Feb-20)
+* 59: "Flowing across the stream with the ![EarthDay](https://static-cdn.jtvnw.net/emoticons/v1/959018/1.0 "EarthDay") in their hands." -DeviCat (15-Feb-20)
+* 60: "Raving Donuts! ![devicatGLO2](https://static-cdn.jtvnw.net/emoticons/v1/301012262/1.0 "devicatGLO2") ." -DeviCat (15-Feb-20)
+* 61: "1478" -DeviCat (16-Feb-20)
 
 There may be quotes newer than these that have yet to be collected.
 
