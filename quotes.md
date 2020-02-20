@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 62 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 66 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -72,6 +72,10 @@ number N.
 * 60: "Raving Donuts! ![devicatGLO2](https://static-cdn.jtvnw.net/emoticons/v1/301012262/1.0 "devicatGLO2") ." -DeviCat (15-Feb-20)
 * 61: "1478" -DeviCat (16-Feb-20)
 * 62: "We love Chii ![devicatLOVE](https://static-cdn.jtvnw.net/emoticons/v1/301012188/1.0 "devicatLOVE") ." -Everyone (18-Feb-20)
+* 63: "I am pulsating to the music! ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -Devicat (18-Feb-20)
+* 64: "Can we just take a moment to look at Sakura's hair. ![CarlSmile](https://static-cdn.jtvnw.net/emoticons/v1/166266/1.0 "CarlSmile") ." -DeviCat (19-Feb-20)
+* 65: "Erin, I think you have toes on the brain! ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -DeviCat (19-Feb-20)
+* 66: "I feel magical! ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/301012194/1.0 "devicatMAGIC") ." -sakurakoneko (19-Feb-20)
 
 There may be quotes newer than these that have yet to be collected.
 
