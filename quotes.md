@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 66 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 67 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -76,6 +76,7 @@ number N.
 * 64: "Can we just take a moment to look at Sakura's hair. ![CarlSmile](https://static-cdn.jtvnw.net/emoticons/v1/166266/1.0 "CarlSmile") ." -DeviCat (19-Feb-20)
 * 65: "Erin, I think you have toes on the brain! ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -DeviCat (19-Feb-20)
 * 66: "I feel magical! ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/301012194/1.0 "devicatMAGIC") ." -sakurakoneko (19-Feb-20)
+* 67: "Rest in peace to those who had nightmares!" -DeviCat (21-Feb-20)
 
 There may be quotes newer than these that have yet to be collected.
 
