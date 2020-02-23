@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 67 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 71 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -77,6 +77,10 @@ number N.
 * 65: "Erin, I think you have toes on the brain! ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -DeviCat (19-Feb-20)
 * 66: "I feel magical! ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/301012194/1.0 "devicatMAGIC") ." -sakurakoneko (19-Feb-20)
 * 67: "Rest in peace to those who had nightmares!" -DeviCat (21-Feb-20)
+* 68: "It can be whatever you want it to be. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (22-Feb-20)
+* 69: "I'm sure you're gonna appreciate the package. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -bulbalight (22-Feb-20)
+* 70: "you mean small pp energy? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -heartsome_nana (22-Feb-20)
+* 71: "It was pre-cut ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -who___ (22-Feb-20)
 
 There may be quotes newer than these that have yet to be collected.
 
