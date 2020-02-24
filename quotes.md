@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 71 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 74 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -81,6 +81,8 @@ number N.
 * 69: "I'm sure you're gonna appreciate the package. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -bulbalight (22-Feb-20)
 * 70: "you mean small pp energy? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -heartsome_nana (22-Feb-20)
 * 71: "It was pre-cut ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -who___ (22-Feb-20)
+* <missing quote 72, ask CandiCat for it please>
+* 73: "Skin:Face, Skin:Hands, Skin:Legs ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (24-Feb-20)
+* 74: "I already stalk photosvein ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -jaxius__ (24-Feb-20)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
