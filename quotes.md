@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 75 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 78 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -81,9 +81,13 @@ number N.
 * 69: "I'm sure you're gonna appreciate the package. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -bulbalight (22-Feb-20)
 * 70: "you mean small pp energy? ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -heartsome_nana (22-Feb-20)
 * 71: "It was pre-cut ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -who___ (22-Feb-20)
-* <missing quote 72, ask CandiCat for it please>
+* 72: "80 pounds of dog is about equivalent to 140 Canadian dollars of dog" -Rosuav (24-Feb-20)
 * 73: "Skin:Face, Skin:Hands, Skin:Legs ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (24-Feb-20)
 * 74: "I already stalk photosvein ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -jaxius__ (24-Feb-20)
 * 75: "@who___" -who___ (26-Feb-20)
+* 76: "I'm pretty big so that may be difficult. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -who___ (27-Feb-20)
+* 77: "My life is full of lemons 🍋 !" -DeviCat (28-Feb-20)
+* 78: "We live her! ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -ironmania2003 (28-Feb-20)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
