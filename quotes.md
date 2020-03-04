@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 78 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 82 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -88,6 +88,9 @@ number N.
 * 76: "I'm pretty big so that may be difficult. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -who___ (27-Feb-20)
 * 77: "My life is full of lemons 🍋 !" -DeviCat (28-Feb-20)
 * 78: "We live her! ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -ironmania2003 (28-Feb-20)
+* <missing quote 79, ask CandiCat for it please>
+* <missing quote 80, ask CandiCat for it please>
+* 81: "Eyedrool ![devicatCRY](https://static-cdn.jtvnw.net/emoticons/v1/301012351/1.0 "devicatCRY") ." -who___ (03-Mar-20)
+* 82: "Gotta lose the feet ![HahaPoint](https://static-cdn.jtvnw.net/emoticons/v1/301108057/1.0 "HahaPoint") ." -Rosuav (03-Mar-20)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 2 quotes, plus any that have been recently added.
