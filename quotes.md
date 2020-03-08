@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 85 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 87 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -95,6 +95,8 @@ number N.
 * 83: "Toot my own horn ![HahaCat](https://static-cdn.jtvnw.net/emoticons/v1/301108083/1.0 "HahaCat") ." -DeviCat (04-Mar-20)
 * 84: "it just looks so weird she's naked ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -DeviCat (04-Mar-20)
 * 85: "Because I am creepy like that ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -Rosuav (04-Mar-20)
+* 86: "That's right guys back-to-back babies ![HahaSweat](https://static-cdn.jtvnw.net/emoticons/v1/301108037/1.0 "HahaSweat") ." -DeviCat (07-Mar-20)
+* 87: "Yeah Toast ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -Toaster (07-Mar-20)
 
 There may be quotes newer than these that have yet to be collected.
 
