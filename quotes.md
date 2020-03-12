@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 90 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 93 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -98,7 +98,10 @@ number N.
 * 86: "That's right guys back-to-back babies ![HahaSweat](https://static-cdn.jtvnw.net/emoticons/v1/301108037/1.0 "HahaSweat") ." -DeviCat (07-Mar-20)
 * 87: "Yeah Toast ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -Toaster (07-Mar-20)
 * 88: "!guessv7" -Ducky245 (09-Mar-20)
-* <missing quote 89, ask CandiCat for it please>
+* 89: "!cansy" -who___ (10-Mar-20)
 * 90: "What are skin peels? ![WutFace](https://static-cdn.jtvnw.net/emoticons/v1/28087/1.0 "WutFace") ." -who___ (10-Mar-20)
+* 91: "and now Erin is saying text to speech please ![devicatUWU](https://static-cdn.jtvnw.net/emoticons/v1/301064501/1.0 "devicatUWU") ." -DeviCat (11-Mar-20)
+* <missing quote 92, ask CandiCat for it please>
+* 93: "All you need is one bod to chair ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -Rosuav (11-Mar-20)
 
 This list is missing 1 quotes, plus any that have been recently added.
