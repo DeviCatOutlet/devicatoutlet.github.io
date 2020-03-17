@@ -101,8 +101,9 @@ number N.
 * 89: "!cansy" -who___ (10-Mar-20)
 * 90: "What are skin peels? ![WutFace](https://static-cdn.jtvnw.net/emoticons/v1/28087/1.0 "WutFace") ." -who___ (10-Mar-20)
 * 91: "and now Erin is saying text to speech please ![devicatUWU](https://static-cdn.jtvnw.net/emoticons/v1/301064501/1.0 "devicatUWU") ." -DeviCat (11-Mar-20)
-* <missing quote 92, ask CandiCat for it please>
+* 92: "Wash your filthy hands ![DansGame](https://static-cdn.jtvnw.net/emoticons/v1/33/1.0 "DansGame") ." -Everyone (11-Mar-20)
 * 93: "All you need is one bod to chair ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -Rosuav (11-Mar-20)
 * 94: "I think it would look cool blown up ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ." -DeviCat (14-Mar-20)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
