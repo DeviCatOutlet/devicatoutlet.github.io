@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 94 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 95 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -104,6 +104,7 @@ number N.
 * 92: "Wash your filthy hands ![DansGame](https://static-cdn.jtvnw.net/emoticons/v1/33/1.0 "DansGame") ." -Everyone (11-Mar-20)
 * 93: "All you need is one bod to chair ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -Rosuav (11-Mar-20)
 * 94: "I think it would look cool blown up ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ." -DeviCat (14-Mar-20)
+* 95: "Let's talk toilet paper for a second" -DeviCat (17-Mar-20)
 
 There may be quotes newer than these that have yet to be collected.
 
