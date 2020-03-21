@@ -13,4 +13,4 @@ Info:
 
 ### CandiCat's Original Form
 
-Updates coming in the future...
+![CandiCat](img/CandiCatReference.png)
