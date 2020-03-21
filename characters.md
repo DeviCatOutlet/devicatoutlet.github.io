@@ -10,12 +10,11 @@ inquiries / negotiations. You’re also welcome to submit fanart in my
 discord channel [here](https://discordapp.com/invite/devicat), called
 #devicat_fanart (under “Sharing & Discussion”).
 
+* [CandyCat Twins](candycattwins)
+* [CatCupcakes](catcupcakes)
+* [DapperCat](dappercat)
+* [Hanabi (DJ Rainbow Sheep)](hanabi)
 * [Momoko (CutieCakeBot)](momoko)
-* [Shizuko (Shiny CutieCakeBot)](shizuko)
 * [Reiko (Fauna Sister)](reiko)
 * [Rin (Fauna Sister)](rin)
-* [BonBon Chan](bonbonchan)
-* [Hanabi (DJ Rainbow Sheep)](hanabi)
-* [DapperCat](dappercat)
-* [CatCupcakes](catcupcakes)
-* [Pets](pets)
+* [Shizuko (Shiny CutieCakeBot)](shizuko)
