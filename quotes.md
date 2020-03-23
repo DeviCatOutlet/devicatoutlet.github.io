@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 100 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 101 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -110,6 +110,7 @@ number N.
 * 98: "It's great working without pants. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -brandon_ks (20-Mar-20)
 * 99: "Wow, I was not expecting it to be that solid ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (20-Mar-20)
 * 100: "Eyyyyy, I dropped a bunny!" -DeviCat (21-Mar-20)
+* 101: "with this it's like woooooooo ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/301012422/1.0 "devicatAWW") ." -DeviCat (23-Mar-20)
 
 There may be quotes newer than these that have yet to be collected.
 
