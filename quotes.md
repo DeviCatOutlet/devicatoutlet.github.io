@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 105 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 107 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -115,6 +115,8 @@ number N.
 * 103: "manually stroke ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -averyredfox (25-Mar-20)
 * 104: "NotLikeThid" -who___ (25-Mar-20)
 * 105: "So, you're eating your house? ![OpieOP](https://static-cdn.jtvnw.net/emoticons/v1/100590/1.0 "OpieOP") ." -DeviCat (27-Mar-20)
+* 106: "A violent shade of pink?" -Rosuav (28-Mar-20)
+* 107: "My name is Rachelle ![devicatSHY](https://static-cdn.jtvnw.net/emoticons/v1/301080121/1.0 "devicatSHY") ." -DeviCat (28-Mar-20)
 
 There may be quotes newer than these that have yet to be collected.
 
