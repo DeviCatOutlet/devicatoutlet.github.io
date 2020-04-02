@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 107 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 110 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -117,6 +117,8 @@ number N.
 * 105: "So, you're eating your house? ![OpieOP](https://static-cdn.jtvnw.net/emoticons/v1/100590/1.0 "OpieOP") ." -DeviCat (27-Mar-20)
 * 106: "A violent shade of pink?" -Rosuav (28-Mar-20)
 * 107: "My name is Rachelle ![devicatSHY](https://static-cdn.jtvnw.net/emoticons/v1/301080121/1.0 "devicatSHY") ." -DeviCat (28-Mar-20)
+* <missing quote 108, ask CandiCat for it please>
+* 109: "mogarringa Hellooooooooooooo" -DeviCat (31-Mar-20)
+* 110: "Noooo! My precious hot pink ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") !" -DeviCat (01-Apr-20)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
