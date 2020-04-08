@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 113 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 116 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -123,6 +123,9 @@ number N.
 * 111: "Oh Yea Keep going pet me forever ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -Chii (03-Apr-20)
 * 112: "Replacement Quote" -Rosuav (04-Apr-20)
 * 113: "Ctrl Alt E ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (06-Apr-20)
+* 114: "Sweetie, it's all about you now ![ohmyRAPTOR](https://cdn.betterttv.net/frankerfacez_emote/165546/1 "ohmyRAPTOR") ." -DeviCat (07-Apr-20)
+* 115: "Ewwww Gross ![WutFace](https://static-cdn.jtvnw.net/emoticons/v1/28087/1.0 "WutFace") ." -DeviCat (07-Apr-20)
+* 116: "Gross! GROSS!" -DeviCat (07-Apr-20)
 
 There may be quotes newer than these that have yet to be collected.
 
