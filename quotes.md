@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 123 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 124 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -133,6 +133,7 @@ number N.
 * 121: "Angelou My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style." -Maya (11-Apr-20)
 * 122: "Speak Moistly" -CanadaPrimeMinister (11-Apr-20)
 * 123: "Also, I'm getting rid of that other head, because I don't want to use it now ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/301063796/1.0 "devicatEH") ." -DeviCat (13-Apr-20)
+* 124: "I still have to chop up the body parts ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -DeviCat (14-Apr-20)
 
 There may be quotes newer than these that have yet to be collected.
 
