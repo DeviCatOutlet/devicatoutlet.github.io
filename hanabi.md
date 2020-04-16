@@ -7,10 +7,10 @@ Info:
   Representation / Inspiration: Fierce determination.
 ---
 
-### Hanabi's Original Form
+### Hanabi
+
+This is a test
 
 ![DJ Rainbow Sheep](img/djrainbowsheep.png)
-
-### Hanabi's Human Form
 
 ![Hanabi](img/hanabi.png)
