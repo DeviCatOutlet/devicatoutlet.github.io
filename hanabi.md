@@ -1,15 +1,10 @@
 ---
-Character: Hanabi
+Character: Character Archives
 Info:
-  Name: Hanabi
-  Title: DJ Rainbow Sheep
-  Personality: Brave, determined and open minded. A natural firework.
-  Representation / Inspiration: Fierce determination.
+  Info: Here, you'll find an archive of DeviCat's original characters.
 ---
 
 ### Hanabi
-
-This is a test
 
 ![DJ Rainbow Sheep](img/djrainbowsheep.png)
 
