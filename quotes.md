@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 130 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 132 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -135,10 +135,13 @@ number N.
 * 123: "Also, I'm getting rid of that other head, because I don't want to use it now ![devicatEH](https://static-cdn.jtvnw.net/emoticons/v1/301063796/1.0 "devicatEH") ." -DeviCat (13-Apr-20)
 * 124: "I still have to chop up the body parts ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -DeviCat (14-Apr-20)
 * 125: "Who needs art when you can do giveaways ![devicatAWW](https://static-cdn.jtvnw.net/emoticons/v1/301012422/1.0 "devicatAWW") ?" -DeviCat (15-Apr-20)
-* <missing quote 126, ask CandiCat for it please>
+* 126: "Face Decor Time ![HahaBall](https://static-cdn.jtvnw.net/emoticons/v1/301112669/1.0 "HahaBall") ." -DeviCat (15-Apr-20)
 * 127: "FAINLLY" -bulbalight (21-Apr-20)
-* <missing quote 128, ask CandiCat for it please>
+* 128: "I keep forgetting she's got a slice took out of her. ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -DeviCat (22-Apr-20)
 * 129: "My preferred art style is asking my wife to draw things for me instead of doing it myself. ![HahaThink](https://static-cdn.jtvnw.net/emoticons/v1/301108032/1.0 "HahaThink") ." -hallwayraptor (24-Apr-20)
 * 130: "Where did I put your eyebrows??? Oh there they are." -DeviCat (24-Apr-20)
+* 131: "I did derp ![HahaBall](https://static-cdn.jtvnw.net/emoticons/v1/301112669/1.0 "HahaBall") ." -xillians (25-Apr-20)
+* 132: "There is just you and I and the painting ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (25-Apr-20)
 
-This list is missing 2 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
