@@ -2,13 +2,17 @@
 
 ## What's Next
 
-- ⭐Building inventory and selling my designs locally.
-- ⭐Licensing / Royalties of my original designs.
+- ⭐Create videos to help answer FAQs for artists and broadcasters on Twitch.
+- ⭐Create videos to spotlight artists and businesses.
+- ⭐Quality management of the RedBubble shop.
+
+
 
 
 ## Past Achievements
 - Ambassador for RedBubble August 2019
 
+- Collaboration with KawaiiBox March 2020
 - Collaboration with KawaiiBox October 2019
 - Collaboration with KawaiiBox August 2019
 - Collaboration with Blippo January 2019
