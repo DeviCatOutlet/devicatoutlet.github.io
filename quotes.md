@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 132 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 134 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -142,6 +142,7 @@ number N.
 * 130: "Where did I put your eyebrows??? Oh there they are." -DeviCat (24-Apr-20)
 * 131: "I did derp ![HahaBall](https://static-cdn.jtvnw.net/emoticons/v1/301112669/1.0 "HahaBall") ." -xillians (25-Apr-20)
 * 132: "There is just you and I and the painting ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (25-Apr-20)
+* <missing quote 133, ask CandiCat for it please>
+* 134: "FEAR the power of confetti! ![deviCAKE](https://cdn.betterttv.net/frankerfacez_emote/405155/1 "deviCAKE") GET SPRINKLED!" -DeviCat (27-Apr-20)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
