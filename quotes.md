@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 136 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 139 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -146,6 +146,8 @@ number N.
 * 134: "FEAR the power of confetti! ![deviCAKE](https://cdn.betterttv.net/frankerfacez_emote/405155/1 "deviCAKE") GET SPRINKLED!" -DeviCat (27-Apr-20)
 * 135: "It's called the PhotoShop Diet ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/301012537/1.0 "devicatNOM") …" -DeviCat (28-Apr-20)
 * 136: "You've got boobs ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (28-Apr-20)
+* 137: "I am going to have to go with the fatter cat ![deviLITA](https://cdn.betterttv.net/frankerfacez_emote/405157/1 "deviLITA") ." -DeviCat (29-Apr-20)
+* <missing quote 138, ask CandiCat for it please>
+* 139: "I tasted her she was great ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/301012537/1.0 "devicatNOM") ." -sakurakoneko (29-Apr-20)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
