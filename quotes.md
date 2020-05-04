@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 141 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 142 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -151,6 +151,7 @@ number N.
 * 139: "I tasted her she was great ![devicatNOM](https://static-cdn.jtvnw.net/emoticons/v1/301012537/1.0 "devicatNOM") ." -sakurakoneko (29-Apr-20)
 * 140: "You have a bit of a beef with her wording, eh? 🇨🇦 ." -Rosuav (01-May-20)
 * 141: "Oh My God you're alive! ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ." -DeviCat (02-May-20)
+* 142: "... how do you drown a shark?" -Rosuav (04-May-20)
 
 There may be quotes newer than these that have yet to be collected.
 
