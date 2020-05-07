@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 143 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 146 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -153,6 +153,8 @@ number N.
 * 141: "Oh My God you're alive! ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ." -DeviCat (02-May-20)
 * 142: "... how do you drown a shark?" -Rosuav (04-May-20)
 * 143: "Frig level 80% or higher, do not assume unfrigginess" -Rosuav (05-May-20)
+* <missing quote 144, ask CandiCat for it please>
+* 145: "Hey, look! ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/301012194/1.0 "devicatMAGIC") ! And now we have it." -DeviCat (06-May-20)
+* 146: "Gosh Freaking Molasses ![HahaBaby](https://static-cdn.jtvnw.net/emoticons/v1/301108084/1.0 "HahaBaby") ." -DeviCat (06-May-20)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
