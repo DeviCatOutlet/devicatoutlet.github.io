@@ -153,10 +153,11 @@ number N.
 * 141: "Oh My God you're alive! ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ." -DeviCat (02-May-20)
 * 142: "... how do you drown a shark?" -Rosuav (04-May-20)
 * 143: "Frig level 80% or higher, do not assume unfrigginess" -Rosuav (05-May-20)
-* <missing quote 144, ask CandiCat for it please>
+* 144: "You guys are my dumplings. ![devicatCOZY](https://static-cdn.jtvnw.net/emoticons/v1/301056419/1.0 "devicatCOZY") ." -sakurakoneko (06-May-20)
 * 145: "Hey, look! ![devicatMAGIC](https://static-cdn.jtvnw.net/emoticons/v1/301012194/1.0 "devicatMAGIC") ! And now we have it." -DeviCat (06-May-20)
 * 146: "Gosh Freaking Molasses ![HahaBaby](https://static-cdn.jtvnw.net/emoticons/v1/301108084/1.0 "HahaBaby") ." -DeviCat (06-May-20)
 * 147: "I came in to steal your kittens ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/301012347/1.0 "devicatSPOOK") ." -GoogleTranslate (08-May-20)
 * 148: "My butt can fly!" -KayosGirl (08-May-20)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
