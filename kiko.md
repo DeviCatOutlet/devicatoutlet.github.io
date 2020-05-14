@@ -7,11 +7,11 @@ Info:
   Representation / Inspiration: To be announced...
 ---
 
-### Hanabi's Mascot Form
+### Kiko's Mascot Form
 
 To be announced...
 
-### Hanabi's Human Form
+### Kiko's Human Form
 
 To be announced...
 
