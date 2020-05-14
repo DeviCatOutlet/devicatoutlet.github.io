@@ -1,16 +1,17 @@
-# Characters
+---
+Character: Hanabi
+Info:
+  Personality: Outgoing
+  Theme: Marshmallow Cloud
+  Colors: Light blue, pink, yellow & white.
+  Representation / Inspiration: Like a firework, she is outgoing, carefree and filled with determination.
+---
 
-## Here you’ll find a list of DeviCat's original characters.
+### Hanabi's Mascot Form
 
-**Artist Disclaimer:** Fanart for personal use of any of my original
-characters is welcomed. Note: if you're using my art on a public platform (Example: Twitter avatar / banner) I ask you to tag me in your description for credit. Should you wish to do anything
-more, please contact me at devicatoutlet@gmail.com for further
-inquiries / negotiations. You’re also welcome to submit fanart in my
-discord channel [here](https://discordapp.com/invite/devicat), called
-#devicat_fanart (under “Sharing & Discussion”).
+To be announced...
 
-### Hanabi
+### Hanabi's Human Form
 
-![DJ Rainbow Sheep](img/djrainbowsheep.png)
+To be announced...
 
-![Hanabi](img/hanabi.png)

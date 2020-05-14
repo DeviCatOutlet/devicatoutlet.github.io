@@ -1,0 +1,6 @@
+# Characters
+
+Character:
+Subtitle:
+Info:
+
