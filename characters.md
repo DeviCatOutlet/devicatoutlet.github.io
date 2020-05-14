@@ -10,7 +10,7 @@ inquiries / negotiations. You’re also welcome to submit fanart in my
 discord channel [here](https://discordapp.com/invite/devicat), called
 #devicat_fanart (under “Sharing & Discussion”).
 
-* [Candi](Candi)
-* [Hanabi](Hanabi)
-* [Kiko](Kiko)
+* [Candi](candi)
+* [Hanabi](hanabi)
+* [Kiko](kiko)
 
