@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 151 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 153 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -161,6 +161,8 @@ number N.
 * 149: "I felt like my IQ was dropping while I was talking to Erin." -DeviCat (11-May-20)
 * 150: "The ghost of twinkling expressions. ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v1/302139029/1.0 "devicatShiny") ." -DeviCat (13-May-20)
 * 151: "Okay, you're not my nose any more ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v1/302139363/1.0 "devicatTada") ." -DeviCat (13-May-20)
+* 152: "This is what happens when you remove the main head ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -DeviCat (15-May-20)
+* 153: "I too am haunted by hypu!!" -devicat (15-May-20)
 
 There may be quotes newer than these that have yet to be collected.
 
