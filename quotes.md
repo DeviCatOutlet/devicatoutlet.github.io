@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 154 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 159 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -164,6 +164,10 @@ number N.
 * 152: "This is what happens when you remove the main head ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -DeviCat (15-May-20)
 * 153: "I too am haunted by hypu!!" -devicat (15-May-20)
 * 154: "There IS a body in here, I swear." -DeviCat (16-May-20)
+* 155: "!bearts" -ducky245 (18-May-20)
+* 156: "That's terrifying, I like that. I'm going to call it the 'drunk dino'." -DeviCat (20-May-20)
+* 157: "I'm not going to lie Blacksouls Listening to this music and watching you gently fall to your death is really relaxing devicatParty ." -DeviCat (20-May-20)
+* <missing quote 158, ask CandiCat for it please>
+* 159: "you don't have a smart phone maybe you have a lighter if you don't have a lighter maybe you have some matches. Please don't burn your house down ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -If (20-May-20)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
