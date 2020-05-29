@@ -1,6 +1,6 @@
 # Characters
 
-## Here you’ll find a list of DeviCat's original characters and her artist disclaimer.
+## List of DeviCat's original characters and disclaimer.
 
 
 **Use of my art:** My work may be used for personal use but not commercial use. Note: if you are using my art on a public platform (Example: Twitter avatar / banner) I ask you to tag me in your description for credit.
