@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 163 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 169 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -173,6 +173,12 @@ number N.
 * 161: "Oh, you eat rocks? Your diet must be solid ." -DeviCat (22-May-20)
 * 162: "I just found a layer... I don't know what it's for ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ??" -DeviCat (23-May-20)
 * 163: "Time to make my own special disease ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v1/302140288/1.0 "devicatUwU") !" -vivaloncella (26-May-20)
+* 164: "Did you like my graveyard?" -DeviCat (29-May-20)
+* 165: "You're gonna need some safety shorts, girl ![devicatShy](https://static-cdn.jtvnw.net/emoticons/v1/302140294/1.0 "devicatShy") !" -DeviCat (29-May-20)
+* 166: "I keep hiding the body so I can see how she's sitting." -DeviCat (29-May-20)
+* 167: "time to obliterate the train hardmode ![GreenTeam](https://static-cdn.jtvnw.net/emoticons/v1/530890/1.0 "GreenTeam") ." -EveryoneInChat (29-May-20)
+* 168: "I'm starting to get low on cake!" -DeviCat (29-May-20)
+* 169: "I do edit all my videos I do I do I do devicatParty ." -DeviCat (29-May-20)
 
 There may be quotes newer than these that have yet to be collected.
 
