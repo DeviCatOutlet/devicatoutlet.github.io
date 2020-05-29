@@ -1,14 +1,11 @@
 # Characters
 
-## Here you’ll find a list of DeviCat's original characters.
+## Here you’ll find a list of DeviCat's original characters and her artist disclaimer.
 
 
-**Artist Disclaimer:** Fanart for personal use of any of my original
-characters is welcomed. Note: if you're using my art on a public platform (Example: Twitter avatar / banner) I ask you to tag me in your description for credit. Should you wish to do anything
-more, please contact me at devicatoutlet@gmail.com for further
-inquiries / negotiations. You’re also welcome to submit fanart in my
-discord channel [here](https://discordapp.com/invite/devicat), called
-#devicat_fanart (under “Sharing & Discussion”).
+**Use of my art:** My work may be used for personal use but not commercial use. Note: if you are using my art on a public platform (Example: Twitter avatar / banner) I ask you to tag me in your description for credit.
+
+**Selling Fanart:** If you've made fanart of myself or my original characters and wish to sell prints, please contact me at devicatoutlet@gmail.com for further inquiries / negotiations. 
 
 * [Candi](candi)
 * [Hanabi](hanabi)
