@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 169 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 171 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -179,6 +179,8 @@ number N.
 * 167: "time to obliterate the train hardmode ![GreenTeam](https://static-cdn.jtvnw.net/emoticons/v1/530890/1.0 "GreenTeam") ." -EveryoneInChat (29-May-20)
 * 168: "I'm starting to get low on cake!" -DeviCat (29-May-20)
 * 169: "I do edit all my videos I do I do I do devicatParty ." -DeviCat (29-May-20)
+* 170: "I think I need to pull her nose a little higher ![BabyRage](https://static-cdn.jtvnw.net/emoticons/v1/22639/1.0 "BabyRage") ." -DeviCat (02-Jun-20)
+* 171: "Anyway, I digress. Back to fluff, ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v1/302140288/1.0 "devicatUwU") back to fluff." -DeviCat (05-Jun-20)
 
 There may be quotes newer than these that have yet to be collected.
 
