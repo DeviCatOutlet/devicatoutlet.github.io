@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 175 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 178 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -185,6 +185,9 @@ number N.
 * 173: "Hell" -goofydaddy_14 (08-Jun-20)
 * 174: "one shotted the bit goal ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -thiagownt (09-Jun-20)
 * 175: "Who needs candy when you can have a house?" -DeviCat (09-Jun-20)
+* 176: "If you haven't seen… WE NOW HAVE BUTTS! ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") !!" -DeviCat (10-Jun-20)
+* 177: "Do you have legs enabled?" -DeviCat (10-Jun-20)
+* 178: "glowsticks can be lightsabers, they just tiny ~~" -Furichsia (10-Jun-20)
 
 There may be quotes newer than these that have yet to be collected.
 
