@@ -7,7 +7,7 @@
   * **Nationality:** Canadian
   * **Role:** Artist / Content Creator / Twitch Partner
   * **Blogging:** ♡ Art ♡ Lifestyle ♡ Spotlights
-  * **Married to:** [HallwayRaptor](https://www.instagram.com/HallwayRaptor)
+
 
   ---
 

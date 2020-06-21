@@ -1,15 +1,14 @@
 # Milestones
 
-## What's Next
+<b>What's Next:</b> <br>
 
 - ⭐Create videos to help answer FAQs for artists and broadcasters on Twitch.
 - ⭐Create videos to spotlight artists and businesses.
-- ⭐Quality management of the RedBubble shop.
 
 
 
 
-## Past Achievements
+<b>Past Achievements:</b> <br>
 - Ambassador for RedBubble August 2019
 
 - Collaboration with KawaiiBox March 2020
