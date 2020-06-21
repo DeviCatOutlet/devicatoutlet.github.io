@@ -9,9 +9,10 @@ Info:
 
 ### Kiko's Mascot Form
 
-![Kiko Bat Cupcake](img/Kiko2020.png)
+![Kiko 2020](img/KikoBatForm.png)
+
 
 ### Kiko's Human Form
 
-![Kiko 2020](img/KikoBatForm.png)
+![Kiko Bat Cupcake](img/Kiko2020.png)
 
