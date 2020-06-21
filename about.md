@@ -19,7 +19,7 @@ The title "DeviCat" has a whole history to its creation. It started as a nicknam
 
 ---
 
-Send an email to:
+Contact DeviCat here:
 {: .email}
 [devicatoutlet@gmail.com](mailto:devicatoutlet@gmail.com)
 
