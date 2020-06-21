@@ -12,9 +12,9 @@
 
   Learn about DeviCat.
 
-* [![Contact](img/pobox2.png)](contact)
+* [![Contact](img/pobox2.png)](about)
 
-  #### [Contact](contact)
+  #### [Contact](about)
 
   Contact DeviCat here.
 {: .cards .layout}
