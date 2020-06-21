@@ -9,9 +9,9 @@ Info:
 
 ### Hanabi's Mascot Form
 
-To be announced...
+![Hanabi Sheep](img/HanabiSheep2020.png)
 
 ### Hanabi's Human Form
 
-To be announced...
+![Hanabi 2020](img/Hanabi2020.png)
 
