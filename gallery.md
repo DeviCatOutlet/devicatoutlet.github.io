@@ -1,6 +1,7 @@
 # Gallery
 
 
+![Hanabi 2020](img/Hanabi2020.png)
 ![Kiko 2020](img/Kiko2020.png)
 ![Majoras Mask 2020](img/MajorasMask2020.png)
 ![Yokai Amai 2020](img/YokaiAmai2020.png)
@@ -12,8 +13,4 @@
 ![CCB Trainer 2019](img/CCBTrainer2019.png)
 ![Sylveon Chibi 2018](img/sylveonchibi_2018.png)
 ![Shizuko Mermaid 2018](img/ShizukoMermaid2018.png)
-![Hanabi](img/hanabi.png)
-![Abigail and Junimo](img/SDV_Abigail_n_Junimo_2018.png)
-![Reiko Forest Fauna](img/Reiko_Forest_Fauna_2018.png)
-![Blathers Animal Crossing 2018](img/blathers_animalcrossing_2018.png)
 {: .wrap}
