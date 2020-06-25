@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 183 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 189 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -191,7 +191,14 @@ number N.
 * 179: "How fat can I make you..." -DeviCat (13-Jun-20)
 * 180: "wooo I'm a ghost ![LuvBlush](https://static-cdn.jtvnw.net/emoticons/v1/301396406/1.0 "LuvBlush") ." -DeviGhost (13-Jun-20)
 * 181: "Slide to the left! That's not the left!" -DeviCat (15-Jun-20)
-* <missing quote 182, ask CandiCat for it please>
+* 182: "you now have access to DeviCatBoo devicatBoo ." -DeviCat (15-Jun-20)
 * 183: "Don't do anything bad! *waves finger*" -DeviCat (19-Jun-20)
+* 184: "It is the melting stuff. I knew it" -DeviCat (23-Jun-20)
+* 185: "NaNa! You chopped the ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") in half!!" -DeviCat (24-Jun-20)
+* 186: "Bring out the booty ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") devicatButt_HF !" -DeviCat (24-Jun-20)
+* 187: "!digbutt" -blacksouls92 (24-Jun-20)
+* 188: "Save Your Sh*t Mother of the truckers" -olyoxenn (24-Jun-20)
+* 189: "!gify" -ducky245 (24-Jun-20)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
