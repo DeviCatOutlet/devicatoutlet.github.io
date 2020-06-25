@@ -195,7 +195,7 @@ number N.
 * 183: "Don't do anything bad! *waves finger*" -DeviCat (19-Jun-20)
 * 184: "It is the melting stuff. I knew it" -DeviCat (23-Jun-20)
 * 185: "NaNa! You chopped the ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") in half!!" -DeviCat (24-Jun-20)
-* 186: "Bring out the booty ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") devicatButt_HF !" -DeviCat (24-Jun-20)
+* 186: "Bring out the booty ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ![devicatButt_HF](https://static-cdn.jtvnw.net/emoticons/v1/302140251_HF/1.0 "devicatButt_HF") !" -DeviCat (24-Jun-20)
 * 187: "!digbutt" -blacksouls92 (24-Jun-20)
 * 188: "Save Your Sh*t Mother of the truckers" -olyoxenn (24-Jun-20)
 * 189: "!gify" -ducky245 (24-Jun-20)
