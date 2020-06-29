@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 189 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 193 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -199,6 +199,10 @@ number N.
 * 187: "!digbutt" -blacksouls92 (24-Jun-20)
 * 188: "Save Your Sh*t Mother of the truckers" -olyoxenn (24-Jun-20)
 * 189: "!gify" -ducky245 (24-Jun-20)
+* 190: "so many shoes ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v1/302140288/1.0 "devicatUwU") ." -DeviCat (27-Jun-20)
+* 191: "Macaroons are cardboard coleslaw dressed with Coppertone sunscreen and should not be consumed." -hatandsandalsguy (27-Jun-20)
+* 192: "they look pristine (*＾3＾)/～♡" -DeviCat (29-Jun-20)
+* 193: "a storm blew away 25% of my roof last night. oof! ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -xillians (29-Jun-20)
 
 There may be quotes newer than these that have yet to be collected.
 
