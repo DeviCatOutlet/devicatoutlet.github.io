@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 198 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 200 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -208,6 +208,8 @@ number N.
 * 196: "Butt of Doom ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (04-Jul-20)
 * 197: "I think I'm going to have to take her head.... and squish it in a bit." -DeviCat (04-Jul-20)
 * 198: "Let's get Lit devicatSip ." -SakuraPickle (04-Jul-20)
+* 199: "Rigged the giveaway and won devicatSip ." -photosvein (06-Jul-20)
+* 200: "👁️u👁️" -DeviCat (06-Jul-20)
 
 There may be quotes newer than these that have yet to be collected.
 
