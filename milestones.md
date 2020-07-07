@@ -2,15 +2,16 @@
 
 <b>What's Next:</b> <br>
 
-- ⭐Create videos to help answer FAQs for artists and broadcasters on Twitch.
-- ⭐Create videos to spotlight artists and businesses.
-
+- ⭐Create videos to collaborate with artists and businesses.
 
 
 
 <b>Past Achievements:</b> <br>
+
 - Ambassador for RedBubble August 2019
 
+- Collaboration with IBentoy July 2020
+- Collaboration with Ghost Girl Goods June 2020
 - Collaboration with KawaiiBox March 2020
 - Collaboration with KawaiiBox October 2019
 - Collaboration with KawaiiBox August 2019
