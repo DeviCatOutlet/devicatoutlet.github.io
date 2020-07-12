@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 202 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 205 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -210,7 +210,11 @@ number N.
 * 198: "Let's get Lit devicatSip ." -SakuraPickle (04-Jul-20)
 * 199: "Rigged the giveaway and won devicatSip ." -photosvein (06-Jul-20)
 * 200: "👁️u👁️" -DeviCat (06-Jul-20)
-* <missing quote 201, ask CandiCat for it please>
+* 201: "Focus on what you can do now not later! ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v1/302140262/1.0 "devicatHug") ." -DeviCat (07-Jul-20)
 * 202: "I am nice pls no ban kthx ![KappaHD](https://static-cdn.jtvnw.net/emoticons/v1/2867/1.0 "KappaHD") ." -cmd_itchy_balls (10-Jul-20)
+* 203: "It's favouring the butt ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") !" -DeviCat (11-Jul-20)
+* 204: "my real true passion is potatoes devicatSip ." -mydearestpickle (11-Jul-20)
+* 205: "If you didn't sub yourself, you probably got gifted ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") …" -DeviCat (11-Jul-20)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
