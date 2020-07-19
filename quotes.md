@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 207 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 210 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -217,6 +217,9 @@ number N.
 * 205: "If you didn't sub yourself, you probably got gifted ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") …" -DeviCat (11-Jul-20)
 * 206: "THICC Lines ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (14-Jul-20)
 * 207: "We old. ![PrideSaba](https://static-cdn.jtvnw.net/emoticons/v1/300354405/1.0 "PrideSaba") ." -Humans (14-Jul-20)
+* 208: "HELLO ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -DeviCat (18-Jul-20)
+* 209: "Xillians! Can you drop an umbrella?" -DeviCat (18-Jul-20)
+* 210: "More butts please" -Ekas_ (18-Jul-20)
 
 There may be quotes newer than these that have yet to be collected.
 
