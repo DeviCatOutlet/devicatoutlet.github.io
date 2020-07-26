@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 212 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 215 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -222,6 +222,8 @@ number N.
 * 210: "More butts please" -Ekas_ (18-Jul-20)
 * 211: "ᕙ(ಠ ਊ ಠ)ᕗ" -ceejtank (21-Jul-20)
 * 212: "I will find you…" -DeviCat (22-Jul-20)
+* <missing quote 213, ask CandiCat for it please>
+* 214: "I was afraid my bot was going to eat you ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v1/302140269/1.0 "devicatNom") ." -DeviCat (24-Jul-20)
+* 215: "Colors (☞ﾟヮﾟ)☞" -DeviCat (24-Jul-20)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
