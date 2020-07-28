@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 215 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 217 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -222,8 +222,11 @@ number N.
 * 210: "More butts please" -Ekas_ (18-Jul-20)
 * 211: "ᕙ(ಠ ਊ ಠ)ᕗ" -ceejtank (21-Jul-20)
 * 212: "I will find you…" -DeviCat (22-Jul-20)
-* <missing quote 213, ask CandiCat for it please>
+* 213: "YEAAAA TOAST ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v1/302139363/1.0 "devicatTada") ." -DeviFrench (22-Jul-20)
 * 214: "I was afraid my bot was going to eat you ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v1/302140269/1.0 "devicatNom") ." -DeviCat (24-Jul-20)
 * 215: "Colors (☞ﾟヮﾟ)☞" -DeviCat (24-Jul-20)
+* 216: "Commander Balls. Commander ITCHY Balls" -cmd_itchy_balls (25-Jul-20)
+* 217: "Moogle! Show me your ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") backside!" -DeviCat (27-Jul-20)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
