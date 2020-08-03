@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 217 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 218 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -227,6 +227,7 @@ number N.
 * 215: "Colors (☞ﾟヮﾟ)☞" -DeviCat (24-Jul-20)
 * 216: "Commander Balls. Commander ITCHY Balls" -cmd_itchy_balls (25-Jul-20)
 * 217: "Moogle! Show me your ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") backside!" -DeviCat (27-Jul-20)
+* 218: "This is a spam quote to reward extra candy for chatting overtime ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -Everyone (01-Aug-20)
 
 There may be quotes newer than these that have yet to be collected.
 
