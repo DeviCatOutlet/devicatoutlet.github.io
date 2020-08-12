@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 222 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 226 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -232,6 +232,10 @@ number N.
 * 220: "So, I'm on the other side of the moogle" -DeviCat (05-Aug-20)
 * 221: "I need some dirt!" -DeviCat (05-Aug-20)
 * 222: "I like skin." -finniebennie (08-Aug-20)
+* 223: "Don't be Crazy like I was in July ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -DeviCat (11-Aug-20)
+* 224: "No longer your butt Tiggy ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (11-Aug-20)
+* 225: "What did I miss? ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") The chat just exploded with Ducky! 🦆 " -DeviCat (11-Aug-20)
+* 226: "F for Iron ![ThankEgg](https://static-cdn.jtvnw.net/emoticons/v1/160392/1.0 "ThankEgg") ." -blacksouls92 (11-Aug-20)
 
 There may be quotes newer than these that have yet to be collected.
 
