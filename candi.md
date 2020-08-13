@@ -13,4 +13,4 @@ Info:
 
 ### Candi's Human Form
 
-To be announced...
+![Candi 2020](img/CandiCat2020.png)
