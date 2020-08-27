@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 230 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 233 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -240,6 +240,9 @@ number N.
 * 228: "Noooooo! I don't want🥄 spoons!" -DeviCat (15-Aug-20)
 * 229: "TrueStory ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCate (19-Aug-20)
 * 230: "M'Lady your tea is getting cold. Time for a proper sip . ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v1/302139078/1.0 "devicatTea") ." -DeviCatButler (22-Aug-20)
+* 231: "I'm a naked potato ![HahaHide](https://static-cdn.jtvnw.net/emoticons/v1/301108072/1.0 "HahaHide") ." -melon_mochi (22-Aug-20)
+* 232: "I have to at least put my girl back into place ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (24-Aug-20)
+* 233: " ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") " -Assume (24-Aug-20)
 
 There may be quotes newer than these that have yet to be collected.
 
