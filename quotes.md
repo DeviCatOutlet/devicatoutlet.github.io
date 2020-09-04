@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 236 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 241 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -246,6 +246,11 @@ number N.
 * 234: "Let me poke you ![HahaPoint](https://static-cdn.jtvnw.net/emoticons/v1/301108057/1.0 "HahaPoint") ." -DeviCat (28-Aug-20)
 * 235: "Need comfort? need kawaii? ![Look](https://static-cdn.jtvnw.net/emoticons/v1/81770/1.0 "Look") no further than DeviCat, your friendly Canadian artist who is mastering the art of kawaii and casual life as she showers us with love and positivity!" -mydearpotato (31-Aug-20)
 * 236: "I saved some images of skeletons on my phone. 💀 ." -DeviCat (01-Sep-20)
+* 237: "I am ready to put a mouth on Emily." -DeviCat (02-Sep-20)
+* 238: "I'm going to put away my face for now ![devicatShy](https://static-cdn.jtvnw.net/emoticons/v1/302140294/1.0 "devicatShy") ." -DeviCat (02-Sep-20)
+* 239: "Anything that is morbid is just me working photoshop" -DeviCat (04-Sep-20)
+* 240: "I got to get rid of the thumb" -DeviCat (04-Sep-20)
+* 241: "Sorry guys I'm trying to touch my toes." -DeviCat (04-Sep-20)
 
 There may be quotes newer than these that have yet to be collected.
 
