@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 241 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 245 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -251,6 +251,10 @@ number N.
 * 239: "Anything that is morbid is just me working photoshop" -DeviCat (04-Sep-20)
 * 240: "I got to get rid of the thumb" -DeviCat (04-Sep-20)
 * 241: "Sorry guys I'm trying to touch my toes." -DeviCat (04-Sep-20)
+* 242: "I've got to move her bones." -DeviCat (07-Sep-20)
+* 243: "Candi broke her own butt ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -Rosuav (07-Sep-20)
+* 244: "we have ForkGirl and orkgurl" -DeviCat (08-Sep-20)
+* 245: "This quote is claimed by the queen of quacks. She has been baking in our hearts for years" -Ducky245 (08-Sep-20)
 
 There may be quotes newer than these that have yet to be collected.
 
