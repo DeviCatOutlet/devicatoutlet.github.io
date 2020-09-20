@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 249 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 250 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -259,6 +259,7 @@ number N.
 * 247: "I'm going to try to add a fingernail" -DeviCat (15-Sep-20)
 * 248: "a pooptato if you will" -TiggyArts (15-Sep-20)
 * 249: "I hope you enjoy that booty ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (16-Sep-20)
+* 250: "I do digital art here..... sometimes ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -DeviCat (19-Sep-20)
 
 There may be quotes newer than these that have yet to be collected.
 
