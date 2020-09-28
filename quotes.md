@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 252 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 254 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -262,6 +262,8 @@ number N.
 * 250: "I do digital art here..... sometimes ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -DeviCat (19-Sep-20)
 * 251: "When she's had her fill we'll kick her out" -DeviCat (21-Sep-20)
 * 252: "Good job Erin! You fixed the booty! 🍎" -DeviCat (23-Sep-20)
+* 253: "It's like a giant brick, but it's basically a cloud!" -DeviCat (28-Sep-20)
+* 254: "It's hard to see - there are so many corpses on my screen..." -DeviCat (28-Sep-20)
 
 There may be quotes newer than these that have yet to be collected.
 
