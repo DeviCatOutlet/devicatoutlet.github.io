@@ -10,6 +10,7 @@
 
 - Ambassador for RedBubble August 2019
 
+- Collaboration with IBentoy September 2020
 - Collaboration with IBentoy July 2020
 - Collaboration with Ghost Girl Goods June 2020
 - Collaboration with KawaiiBox March 2020

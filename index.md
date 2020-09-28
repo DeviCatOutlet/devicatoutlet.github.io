@@ -1,6 +1,6 @@
 # Home
 
-* [![Shop](img/artshoppanel.png)](http://bit.ly/DeviCatShop)
+* [![Shop](img/artshoppanel.png)](https://devicatoutlet.redbubble.com)
 
   #### [Shop](http://bit.ly/DeviCatShop)
 
