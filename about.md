@@ -6,7 +6,7 @@
   * **Name:** Rachelle 
   * **Nationality:** Canadian
   * **Role:** Artist / Content Creator / Twitch Partner
-  * **Blogging:** ♡ Art ♡ Lifestyle ♡ Spotlights
+  * **Blogging:** ♡ Art & Kawaii Lifestyle ♡
 
 
   ---
