@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 262 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 265 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -268,9 +268,13 @@ number N.
 * 256: "One of the lesser-known consequences of copyright infringement is a velociraptor attack" -Rosuav (29-Sep-20)
 * 257: "Is it for your ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") or for your ![devicatGrr](https://static-cdn.jtvnw.net/emoticons/v1/302140289/1.0 "devicatGrr") ? Both are equally important!" -DeviCat (29-Sep-20)
 * 258: "We are the whisper peppers (album coming soon)" -Rosuav (30-Sep-20)
-* <missing quote 259, ask CandiCat for it please>
-* <missing quote 260, ask CandiCat for it please>
+* 259: "psssh krkrkptschak" -Heartsome_NaNa (03-Oct-20)
+* 260: "Oh God I got to make it thicker" -DeviCat (03-Oct-20)
 * 261: "ALRIGHT! During that whole chitchat I got two sprinkles done! Progress! ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v1/302139363/1.0 "devicatTada") ." -DeviCat (05-Oct-20)
 * 262: "Absorb the rainbows like a sponge ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v1/302140271/1.0 "devicatCool") !" -DeviCat (05-Oct-20)
+* 263: "ok, Sakura let me hook you up with the fluff!" -DeviCat (06-Oct-20)
+* 264: "What if we made the whole thing pink? ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") NO BAD IDEA ABORT MISSION!" -DeviCat (06-Oct-20)
+* 265: "What is the cutest season? Awwtumn ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") ." -friccin_frick_jr (06-Oct-20)
 
-This list is missing 2 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
