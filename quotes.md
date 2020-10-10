@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 265 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 268 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -275,6 +275,9 @@ number N.
 * 263: "ok, Sakura let me hook you up with the fluff!" -DeviCat (06-Oct-20)
 * 264: "What if we made the whole thing pink? ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") NO BAD IDEA ABORT MISSION!" -DeviCat (06-Oct-20)
 * 265: "What is the cutest season? Awwtumn ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") ." -friccin_frick_jr (06-Oct-20)
+* 266: "Clean Line Art - Big canvas small brush" -DeviTip (07-Oct-20)
+* 267: "o(*￣▽￣*)ブ" -TiggyArts (07-Oct-20)
+* 268: "160p is the only way to watch! Just look at those pixels! Somedtimes they even move ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v1/302161953/1.0 "devicatParty") ." -Fluffboll (09-Oct-20)
 
 There may be quotes newer than these that have yet to be collected.
 
