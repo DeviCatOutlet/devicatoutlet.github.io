@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 271 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 274 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -281,6 +281,8 @@ number N.
 * 269: "Brain Flakes" -GoodMythicalMorning (12-Oct-20)
 * 270: "does she say meow or boo? or combine the two to make moo! 🐮 ." -TreyCalico (12-Oct-20)
 * 271: "I'd basically try to kill everyone and take over the map until I became human again ![devicatLvlup](https://static-cdn.jtvnw.net/emoticons/v1/302139376/1.0 "devicatLvlup") ." -DeviCat (12-Oct-20)
+* 272: "Devi, if you're a potato, I'm just the starch! 🥔 " -humblybumbly (13-Oct-20)
+* <missing quote 273, ask CandiCat for it please>
+* 274: "I'm drinking Pepsi *not sponsored* ...yet" -DeviCat (13-Oct-20)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
