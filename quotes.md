@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 275 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 277 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -285,6 +285,8 @@ number N.
 * 273: "#buttorbust" -Mixer237237 (13-Oct-20)
 * 274: "I'm drinking Pepsi *not sponsored* ...yet" -DeviCat (13-Oct-20)
 * 275: "Dead corpses are the best corpses" -Rosuav (14-Oct-20)
+* 276: "Can you share me some of Sarah's rage please?" -DeviCat (17-Oct-20)
+* 277: "C is a number!" -Rosuav (17-Oct-20)
 
 There may be quotes newer than these that have yet to be collected.
 
