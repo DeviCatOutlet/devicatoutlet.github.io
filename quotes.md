@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 281 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 286 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -289,7 +289,13 @@ number N.
 * 277: "C is a number!" -Rosuav (17-Oct-20)
 * 278: "I would personally prefer a plushie that sits still." -DeviCat (19-Oct-20)
 * 279: "With all the flames that shoot out the back of interplanetary rockets, would they count as "space heaters"?" -Rosuav (19-Oct-20)
-* <missing quote 280, ask CandiCat for it please>
+* 280: "!hyu" -DuCkY245 (19-Oct-20)
 * 281: "I love hands ShowOfHands ." -DeviCat (20-Oct-20)
+* 282: "I love being boiled in acid!" -vammsfiberarts (21-Oct-20)
+* 283: "He's a pumpkin head ready to squash watermelons" -Furiech (21-Oct-20)
+* 284: "Did you go into the basement ![KappaHD](https://static-cdn.jtvnw.net/emoticons/v1/2867/1.0 "KappaHD") ." -DeviCat (21-Oct-20)
+* 285: "That will be easier to see when everyone finishes up being dead" -DeviCat (21-Oct-20)
+* 286: "Beep" -BackgroundTruck (23-Oct-20)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
