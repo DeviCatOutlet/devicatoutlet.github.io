@@ -10,13 +10,15 @@
 
 - Ambassador for RedBubble August 2019
 
+- Collaboration with Kawaii Box September 2020
 - Collaboration with IBentoy September 2020
 - Collaboration with IBentoy July 2020
 - Collaboration with Ghost Girl Goods June 2020
-- Collaboration with KawaiiBox March 2020
-- Collaboration with KawaiiBox October 2019
-- Collaboration with KawaiiBox August 2019
+- Collaboration with Kawaii Box March 2020
+- Collaboration with Kawaii Box October 2019
+- Collaboration with Kawaii Box August 2019
 - Collaboration with Blippo January 2019
+
 
 - Twitch Charity Stream: Create for Kids 2018
 - Twitch Charity Stream: 1000 Dreams Fund 2018
