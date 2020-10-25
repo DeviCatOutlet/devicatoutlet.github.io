@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 286 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 288 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -296,6 +296,8 @@ number N.
 * 284: "Did you go into the basement ![KappaHD](https://static-cdn.jtvnw.net/emoticons/v1/2867/1.0 "KappaHD") ." -DeviCat (21-Oct-20)
 * 285: "That will be easier to see when everyone finishes up being dead" -DeviCat (21-Oct-20)
 * 286: "Beep" -BackgroundTruck (23-Oct-20)
+* 287: "Difference between swearing and being a ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (24-Oct-20)
+* 288: "Everyone gets a ghost, and you don't even need to die first! ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") ." -Rosuav (24-Oct-20)
 
 There may be quotes newer than these that have yet to be collected.
 
