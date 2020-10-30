@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 289 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 294 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -299,6 +299,11 @@ number N.
 * 287: "Difference between swearing and being a ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (24-Oct-20)
 * 288: "Everyone gets a ghost, and you don't even need to die first! ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") ." -Rosuav (24-Oct-20)
 * 289: "Ok guys I have one tooth" -DeviCat (26-Oct-20)
+* 290: "i guess he's...tekken your heart?" -kamenkewl (27-Oct-20)
+* 291: "NYYOOOOOOOOOOOOOOM 🛩️." -Ducky245 (27-Oct-20)
+* 292: "we are all SLOBBY" -BabeRosss (27-Oct-20)
+* 293: "Oh Sugar muffins!" -DeviCat (28-Oct-20)
+* 294: "Your brain knows where its priorities are ![HahaThink](https://static-cdn.jtvnw.net/emoticons/v1/301108032/1.0 "HahaThink") ." -Rosuav (30-Oct-20)
 
 There may be quotes newer than these that have yet to be collected.
 
