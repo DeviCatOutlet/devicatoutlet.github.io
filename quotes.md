@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 300 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 304 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -310,6 +310,10 @@ number N.
 * 298: "90 BITS Rosuav: ok I got you ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v1/302140271/1.0 "devicatCool") ." -DeviCat (03-Nov-20)
 * 299: "is there a hug to death command? KPOPheart ." -Heartsome_NaNa (03-Nov-20)
 * 300: "If you want two cat butts ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") I can give you two cat butts ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") !" -DeviCat (03-Nov-20)
+* 301: "Let's get ready to sketch on clothes ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (04-Nov-20)
+* 302: "i try every potato needs that smooth buttery pickup line" -mydearpotato (04-Nov-20)
+* 303: "Speaks. The chat faints from the massive reverb that reaches to the core of your soul. devicatUwU" -DAT_Samich (04-Nov-20)
+* 304: "Mwah 💋 ." -DeviCat (04-Nov-20)
 
 There may be quotes newer than these that have yet to be collected.
 
