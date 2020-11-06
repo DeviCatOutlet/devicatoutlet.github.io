@@ -5,15 +5,14 @@
 * ## About DeviCat
   * **Name:** Rachelle 
   * **Nationality:** Canadian
-  * **Role:** Artist / Content Creator / Twitch Partner
-  * **Blogging:** ♡ Art & Kawaii Lifestyle ♡
+  * **Role:** Twitch.tv Artist & Kawaii YouTuber
 
 
   ---
 
-  My name is Rachelle, but most people know me as DeviCat. I’m a self taught digital illustrator and full time content creator.
+  My name is Rachelle, but most people know me as DeviCat. I do live streams on Twitch.tv, creating kawaii digital art! On YouTube, I create videos about fashion, kawaii lifestyle & unboxings!
 
-The title "DeviCat" has a whole history to its creation. It started as a nickname for a cat character I had to animate for a school project. When I decided to start streaming on Twitch, I wanted a username that wasn't my real name, so I decided to use "DeviCat" instead as my pseudonym. To this day, some people still joke and think it means a "devil cat", others take it to a deeper meaning and refer to "Devi" as "goddess." Myself? I just think it sounds cute!
+The title "DeviCat" has a whole history to its creation. It started as a nickname for a cat character I had to animate for a school project. When I decided to start streaming on Twitch, I wanted a username that wasn't my real name, so I decided to use "DeviCat" instead as my pseudonym as it's easy to say and sounds cute!
 
 “I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them.” - DeviCat
 
