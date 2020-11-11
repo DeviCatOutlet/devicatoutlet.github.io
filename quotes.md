@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 309 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 316 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -314,10 +314,18 @@ number N.
 * 302: "i try every potato needs that smooth buttery pickup line" -mydearpotato (04-Nov-20)
 * 303: "Speaks. The chat faints from the massive reverb that reaches to the core of your soul. devicatUwU" -DAT_Samich (04-Nov-20)
 * 304: "Mwah 💋 ." -DeviCat (04-Nov-20)
-* <missing quote 305, ask CandiCat for it please>
-* <missing quote 306, ask CandiCat for it please>
-* <missing quote 307, ask CandiCat for it please>
+* 305: "I caught his backside ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (06-Nov-20)
+* 306: "Now Uploading Pants" -DeviBot (06-Nov-20)
+* 307: "the human body is a curvy stick figure" -lilstar_angel (06-Nov-20)
 * 308: "Hype levels: Astral intentions. ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v1/302140288/1.0 "devicatUwU") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v1/302139029/1.0 "devicatShiny") ." -Rosuav (07-Nov-20)
 * 309: "For MEEEEEEE?!? ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v1/302140261/1.0 "devicatAww") ." -Rosuav (07-Nov-20)
+* 310: "I'm nekkid. ![PrideSaba](https://static-cdn.jtvnw.net/emoticons/v1/300354405/1.0 "PrideSaba") ." -Lizabelle (09-Nov-20)
+* 311: "Wooo ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v1/302161953/1.0 "devicatParty") ." -DeviCat (09-Nov-20)
+* 312: "Rosuav is back with egg" -Rosuav (09-Nov-20)
+* 313: "If all goes well I'll be more crisp for you guys" -DeviCat (10-Nov-20)
+* 314: "Erin, Of course you would fart. ![SabaPing](https://static-cdn.jtvnw.net/emoticons/v1/160402/1.0 "SabaPing") " -DeviCat (10-Nov-20)
+* 315: "PC Master Race, bow down ye drinkers of peasant console water!" -Rosuav (10-Nov-20)
+* 316: "DRICK" -ibuki_11037 (10-Nov-20)
 
-This list is missing 3 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
