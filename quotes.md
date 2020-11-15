@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 316 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 320 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -326,6 +326,10 @@ number N.
 * 314: "Erin, Of course you would fart. ![SabaPing](https://static-cdn.jtvnw.net/emoticons/v1/160402/1.0 "SabaPing") " -DeviCat (10-Nov-20)
 * 315: "PC Master Race, bow down ye drinkers of peasant console water!" -Rosuav (10-Nov-20)
 * 316: "DRICK" -ibuki_11037 (10-Nov-20)
+* 317: "not to be perverted but we were talking about eggplants" -DeviCat (11-Nov-20)
+* 318: "Idk being boiled in acid sounds pretty comfy. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -invasiveowl (11-Nov-20)
+* 319: "Kappa if you ever need copyright free music i can always record myself making animal sounds and microwave sounds" -mydearpotato (11-Nov-20)
+* 320: "Okay, Google, remind Xillians to send Devi a link" -Rosuav (14-Nov-20)
 
 There may be quotes newer than these that have yet to be collected.
 
