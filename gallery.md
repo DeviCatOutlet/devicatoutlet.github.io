@@ -1,7 +1,7 @@
 # Gallery
 
 
-![Kiko Candy Shop 2020](img/KikoCandyShop20200.png)
+![Kiko Candy Shop 2020](img/KikoCandyShop2020.png)
 ![Hanabi Decora Kei 2020](img/HanabiDecoraKei2020.png)
 ![Candi 2020](img/CandiCat2020.png)
 ![Jack AC 2020](img/JackAC2020.png)
