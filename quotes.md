@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 320 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 323 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -330,6 +330,9 @@ number N.
 * 318: "Idk being boiled in acid sounds pretty comfy. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -invasiveowl (11-Nov-20)
 * 319: "Kappa if you ever need copyright free music i can always record myself making animal sounds and microwave sounds" -mydearpotato (11-Nov-20)
 * 320: "Okay, Google, remind Xillians to send Devi a link" -Rosuav (14-Nov-20)
+* 321: "My new obsession (*≧︶≦))(￣▽￣* )ゞ" -DeviCat (16-Nov-20)
+* 322: "69 viewers. HahaLean" -DeviCat (17-Nov-20)
+* 323: "I'm running out of cat butts ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") !" -DeviCat (17-Nov-20)
 
 There may be quotes newer than these that have yet to be collected.
 
