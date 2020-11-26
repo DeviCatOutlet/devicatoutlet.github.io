@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 327 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 332 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -337,6 +337,11 @@ number N.
 * 325: "I need to buy more cat butts. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (18-Nov-20)
 * 326: "WE ![R](https://static-cdn.jtvnw.net/emoticons/v1/5129/1.0 "R") PROUD ANIME WEEBS. ![RPGAyaya](https://static-cdn.jtvnw.net/emoticons/v1/300904280/1.0 "RPGAyaya") ." -SakuraKoneko (18-Nov-20)
 * 327: "I'm going to separate your hand." -DeviCat (18-Nov-20)
+* 328: "I'm lacking food atm and im def. not tolerant xD" -nekoreaper89 (20-Nov-20)
+* 329: "Exactly! Just gotta hammer out some sparkes ![devicatPow](https://static-cdn.jtvnw.net/emoticons/v1/302139069/1.0 "devicatPow") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v1/302139029/1.0 "devicatShiny") !" -DeviCat (21-Nov-20)
+* 330: "Czech? Remember, the purple Czech mark means you should Czech that person out" -Rosuav (21-Nov-20)
+* 331: "Best Spooky Husband-chan!" -Soultea____ (23-Nov-20)
+* 332: "You are doing great. ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v1/302140288/1.0 "devicatUwU") ." -devicatmom (25-Nov-20)
 
 There may be quotes newer than these that have yet to be collected.
 
