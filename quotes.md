@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 332 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 335 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -342,6 +342,9 @@ number N.
 * 330: "Czech? Remember, the purple Czech mark means you should Czech that person out" -Rosuav (21-Nov-20)
 * 331: "Best Spooky Husband-chan!" -Soultea____ (23-Nov-20)
 * 332: "You are doing great. ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v1/302140288/1.0 "devicatUwU") ." -devicatmom (25-Nov-20)
+* 333: "I'm really a rabbit" -OatmealLion (25-Nov-20)
+* 334: "Your as crispy as a potato chip. Just like me." -devicat (27-Nov-20)
+* 335: "We're all amazing, and all a hot mess LOL" -Tastypeachstudios (27-Nov-20)
 
 There may be quotes newer than these that have yet to be collected.
 
