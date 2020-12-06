@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 339 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 342 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -349,6 +349,9 @@ number N.
 * 337: "I have cat." -DeviCat (30-Nov-20)
 * 338: "Don't mess with this finger ![HahaPoint](https://static-cdn.jtvnw.net/emoticons/v1/301108057/1.0 "HahaPoint") !" -DeviCat (01-Dec-20)
 * 339: "You're falling to your death, but you're still ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v1/302139363/1.0 "devicatTada") cute!" -DeviCat (01-Dec-20)
+* 340: "I like to compliment google all the time hoping that eventually she will be dependent on my compliments and she will never leave me" -MattJensenArt (04-Dec-20)
+* 341: "Thank You for being understanding" -GoogleAssistant (04-Dec-20)
+* 342: "I defiantly need to move her head down. devicatSpook" -DeviCat (05-Dec-20)
 
 There may be quotes newer than these that have yet to be collected.
 
