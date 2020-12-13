@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 344 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 349 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -354,6 +354,10 @@ number N.
 * 342: "I defiantly need to move her head down. devicatSpook" -DeviCat (05-Dec-20)
 * 343: "It looked like I was wearing a diaper. ![WutFace](https://static-cdn.jtvnw.net/emoticons/v1/28087/1.0 "WutFace") ." -DeviCat (09-Dec-20)
 * 344: "I felt like talking to a penguin, why not?" -DeviCat (09-Dec-20)
+* <missing quote 345, ask CandiCat for it please>
+* 346: "Link: (kicks chicken) Chicken: So you have chosen... D E A T H" -TiggyArts (12-Dec-20)
+* <missing quote 347, ask CandiCat for it please>
+* 348: "to the corner with me!" -Ducky245 (12-Dec-20)
+* 349: "It's so hard to keep track, especially when there's a PILE OF SNOW on the goal ![HahaSnowhal](https://static-cdn.jtvnw.net/emoticons/v1/301108053/1.0 "HahaSnowhal") !" -DeviCat (12-Dec-20)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 2 quotes, plus any that have been recently added.
