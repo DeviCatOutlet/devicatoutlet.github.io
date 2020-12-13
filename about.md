@@ -5,7 +5,7 @@
 * ## About DeviCat
   * **Name:** Rachelle 
   * **Nationality:** Canadian
-  * **Role:** Twitch.tv Artist & Kawaii YouTuber
+  * **Role:** Twitch.tv Partner & Kawaii YouTuber
   * **Loves:** Anime, Cats, Coffee & Fashion
 
   ---
