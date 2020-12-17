@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 350 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 354 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -360,6 +360,10 @@ number N.
 * 348: "to the corner with me!" -Ducky245 (12-Dec-20)
 * 349: "It's so hard to keep track, especially when there's a PILE OF SNOW on the goal ![HahaSnowhal](https://static-cdn.jtvnw.net/emoticons/v1/301108053/1.0 "HahaSnowhal") !" -DeviCat (12-Dec-20)
 * 350: "devicatButt . er ." -Ciri_Ion (14-Dec-20)
+* 351: "if you game end in the dream ,you game end in reality. See you in the shadow realm. ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") ." -TiggyArts (16-Dec-20)
+* 352: "Not dying is a very good way to live devicatTime ." -EuphoniumHero6 (16-Dec-20)
+* 353: "Sakura, I don't know if you have met moan yet" -DeviCat (16-Dec-20)
+* 354: "I just don't need THAT many ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v1/302139029/1.0 "devicatShiny") sparkles." -DeviCat (16-Dec-20)
 
 There may be quotes newer than these that have yet to be collected.
 
