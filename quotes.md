@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 361 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 363 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -371,6 +371,8 @@ number N.
 * 359: "you're the only 10 I see. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -OatmealLion (22-Dec-20)
 * 360: "50 ! 50 MINUTES" -DeviCat (22-Dec-20)
 * 361: "Exotic. ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") Noses." -DeviCat (22-Dec-20)
+* 362: "I tried making a bomb yesterday, it was chocolate orange, and the milk curdled and frankly I just cried" -@TiggyArts (23-Dec-20)
+* 363: "Devi, you DO have another job. It's called being a Kawaii Queen" -TiggyArts (23-Dec-20)
 
 There may be quotes newer than these that have yet to be collected.
 
