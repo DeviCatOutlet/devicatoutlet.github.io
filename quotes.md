@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 349 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 363 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -354,10 +354,25 @@ number N.
 * 342: "I defiantly need to move her head down. devicatSpook" -DeviCat (05-Dec-20)
 * 343: "It looked like I was wearing a diaper. ![WutFace](https://static-cdn.jtvnw.net/emoticons/v1/28087/1.0 "WutFace") ." -DeviCat (09-Dec-20)
 * 344: "I felt like talking to a penguin, why not?" -DeviCat (09-Dec-20)
-* <missing quote 345, ask CandiCat for it please>
+* 345: "I mean that camera is def sexy I will give it that. ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0 "LUL") ." -Blacksouls92 (12-Dec-20)
 * 346: "Link: (kicks chicken) Chicken: So you have chosen... D E A T H" -TiggyArts (12-Dec-20)
-* <missing quote 347, ask CandiCat for it please>
+* 347: "I haunt you everywhere, Tiggy. ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") ." -DeviCat (12-Dec-20)
 * 348: "to the corner with me!" -Ducky245 (12-Dec-20)
 * 349: "It's so hard to keep track, especially when there's a PILE OF SNOW on the goal ![HahaSnowhal](https://static-cdn.jtvnw.net/emoticons/v1/301108053/1.0 "HahaSnowhal") !" -DeviCat (12-Dec-20)
+* 350: "devicatButt . er ." -Ciri_Ion (14-Dec-20)
+* 351: "if you game end in the dream ,you game end in reality. See you in the shadow realm. ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") ." -TiggyArts (16-Dec-20)
+* 352: "Not dying is a very good way to live devicatTime ." -EuphoniumHero6 (16-Dec-20)
+* 353: "Sakura, I don't know if you have met moan yet" -DeviCat (16-Dec-20)
+* 354: "I just don't need THAT many ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v1/302139029/1.0 "devicatShiny") sparkles." -DeviCat (16-Dec-20)
+* 355: "Anybody can do creating now ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v1/302140271/1.0 "devicatCool") !" -DeviCat (18-Dec-20)
+* 356: "No matter what problem you're facing, make sure you have a ![devicatCandy](https://static-cdn.jtvnw.net/emoticons/v1/302603293/1.0 "devicatCandy") can-du attitude!" -Rosuav (19-Dec-20)
+* 357: "Anatomy and color is bull tirds" -DeviCat (19-Dec-20)
+* 358: "follicles grow, not seed hairs :P" -MeliKoalaStudio (21-Dec-20)
+* 359: "you're the only 10 I see. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -OatmealLion (22-Dec-20)
+* 360: "50 ! 50 MINUTES" -DeviCat (22-Dec-20)
+* 361: "Exotic. ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") Noses." -DeviCat (22-Dec-20)
+* 362: "I tried making a bomb yesterday, it was chocolate orange, and the milk curdled and frankly I just cried" -@TiggyArts (23-Dec-20)
+* 363: "Devi, you DO have another job. It's called being a Kawaii Queen" -TiggyArts (23-Dec-20)
 
-This list is missing 2 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
