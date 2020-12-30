@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 367 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 371 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -375,7 +375,11 @@ number N.
 * 363: "Devi, you DO have another job. It's called being a Kawaii Queen" -TiggyArts (23-Dec-20)
 * 364: "No Google. I defy you ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v1/302140271/1.0 "devicatCool") ." -DeviCat (26-Dec-20)
 * 365: "That's so awesome. :scissors: We chopped bits out of her!" -DeviCat (26-Dec-20)
-* <missing quote 366, ask CandiCat for it please>
+* 366: "Can you see? 👀 ." -DeviCat (28-Dec-20)
 * 367: "Do you want two butts? ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (28-Dec-20)
+* <missing quote 368, ask CandiCat for it please>
+* 369: "Yes" -stephenangelico (29-Dec-20)
+* 370: "That quote won't live long" -Rosuav (29-Dec-20)
+* 371: "Send love letters cause. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (29-Dec-20)
 
 This list is missing 1 quotes, plus any that have been recently added.
