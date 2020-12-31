@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 371 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 374 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -377,9 +377,13 @@ number N.
 * 365: "That's so awesome. :scissors: We chopped bits out of her!" -DeviCat (26-Dec-20)
 * 366: "Can you see? 👀 ." -DeviCat (28-Dec-20)
 * 367: "Do you want two butts? ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (28-Dec-20)
-* <missing quote 368, ask CandiCat for it please>
+* 368: "No Erin you have beautiful delicate fingers" -DeviCat (29-Dec-20)
 * 369: "Yes" -stephenangelico (29-Dec-20)
 * 370: "That quote won't live long" -Rosuav (29-Dec-20)
 * 371: "Send love letters cause. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (29-Dec-20)
+* 372: "F**** it! im going to throw a face on it" -DeviCat (30-Dec-20)
+* 373: "out of context I sound like a murder" -DeviCat (30-Dec-20)
+* 374: "Goodnight Mirror, see you in 2021" -Rosuav (30-Dec-20)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
