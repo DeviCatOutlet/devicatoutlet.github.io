@@ -8,6 +8,9 @@ During live streams, funny things that people say can be recorded for posterity
 by the faithful bot and the mod team. In 2020 (aka 'the first year of quarantine'), 374 quotes were recorded. They cannot
 be seen in chat, but have been archived here with their original numbers.
 
+* [Quotes from 2019](quotes2019)
+* [Quotes from 2020](quotes2020)
+* [Latest quotes](quotes)
 
 * 1: "Thankfully I was able to undo, and I only lost the eyes ![devicatSPOOK](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSPOOK") ." -PumpkinDays (01-Jan-20)
 * 2: ""It doesn't have to be perfect" ![deviCoolStory](https://cdn.betterttv.net/frankerfacez_emote/251430/1 "deviCoolStory") channeling Bob Ross again. just a happy little lemon slice ![deviCoolStory](https://cdn.betterttv.net/frankerfacez_emote/251430/1 "deviCoolStory") ." -aVeryRedFox (01-Jan-20)

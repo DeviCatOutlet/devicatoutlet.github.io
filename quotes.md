@@ -5,10 +5,13 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 6 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 9 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
+* [Quotes from 2019](quotes2019)
+* [Quotes from 2020](quotes2020)
+* [Latest quotes](quotes)
 
 * 1: "I can hear him with the hammer downstairs. ![devicatPow](https://static-cdn.jtvnw.net/emoticons/v1/302139069/1.0 "devicatPow") ." -DeviCat (01-Jan-21)
 * 2: "And yes, it says "1 quotes". I trust that this won't be a problem for long." -Rosuav (01-Jan-21)
@@ -16,6 +19,9 @@ number N.
 * 4: "I'm going to take a moment to shut my butt off. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (02-Jan-21)
 * 5: "And it depends HUGELY on the company or organization behind it. Some things are just not even slightly worth their subscription prices. Other things are spectacularly amazing and would be worth any price. And some free things are astonishingly good... others astonishingly bad. You have to do your research." -RosuavAdvice (02-Jan-21)
 * 6: "He IS a person. He eats chocolate, okay?" -DeviCat (02-Jan-21)
+* 7: "When you are sick and you throw up my God do you feel better afterwards" -DeviCat (05-Jan-21)
+* 8: "I'm pretty sure cracker noms are not in the same frequency range as the human voice" -OatmealLion (05-Jan-21)
+* 9: "potato im not a spellcaster though im a physical type. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -mogarringa (05-Jan-21)
 
 There may be quotes newer than these that have yet to be collected.
 

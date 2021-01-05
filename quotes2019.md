@@ -8,6 +8,9 @@ During live streams, funny things that people say can be recorded for posterity
 by the faithful bot and the mod team. In the years up to 2019, 736 quotes were recorded. They cannot
 be seen in chat, but have been archived here with their original numbers.
 
+* [Quotes from 2019](quotes2019)
+* [Quotes from 2020](quotes2020)
+* [Latest quotes](quotes)
 
 * 1: "I'M JUST A SEAGULL POSSESSED BY PEARS! I LIVE MY LIFE!" -Devi_Cat (10-Nov-15)
 * 2: "I want to stream... but I also want chocolate...so I guess I'll just be on fire instead." -Devi_Cat (13-Nov-15)
