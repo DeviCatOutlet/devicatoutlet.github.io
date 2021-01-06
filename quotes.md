@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 9 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 12 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -22,6 +22,9 @@ number N.
 * 7: "When you are sick and you throw up my God do you feel better afterwards" -DeviCat (05-Jan-21)
 * 8: "I'm pretty sure cracker noms are not in the same frequency range as the human voice" -OatmealLion (05-Jan-21)
 * 9: "potato im not a spellcaster though im a physical type. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v1/25/1.0 "Kappa") ." -mogarringa (05-Jan-21)
+* 10: "Dont make me hug you with all my affection ![devicatGrr](https://static-cdn.jtvnw.net/emoticons/v1/302140289/1.0 "devicatGrr") ." -Mixer237237 (05-Jan-21)
+* 11: "It's fine. She's allowed to grow a beard if she wants to ![devicatEh_TK](https://static-cdn.jtvnw.net/emoticons/v1/302140285_TK/1.0 "devicatEh_TK") ." -DeviCat (05-Jan-21)
+* 12: "I need you guys to be hype for me cause I'm dead." -DeviCat (05-Jan-21)
 
 There may be quotes newer than these that have yet to be collected.
 
