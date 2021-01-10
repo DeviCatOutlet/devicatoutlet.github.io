@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 12 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 19 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -25,6 +25,13 @@ number N.
 * 10: "Dont make me hug you with all my affection ![devicatGrr](https://static-cdn.jtvnw.net/emoticons/v1/302140289/1.0 "devicatGrr") ." -Mixer237237 (05-Jan-21)
 * 11: "It's fine. She's allowed to grow a beard if she wants to ![devicatEh_TK](https://static-cdn.jtvnw.net/emoticons/v1/302140285_TK/1.0 "devicatEh_TK") ." -DeviCat (05-Jan-21)
 * 12: "I need you guys to be hype for me cause I'm dead." -DeviCat (05-Jan-21)
+* 13: "If you offend somebody, just blame text to speech" -Rosuav (06-Jan-21)
+* 14: "Ban Erin! ![DansGame](https://static-cdn.jtvnw.net/emoticons/v1/33/1.0 "DansGame") ." -DeviCat (06-Jan-21)
+* 15: "The hug got delayed." -DeviCat (08-Jan-21)
+* 16: "Moist" -Candi (09-Jan-21)
+* 17: "GO AWAY ╰（‵□′）╯" -DeviCat (09-Jan-21)
+* 18: "I can tell you that I'm a fan without saying so. All I have to do is rotate my blades fast enough to create a breeze - you'll know I'm a fan." -Rosuav (09-Jan-21)
+* 19: "I have the power to summon booty. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (09-Jan-21)
 
 There may be quotes newer than these that have yet to be collected.
 
