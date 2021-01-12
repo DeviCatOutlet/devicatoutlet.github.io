@@ -1,6 +1,6 @@
 # Home
 
-* [![Shop](img/artshoppanel.png)](https://devicatoutlet.redbubble.com)
+* [![Shop](img/shoppanel.png)](https://devicatoutlet.redbubble.com)
 
   #### [Shop](http://bit.ly/DeviCatShop)
 
@@ -12,7 +12,7 @@
 
   Learn about DeviCat.
 
-* [![Contact](img/pobox2.png)](about)
+* [![Contact](img/poboxpanel.png)](about)
 
   #### [Contact](about)
 
