@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 20 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 26 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -33,6 +33,12 @@ number N.
 * 18: "I can tell you that I'm a fan without saying so. All I have to do is rotate my blades fast enough to create a breeze - you'll know I'm a fan." -Rosuav (09-Jan-21)
 * 19: "I have the power to summon booty. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (09-Jan-21)
 * 20: "I can't make those clouds then because I don't get hosted by potato" -first_nam3_last_name (11-Jan-21)
+* 21: "Are you alive?" -DeviCat (12-Jan-21)
+* 22: "Stop being creepy!" -DeviCat (12-Jan-21)
+* 23: "Keep chat alive" -DeviCat (12-Jan-21)
+* 24: "Blinking is dangerous ![devicatGrr_TK](https://static-cdn.jtvnw.net/emoticons/v1/302140289_TK/1.0 "devicatGrr_TK") !" -DeviCat (12-Jan-21)
+* 25: "Feel free to not believe in my abilities." -DeviNO (13-Jan-21)
+* 26: "Remember the prediction" -Devicat (13-Jan-21)
 
 There may be quotes newer than these that have yet to be collected.
 
