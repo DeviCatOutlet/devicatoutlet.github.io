@@ -6,7 +6,7 @@
 
   Want to buy some awesome DeviCat loot?
 
-* [![About](img/devicatlogo2021.png)](about)
+* [![About](img/devicatlogofull.png)](about)
 
   #### [About](about)
 

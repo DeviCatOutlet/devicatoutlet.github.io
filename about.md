@@ -1,6 +1,6 @@
 # About
 
-* ![](img/devicatlogo2021.png)
+* ![](img/devicatlogofull.png)
 
 * ## About DeviCat
   * **Name:** Rachelle 
