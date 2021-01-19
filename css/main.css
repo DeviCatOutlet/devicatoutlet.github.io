@@ -243,7 +243,7 @@ ul.cards li {
 /* The nav bar and its hamburger button */
 nav {
 	position: fixed;
-	top: 0; left: 0; right: 0;
+	top: 0; left: 0; right: 0.5em; /* Since the page has preallocated scrollbar space, ensure the nav doesn't overlap that */
 	z-index: 1030;
 	background-color: #f8f9fa;
 	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.15);
