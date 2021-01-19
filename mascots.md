@@ -1,4 +1,4 @@
-# Characters
+# Mascots
 
 ## List of DeviCat's original characters and disclaimer.
 
