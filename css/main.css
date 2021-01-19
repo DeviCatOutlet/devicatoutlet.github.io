@@ -302,6 +302,10 @@ nav > .keep {
 	nav > a, nav > .nav-menucontainer {
 		display: none;
 	}
+	/* On mobile, hide the Jumbotron with the channel embed and Discord/Patreon links */
+	.jumbotron {
+		display: none;
+	}
 }
 
 .dropdown-menu a {
