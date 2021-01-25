@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 31 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 33 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -44,6 +44,7 @@ number N.
 * 29: "Why is my cat showing up as evil?" -DeviCat (19-Jan-21)
 * 30: "Does wholewheat count as wholesome?" -Rosuav (19-Jan-21)
 * 31: "Get all the love in the chat for opps I hit the wrong button" -DeviCat (22-Jan-21)
+* <missing quote 32, ask CandiCat for it please>
+* 33: "why is everyone baking brownies!?! It's not 420" -DeviCat (23-Jan-21)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
