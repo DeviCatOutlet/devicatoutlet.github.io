@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 33 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 36 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -44,7 +44,11 @@ number N.
 * 29: "Why is my cat showing up as evil?" -DeviCat (19-Jan-21)
 * 30: "Does wholewheat count as wholesome?" -Rosuav (19-Jan-21)
 * 31: "Get all the love in the chat for opps I hit the wrong button" -DeviCat (22-Jan-21)
-* <missing quote 32, ask CandiCat for it please>
+* 32: "Candicat most of the time: cute sweet candicat when raiders come: I woke up and chose violence today ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v1/302140262/1.0 "devicatHug") ." -candicejackson: (22-Jan-21)
 * 33: "why is everyone baking brownies!?! It's not 420" -DeviCat (23-Jan-21)
+* 34: "So Devi, you've hit 1k on tik tok, 2k on youtube, and you've got your new pink chair. When is the sponsorship by RAID: Shadow Legends? (This comment is sponsored by Audible) ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v1/302140271/1.0 "devicatCool") ." -TiggyDoodler (26-Jan-21)
+* 35: "Sorry, too many butt jokes. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (26-Jan-21)
+* 36: "Yay! ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v1/302140271/1.0 "devicatCool") Go me! ... oh I'm gone now ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -DeviCat (26-Jan-21)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
