@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 37 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 39 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -50,6 +50,8 @@ number N.
 * 35: "Sorry, too many butt jokes. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (26-Jan-21)
 * 36: "Yay! ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v1/302140271/1.0 "devicatCool") Go me! ... oh I'm gone now ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -DeviCat (26-Jan-21)
 * 37: "i heard a nice health dose of potatoes for a second" -Draconasthewalker (27-Jan-21)
+* 38: "Man, I wish I drew ALL of her legs, now! 🐛" -DeviCat (29-Jan-21)
+* 39: "Yeah those look like good knees. ![Good](https://static-cdn.jtvnw.net/emoticons/v1/190386/1.0 "Good") knees." -DeviCat (29-Jan-21)
 
 There may be quotes newer than these that have yet to be collected.
 
