@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 39 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 40 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -52,6 +52,7 @@ number N.
 * 37: "i heard a nice health dose of potatoes for a second" -Draconasthewalker (27-Jan-21)
 * 38: "Man, I wish I drew ALL of her legs, now! 🐛" -DeviCat (29-Jan-21)
 * 39: "Yeah those look like good knees. ![Good](https://static-cdn.jtvnw.net/emoticons/v1/190386/1.0 "Good") knees." -DeviCat (29-Jan-21)
+* 40: "You know I'm focused when i get my face real close. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (30-Jan-21)
 
 There may be quotes newer than these that have yet to be collected.
 
