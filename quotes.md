@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 50 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 51 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -63,6 +63,7 @@ number N.
 * 48: "sounds like butter fun" -Lizabelle (06-Feb-21)
 * 49: "donates Iron wins" -Iron (06-Feb-21)
 * 50: "Get's Raided" -DeviBreathing (09-Feb-21)
+* 51: "Moist" -DeviCat (10-Feb-21)
 
 There may be quotes newer than these that have yet to be collected.
 
