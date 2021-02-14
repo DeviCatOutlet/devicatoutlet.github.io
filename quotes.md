@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 51 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 57 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -64,6 +64,12 @@ number N.
 * 49: "donates Iron wins" -Iron (06-Feb-21)
 * 50: "Get's Raided" -DeviBreathing (09-Feb-21)
 * 51: "Moist" -DeviCat (10-Feb-21)
+* 52: "I'm watching your transactions Erin" -DeviCat (12-Feb-21)
+* 53: "I'm turning it upside down so I can forget I am looking at a girl" -DeviCat (12-Feb-21)
+* 54: "I would expect toe from Erin" -DeviCat (13-Feb-21)
+* 55: "Oh no. No no no. I didn't realise. I have ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") another heart ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v1/302140262/1.0 "devicatHug") !!!" -DeviCat (13-Feb-21)
+* 56: "When in doubt, if you have trouble drawing ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v1/302138960/1.0 "devicatLove") hearts, think of them as ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") chibi butts." -mydearpotato (13-Feb-21)
+* 57: "See erin, that is what you get when you say something cheeky" -DeviCat (13-Feb-21)
 
 There may be quotes newer than these that have yet to be collected.
 
