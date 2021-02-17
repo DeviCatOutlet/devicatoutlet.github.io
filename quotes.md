@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 57 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 58 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -55,7 +55,7 @@ number N.
 * 40: "You know I'm focused when i get my face real close. ![HahaLean](https://static-cdn.jtvnw.net/emoticons/v1/301108068/1.0 "HahaLean") ." -DeviCat (30-Jan-21)
 * 41: "Really poopy" -DeviCat (01-Feb-21)
 * 42: "I'm popping to the music" -DeviCat (02-Feb-21)
-* 43: "No has killed you" -DeviCat (02-Feb-21)
+* 43: "Your health points are 395 and nobody has killed you yet" -DeviCat (02-Feb-21)
 * 44: "I'm just killing everyone on the screen" -DeviCat (03-Feb-21)
 * 45: "How you know you're getting old: pooping becomes more important to you LOL" -JemmaGrl (03-Feb-21)
 * 46: "Soon ™" -DeviCat (03-Feb-21)
@@ -70,6 +70,7 @@ number N.
 * 55: "Oh no. No no no. I didn't realise. I have ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") another heart ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v1/302140262/1.0 "devicatHug") !!!" -DeviCat (13-Feb-21)
 * 56: "When in doubt, if you have trouble drawing ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v1/302138960/1.0 "devicatLove") hearts, think of them as ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") chibi butts." -mydearpotato (13-Feb-21)
 * 57: "See erin, that is what you get when you say something cheeky" -DeviCat (13-Feb-21)
+* 58: "It's such a potato Monday." -DeviCat (15-Feb-21)
 
 There may be quotes newer than these that have yet to be collected.
 
