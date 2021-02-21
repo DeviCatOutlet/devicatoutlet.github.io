@@ -6,7 +6,7 @@
   * **Name:** Rachelle 
   * **Nationality:** Canadian
   * **Role:** Twitch.tv Partner | YouTube & TikTok Creator
-  * **Loves:** Anime, Cats, Coffee & Fashion
+  * **Loves:** Anime, Cats, Coffee 
 
   ---
 
