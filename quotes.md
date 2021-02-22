@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 58 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 59 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -71,6 +71,7 @@ number N.
 * 56: "When in doubt, if you have trouble drawing ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v1/302138960/1.0 "devicatLove") hearts, think of them as ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") chibi butts." -mydearpotato (13-Feb-21)
 * 57: "See erin, that is what you get when you say something cheeky" -DeviCat (13-Feb-21)
 * 58: "It's such a potato Monday." -DeviCat (15-Feb-21)
+* 59: "How are you?? It's been 500 years ; o;" -Spacebugg_ (22-Feb-21)
 
 There may be quotes newer than these that have yet to be collected.
 
