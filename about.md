@@ -5,7 +5,7 @@
 * ## About DeviCat
   * **Name:** Rachelle 
   * **Nationality:** Canadian
-  * **Role:** Digital Artist | Twitch.tv Partner
+  * **Role:** Digital Artist & Twitch.tv Partner
   * **Loves:** Anime, Cats, Coffee 
 
   ---
