@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 59 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 62 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -72,6 +72,9 @@ number N.
 * 57: "See erin, that is what you get when you say something cheeky" -DeviCat (13-Feb-21)
 * 58: "It's such a potato Monday." -DeviCat (15-Feb-21)
 * 59: "How are you?? It's been 500 years ; o;" -Spacebugg_ (22-Feb-21)
+* 60: "The sparkle in your eyes is so bright, the sun must be jealous. devicatHeh ." -mydearpotato: (23-Feb-21)
+* 61: "Spring cleaning cleanses the sooooul... just like toast ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v1/302161953/1.0 "devicatParty") ." -TiggyDoodler: (23-Feb-21)
+* 62: "I have been immortalised by quote... you F O O L ![S](https://static-cdn.jtvnw.net/emoticons/v1/5211/1.0 "S") devicatHeh ." -TiggyDoodler: (23-Feb-21)
 
 There may be quotes newer than these that have yet to be collected.
 
