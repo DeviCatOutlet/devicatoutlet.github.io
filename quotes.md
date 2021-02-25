@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 62 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 64 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -75,6 +75,8 @@ number N.
 * 60: "The sparkle in your eyes is so bright, the sun must be jealous. devicatHeh ." -mydearpotato: (23-Feb-21)
 * 61: "Spring cleaning cleanses the sooooul... just like toast ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v1/302161953/1.0 "devicatParty") ." -TiggyDoodler: (23-Feb-21)
 * 62: "I have been immortalised by quote... you F O O L ![S](https://static-cdn.jtvnw.net/emoticons/v1/5211/1.0 "S") devicatHeh ." -TiggyDoodler: (23-Feb-21)
+* 63: " devicatRawr ![devicatGrr](https://static-cdn.jtvnw.net/emoticons/v1/302140289/1.0 "devicatGrr") ![devicatSave](https://static-cdn.jtvnw.net/emoticons/v1/302609262/1.0 "devicatSave") <- her transformation process" -candicejackson: (24-Feb-21)
+* 64: "Rosu, you eat chocolate. You're human enough!" -DeviCat (24-Feb-21)
 
 There may be quotes newer than these that have yet to be collected.
 
