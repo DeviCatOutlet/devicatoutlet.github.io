@@ -2,9 +2,9 @@
 
 * [![Shop](img/shoppanel.png)](https://devicatoutlet.redbubble.com)
 
-  #### [Shop](http://bit.ly/DeviCatShop)
+  #### [Shop](https://devicatoutlet.redbubble.com)
 
-  Want to buy some awesome DeviCat loot?
+  DeviCat's RedBubble Shop.
 
 * [![About](img/dclogo.png)](about)
 
