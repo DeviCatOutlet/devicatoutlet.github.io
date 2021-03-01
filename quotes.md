@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 66 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 69 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -79,6 +79,9 @@ number N.
 * 64: "Rosu, you eat chocolate. You're human enough!" -DeviCat (24-Feb-21)
 * 65: "Awww, the laws of physics were against me ![devicatCry](https://static-cdn.jtvnw.net/emoticons/v1/302140258/1.0 "devicatCry") …" -DeviCat (26-Feb-21)
 * 66: "All my 30 year olds" -DeviCat (27-Feb-21)
+* 67: "Takes a whole new meaning to if I fits I sits. devicatHeh ." -Blacksouls92 (01-Mar-21)
+* 68: "Damn" -Candi (01-Mar-21)
+* 69: " DEVI YOU ACTIVATED MY GOOGLE. ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -Xillians (01-Mar-21)
 
 There may be quotes newer than these that have yet to be collected.
 
