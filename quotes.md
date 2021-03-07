@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 70 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 71 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -83,6 +83,7 @@ number N.
 * 68: "Damn" -Candi (01-Mar-21)
 * 69: " DEVI YOU ACTIVATED MY GOOGLE. ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -Xillians (01-Mar-21)
 * 70: "Yes, you CAN learn good posture from a book. Just ![devicatLvlup](https://static-cdn.jtvnw.net/emoticons/v1/302139376/1.0 "devicatLvlup") stand your monitor on it." -Rosuav (03-Mar-21)
+* 71: "da da da da you found the stream. ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v1/302139363/1.0 "devicatTada") ." -DeviCat (06-Mar-21)
 
 There may be quotes newer than these that have yet to be collected.
 
