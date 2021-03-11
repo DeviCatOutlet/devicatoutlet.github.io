@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 73 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 74 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -86,6 +86,7 @@ number N.
 * 71: "da da da da you found the stream. ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v1/302139363/1.0 "devicatTada") ." -DeviCat (06-Mar-21)
 * 72: "and the raids keep coming. devicatHeh ." -DeviCat (09-Mar-21)
 * 73: "Badges are a pain in the butt to do. devicatSus ." -DeviCat (09-Mar-21)
+* 74: "Like neeeeeeeeeeee" -DeviCat (10-Mar-21)
 
 There may be quotes newer than these that have yet to be collected.
 
