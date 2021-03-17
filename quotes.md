@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 76 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 80 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -87,7 +87,12 @@ number N.
 * 72: "and the raids keep coming. devicatHeh ." -DeviCat (09-Mar-21)
 * 73: "Badges are a pain in the butt to do. devicatSus ." -DeviCat (09-Mar-21)
 * 74: "Like neeeeeeeeeeee" -DeviCat (10-Mar-21)
-* <missing quote 75, ask CandiCat for it please>
+* 75: "AGRESSIVE POSITIVITY" -MorasaurusArt (13-Mar-21)
 * 76: "Chop off an ear? You can try! ![devicatB1](https://static-cdn.jtvnw.net/emoticons/v1/302607631/1.0 "devicatB1") It doesn't hurt!" -DeviCat (15-Mar-21)
+* 77: "!askcc yes or no?" -Heartsome_NaNa (16-Mar-21)
+* 78: "heartsome_nana , I'm gonna pretend I didn't read that. devicatSus" -CandiCat (16-Mar-21)
+* 79: "drawing tattoos is easy, have you tried drawing ![1](https://static-cdn.jtvnw.net/emoticons/v1/403463/1.0 "1") pixel? devicatHeh" -HallwayRaptor (16-Mar-21)
+* 80: "Self-raising." -Rosuav (16-Mar-21)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
