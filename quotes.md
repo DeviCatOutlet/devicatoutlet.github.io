@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 81 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 83 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -91,9 +91,11 @@ number N.
 * 76: "Chop off an ear? You can try! ![devicatB1](https://static-cdn.jtvnw.net/emoticons/v1/302607631/1.0 "devicatB1") It doesn't hurt!" -DeviCat (15-Mar-21)
 * 77: "!askcc yes or no?" -Heartsome_NaNa (16-Mar-21)
 * 78: "heartsome_nana , I'm gonna pretend I didn't read that. devicatSus" -CandiCat (16-Mar-21)
-* 79: "drawing tattoos is easy, have you tried drawing ![1](https://static-cdn.jtvnw.net/emoticons/v1/403463/1.0 "1") pixel? devicatHeh" -HallwayRaptor (16-Mar-21)
+* 79: "drawing tattoos is easy, have you tried drawing ![1](https://static-cdn.jtvnw.net/emoticons/v1/403463/1.0 "1") pixel? devicatHeh " -HallwayRaptor (16-Mar-21)
 * 80: "Self-raising." -Rosuav (16-Mar-21)
 * 81: "Holy Puck. ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -DeviCat (20-Mar-21)
+* 82: "Now I'm imagining him walking physically into your office with an eyedropper" -Rosuav (22-Mar-21)
+* 83: "A lot of Erin's quotes are just outright bizarre out of context. ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -Rosuav (22-Mar-21)
 
 There may be quotes newer than these that have yet to be collected.
 
