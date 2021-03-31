@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 91 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 93 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -104,6 +104,8 @@ number N.
 * 89: "I got caught on the microwave" -DeviCat (27-Mar-21)
 * 90: "I need to see your ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") !!" -DeviCat (29-Mar-21)
 * 91: "and stretch. ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v1/302139363/1.0 "devicatTada") ." -DeviCat (29-Mar-21)
+* 92: "We can't have a fire, I'm streaming! ![panicBasket](https://static-cdn.jtvnw.net/emoticons/v1/22998/1.0 "panicBasket") ." -softboiledeggy (30-Mar-21)
+* 93: "I thought it said DeviCat's Hair. ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -DeviCat (30-Mar-21)
 
 There may be quotes newer than these that have yet to be collected.
 
