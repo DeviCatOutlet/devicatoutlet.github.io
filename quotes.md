@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 102 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 103 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -115,6 +115,7 @@ number N.
 * 100: "Hello, My name is Rachelle! ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v1/302139363/1.0 "devicatTada") ." -DeviCat (02-Apr-21)
 * 101: "oh sweet we are finally doing a true to life picture of SakuraKoneko" -Speed_Freak86 (03-Apr-21)
 * 102: "PLZ STARE INTO MY SOUL. ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -SakuraKoneko (03-Apr-21)
+* 103: "I was using my own hands as reference. ShowOfHands ." -DeviCat (05-Apr-21)
 
 There may be quotes newer than these that have yet to be collected.
 
