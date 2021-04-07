@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 103 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 108 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -116,6 +116,11 @@ number N.
 * 101: "oh sweet we are finally doing a true to life picture of SakuraKoneko" -Speed_Freak86 (03-Apr-21)
 * 102: "PLZ STARE INTO MY SOUL. ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -SakuraKoneko (03-Apr-21)
 * 103: "I was using my own hands as reference. ShowOfHands ." -DeviCat (05-Apr-21)
+* 104: "Your Professional Hat is GLUED ON, STAPLED, and LASER WELDED to your head, and it is spangled with diamonds and encrusted with FABULOSITY." -roget1030: (06-Apr-21)
+* 105: "a photon is checking into a hotel. the bellhop asks "do you have any luggage?" and the photon replies, "nope. i'm travelling light." 2020Wish ." -EuphoniumHero6 (06-Apr-21)
+* 106: "That would be rather awkward, RedFox. I can't imagine dating someone named February." -Rosuav (06-Apr-21)
+* 107: "that quote didn't age well- ![StinkyCheese](https://static-cdn.jtvnw.net/emoticons/v1/90076/1.0 "StinkyCheese") " -TiggyDoodler (06-Apr-21)
+* 108: "I put the stinky cheese too close to the dash ![panicBasket](https://static-cdn.jtvnw.net/emoticons/v1/22998/1.0 "panicBasket") !!" -DeviCat (06-Apr-21)
 
 There may be quotes newer than these that have yet to be collected.
 
