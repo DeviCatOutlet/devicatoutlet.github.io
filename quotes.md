@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 108 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 110 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -121,6 +121,8 @@ number N.
 * 106: "That would be rather awkward, RedFox. I can't imagine dating someone named February." -Rosuav (06-Apr-21)
 * 107: "that quote didn't age well- ![StinkyCheese](https://static-cdn.jtvnw.net/emoticons/v1/90076/1.0 "StinkyCheese") " -TiggyDoodler (06-Apr-21)
 * 108: "I put the stinky cheese too close to the dash ![panicBasket](https://static-cdn.jtvnw.net/emoticons/v1/22998/1.0 "panicBasket") !!" -DeviCat (06-Apr-21)
+* 109: "If anyone out there is feeling like that, please, you can stream without a webcam just fine, and if anyone judges you for that, or for how you look on camera, they're not worth appealing to." -Rosuav (07-Apr-21)
+* 110: "Wanna become famous? NO devicatSus ." -Candi (07-Apr-21)
 
 There may be quotes newer than these that have yet to be collected.
 
