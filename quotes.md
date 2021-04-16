@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 114 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 116 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -127,6 +127,8 @@ number N.
 * 112: "I am Canadian." -DeviCat (13-Apr-21)
 * 113: "Erin! NO! only cute . ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -DeviCat (13-Apr-21)
 * 114: "Go Me! ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v1/302161953/1.0 "devicatParty") ." -DeviCat (14-Apr-21)
+* 115: "Pan tones, to me, are what you get when you're scraping out burned food. Different pans make different tones." -Rosuav (16-Apr-21)
+* 116: "Oh interesting, there is a part of her foot that is missing. Is it her skin? Oh it is! ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v1/302140256/1.0 "devicatSpook") ." -DeviCat (16-Apr-21)
 
 There may be quotes newer than these that have yet to be collected.
 
