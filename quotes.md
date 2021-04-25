@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 121 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 127 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -134,6 +134,12 @@ number N.
 * 119: "Why meeeeee" -DeviCat (20-Apr-21)
 * 120: "420 Sparkle it. ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v1/302139029/1.0 "devicatShiny") ." -420 (20-Apr-21)
 * 121: "Got a cold? Eat maple syrup. Fever? Maple syrup. Limb amputated? Put maple syrup on it. Raving insanity? Insufficient blood sugar, eat more maple. ![devicatSave](https://static-cdn.jtvnw.net/emoticons/v1/302609262/1.0 "devicatSave") ." -DrRosuav (23-Apr-21)
+* 122: "that was very questionable placement. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -Heartsome_NaNa (24-Apr-21)
+* 123: "👁️u👁️ ." -DeviCat (24-Apr-21)
+* 124: "oh danm im seen . ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -Frog_glasses_art (24-Apr-21)
+* 125: "do do do do. ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v1/302140288/1.0 "devicatUwU") ." -DeviCat (24-Apr-21)
+* 126: "OH Thank God she's not being murdered. ![devicatCry](https://static-cdn.jtvnw.net/emoticons/v1/302140258/1.0 "devicatCry") ." -DeviCat (24-Apr-21)
+* 127: "That sucks but E for effort!" -DeviCat (24-Apr-21)
 
 There may be quotes newer than these that have yet to be collected.
 
