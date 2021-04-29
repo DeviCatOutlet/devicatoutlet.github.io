@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 131 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 133 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -144,6 +144,8 @@ number N.
 * 129: "It feels good to feel good ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v1/302140288/1.0 "devicatUwU") !" -DeviCat (26-Apr-21)
 * 130: " You don't want your home smelling like chicken that you had last week, do you? ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v1/302140288/1.0 "devicatUwU") ." -DeviCat (27-Apr-21)
 * 131: "your emergency food is looking delicious. ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v1/302140269/1.0 "devicatNom") ." -serena_dfon (27-Apr-21)
+* 132: "Sorry Instafluff you got squished by CandiCat" -DeviCat (28-Apr-21)
+* 133: "So yea, effectively I fangirled about being burned alive ![LUL](https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0 "LUL") I was like yea I am on fire but its pretty ![CurseLit](https://static-cdn.jtvnw.net/emoticons/v1/116625/1.0 "CurseLit") ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v1/302139363/1.0 "devicatTada") ![CurseLit](https://static-cdn.jtvnw.net/emoticons/v1/116625/1.0 "CurseLit") !" -Blacksouls92 (28-Apr-21)
 
 There may be quotes newer than these that have yet to be collected.
 
