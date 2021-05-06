@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 138 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 140 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -151,6 +151,8 @@ number N.
 * 136: "oh don't worry about strange foods I have ketchup sandwiches ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v1/302140269/1.0 "devicatNom") ." -phrey4 (01-May-21)
 * 137: "I just about died for a second there. ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") ." -DeviCat (04-May-21)
 * 138: "Oh, you aren't *mean*, Rosuav, you're adorablly prickly 🦔 ." -roget1030 (04-May-21)
+* 139: "Tiny Head Teddy Bear Pillow Small Head Stuffed Panda/Bear/Sloth Muscle Body Boyfriend Hug Pillow Cushion Birthday Gift 18.5 Inch" -Amazon (05-May-21)
+* 140: "We be chillin', we be vibin', we be makin' kiwi cats ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v1/302140271/1.0 "devicatCool") …" -DeviCat (05-May-21)
 
 There may be quotes newer than these that have yet to be collected.
 
