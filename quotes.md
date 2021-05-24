@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 155 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 157 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -168,6 +168,8 @@ number N.
 * 153: "closed captions, presented by engrish.com" -EuphoniumHero6 (22-May-21)
 * 154: "I'm basically putting the DeviCat Love on her chest. ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v1/302138960/1.0 "devicatLove") ." -DeviCat (22-May-21)
 * 155: "Erin, is it usually you or Booze asking about feet?" -DeviCat (22-May-21)
+* 156: "Time to make ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") eyes and toast" -Corteka_ (24-May-21)
+* 157: " I'm like... hot diggity dang! devicatHeh ." -Lizabelle (24-May-21)
 
 There may be quotes newer than these that have yet to be collected.
 
