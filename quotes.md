@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 161 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 162 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -174,6 +174,7 @@ number N.
 * 159: "Don't trust the quotes. KaWutGuys ." -DeviCat (26-May-21)
 * 160: "Sponsored by DeviCat ™" -DeviCat (26-May-21)
 * 161: "You literally go from blobs to ![KAPOW](https://static-cdn.jtvnw.net/emoticons/v1/133537/1.0 "KAPOW") boom!" -DeviCat (28-May-21)
+* 162: "WELCOME to a demonstration of Adobe "Creative Cloud". ![deviCoolStory](https://cdn.betterttv.net/frankerfacez_emote/251430/1 "deviCoolStory") This is the most creative cloud you will see all day." -Rosuav (07-Jun-21)
 
 There may be quotes newer than these that have yet to be collected.
 
