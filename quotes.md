@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 165 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 167 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -178,6 +178,8 @@ number N.
 * 163: "If you sub to Devi today you too can grow muscles on your eyelids. Imagine being able to find your true love by flexing and winking all at once. Hit that sub button today. This ad was brought to you by PotatoAds" -PotatoWhyDidYouPostThat (09-Jun-21)
 * 164: "ヽ(゜▽゜ )－" -DeviCat (12-Jun-21)
 * 165: "One must never forget to eat their human ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v1/302140269/1.0 "devicatNom") ." -IsaisChannel (18-Jun-21)
+* 166: "I mean your cat meows" -DeviCat (22-Jun-21)
+* 167: "So goood! I have it in a low brain now" -Lizabelle (22-Jun-21)
 
 There may be quotes newer than these that have yet to be collected.
 
