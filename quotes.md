@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 170 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 171 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -183,6 +183,7 @@ number N.
 * 168: "i can't believe it's not butter-chan" -EuphoniumHero6 (26-Jun-21)
 * 169: "I don't know if they pulse on stream" -Rosuav (30-Jun-21)
 * 170: "Fear me, for I am made of FLUFF ![devicatGrr](https://static-cdn.jtvnw.net/emoticons/v1/302140289/1.0 "devicatGrr") ![devicatPow](https://static-cdn.jtvnw.net/emoticons/v1/302139069/1.0 "devicatPow") ." -DeviCat (30-Jun-21)
+* 171: "m o i s t. devicatHeh ." -Heartsome_NaNa (03-Jul-21)
 
 There may be quotes newer than these that have yet to be collected.
 
