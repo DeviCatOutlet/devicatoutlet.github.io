@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 175 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 178 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -188,6 +188,9 @@ number N.
 * 173: "If you, too, wish to wear a CandiCat on your head, you can ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v1/302161953/1.0 "devicatParty") ." -DeviCat (05-Jul-21)
 * 174: "Dropping the bass? Dropping the herring and the carp as well?" -Rosuav (06-Jul-21)
 * 175: "Um... Erin what are you doing . ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -DeviCat (06-Jul-21)
+* 176: "You can get your clothes back in a second CathyCat I just need to get this thumb devicatHeh ." -DeviCat (13-Jul-21)
+* 177: "Thank you translator. devicatHeh ." -DeviCat (13-Jul-21)
+* 178: "I was like AHHHHHHHHHHHHH. ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v1/302139363/1.0 "devicatTada") ." -DeviCat (14-Jul-21)
 
 There may be quotes newer than these that have yet to be collected.
 
