@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 185 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 186 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -198,6 +198,7 @@ number N.
 * 183: "The booty is sold out. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (17-Jul-21)
 * 184: "Eyes are really freaky when they are not in a skull. ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -DeviCat (20-Jul-21)
 * 185: "Does that mean Rosuav is becoming my hairdresser?" -DeviCat (20-Jul-21)
+* 186: "I heard 'body count' ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") !" -SuspiciousTumble (23-Jul-21)
 
 There may be quotes newer than these that have yet to be collected.
 
