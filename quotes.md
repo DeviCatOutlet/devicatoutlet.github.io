@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 186 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 192 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -199,6 +199,12 @@ number N.
 * 184: "Eyes are really freaky when they are not in a skull. ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -DeviCat (20-Jul-21)
 * 185: "Does that mean Rosuav is becoming my hairdresser?" -DeviCat (20-Jul-21)
 * 186: "I heard 'body count' ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v1/302496099/1.0 "devicatBoo") !" -SuspiciousTumble (23-Jul-21)
+* 187: "I'm gonna drink some water. Then tackle her hair ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v1/302140285/1.0 "devicatEh") ." -DeviCat (24-Jul-21)
+* 188: "PotatoWhyDidYouPostThat living up to their screen name lol" -JemmaGrl (24-Jul-21)
+* 189: "don't worry, I'm just sitting on my butt, eating bbq chicken lol 🍗🍗🍗" -JemmaGrl (24-Jul-21)
+* 190: "and this is just death" -DeviCat (24-Jul-21)
+* 191: "I has no quotes yet." -A_Ninja_For_Jesus_Bruh (24-Jul-21)
+* 192: "If yall really want the butt back there just needs to be more demand. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v1/302140251/1.0 "devicatButt") ." -DeviCat (24-Jul-21)
 
 There may be quotes newer than these that have yet to be collected.
 
