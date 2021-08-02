@@ -2,7 +2,7 @@
 
 
 ![CandiCat Gamer Girl](img/CandiCatGamerGirl.png)
-![CandiCat Party](img/candicatparty.png)
+![CandiCat Party](img/CandiCatParty.png)
 ![CathyCat DTIYS](img/CathyCat.png)
 ![Mew Ichigo Tokyo Mew Mew](img/TokyoMewMew.png)
 ![Sakura Bunny](img/SakuraBunny.png)
