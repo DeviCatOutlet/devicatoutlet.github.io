@@ -1,10 +1,11 @@
+# CandiCat
+
 * ![](img/CandiCat.png)
 
 * ## CandiCat
-  * **Name:** Test
-  * **Nationality:** Test
-  * **Role:** Test
-  * **Loves:** Test
+  * **Role:** DeviCat's mascot
+  * **Loves:** Sweets & rainbows
+  * **Theme:** Galaxy cat
 
   ---
 
