@@ -1,4 +1,4 @@
-* ![CandiCat](img/CandiCat.png)
+* ![](img/CandiCat.png)
 
 * ## CandiCat
   * **Name:** Test
