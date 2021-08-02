@@ -1,8 +1,8 @@
 # CandiCat
 
-* ![](img/CandiCat.png)
+![](img/CandiCat.png)
 
-* ## CandiCat
+## CandiCat
   * **Role:** DeviCat's mascot
   * **Loves:** Sweets, rainbows & bubbles
   * **Theme:** Galaxy cat
