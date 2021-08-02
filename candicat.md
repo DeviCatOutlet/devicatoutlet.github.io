@@ -1,5 +1,3 @@
-# Mascot
-
 * ![CandiCat](img/CandiCat.png)
 
 * ## CandiCat
