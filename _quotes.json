@@ -1,6 +1,14 @@
 {
   "cached_until": "999646133.5",
   "emotes": {
+    "DansGame": "33",
+    "FortBush": "822126",
+    "HahaLean": "301108068",
+    "KAPOW": "133537",
+    "Kappa": "25",
+    "Keepo": "1902",
+    "LUL": "425618",
+    "StinkyCheese": "90076",
     "devicatAww": "306361532",
     "devicatB1": "306362361",
     "devicatB2": "306362365",
@@ -8,10 +16,13 @@
     "devicatB4": "306362373",
     "devicatBoo": "306361782",
     "devicatButt": "306361575",
+    "devicatCake": "emotesv2_d6e5c22b15ea4c9a9f075f99ab20c616",
+    "devicatChii": "emotesv2_099dbd730bbe4c9a884902a257d29ca4",
     "devicatCool": "306361616",
     "devicatCozy": "306361689",
     "devicatCry": "306361726",
     "devicatEh": "306361744",
+    "devicatF": "emotesv2_bf15c6ee1b1942b48c78fad6a28b5f58",
     "devicatFlag": "emotesv2_ffa1be0e434748238a4bef0f23dc9faa",
     "devicatGG": "emotesv2_2b3fa3c3e7ed4041a32ae7f004db3ba9",
     "devicatGift": "emotesv2_a3184def9f734983879da244b833ade9",
@@ -21,6 +32,8 @@
     "devicatHeh": "306362206",
     "devicatHiyo": "306362212",
     "devicatHug": "306362171",
+    "devicatLita": "emotesv2_b9d6e74d31a6435888258f1ed60811a0",
+    "devicatLitabutt": "emotesv2_9c2146eec09d4a2eaa5207ae5b3cb901",
     "devicatLoL": "306362153",
     "devicatLoading": "emotesv2_0057974719c945b38082c37714e7712f",
     "devicatLove": "307350032",
@@ -41,7 +54,8 @@
     "devicatTrain1": "emotesv2_c91ceb6e698a44eaafbd9f9e00c8ea30",
     "devicatTrain2": "emotesv2_c8355c0bd8164c6c9e0a84c9a92e4bfd",
     "devicatTrain3": "emotesv2_d41a197e38344553a3cd7bbd63550d9e",
-    "devicatUwU": "306361930"
+    "devicatUwU": "306361930",
+    "panicBasket": "22998"
   },
   "quotes": [
     null,
