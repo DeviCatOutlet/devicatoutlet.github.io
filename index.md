@@ -1,10 +1,8 @@
 # Home
 
-* [![Shop](img/shoppanel.png)](https://devicatoutlet.redbubble.com)
+* [![Ko-fi Shop](img/KofiKeychainsPanel.png)](https://ko-fi.com/devicatoutlet)
 
-  #### [Shop](https://devicatoutlet.redbubble.com)
-
-  DeviCat's RedBubble Shop.
+  Ko-fi Shop.
 
 * [![About](img/dclogo.png)](about)
 
@@ -12,9 +10,7 @@
 
   Learn about DeviCat.
 
-* [![Contact](img/poboxpanel.png)](about)
+* [![](img/CandiClubPanel.png)](https://patreon.com/devicatoutlet)
 
-  #### [Contact](about)
-
-  Contact DeviCat here.
+  Join the CandiCat Club!
 {: .cards .layout}
