@@ -145,7 +145,7 @@ number N.
 * 130: " You don't want your home smelling like chicken that you had last week, do you? ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/306361930/default/light/1.0 "devicatUwU") ." -DeviCat (27-Apr-21)
 * 131: "your emergency food is looking delicious. ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v2/306362103/default/light/1.0 "devicatNom") ." -serena_dfon (27-Apr-21)
 * 132: "Sorry Instafluff you got squished by CandiCat" -DeviCat (28-Apr-21)
-* 133: "So yea, effectively I fangirled about being burned alive ![LUL](https://static-cdn.jtvnw.net/emoticons/v2/425618/default/light/1.0 "LUL") I was like yea I am on fire but its pretty CurseLit ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v2/306361925/default/light/1.0 "devicatTada") CurseLit !" -Blacksouls92 (28-Apr-21)
+* 133: "So yea, effectively I fangirled about being burned alive ![LUL](https://static-cdn.jtvnw.net/emoticons/v2/425618/default/light/1.0 "LUL") I was like yea I am on fire but its pretty ![CurseLit](https://static-cdn.jtvnw.net/emoticons/v2/116625/default/light/1.0 "CurseLit") ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v2/306361925/default/light/1.0 "devicatTada") ![CurseLit](https://static-cdn.jtvnw.net/emoticons/v2/116625/default/light/1.0 "CurseLit") !" -Blacksouls92 (28-Apr-21)
 * 134: "we are all so generous lul" -texassj (30-Apr-21)
 * 135: "Taking a second to put your legs aside..." -DeviCat (01-May-21)
 * 136: "oh don't worry about strange foods I have ketchup sandwiches ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v2/306362103/default/light/1.0 "devicatNom") ." -phrey4 (01-May-21)
