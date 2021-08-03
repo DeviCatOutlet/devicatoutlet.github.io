@@ -21,9 +21,11 @@ else:
 CACHE_FILE = "_quotes.json"
 with open(CACHE_FILE) as f: cache = json.load(f)
 
+# TODO: Migrate to using cache["quotes"] instead of (not as well as) this emote list
+emotes = get_emote_list()
+for name, id in cache.get("emotes", {}).items():
+	emotes[name] = "https://static-cdn.jtvnw.net/emoticons/v2/%s/default/light/1.0" % id
 def convert_emotes(msg):
-	# TODO: Migrate to using cache["quotes"] instead of this emote list
-	emotes = get_emote_list()
 	words = msg.split()
 	for i, word in enumerate(words):
 		if "_" in word:
