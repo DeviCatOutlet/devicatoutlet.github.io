@@ -1,40 +1,23 @@
 # Rebuild quotes.md (and possibly others) from _quotes.json
 import os
 import re
+import sys
 import json
 import collections
 from pprint import pprint
 
-try:
-	import sys
-	sys.path.append("../shed")
-	import emotify
-except ImportError:
-	# Can't find emotify? No probs, just don't convert them.
-	def get_emote_list(): return { }
-else:
-	# Activate BTTV and FFZ emotes from DeviCat's channel
-	emotify.load_bttv("devicat")
-	emotify.load_ffz("54212603")
-	from emotify import get_emote_list # More convenient to have just the function
-
 CACHE_FILE = "_quotes.json"
 with open(CACHE_FILE) as f: cache = json.load(f)
 
-# TODO: Migrate to using cache["quotes"] instead of (not as well as) this emote list
-emotes = get_emote_list()
-for name, id in cache.get("emotes", {}).items():
-	emotes[name] = "https://static-cdn.jtvnw.net/emoticons/v2/%s/default/light/1.0" % id
+emotes = cache.get("emotes", { })
+def emote_url(*parts):
+	return "https://static-cdn.jtvnw.net/emoticons/v2/%s/default/light/1.0" % "_".join(parts)
 def convert_emotes(msg):
 	words = msg.split()
 	for i, word in enumerate(words):
-		if "_" in word:
-			base, tag = word.split("_", 1)
-			if base in cache["emotes"]:
-				emotes[word] = "https://static-cdn.jtvnw.net/emoticons/v2/%s/default/light/1.0" % (cache["emotes"][base] + "_" + tag)
-			# Otherwise fall through. Maybe there are actual emotes with underscores.
-		if word not in emotes: continue
-		words[i] = '![%s](%s "%s")' % (word, emotes[word], word) # Assumes emote names never contain double quotes
+		base, *tags = word.split("_")
+		if base not in emotes: continue
+		words[i] = '![%s](%s "%s")' % (word, emote_url(emotes[base], *tags), word) # Assumes emote names never contain double quotes
 	return " ".join(words)
 
 most_quoted = collections.Counter()
