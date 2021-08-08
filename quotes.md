@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 200 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 204 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -213,6 +213,10 @@ number N.
 * 198: "Wow, I thought I was working with a professional. ![devicatSus](https://static-cdn.jtvnw.net/emoticons/v2/306361964/default/light/1.0 "devicatSus") ." -HallwayRaptor (30-Jul-21)
 * 199: "Where do bad rainbows go? … Prism, it's a light sentence. ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78661efaf6ec44a0ba95d08a29f6e5f9/default/light/1.0 "devicatShiny") " -DokiOken (02-Aug-21)
 * 200: "It's all cows" -DeviCat (06-Aug-21)
+* 201: "We can call this one 'pink' because it's pink ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/306361532/default/light/1.0 "devicatAww") ." -DeviCat (07-Aug-21)
+* 202: "We are mature, not immature" -Rosuav (07-Aug-21)
+* 203: "Become Blue with me. ![devicatCry](https://static-cdn.jtvnw.net/emoticons/v2/306361726/default/light/1.0 "devicatCry") ." -DeviCat (07-Aug-21)
+* 204: " I am not an oven ![devicatCake](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d6e5c22b15ea4c9a9f075f99ab20c616/default/light/1.0 "devicatCake") !" -DeviCat (07-Aug-21)
 
 There may be quotes newer than these that have yet to be collected.
 
