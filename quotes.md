@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 204 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 207 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -217,6 +217,9 @@ number N.
 * 202: "We are mature, not immature" -Rosuav (07-Aug-21)
 * 203: "Become Blue with me. ![devicatCry](https://static-cdn.jtvnw.net/emoticons/v2/306361726/default/light/1.0 "devicatCry") ." -DeviCat (07-Aug-21)
 * 204: " I am not an oven ![devicatCake](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d6e5c22b15ea4c9a9f075f99ab20c616/default/light/1.0 "devicatCake") !" -DeviCat (07-Aug-21)
+* 205: "I just like the ![devicatCake](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d6e5c22b15ea4c9a9f075f99ab20c616/default/light/1.0 "devicatCake") and 🎈 okay?" -DeviCat (09-Aug-21)
+* 206: "i saw the feet in that first folder" -ResponsiveWall9 (09-Aug-21)
+* 207: " Yeah feel free to give those badges out! Lolol jkjkjk" -KindredS0ULz (10-Aug-21)
 
 There may be quotes newer than these that have yet to be collected.
 
