@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 211 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 220 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -223,7 +223,16 @@ number N.
 * 208: "Click With Care" -starlightstudio87 (11-Aug-21)
 * 209: "If I made anyone go deaf just now, I'm sorry. ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v2/306361744/default/light/1.0 "devicatEh") ." -DeviCat (11-Aug-21)
 * 210: "Hey Devi ![CoolStoryBob](https://static-cdn.jtvnw.net/emoticons/v2/123171/default/light/1.0 "CoolStoryBob") Sorry for staring, I thought your face was a work of art." -Lizabelle (11-Aug-21)
-* 211: "my go to song... C is for coffee and coffee is for me!!!"" -"WingsGirl: (13-Aug-21)
+* 211: "my go to song... C is for coffee and coffee is for me!!!" -WingsGirl: (13-Aug-21)
+* 212: "swoosh" -DeviCat (13-Aug-21)
+* 213: "My brain thought that was a typo for "Hot Denim Cute". Which would be dangerous." -Rosuav (14-Aug-21)
+* 214: "pledge to the patreon to support CandiCat, which in turn helps buy snackies for the real kittys Devi has ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v2/306361616/default/light/1.0 "devicatCool") (oh and Devi and Raptor can eat too I guess but, you know... kittys rule the world) ![devicatSip](https://static-cdn.jtvnw.net/emoticons/v2/306362029/default/light/1.0 "devicatSip") ." -TiggyDoodler (14-Aug-21)
+* 215: "I didn't do anything! ![devicatSip](https://static-cdn.jtvnw.net/emoticons/v2/306362029/default/light/1.0 "devicatSip") He fell to his own death ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") !" -DeviCat (14-Aug-21)
+* 216: "#BigBrushEnergy. ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v2/306361925/default/light/1.0 "devicatTada") ." -CosmosSketcher (14-Aug-21)
+* 217: "blah. Words. ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v2/306361925/default/light/1.0 "devicatTada") CANDI!!!" -DeviCat (14-Aug-21)
+* 218: "The price to pay for a moist-less day" -TheVibingTater (14-Aug-21)
+* 219: "When you are dead I will still be alive." -DeviCat (14-Aug-21)
+* 220: "you should dump all the candy in that you have" -DeviCat (14-Aug-21)
 
 There may be quotes newer than these that have yet to be collected.
 
