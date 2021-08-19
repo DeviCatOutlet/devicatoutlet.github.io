@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 223 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 225 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -236,6 +236,8 @@ number N.
 * 221: "it's illegal, off to art jail" -TheArtOfKimmy (16-Aug-21)
 * 222: "Congrats, ILoveBongoKitty!" -Rosuav (16-Aug-21)
 * 223: "In art jail the bars are made of crayons." -Ciri_Ion (17-Aug-21)
+* 224: "Roses are red, violets are red, everything is... red, oh it's just a fire, this is ![HahaThisisfine](https://static-cdn.jtvnw.net/emoticons/v2/301108013/default/light/1.0 "HahaThisisfine") fine" -TiggyDoodler (18-Aug-21)
+* 225: "we are just bringing all the citrus to the yard. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v2/25/default/light/1.0 "Kappa") ." -DeviCat (18-Aug-21)
 
 There may be quotes newer than these that have yet to be collected.
 
