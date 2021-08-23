@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 226 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 233 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -239,6 +239,13 @@ number N.
 * 224: "Roses are red, violets are red, everything is... red, oh it's just a fire, this is ![HahaThisisfine](https://static-cdn.jtvnw.net/emoticons/v2/301108013/default/light/1.0 "HahaThisisfine") fine" -TiggyDoodler (18-Aug-21)
 * 225: "we are just bringing all the citrus to the yard. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v2/25/default/light/1.0 "Kappa") ." -DeviCat (18-Aug-21)
 * 226: "I don't like to have wet armpits" -DeviCAt (20-Aug-21)
+* 227: "big pulsating braiiin. 🧠 ." -Heartsome_NaNa (21-Aug-21)
+* 228: "PLEASE NOTE: CandiCat console is not compatible with other brands' game cartridges. Only genuine CandiCat Candy Kartridges can be played on this console." -Rosuav (21-Aug-21)
+* 229: "PLEASE NOTE: CandiCat console is not compatible with other brands' game cartridges. Only genuine CandiCat Candy Kartridges can be played on this console." -Rosuav (21-Aug-21)
+* 230: "Jemma Jemma Jemma Jemma Jemma" -DeviCat (21-Aug-21)
+* 231: "Weare watching you" -Eyes (23-Aug-21)
+* 232: "That booty though. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v2/306361575/default/light/1.0 "devicatButt") ." -DeviCat (23-Aug-21)
+* 233: "my wifi pooped" -Heartsome_NaNa (23-Aug-21)
 
 There may be quotes newer than these that have yet to be collected.
 
