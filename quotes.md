@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 233 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 237 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -246,6 +246,9 @@ number N.
 * 231: "Weare watching you" -Eyes (23-Aug-21)
 * 232: "That booty though. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v2/306361575/default/light/1.0 "devicatButt") ." -DeviCat (23-Aug-21)
 * 233: "my wifi pooped" -Heartsome_NaNa (23-Aug-21)
+* 234: "The question now is where did I put your skin?" -DeviCat (24-Aug-21)
+* 235: "No problem, GimmieMoment" -Rosuav (24-Aug-21)
+* <missing quote 236, ask CandiCat for it please>
+* 237: "ᨐᵉᵒʷ" -Adora08phoenix (24-Aug-21)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
