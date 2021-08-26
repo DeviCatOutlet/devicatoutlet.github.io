@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 237 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 238 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -248,7 +248,9 @@ number N.
 * 233: "my wifi pooped" -Heartsome_NaNa (23-Aug-21)
 * 234: "The question now is where did I put your skin?" -DeviCat (24-Aug-21)
 * 235: "No problem, GimmieMoment" -Rosuav (24-Aug-21)
-* <missing quote 236, ask CandiCat for it please>
+* 236: "Emergency Bunny" -DeviCat (24-Aug-21)
 * 237: "ᨐᵉᵒʷ" -Adora08phoenix (24-Aug-21)
+* 238: "my shape is round" -yankeekitty (25-Aug-21)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
