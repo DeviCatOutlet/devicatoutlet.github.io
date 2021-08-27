@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 238 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 241 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -251,6 +251,9 @@ number N.
 * 236: "Emergency Bunny" -DeviCat (24-Aug-21)
 * 237: "ᨐᵉᵒʷ" -Adora08phoenix (24-Aug-21)
 * 238: "my shape is round" -yankeekitty (25-Aug-21)
+* 239: "Trying not to be a cactus 🌵 " -TheDankOreo (27-Aug-21)
+* 240: "Ohhh that is so crisp. (✿◡‿◡)" -DeviCat (27-Aug-21)
+* 241: "Ciri! You can go tinkle now." -devicat (27-Aug-21)
 
 There may be quotes newer than these that have yet to be collected.
 
