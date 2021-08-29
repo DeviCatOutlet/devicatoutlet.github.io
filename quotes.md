@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 241 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 246 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -254,6 +254,11 @@ number N.
 * 239: "Trying not to be a cactus 🌵 " -TheDankOreo (27-Aug-21)
 * 240: "Ohhh that is so crisp. (✿◡‿◡)" -DeviCat (27-Aug-21)
 * 241: "Ciri! You can go tinkle now." -devicat (27-Aug-21)
+* 242: "Just ignore the floating pieces across the screen, everything is fine" -DeviCat (28-Aug-21)
+* 243: "For some reason, my brain is just stuck to bread." -DeviCat (28-Aug-21)
+* 244: "Redbuggle shop: Potato's Stinkin' Cute Doodles" -Rosuav (28-Aug-21)
+* 245: "Everybody squat with me EUUUUUGH" -DeviCat (28-Aug-21)
+* 246: "whew, I'm toasted" -Elosacle (28-Aug-21)
 
 There may be quotes newer than these that have yet to be collected.
 
