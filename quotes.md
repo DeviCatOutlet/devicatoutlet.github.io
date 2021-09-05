@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 251 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 253 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -264,6 +264,8 @@ number N.
 * 249: "ah yeah Lina inverse she finally going to get her boobs Lol. I was working a like a manga project" -Oceanwaveii (30-Aug-21)
 * 250: "You are only eating my soul, it's ok." -DeviCat (31-Aug-21)
 * 251: "Jemma: Drops 100 subs Devi: ◉_◉" -DeviCat (31-Aug-21)
+* 252: "Instant Yandere" -DeviCat (04-Sep-21)
+* 253: "how much is it to ship a big booty to the uk?" -Mr_Freakeh (04-Sep-21)
 
 There may be quotes newer than these that have yet to be collected.
 
