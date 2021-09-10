@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 254 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 255 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -267,6 +267,7 @@ number N.
 * 252: "Instant Yandere" -DeviCat (04-Sep-21)
 * 253: "how much is it to ship a big booty to the uk?" -Mr_Freakeh (04-Sep-21)
 * 254: "Next goal 6969. ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -mlasuk (08-Sep-21)
+* 255: "I need HELP pls. ![devicatSip](https://static-cdn.jtvnw.net/emoticons/v2/306362029/default/light/1.0 "devicatSip") ." -DeviCat (10-Sep-21)
 
 There may be quotes newer than these that have yet to be collected.
 
