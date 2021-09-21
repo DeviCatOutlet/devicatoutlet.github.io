@@ -5,14 +5,13 @@
 * ## About DeviCat
   * **Name:** Rachelle 
   * **Nationality:** Canadian
-  * **Role:** Digital Artist & Twitch.tv Partner
-  * **Loves:** Anime, Cats, Coffee 
+  * **Role:** Digital Artist & Owner of DeviCat Design Studios
 
   ---
 
-Hello! My name is Rachelle, but most people know me as DeviCat. I do live streams on Twitch.tv creating kawaii digital art!
+Rachelle is a self-taught digital artist and has been live streaming her work on Twitch.tv since 2015.
 
-The title "DeviCat" has a whole history to its creation. It started as a nickname for a cat character I had to animate for a school project. When I decided to start streaming on Twitch, I wanted a username that wasn't my real name, so I decided to use "DeviCat" instead as my pseudonym as it's easy to say and sounds cute!
+In 2021, she became a small shop owner featuring her character, CandiCat. Her dream is to create designs that others can resonate with; to put a smile on their face and a warmth in their hearts.
 
 “I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them.” - DeviCat
 
@@ -33,6 +32,4 @@ E3B 0H8 </b> <br>
 <i>To anyone interested in sending something more than lettermail to our PO Box,
 please take note of the following:</i>
 
-<i>If Canadian taxes are not paid at the point of sale when the item crosses the
-border into Canada, we will be charged COD (Collect On Delivery) to receive
-the item. Therefore, we will have to refuse any gifts that incur COD.</i>
+<i>Gifts that are consumable (food or drink) and gifts that incur COD will not be accepted.</i>
