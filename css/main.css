@@ -182,6 +182,7 @@ h1#about, h1#home {
 }
 #about ~ ul ul li {
 	margin-bottom: 1em;
+	text-align: center;
 }
 #about ~ ul ul ul li {
 	list-style-type: disc;
