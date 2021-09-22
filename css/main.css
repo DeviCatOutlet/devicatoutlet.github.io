@@ -104,6 +104,7 @@ div ul {
 img {
 	display: block;
 	margin: auto;
+	max-width: 100%;
 }
 
 /* Lightbox for image gallery */
