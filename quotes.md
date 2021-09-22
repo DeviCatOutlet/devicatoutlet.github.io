@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 266 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 267 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -274,10 +274,12 @@ number N.
 * 259: "Forgive me if this squeaks.🐁" -DeviCat (15-Sep-21)
 * 260: "In all fairness Ciri you have been here since the crack of dawn. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v2/25/default/light/1.0 "Kappa") ." -DeviCat (15-Sep-21)
 * 261: "Yes, there is a butt. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v2/306361575/default/light/1.0 "devicatButt") ." -DeviCat (17-Sep-21)
-* <missing quote 262, ask CandiCat for it please>
+* 262: "Just a PSA: today is National Care for Kids Day * National Fried Rice Day National Pepperoni Pizza Day National Punch Day AND National String Cheese Day. I hope you are all emotionally prepared." -Adora08phoenix (20-Sep-21)
 * 263: "Check your candy before it becomes bananas." -DeviCat (21-Sep-21)
-* <missing quote 264, ask CandiCat for it please>
+* 264: "does anyone else wonder what the cauldron tastes like I'm thinking cranberry" -Sugar_Lemonn (21-Sep-21)
 * 265: "Nevermind we got raided" -DeviCat (21-Sep-21)
 * 266: " >:)" -JemmaGrl (21-Sep-21)
+* 267: "I'm just going zoom zoom zoom" -DeviCat (22-Sep-21)
 
-This list is missing 2 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
