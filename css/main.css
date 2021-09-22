@@ -168,6 +168,7 @@ h1#about, h1#home {
 #about ~ ul {
 	display: flex;
 	padding: 0;
+	flex-wrap: wrap;
 }
 #about ~ ul ul {
 	padding: 0;
