@@ -305,7 +305,7 @@ nav > .keep {
 	nav > a, nav > .nav-menucontainer {
 		display: none;
 	}
-	/* On mobile, hide the Jumbotron with the channel embed and Discord/Patreon links */
+	/* On mobile, hide the Jumbotron with the channel embed */
 	.jumbotron {
 		display: none;
 	}

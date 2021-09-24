@@ -1,5 +1,10 @@
 # Home
 
+<section class="jumbotron">
+<h2 class="screenreader">Embedded Twitch stream</h2>
+<iframe title="Watch DeviCat live!" src="https://player.twitch.tv?channel=devicat&parent=devicatoutlet.com" allowfullscreen="" style="border: 0" allow="autoplay; fullscreen" width="768" height="432"></iframe>
+</section>
+
 * [![Ko-fi Shop](img/KofiKeychainsPanel.png)](https://ko-fi.com/devicatoutlet)
 
   Ko-fi Shop.
@@ -10,7 +15,7 @@
 
   Learn about DeviCat.
 
-* [![](img/CandiClubPanel.png)](https://patreon.com/devicatoutlet)
+* [![](img/CandiClubPanel.png)](https://ko-fi.com/devicatoutlet/tiers)
 
   Join the CandiCat Club!
 {: .cards .layout}

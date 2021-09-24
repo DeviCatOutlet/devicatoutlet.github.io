@@ -6,7 +6,6 @@
 - [FaceBook](https://facebook.com/DeviCatOfficial)
 - [Instagram](https://instagram.com/devicatoutlet)
 - [Ko-fi Shop](https://ko-fi.com/devicatoutlet)
-- [Patreon](https://patreon.com/devicatoutlet)
 - [RedBubble Shop](https://devicatoutlet.redbubble.com)
 - [TikTok](https://tiktok.com/@devicatoutlet)
 - [Twitch](https://twitch.tv/devicat)
