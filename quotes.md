@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 269 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 270 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -282,6 +282,7 @@ number N.
 * 267: "I'm just going zoom zoom zoom" -DeviCat (22-Sep-21)
 * 268: "I'm happy to have you. ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") ." -DeviCat (22-Sep-21)
 * 269: "Big sister?? lol. I'm just mostly nuts. I'm gonna hire some beefy Italian men in black suits to show up to my funeral when I die and have them all walk up to my coffin and say "We'll miss you, Boss." Just to mess with people." -Adora08phoenix (22-Sep-21)
+* 270: "I'm apparently a cult leader. ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/306363361/default/light/1.0 "devicatParty") ." -DeviCat (24-Sep-21)
 
 There may be quotes newer than these that have yet to be collected.
 
