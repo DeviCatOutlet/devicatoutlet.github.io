@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 271 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 275 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -284,6 +284,10 @@ number N.
 * 269: "Big sister?? lol. I'm just mostly nuts. I'm gonna hire some beefy Italian men in black suits to show up to my funeral when I die and have them all walk up to my coffin and say "We'll miss you, Boss." Just to mess with people." -Adora08phoenix (22-Sep-21)
 * 270: "I'm apparently a cult leader. ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/306363361/default/light/1.0 "devicatParty") ." -DeviCat (24-Sep-21)
 * 271: "My sister said that you have a tv saleswomen voice! You make her want to buy suspicious products!" -@PeachTeaPrince (25-Sep-21)
+* 272: "Just imagine her shooting lasers! ～( TロT)σ" -DeviCat (27-Sep-21)
+* 273: "I guess the subs are too dense ![devicatGrr](https://static-cdn.jtvnw.net/emoticons/v2/306361815/default/light/1.0 "devicatGrr") …" -DeviCat (27-Sep-21)
+* 274: "Hold on, lemme go summon an antiviral wizard" -DrRosuav (27-Sep-21)
+* 275: "Dangit, he's not answering his pager" -DrRosuav (27-Sep-21)
 
 There may be quotes newer than these that have yet to be collected.
 
