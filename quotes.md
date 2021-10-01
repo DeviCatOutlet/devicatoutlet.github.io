@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 280 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 281 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -293,6 +293,7 @@ number N.
 * 278: "Over the course of a month, we blew up! POOF" -DeviCat (29-Sep-21)
 * 279: " i see devi is now CULTivating potatoes too" -@Heartsome_NaNa (29-Sep-21)
 * 280: "Junkfood and consoles in hand butt on couch" -Everyone (29-Sep-21)
+* 281: "Sorry Erin I picked you up" -DeviCat (30-Sep-21)
 
 There may be quotes newer than these that have yet to be collected.
 
