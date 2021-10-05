@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 283 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 285 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -296,6 +296,8 @@ number N.
 * 281: "Sorry Erin I picked you up" -DeviCat (30-Sep-21)
 * 282: "I sold a butt earlier today. ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v2/306361575/default/light/1.0 "devicatButt") ." -DeviCat (01-Oct-21)
 * 283: "Please don't get eaten by a bear!" -DeviCat (01-Oct-21)
+* 284: "FAN" -DeviCat (04-Oct-21)
+* 285: "I, too, will drop a horse into chat." -DeviCat (04-Oct-21)
 
 There may be quotes newer than these that have yet to be collected.
 
