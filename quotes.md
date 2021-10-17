@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 290 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 292 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -303,6 +303,8 @@ number N.
 * 288: ""you know what color hair would look good on you? the color of subbing to devicat!"" -EuphoniumHero6 (05-Oct-21)
 * 289: "is that like a seethrough burger" -DeviCat (13-Oct-21)
 * 290: "Outfrost, look at this tiny little head." -DeviCat (13-Oct-21)
+* 291: "this gif is still just bongoing at me" -DeviCat (16-Oct-21)
+* 292: "Thank you again! ( ´･･)ﾉ(.u.`)" -DeviCat (16-Oct-21)
 
 There may be quotes newer than these that have yet to be collected.
 
