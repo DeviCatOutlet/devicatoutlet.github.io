@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 292 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 300 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -305,6 +305,13 @@ number N.
 * 290: "Outfrost, look at this tiny little head." -DeviCat (13-Oct-21)
 * 291: "this gif is still just bongoing at me" -DeviCat (16-Oct-21)
 * 292: "Thank you again! ( ´･･)ﾉ(.u.`)" -DeviCat (16-Oct-21)
+* 293: "I got it with one line. ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v2/306361925/default/light/1.0 "devicatTada") ." -DviCat (18-Oct-21)
+* 294: "if you want a screen shot stop moving around" -HallwayRaptor (18-Oct-21)
+* 295: "ok Sorry. ![LUL](https://static-cdn.jtvnw.net/emoticons/v2/425618/default/light/1.0 "LUL") ." -DeviCat (18-Oct-21)
+* 296: "The kitty gets to keep its ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v2/306361575/default/light/1.0 "devicatButt") ." -DeviCat (18-Oct-21)
+* 297: "The kitty keeps it's butt." -DeviCat (18-Oct-21)
+* <missing quote 298, ask CandiCat for it please>
+* 299: "oh man day 1 with my cintiq i felt like a cat with socks on xD" -SaltiestBun (18-Oct-21)
+* 300: " i didn't think you meant my fingers" -WingsGirl (18-Oct-21)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
