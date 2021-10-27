@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 302 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 305 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -315,6 +315,9 @@ number N.
 * 300: " i didn't think you meant my fingers" -WingsGirl (18-Oct-21)
 * 301: "Not because she's naked" -DeviCat (18-Oct-21)
 * 302: " ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ![devicatGlo1_HF](https://static-cdn.jtvnw.net/emoticons/v2/302140244_HF/default/light/1.0 "devicatGlo1_HF") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78661efaf6ec44a0ba95d08a29f6e5f9/default/light/1.0 "devicatShiny") ![devicatEh_HF](https://static-cdn.jtvnw.net/emoticons/v2/306361744_HF/default/light/1.0 "devicatEh_HF") JOIN THE DARK SIDE, OR BE ANNIHALTED BY CUTENESS ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ![devicatPow](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7034ea1bf3c14b5aaa3b5640ae0151f6/default/light/1.0 "devicatPow") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78661efaf6ec44a0ba95d08a29f6e5f9/default/light/1.0 "devicatShiny") ![devicatSpook_HF](https://static-cdn.jtvnw.net/emoticons/v2/306362004_HF/default/light/1.0 "devicatSpook_HF") " -Heartsome_NaNa (19-Oct-21)
+* 303: "Where's Boozewash when you're talking about skin peels" -Rosuav (26-Oct-21)
+* 304: "1 have 3 Grade A Booties" -DeviCat (26-Oct-21)
+* 305: "Oh she's ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/306361532/default/light/1.0 "devicatAww") up by the elbw!" -DeviCat (26-Oct-21)
 
 There may be quotes newer than these that have yet to be collected.
 
