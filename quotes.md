@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 307 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 308 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -115,7 +115,7 @@ number N.
 * 100: "Hello, My name is Rachelle! ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v2/306361925/default/light/1.0 "devicatTada") ." -DeviCat (02-Apr-21)
 * 101: "oh sweet we are finally doing a true to life picture of SakuraKoneko" -Speed_Freak86 (03-Apr-21)
 * 102: "PLZ STARE INTO MY SOUL. ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v2/306361744/default/light/1.0 "devicatEh") ." -SakuraKoneko (03-Apr-21)
-* 103: "I was using my own hands as reference. ShowOfHands ." -DeviCat (05-Apr-21)
+* 103: "I was using my own hands as reference. ![ShowOfHands](https://static-cdn.jtvnw.net/emoticons/v2/303564554/default/light/1.0 "ShowOfHands") ." -DeviCat (05-Apr-21)
 * 104: "Your Professional Hat is GLUED ON, STAPLED, and LASER WELDED to your head, and it is spangled with diamonds and encrusted with FABULOSITY." -roget1030: (06-Apr-21)
 * 105: "a photon is checking into a hotel. the bellhop asks "do you have any luggage?" and the photon replies, "nope. i'm travelling light." ![2020Wish](https://static-cdn.jtvnw.net/emoticons/v2/304822055/default/light/1.0 "2020Wish") ." -EuphoniumHero6 (06-Apr-21)
 * 106: "That would be rather awkward, RedFox. I can't imagine dating someone named February." -Rosuav (06-Apr-21)
@@ -320,6 +320,7 @@ number N.
 * 305: "Oh she's ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/306361532/default/light/1.0 "devicatAww") up by the elbw!" -DeviCat (26-Oct-21)
 * 306: "Forgive me, but there are no bits and bobs showing." -DeviCat (27-Oct-21)
 * 307: "Who needs sleep… I only need cute!" -Loroshy (27-Oct-21)
+* 308: "Candi is here to chew butt and kick gum, and she's all out of gum" -Outfrost (30-Oct-21)
 
 There may be quotes newer than these that have yet to be collected.
 
