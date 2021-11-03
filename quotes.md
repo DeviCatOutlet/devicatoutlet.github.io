@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 308 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 309 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -321,6 +321,7 @@ number N.
 * 306: "Forgive me, but there are no bits and bobs showing." -DeviCat (27-Oct-21)
 * 307: "Who needs sleep… I only need cute!" -Loroshy (27-Oct-21)
 * 308: "Candi is here to chew butt and kick gum, and she's all out of gum" -Outfrost (30-Oct-21)
+* 309: "Yea, it's Tuesday night for me" -DeviCat (02-Nov-21)
 
 There may be quotes newer than these that have yet to be collected.
 
