@@ -22,12 +22,11 @@ Contact DeviCat here:
 [devicatoutlet@gmail.com](mailto:devicatoutlet@gmail.com)
 
 💌 Send mail to: 💌<br>
-<b>DeviCat <br>
-PO Box 30034 <br>
-Prospect Plaza <br>
+<b>DeviCat Design Studios <br>
+PO BOX 3294 <br>
 Fredericton, NB <br>
 Canada <br>
-E3B 0H8 </b> <br>
+E3A 5H1 </b> <br>
 
 <i>To anyone interested in sending something more than lettermail to our PO Box,
 please take note of the following:</i>
