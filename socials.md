@@ -2,9 +2,10 @@
 
 <b>Links:</b> <br>
 
-- [Discord](https://discord.gg/devicat)
-- [FaceBook](https://facebook.com/DeviCatOfficial)
-- [Instagram](https://instagram.com/devicatoutlet)
-- [Ko-fi](https://ko-fi.com/devicatoutlet)
-- [Twitch](https://twitch.tv/devicat)
-- [Twitter](https://twitter.com/devicatoutlet)
+- [Discord](https://www.discord.gg/devicat)
+- [FaceBook](https://www.facebook.com/DeviCatOfficial)
+- [Instagram](https://www.instagram.com/devicatoutlet)
+- [Ko-fi](https://www.ko-fi.com/devicatoutlet)
+- [TikTok](https://www.tiktok.com/@devicatoutlet)
+- [Twitch](https://www.twitch.tv/devicat)
+- [Twitter](https://www.twitter.com/devicatoutlet)
