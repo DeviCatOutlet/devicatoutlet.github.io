@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 312 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 313 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -325,6 +325,7 @@ number N.
 * 310: "How about you boo. ![Kappa](https://static-cdn.jtvnw.net/emoticons/v2/25/default/light/1.0 "Kappa") ." -DeviCat (03-Nov-21)
 * 311: "my completely dark room is shining in all the colors of the rainbow thanks to chat hahaha ♥ ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78661efaf6ec44a0ba95d08a29f6e5f9/default/light/1.0 "devicatShiny") ." -Loroshy (03-Nov-21)
 * 312: "I wanna look more closely at the blob." -DeviCat (15-Nov-21)
+* 313: "It looks Brighter! like almost shiny! That is it, more ligther! more light and bright, and sparkly shine! ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78661efaf6ec44a0ba95d08a29f6e5f9/default/light/1.0 "devicatShiny") ." -Tef_Bannow (24-Nov-21)
 
 There may be quotes newer than these that have yet to be collected.
 
