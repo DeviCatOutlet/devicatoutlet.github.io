@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 316 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 317 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -329,6 +329,7 @@ number N.
 * 314: "I love hands!" -DeviCat (30-Nov-21)
 * 315: "Forget this, im keeping my eyes in my head" -DeviCat (30-Nov-21)
 * 316: ""If you vanish you get caught." -- hmmm... explains why my ninjas have been less than successful recently ![:/](https://static-cdn.jtvnw.net/emoticons/v2/433/default/light/1.0 ":/") ." -Tinzien (06-Dec-21)
+* 317: "How does one record a quote or become quoted?" -Karinarrew (08-Dec-21)
 
 There may be quotes newer than these that have yet to be collected.
 
