@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 320 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 321 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -333,6 +333,7 @@ number N.
 * 318: "I have a support system. I call it my chair." -Rosuav (13-Dec-21)
 * 319: "A great second support system is a bed" -Blacksouls92 (13-Dec-21)
 * 320: "The coast is clear. The men on the beach are gone." -DeviCat (15-Dec-21)
+* 321: "That's a lot of pens I don't need that much stationary ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v2/306362004/default/light/1.0 "devicatSpook") ." -DeviCat (29-Dec-21)
 
 There may be quotes newer than these that have yet to be collected.
 
