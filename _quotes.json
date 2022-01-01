@@ -75,7 +75,8 @@
     "devicatUwU": "306361930",
     "panicBasket": "22998"
   },
-  "quotes": [
+  "quotes": [null],
+  "quotes2021": [
     null,
     "\"I can hear him with the hammer downstairs. devicatPow .\" -DeviCat (01-Jan-21)",
     "\"And yes, it says \"1 quotes\". I trust that this won't be a problem for long.\" -Rosuav (01-Jan-21)",
@@ -1517,6 +1518,7 @@
   ],
   "sections": {
     "quotes2019": "In the years up to 2019",
-    "quotes2020": "In 2020 (aka 'the first year of quarantine')"
+    "quotes2020": "In 2020 (aka 'the first year of quarantine')",
+    "quotes2021": "In 2021, up to and including the final timezone-modified day of the Gregorian calendar"
   }
 }
