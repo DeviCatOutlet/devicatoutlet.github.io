@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 0 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 1 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -14,6 +14,7 @@ number N.
 * [Quotes from 2021](quotes2021)
 * [Latest quotes](quotes)
 
+* 1: "not this already Erin! it's 2022" -itsLizabelle (01-Jan-22)
 
 There may be quotes newer than these that have yet to be collected.
 
