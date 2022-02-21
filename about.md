@@ -1,7 +1,5 @@
 # About
-![](img/dclogo.png)
-
-* ### DeviCat
+![](img/dc.png)
 
 DeviCat is a self-taught digital artist and has been live streaming their work on Twitch.tv since 2015.
 
