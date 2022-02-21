@@ -1,5 +1,5 @@
 # About
-* ![](img/dclogo.png)
+![](img/dclogo.png)
 
 * ### DeviCat
 
