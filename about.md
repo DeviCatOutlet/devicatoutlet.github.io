@@ -3,15 +3,9 @@
 * ![](img/dclogo.png)
 
 * ## About DeviCat
-  * **Name:** Rachelle 
-  * **Nationality:** Canadian
-  * **Role:** Digital Artist & Owner of DeviCat Design Studios
-
   ---
 
-Rachelle is a self-taught digital artist and has been live streaming her work on Twitch.tv since 2015.
-
-In 2021, she became a small shop owner featuring her character, CandiCat. Her dream is to create designs that others can resonate with; to put a smile on their face and a warmth in their hearts.
+DeviCat is a self-taught digital artist and has been live streaming their work on Twitch.tv since 2015.
 
 “I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them.” - DeviCat
 
