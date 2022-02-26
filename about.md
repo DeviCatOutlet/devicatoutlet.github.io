@@ -1,7 +1,7 @@
 # About
 ![](img/dc.png)
 
-DeviCat is a self-taught digital artist and has been live streaming their work on Twitch.tv since 2015.
+･✧Artist & Owner of DeviCat Design Studios, DeviCat is a self-taught digital artist who has been live streaming their projects on Twitch since 2015･✧
 
 “I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them.” - DeviCat
 
