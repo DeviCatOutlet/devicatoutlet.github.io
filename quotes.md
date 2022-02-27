@@ -19,7 +19,8 @@ number N.
 * 3: "I say it now and then, because there's me, and there's me, and I made me to help me do things more efficiently, so when me calls me for help, me can get me to fix me, because it's all working to solve my problems. ![devicatSip](https://static-cdn.jtvnw.net/emoticons/v2/306362029/default/light/1.0 "devicatSip") ." -Rosuav (26-Jan-22)
 * 4: "The cake is much tastier than me ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v2/306362103/default/light/1.0 "devicatNom") ." -DeviCat (29-Jan-22)
 * 5: "The eyes look like scrambled eggs!" -DeviCat (08-Feb-22)
-* <missing quote 6, ask CandiCat for it please>
+* 6: "Its the eyes they Look like scrambled eggs 👀 ." -DeviCat (08-Feb-22)
 * 7: "This is now the finger dance, I don't know ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/306362153/default/light/1.0 "devicatLoL") ." -DeviCat (23-Feb-22)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
