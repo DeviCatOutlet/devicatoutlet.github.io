@@ -1,5 +1,6 @@
 # Gallery
 
+![Mirukupannn DTIYS](img/MirukupannnDTIYS2022.png)
 ![AlealArt DTIYS](img/AlealArt2022.png)
 ![Marmewa DTIYS](img/MarmewaDTIYS2022.png)
 ![Lolonuno DTIYS](img/LolonunoDTIYS2022.png)
