@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 7 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 8 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -21,6 +21,7 @@ number N.
 * 5: "The eyes look like scrambled eggs!" -DeviCat (08-Feb-22)
 * 6: "Its the eyes they Look like scrambled eggs 👀 ." -DeviCat (08-Feb-22)
 * 7: "This is now the finger dance, I don't know ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/306362153/default/light/1.0 "devicatLoL") ." -DeviCat (23-Feb-22)
+* 8: "Take a moment and breathe deep. You are amazing!" -Candi (28-Feb-22)
 
 There may be quotes newer than these that have yet to be collected.
 
