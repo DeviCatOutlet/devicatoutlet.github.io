@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 9 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 10 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -23,6 +23,7 @@ number N.
 * 7: "This is now the finger dance, I don't know ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/306362153/default/light/1.0 "devicatLoL") ." -DeviCat (23-Feb-22)
 * 8: "Take a moment and breathe deep. You are amazing!" -Candi (28-Feb-22)
 * 9: "Oreo sent me a box full of dragons!" -DeviCat (02-Mar-22)
+* 10: "Then we chop the pupils! ahhahahaha ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ." -DeviCat (04-Mar-22)
 
 There may be quotes newer than these that have yet to be collected.
 
