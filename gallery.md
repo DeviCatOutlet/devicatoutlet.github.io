@@ -1,5 +1,7 @@
 # Gallery
 
+![CandiCat Dango Girl](img/CandiCatDangoGirl2022.png)
+![AtomicKawaii DTIYS](img/AtomicKawaiiDTIYS2022.png)
 ![Mirukupannn DTIYS](img/MirukupannnDTIYS2022.png)
 ![AlealArt DTIYS](img/AlealArt2022.png)
 ![Marmewa DTIYS](img/MarmewaDTIYS2022.png)
