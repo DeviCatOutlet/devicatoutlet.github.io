@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 18 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 20 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -32,6 +32,7 @@ number N.
 * 16: "Such a serene expression, sitting on the moon , looking like cotton candy ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/306361930/default/light/1.0 "devicatUwU") !" -bu_metal_desu (27-Apr-22)
 * 17: "Hi yes im one of your irl audience im the 3rd frog sitting on the branch i was suggested to you by my brother in Frogs Frogsuav ![OSFrog](https://static-cdn.jtvnw.net/emoticons/v2/81248/default/light/1.0 "OSFrog") ." -PotatoYouGotToGo: (30-Apr-22)
 * 18: "Celebrate the elbow!" -DeviCat (02-May-22)
+* <missing quote 19, ask CandiCat for it please>
+* 20: "Hi, i was suggested your stream by my previous self GoldBondItchPowder she said you were a fantastic human bean who sparkled pastel sparkles. She said i would enjoy the kawaii anime art along with the casual Candi quoting us out of contact trying to take over the world." -PotatoYouGotToGo: (03-May-22)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
