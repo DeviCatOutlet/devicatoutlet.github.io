@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 22 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 23 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -36,6 +36,7 @@ number N.
 * 20: "Hi, i was suggested your stream by my previous self GoldBondItchPowder she said you were a fantastic human bean who sparkled pastel sparkles. She said i would enjoy the kawaii anime art along with the casual Candi quoting us out of contact trying to take over the world." -PotatoYouGotToGo: (03-May-22)
 * 21: "Netflix is dangerous. I saw they added a lot of shoes." -OhayoLiz: (06-May-22)
 * 22: "What did the show salesman say to the centipede? I'm going to need to measure the size of your foot, your foot, your foot, your foot......." -Ironmania2003: (06-May-22)
+* 23: "I literally am looking at some Lindor chocolate right now" -DeviCat (07-May-22)
 
 There may be quotes newer than these that have yet to be collected.
 
