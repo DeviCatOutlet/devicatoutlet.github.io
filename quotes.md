@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 29 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 31 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -43,6 +43,8 @@ number N.
 * 27: "I'm adding quotes to the bot because y'all are all saying something adorable!" -DeviCat (11-May-22)
 * 28: "it is... pleasantly crunchy" -AwfullyArtsy: (13-May-22)
 * 29: "Your fins are beautiful ![SabaPing](https://static-cdn.jtvnw.net/emoticons/v2/160402/default/light/1.0 "SabaPing") ." -beauation (16-May-22)
+* 30: "You are all the bomb dot com!" -TalesofTLove (16-May-22)
+* 31: "MY FACE WAS IN MY PASTA" -MomoEsquire (17-May-22)
 
 There may be quotes newer than these that have yet to be collected.
 
