@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 34 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 37 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -48,6 +48,9 @@ number N.
 * 32: "You're going to get ![devicatPow](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7034ea1bf3c14b5aaa3b5640ae0151f6/default/light/1.0 "devicatPow") obliterated, not-friend!" -DeviCat (23-May-22)
 * 33: "Do you know what the ❄️ coolest ❄️ letter of the alphabet is? ..... The letter B, because it's in the AC." -juice_tex: (24-May-22)
 * 34: "The head is gone!!!! ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v2/306362004/default/light/1.0 "devicatSpook") ." -DeviCat (25-May-22)
+* 35: "Do you even lift, Mother nature?"" -"Devicat: (27-May-22)
+* 36: "Listen, listen --- But, anyways. ![devicatSip](https://static-cdn.jtvnw.net/emoticons/v2/306362029/default/light/1.0 "devicatSip") " -Devicat (27-May-22)
+* 37: "Don't worry I lurk in the bushes" -DeviCat (27-May-22)
 
 There may be quotes newer than these that have yet to be collected.
 
