@@ -6,10 +6,9 @@
 “I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them.” - DeviCat
 
 ---
-
-
-
 ---
+
+<button class="ml-onclick-form" onclick="ml('show', 'EJ5upT', true)">Subscribe for email updates</button>
 
 Contact DeviCat here:
 {: .email}
