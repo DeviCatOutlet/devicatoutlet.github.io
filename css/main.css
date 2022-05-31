@@ -284,6 +284,13 @@ nav > a, nav > .nav-menucontainer {
 nav > .keep {
 	margin-bottom: -3rem; /* Let the Home button drift below its frame a bit */
 }
+
+.ml-onclick-form {
+	font-size: 18px;
+	background-color: #f599ff;
+	color: white;
+}
+
 /* Below 822px of width, collapse to Raptor Mode */
 @media (max-width: 822px)
 {
