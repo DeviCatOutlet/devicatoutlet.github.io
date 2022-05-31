@@ -289,6 +289,8 @@ nav > .keep {
 	font-size: 18px;
 	background-color: #f599ff;
 	color: white;
+	border: 2px solid white;
+	border-radius: 5px;
 }
 
 /* Below 822px of width, collapse to Raptor Mode */
