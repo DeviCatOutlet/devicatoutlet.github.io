@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 42 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 45 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -56,6 +56,9 @@ number N.
 * 40: "I wanna make my room into a jungle 🌱🌱🌱 ." -60MinuteGaming: (30-May-22)
 * 41: "I heard things from the kitchen and I was a bit concerned ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v2/306361744/default/light/1.0 "devicatEh") ." -8feelings: (31-May-22)
 * 42: "Hi YES! I just killed a mosquito, so gracefully!" -Devicat: (31-May-22)
+* 43: "The only thing that I refuse to draw is hippos. They are terrifying creatures of mass muscle." -Karinarrew: (06-Jun-22)
+* 44: "if the goldfish memory people United we forget why we got together? ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/306362153/default/light/1.0 "devicatLoL") ." -ChiMotosua: (06-Jun-22)
+* 45: "No feet for you ![devicatGrr](https://static-cdn.jtvnw.net/emoticons/v2/306361815/default/light/1.0 "devicatGrr") ." -DeviCat (06-Jun-22)
 
 There may be quotes newer than these that have yet to be collected.
 
