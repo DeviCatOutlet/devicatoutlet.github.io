@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 45 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 50 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -59,6 +59,10 @@ number N.
 * 43: "The only thing that I refuse to draw is hippos. They are terrifying creatures of mass muscle." -Karinarrew: (06-Jun-22)
 * 44: "if the goldfish memory people United we forget why we got together? ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/306362153/default/light/1.0 "devicatLoL") ." -ChiMotosua: (06-Jun-22)
 * 45: "No feet for you ![devicatGrr](https://static-cdn.jtvnw.net/emoticons/v2/306361815/default/light/1.0 "devicatGrr") ." -DeviCat (06-Jun-22)
+* 46: "First water, then skin." -DeviCat (08-Jun-22)
+* 47: "We can literally just pull up my hand!" -DeviCat (08-Jun-22)
+* <missing quote 48, ask CandiCat for it please>
+* 49: "Devi, how would you react, if you became so good at art, that you were visited by a strange woman, who said " I've seen artists like you with talent like that, I recall even seeing one simply snap their finger, making the stylus levitate to them ", and when you turned around, she vanished, and then the stylus levitated when you snapped your finger?" -owl_0f_books: (08-Jun-22)
+* 50: "HELLO JAPAN IT'S ME DEVICAT ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v2/306361925/default/light/1.0 "devicatTada") ." -DeviCat (08-Jun-22)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
