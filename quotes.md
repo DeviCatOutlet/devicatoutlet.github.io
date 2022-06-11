@@ -61,8 +61,9 @@ number N.
 * 45: "No feet for you ![devicatGrr](https://static-cdn.jtvnw.net/emoticons/v2/306361815/default/light/1.0 "devicatGrr") ." -DeviCat (06-Jun-22)
 * 46: "First water, then skin." -DeviCat (08-Jun-22)
 * 47: "We can literally just pull up my hand!" -DeviCat (08-Jun-22)
-* <missing quote 48, ask CandiCat for it please>
+* 48: "only 47 quotes? slackers!!" -EuphoniumHero6 (08-Jun-22)
 * 49: "Devi, how would you react, if you became so good at art, that you were visited by a strange woman, who said " I've seen artists like you with talent like that, I recall even seeing one simply snap their finger, making the stylus levitate to them ", and when you turned around, she vanished, and then the stylus levitated when you snapped your finger?" -owl_0f_books: (08-Jun-22)
 * 50: "HELLO JAPAN IT'S ME DEVICAT ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v2/306361925/default/light/1.0 "devicatTada") ." -DeviCat (08-Jun-22)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
