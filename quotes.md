@@ -51,7 +51,7 @@ number N.
 * 35: "Do you even lift, Mother nature?"" -"Devicat: (27-May-22)
 * 36: "Listen, listen --- But, anyways. ![devicatSip](https://static-cdn.jtvnw.net/emoticons/v2/306362029/default/light/1.0 "devicatSip") " -Devicat (27-May-22)
 * 37: "Don't worry I lurk in the bushes" -DeviCat (27-May-22)
-* 38: "Just let it rip! All the EVIL! Just let it go! devicatSpook" -Devicat: (27-May-22)
+* 38: "Just let it rip! All the EVIL! Just let it go! ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v2/306362004/default/light/1.0 "devicatSpook") ." -Devicat: (27-May-22)
 * 39: "I might have to shrink you guys both down" -DeviCat (28-May-22)
 * 40: "I wanna make my room into a jungle 🌱🌱🌱 ." -60MinuteGaming: (30-May-22)
 * 41: "I heard things from the kitchen and I was a bit concerned ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v2/306361744/default/light/1.0 "devicatEh") ." -8feelings: (31-May-22)
