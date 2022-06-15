@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 50 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 54 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -64,6 +64,10 @@ number N.
 * 48: "only 47 quotes? slackers!!" -EuphoniumHero6 (08-Jun-22)
 * 49: "Devi, how would you react, if you became so good at art, that you were visited by a strange woman, who said " I've seen artists like you with talent like that, I recall even seeing one simply snap their finger, making the stylus levitate to them ", and when you turned around, she vanished, and then the stylus levitated when you snapped your finger?" -owl_0f_books: (08-Jun-22)
 * 50: "HELLO JAPAN IT'S ME DEVICAT ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v2/306361925/default/light/1.0 "devicatTada") ." -DeviCat (08-Jun-22)
+* 51: "Devi Cat Design Studios Incorporated international industries ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/306362153/default/light/1.0 "devicatLoL") ." -owl_0f_books: (14-Jun-22)
+* 52: "Now I prefer to be called Owl on and off Twitch, because I have the same appetite, and also silent ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -owl_0f_books: (14-Jun-22)
+* 53: "I will motivate you to do the thing and you *will like it* ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -QuirkyQwerssie: (14-Jun-22)
+* 54: "The neck is on its own now." -DeviCat (14-Jun-22)
 
 There may be quotes newer than these that have yet to be collected.
 
