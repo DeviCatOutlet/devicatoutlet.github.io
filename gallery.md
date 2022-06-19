@@ -2,7 +2,6 @@
 
 ![Trytryagain DTIYS](img/TrytryagainDTIYS2022.png)
 ![Huignip DTIYS](img/huignipDTIYS2022.png)
-![Huignip DTIYS](img/huignipDTIYS2022.png)
 ![CandiCat Mermaid Girl](img/CandiCatMermaidGirl2022.png)
 ![Etoile Animal Crossing](img/EtoileAnimalCrossing2022.png)
 ![Ceresria DTIYS](img/CeresriaDTIYS2022.png)
