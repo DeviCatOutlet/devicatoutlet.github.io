@@ -2,7 +2,6 @@
 
 <b>Links:</b> <br>
 
-- [Artfol](https://artfol.me/devicat)
 - [Discord](https://www.discord.gg/devicat)
 - [FaceBook](https://www.facebook.com/DeviCatOfficial)
 - [Instagram](https://www.instagram.com/devicatoutlet)
