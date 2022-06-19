@@ -1,5 +1,12 @@
 # Gallery
 
+![Trytryagain DTIYS](img/TrytryagainDTIYS2022.png)
+![Huignip DTIYS](img/huignipDTIYS2022.png)
+![Huignip DTIYS](img/huignipDTIYS2022.png)
+![CandiCat Mermaid Girl](img/CandiCatMermaidGirl2022.png)
+![Etoile Animal Crossing](img/EtoileAnimalCrossing2022.png)
+![Ceresria DTIYS](img/CeresriaDTIYS2022.png)
+![Mikator1bunn DTIYS](img/Mikator1bunnDTIYS2022.png)
 ![CandiCat Dango Girl](img/CandiCatDangoGirl2022.png)
 ![AtomicKawaii DTIYS](img/AtomicKawaiiDTIYS2022.png)
 ![Mirukupannn DTIYS](img/MirukupannnDTIYS2022.png)
