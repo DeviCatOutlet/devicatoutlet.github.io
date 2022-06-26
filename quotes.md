@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 64 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 66 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -78,6 +78,8 @@ number N.
 * 62: "You wear a drawing glove when you draw, but you learn to draw by making boxes. Does that mean a novice artist should wear a boxing glove?" -Rosuav: (24-Jun-22)
 * 63: "supremedoom56: coffee yielding husbands are the best ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_33736950f4084ee2b0f617751c5bb72f/default/light/1.0 "devicatTea") ." - (24-Jun-22)
 * 64: "I don't see how @DeviCat 's coffee can ever go cold. chat's love and support for her keeps it hot ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_33736950f4084ee2b0f617751c5bb72f/default/light/1.0 "devicatTea") ." -Ironmania2003: (24-Jun-22)
+* 65: "I have to ignore the cherry for now and do a sticker giveaway!" -DeviCat (25-Jun-22)
+* 66: "I was about to ![devicatGG](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2b3fa3c3e7ed4041a32ae7f004db3ba9/default/light/1.0 "devicatGG") , and then you called my name!" -mlasuk (25-Jun-22)
 
 There may be quotes newer than these that have yet to be collected.
 
