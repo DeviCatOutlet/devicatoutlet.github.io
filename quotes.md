@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 66 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 70 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -80,6 +80,10 @@ number N.
 * 64: "I don't see how @DeviCat 's coffee can ever go cold. chat's love and support for her keeps it hot ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_33736950f4084ee2b0f617751c5bb72f/default/light/1.0 "devicatTea") ." -Ironmania2003: (24-Jun-22)
 * 65: "I have to ignore the cherry for now and do a sticker giveaway!" -DeviCat (25-Jun-22)
 * 66: "I was about to ![devicatGG](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2b3fa3c3e7ed4041a32ae7f004db3ba9/default/light/1.0 "devicatGG") , and then you called my name!" -mlasuk (25-Jun-22)
+* 67: "as always devi is our personified weighted blanket ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/1.0 "devicatLove") ." -sirenova_: (27-Jun-22)
+* 68: "Houseflies - better known as sky raisins ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v2/306361744/default/light/1.0 "devicatEh") ..." -camaesoultamer (27-Jun-22)
+* 69: "Sometimes you just gotta throw caution to the wind, and... add catJAM cat jams." -DeviCat (27-Jun-22)
+* 70: "Devi: where did the time go? --- me: I ate it, it was deliciously sweet because I love my time here and there's tons of candy ![devicatCandy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_57997d1aa4794e9b90cef8b24f2b54ab/default/light/1.0 "devicatCandy") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78661efaf6ec44a0ba95d08a29f6e5f9/default/light/1.0 "devicatShiny") ." -Ayumikii: (28-Jun-22)
 
 There may be quotes newer than these that have yet to be collected.
 
