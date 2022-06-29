@@ -154,7 +154,9 @@ html {overflow: overlay;}
 }
 .show-modal #popup figure {top: 0px; opacity: 1;}
 #popup figcaption {
-	text-align: center;
+	margin: auto;
+	width: max-content;
+	padding: 0 0.5em;
 	background: white;
 	border: 1px solid rebeccapurple;
 }
