@@ -1,5 +1,6 @@
 # Gallery
 
+![Shyfoxx DTIYS](img/ShyfoxxDTIYS2022.png)
 ![Trytryagain DTIYS](img/TrytryagainDTIYS2022.png)
 ![Huignip DTIYS](img/huignipDTIYS2022.png)
 ![CandiCat Mermaid Girl](img/CandiCatMermaidGirl2022.png)
