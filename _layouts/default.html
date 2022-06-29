@@ -80,7 +80,7 @@
   </main>
 
 <div id=fader></div>
-<div id="popup"><div><img src="https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/3.0" alt="[placeholder devicatLove]" role="presentation"><div id="popup-caption"></div></div></div>
+<div id="popup"><figure><figcaption></figcaption><img src="https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/3.0" alt="[placeholder devicatLove]" role="presentation"></figure></div>
 
 <footer>
   <p>
@@ -100,7 +100,7 @@ document.querySelectorAll('#gallery ~ p img').forEach(img => {
 	const imgname = "#" + /img\/(.*)\.(png|jpg)$/.exec(img.src)[1];
 	img.onclick = gallery[imgname] = function(ev) {
 		document.querySelector('#popup img').src = img.src;
-		//document.getElementById('#modal-caption').textContent = img.alt; //TODO: Style these up nicely and then enable them
+		document.querySelector('#popup figcaption').textContent = img.alt;
 		document.documentElement.classList.add("show-modal");
 		history.replaceState(this.src, "", imgname);
 		if (ev) ev.stopPropagation();
