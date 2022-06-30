@@ -77,7 +77,7 @@ number N.
 * 61: "Hi, Yes im brand new to twitch (dont mind the sword )" -PotatoYouGotToGo: (21-Jun-22)
 * 62: "You wear a drawing glove when you draw, but you learn to draw by making boxes. Does that mean a novice artist should wear a boxing glove?" -Rosuav: (24-Jun-22)
 * 63: "supremedoom56: coffee yielding husbands are the best ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_33736950f4084ee2b0f617751c5bb72f/default/light/1.0 "devicatTea") ." - (24-Jun-22)
-* 64: "I don't see how @DeviCat 's coffee can ever go cold. chat's love and support for her keeps it hot ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_33736950f4084ee2b0f617751c5bb72f/default/light/1.0 "devicatTea") ." -Ironmania2003: (24-Jun-22)
+* 64: "I don't see how Devi Cat 's coffee can ever go cold. chat's love and support for her keeps it hot ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_33736950f4084ee2b0f617751c5bb72f/default/light/1.0 "devicatTea") ." -Ironmania2003: (24-Jun-22)
 * 65: "I have to ignore the cherry for now and do a sticker giveaway!" -DeviCat (25-Jun-22)
 * 66: "I was about to ![devicatGG](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2b3fa3c3e7ed4041a32ae7f004db3ba9/default/light/1.0 "devicatGG") , and then you called my name!" -mlasuk (25-Jun-22)
 * 67: "as always devi is our personified weighted blanket ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/1.0 "devicatLove") ." -sirenova_: (27-Jun-22)
