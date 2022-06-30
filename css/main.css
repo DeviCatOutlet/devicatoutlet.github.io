@@ -155,10 +155,14 @@ html {overflow: overlay;}
 .show-modal #popup figure {top: 0px; opacity: 1;}
 #popup figcaption {
 	margin: auto;
+	margin-bottom: .5em;
 	width: max-content;
-	padding: 0 0.5em;
+	padding: 0.5em;
 	background: white;
-	border: 1px solid rebeccapurple;
+	border-radius: .75em;
+	box-shadow: 0 5px 0 #555;
+	font-size: 1.2em;
+	color: #222;
 }
 
 /* The Aboot page has a lot of magic to it :( */
