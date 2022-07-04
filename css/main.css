@@ -358,6 +358,15 @@ nav > .keep {
 a {text-decoration: none;}
 .active {text-decoration: underline;}
 
+
+.newsletter {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 1em;
+}
+
+
 /* Hide from screenreaders (they're scary!) */
 .screenreader {
     position: absolute;
