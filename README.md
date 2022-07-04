@@ -12,6 +12,8 @@ To build and test locally:
 It should auto-detect changes to Markdown or layout files. If you change the
 configuration in _config.yml, restart Jekyll.
 
+To make the site available on the LAN, add your local IP: `-H 192.168.0.123`
+
 To customize a group of pages, add front-matter to the pages thus:
     ---
     category: foo
