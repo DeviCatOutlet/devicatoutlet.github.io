@@ -4,9 +4,20 @@
 	box-sizing: border-box;
 }
 
+/* colors */
+:root {
+	--white: white;
+	--black: #2e2570;
+	--pink: #f3afff;
+	--purple: #6777ff;
+	--light-purple: #9084fb;
+	--blue: #a1e5ff;
+	--bg-color: 
+}
+
 /* Site-wide global styling */
 body {
-	background-color: #f0f0f0;
+	background: url(/img/bg.svg) cover;
 	margin: 0;
 	font-family: sans-serif;
 	line-height: 1.5; /* TODO: Simplify the various line-height and top/bottom margin rules for headings etc */
