@@ -4,30 +4,33 @@
 	box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 /* colors */
 :root {
+/* white is white, however in the future it may not be white */
 	--white: white;
 	--black: #2e2570;
 	--pink: #f3afff;
 	--purple: #6777ff;
 	--light-purple: #9084fb;
 	--blue: #a1e5ff;
-	--bg-color: 
+	--bg-color: #f3afff40; 
 }
 
 /* Site-wide global styling */
 body {
-	background: url(/img/bg.svg) cover;
+	background: var(--bg-color);
 	margin: 0;
-	font-family: sans-serif;
+	font-family: 'Roboto', sans-serif;
 	line-height: 1.5; /* TODO: Simplify the various line-height and top/bottom margin rules for headings etc */
 }
 
 main {
-	background-color: #ffffff;
-	border-radius: 5px;
-	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.15);
-	padding: 20px 15px;
+	background-color: var(--white);
+	border-radius: 20px;
+	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.05);
+	padding: 40px 40px;
 	margin-top: 40px;
 	margin-left: auto;
 	margin-right: auto;
