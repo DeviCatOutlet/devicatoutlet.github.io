@@ -352,10 +352,10 @@ nav input:checked ~ * {
 	display: block;
 }
 nav img {
-	width: 77px;
+	width: 48px;
 }
 nav a {
-	color: black;
+	color: var(--pink);
 	font-weight: normal;
 }
 nav > a,
@@ -436,7 +436,7 @@ a {
 	text-decoration: none;
 }
 .active {
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 .newsletter {
