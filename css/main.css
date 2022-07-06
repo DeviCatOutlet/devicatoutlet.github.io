@@ -40,7 +40,7 @@ main {
 }
 
 a {
-	color: #087cb8;
+	color: var(--purple);
 	font-weight: bold;
 }
 
@@ -320,8 +320,8 @@ ul.cards li {
 /* The nav bar and its hamburger button */
 nav {
 	z-index: 1030;
-	background-color: #f8f9fa;
-	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.15);
+	background-color: var(--white);
+	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.05);
 	display: flex;
 	flex-flow: row nowrap;
 	align-items: center;
