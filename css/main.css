@@ -103,7 +103,7 @@ footer {
 	text-align: center;
 	margin-top: 100px;
 	background: var(--white);
-	padding: 12px;
+	padding: 40px;
 }
 footer svg,
 footer img {
@@ -220,7 +220,7 @@ html {
 	margin-bottom: 0.5em;
 	width: max-content;
 	padding: 0.5em;
-	background: white;
+	background: var(--white);
 	border-radius: 0.75em;
 	box-shadow: 0 5px 0 #555;
 	font-size: 1.2em;
@@ -367,8 +367,8 @@ nav > .keep {
 
 .ml-onclick-form {
 	font-size: 18px;
-	background-color: #f599ff;
-	color: white;
+	background-color: var(--pink);
+	color: var(--pink);
 	border: 2px solid white;
 	border-radius: 5px;
 	padding: 32px;
@@ -420,7 +420,7 @@ nav > .keep {
 	flex-direction: column;
 	padding: 0.5em;
 	margin: 0.125em;
-	background-color: #fff;
+	background-color: var(--white);
 	border: 1px solid black;
 	border-radius: 0.25em;
 }
