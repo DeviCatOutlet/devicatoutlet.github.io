@@ -318,6 +318,7 @@ ul.cards li {
 }
 
 /* The nav bar and its hamburger button */
+/* Android minimum suggested touch height is 48px and Apple is 44px */
 nav {
 	z-index: 1030;
 	background-color: var(--white);
@@ -326,7 +327,7 @@ nav {
 	flex-flow: row nowrap;
 	align-items: center;
 	padding: 0.5rem 0;
-	min-height: 74px;
+	min-height: 48px;
 }
 nav input {
 	/* The magical checkbox */
