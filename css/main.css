@@ -201,8 +201,8 @@ html {
 #popup {
 	position: fixed;
 	left: 0;
-	top: 0;
 	right: 0;
+	top: 0;
 	bottom: 0;
 	z-index: 2000;
 	visibility: hidden;
@@ -215,12 +215,10 @@ html {
 /* Fade the image in and pull it in from above the screen */
 #popup figure {
 	position: relative;
-	top: -500px;
 	opacity: 0;
-	transition: top 0.5s, opacity 0.5s;
+	transition: opacity 0.2s, opacity 0.2s ease-in-out;
 }
 .show-modal #popup figure {
-	top: 0px;
 	opacity: 1;
 }
 #popup figcaption {
