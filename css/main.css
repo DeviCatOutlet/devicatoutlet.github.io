@@ -159,9 +159,12 @@ img {
 	box-shadow: 0 0 7px rgba(0, 0, 0, 0.20)
 }
 #gallery ~ p img:hover {
-	box-shadow: 0 0 9px rgba(0,0,0,0.30);
-	transform: translateY(-2px);
+	box-shadow: 0 4px 7px rgba(0,0,0,0.30);
+	transform: translateY(-4px);
+	transition: 160ms ease-in-out all;
 }
+
+#gallery ~ h1
 
 .wrap {
 	/* Specific to gallery */
