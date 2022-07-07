@@ -434,8 +434,9 @@ nav > .keep { /* Let the Home button drift below its frame a bit */
 		display: none;
 	}
 
-	.ul.cards.layout {
-		grid-template-columns: 1fr;
+	.ul.cards{
+		display: grid;
+		grid-template-columns: auto ;
 	}
 }
 
