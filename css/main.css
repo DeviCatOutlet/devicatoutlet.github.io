@@ -281,8 +281,8 @@ em img {
 
 /* Home only */
 ul.cards {
-	display: flex;
-	flex-wrap: wrap;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
 	margin: 0;
 	padding: 0;
 }
@@ -426,6 +426,10 @@ nav > .keep { /* Let the Home button drift below its frame a bit */
 	/* On mobile, hide the Jumbotron with the channel embed */
 	.jumbotron {
 		display: none;
+	}
+
+	.ul.cards {
+		grid-template-columns: 1fr;
 	}
 }
 
