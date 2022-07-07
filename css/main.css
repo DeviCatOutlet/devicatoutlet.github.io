@@ -130,14 +130,8 @@ div ul {
 
 /* Home only */
 .jumbotron {
-	background-image: url("../img/Sprinkle_Banner.png");
-	background-attachment: fixed;
-	background-position: 0% 0%;
-	background-repeat: no-repeat;
-	background-size: 100vw;
-	height: 100%;
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
 	padding: 4rem 2rem;
 }
 
