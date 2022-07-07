@@ -384,8 +384,7 @@ nav a:hover {
 }
 
 nav a:active {
-	box-shadow: 0px 2px 0 rgba(0, 0, 0, 0.3);
-	transform: translateY(0px);
+	transform: translateY(2px);
 }
 
 nav > a,
