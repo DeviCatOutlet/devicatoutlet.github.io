@@ -407,6 +407,11 @@ nav > .keep { /* Let the Home button drift below its frame a bit */
 	padding: 32px;
 }
 
+.ml-embedded {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
 /* Below 822px of width, collapse to Raptor Mode */
 @media (max-width: 822px) {
 	nav {
