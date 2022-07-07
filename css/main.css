@@ -150,6 +150,12 @@ img {
 	max-width: 100%;
 }
 
+#gallery p {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
 /* Lightbox for image gallery */
 #gallery ~ p img {
 	max-height: 300px;
