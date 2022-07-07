@@ -155,13 +155,15 @@ img {
 	max-height: 300px;
 	cursor: pointer;
 	margin: 20px;
-	border: 1px solid #ddd;
-	border-radius: 0.25rem;
+	border-radius: 20px;
 	padding: 10px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.15)
 }
 #gallery ~ p img:hover {
-	opacity: 0.8;
+	box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+	transform: translateY(-2px);
 }
+
 .wrap {
 	/* Specific to gallery */
 	display: flex;
