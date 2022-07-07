@@ -1,11 +1,12 @@
-*, ::after, ::before {
+*,
+::after,
+::before {
 	box-sizing: border-box;
 }
 
 /* Site-wide global styling */
 body {
 	background-color: #f0f0f0;
-	padding-top: 60px;
 	margin: 0;
 	font-family: sans-serif;
 	line-height: 1.5; /* TODO: Simplify the various line-height and top/bottom margin rules for headings etc */
@@ -17,9 +18,11 @@ main {
 	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.15);
 	padding: 20px 15px;
 	margin-top: 40px;
-	margin-left: auto; margin-right: auto;
+	margin-left: auto;
+	margin-right: auto;
 	width: calc(100% - 90px);
-	max-width: 1140px; min-width: 400px;
+	max-width: 1140px;
+	min-width: 400px;
 }
 
 a {
@@ -27,36 +30,55 @@ a {
 	font-weight: bold;
 }
 
-ul, p {margin-top: 0;}
+ul,
+p {
+	margin-top: 0;
+}
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
 	text-align: center;
 	font-weight: 500; /* Medium, rather than full bold. Is this coffee or text? */
-	margin: 0 0 .5rem 0;
+	margin: 0 0 0.5rem 0;
 	line-height: 1.2;
 }
 
-h1 {font-size: 2.5em;}
-h2 {font-size: 2em;}
+h1 {
+	font-size: 2.5em;
+}
+h2 {
+	font-size: 2em;
+}
 /* If there are two adjacent head-ones, the second is a sort of subheading. Size it like a head-three. */
-h3, h1~h1 {font-size: 1.75em;}
-h4 {font-size: 1.5em;}
+h3,
+h1 ~ h1 {
+	font-size: 1.75em;
+}
+h4 {
+	font-size: 1.5em;
+}
 
-h2:before, h2:after {
+h2:before,
+h2:after {
 	display: inline-block;
 	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg");
 	position: relative;
-	top: 0.5em; left: -0.25em;
+	top: 0.5em;
+	left: -0.25em;
 	margin-left: 0.4em;
 	margin-top: -0.25em;
 	width: 1.5em;
 }
 
-h3:before, h3:after {
+h3:before,
+h3:after {
 	display: inline-block;
 	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/2728.svg");
 	position: relative;
-	top: 0.3333em; left: -0.33333em;
+	top: 0.3333em;
+	left: -0.33333em;
 	margin-left: 0.4em;
 	margin-top: -0.25em;
 	width: 1.5em;
@@ -66,17 +88,24 @@ h3:before, h3:after {
 footer {
 	text-align: center;
 	margin-top: 100px;
-	background: #E3E3E3;
+	background: #e3e3e3;
 	padding: 12px;
 }
-footer svg, footer img {
+footer svg,
+footer img {
 	display: inline-block;
 	height: 32px;
 	margin: 0 8px; /* Comply with Instagram's TOS by having half an icon of gap */
 }
 /* Trim the outside margins to fit the footer images on slightly smaller screens w/o wrapping */
-footer a:first-child img, footer a:first-child svg {margin-left: 0;}
-footer a:last-child img, footer a:last-child svg {margin-right: 0;}
+footer a:first-child img,
+footer a:first-child svg {
+	margin-left: 0;
+}
+footer a:last-child img,
+footer a:last-child svg {
+	margin-right: 0;
+}
 
 ul.layout li {
 	list-style: none;
@@ -113,60 +142,80 @@ img {
 	cursor: pointer;
 	margin: 20px;
 	border: 1px solid #ddd;
-	border-radius: .25rem;
+	border-radius: 0.25rem;
 	padding: 10px;
 }
-#gallery ~ p img:hover{
+#gallery ~ p img:hover {
 	opacity: 0.8;
 }
-.wrap { /* Specific to gallery */
+.wrap {
+	/* Specific to gallery */
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
 }
 /* Clicking Gallery images pops them up, fading the rest of the page. */
 /* Pre-allocate room for the scrollbars, where supported */
-html {overflow: overlay;}
-.show-modal {overflow: hidden;}
+html {
+	overflow: overlay;
+}
+.show-modal {
+	overflow: hidden;
+}
 #fader {
 	position: fixed;
-	left: 0; top: 0; right: 0; bottom: 0;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
 	background: rgba(0, 0, 0, 0);
 	z-index: -1;
-	transition: background .25s, z-index .25s;
+	transition: background 0.25s, z-index 0.25s;
 }
-.show-modal #fader {background: rgba(0, 0, 0, 0.5); z-index: 1999;}
+.show-modal #fader {
+	background: rgba(0, 0, 0, 0.5);
+	z-index: 1999;
+}
 #popup {
 	position: fixed;
-	left: 0; top: 0; right: 0; bottom: 0;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
 	z-index: 2000;
 	visibility: hidden;
 	overflow: auto;
-	transition: visibility .5s;
+	transition: visibility 0.5s;
 }
-.show-modal #popup {visibility: visible;}
+.show-modal #popup {
+	visibility: visible;
+}
 /* Fade the image in and pull it in from above the screen */
 #popup figure {
 	position: relative;
 	top: -500px;
 	opacity: 0;
-	transition: top .5s, opacity .5s;
+	transition: top 0.5s, opacity 0.5s;
 }
-.show-modal #popup figure {top: 0px; opacity: 1;}
+.show-modal #popup figure {
+	top: 0px;
+	opacity: 1;
+}
 #popup figcaption {
 	margin: auto;
-	margin-bottom: .5em;
+	margin-bottom: 0.5em;
 	width: max-content;
 	padding: 0.5em;
 	background: white;
-	border-radius: .75em;
+	border-radius: 0.75em;
 	box-shadow: 0 5px 0 #555;
 	font-size: 1.2em;
 	color: #222;
 }
 
 /* The Aboot page has a lot of magic to it :( */
-h1#about, h1#home {
+h1#about,
+h1#home {
 	/* Hide the "Home" and "About" headings - they aren't necessary. */
 	/* TODO: If they're of value to screenreaders, is there a better way to hide them? */
 	/* Their presence, however, can affect the styles of subsequent elements. */
@@ -224,7 +273,7 @@ ul.cards img {
 
 ul.cards li {
 	border: 1px solid #ddd;
-	border-radius: .25rem;
+	border-radius: 0.25rem;
 	margin: 10px;
 	text-align: center;
 }
@@ -235,13 +284,17 @@ ul.cards li {
 #contact ~ ul a {
 	font-weight: bold;
 }
-.left-align img {margin: 0;} /* Contact page only */
+.left-align img {
+	margin: 0;
+} /* Contact page only */
 
-.email:before, .email:after {
+.email:before,
+.email:after {
 	display: inline-block;
 	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/1f48c.svg");
 	position: relative;
-	top: 0.5em; left: -0.25em;
+	top: 0.5em;
+	left: -0.25em;
 	margin-left: 0.4em;
 	margin-top: -0.25em;
 	width: 1.5em;
@@ -252,32 +305,37 @@ ul.cards li {
 
 /* The nav bar and its hamburger button */
 nav {
-	position: fixed;
-	top: 0; left: 0; right: 0.5em; /* Since the page has preallocated scrollbar space, ensure the nav doesn't overlap that */
 	z-index: 1030;
 	background-color: #f8f9fa;
 	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.15);
-	display: flex; flex-flow: row nowrap;
+	display: flex;
+	flex-flow: row nowrap;
 	align-items: center;
-	padding: .5rem 0;
+	padding: 0.5rem 0;
 	min-height: 74px;
 }
 nav input {
 	/* The magical checkbox */
 	position: absolute;
-	width: 43px; height: 37px;
+	width: 43px;
+	height: 37px;
 	display: none;
 	opacity: 0;
 }
-#raptor_button {display: none;}
+#raptor_button {
+	display: none;
+}
 #raptor_button div {
 	/* The three lines of the hamburger menu */
-	width: 33px; height: 4px;
+	width: 33px;
+	height: 4px;
 	background: #cdcdcd;
 	border-radius: 3px;
 	margin: 0 0 5px 3px;
 }
-nav input:checked ~ * {display: block}
+nav input:checked ~ * {
+	display: block;
+}
 nav img {
 	width: 77px;
 }
@@ -285,8 +343,9 @@ nav a {
 	color: black;
 	font-weight: normal;
 }
-nav > a, nav > .nav-menucontainer {
-	padding: .5rem;
+nav > a,
+nav > .nav-menucontainer {
+	padding: 0.5rem;
 }
 nav > .keep {
 	margin-bottom: -3rem; /* Let the Home button drift below its frame a bit */
@@ -302,13 +361,13 @@ nav > .keep {
 }
 
 /* Below 822px of width, collapse to Raptor Mode */
-@media (max-width: 822px)
-{
+@media (max-width: 822px) {
 	nav {
 		flex-direction: column;
 		align-items: start;
 	}
-	nav input, #raptor_button {
+	nav input,
+	#raptor_button {
 		display: block;
 		cursor: pointer;
 		padding: 5px;
@@ -319,7 +378,8 @@ nav > .keep {
 		position: absolute;
 		left: calc(50% - 77px / 2);
 	}
-	nav > a, nav > .nav-menucontainer {
+	nav > a,
+	nav > .nav-menucontainer {
 		display: none;
 	}
 	/* On mobile, hide the Jumbotron with the channel embed */
@@ -330,7 +390,7 @@ nav > .keep {
 
 .dropdown-menu a {
 	display: block;
-	padding: .25rem 1.5rem;
+	padding: 0.25rem 1.5rem;
 	color: #212529;
 	white-space: nowrap;
 }
@@ -350,14 +410,19 @@ nav > .keep {
 	border: 1px solid black;
 	border-radius: 0.25em;
 }
-.nav-dropdown[aria-expanded="false"] ~ .nav-submenu {display: none;}
+.nav-dropdown[aria-expanded="false"] ~ .nav-submenu {
+	display: none;
+}
 .nav-submenu a {
 	color: #212529;
 	margin: 0.25em 1em;
 }
-a {text-decoration: none;}
-.active {text-decoration: underline;}
-
+a {
+	text-decoration: none;
+}
+.active {
+	text-decoration: underline;
+}
 
 .newsletter {
 	display: flex;
@@ -366,13 +431,14 @@ a {text-decoration: none;}
 	margin-top: 1em;
 }
 
-
 /* Hide from screenreaders (they're scary!) */
 .screenreader {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
 }
 
-hr {margin-bottom: 1rem;}
+hr {
+	margin-bottom: 1rem;
+}
