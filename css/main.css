@@ -152,9 +152,10 @@ img {
 
 #gallery h1 {
 	text-align: center;
-	font-family: 'Montez', cursive;
+	font-family: 'Montez', sans-serif;
 	color: var(--black);
 	font-size: 4em;
+	font-weight: 400;
 }
 
 #gallery p {
