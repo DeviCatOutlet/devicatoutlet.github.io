@@ -164,8 +164,6 @@ img {
 	transition: 160ms ease-in-out all;
 }
 
-#gallery ~ h1
-
 .wrap {
 	/* Specific to gallery */
 	display: flex;
