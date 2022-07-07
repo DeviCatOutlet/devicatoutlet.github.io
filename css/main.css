@@ -328,6 +328,7 @@ nav {
 	align-items: center;
 	padding: 0.5rem 0;
 	min-height: 48px;
+	gap: 8
 }
 nav input {
 	/* The magical checkbox */
@@ -436,7 +437,7 @@ a {
 	text-decoration: none;
 }
 .active {
-	text-decoration: none;
+	border: 1px solid var(--pink);
 }
 
 .newsletter {
