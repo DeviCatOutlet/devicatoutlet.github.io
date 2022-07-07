@@ -326,15 +326,20 @@ ul.cards li {
 /* The nav bar and its hamburger button */
 /* Android minimum suggested touch height is 48px and Apple is 44px */
 nav {
-	z-index: 1030;
 	background-color: var(--white);
 	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.05);
 	display: flex;
 	flex-flow: row nowrap;
 	align-items: center;
 	min-height: 48px;
+	width: calc(100% - 90px);
+	min-width: 400px;
+	max-width: 1140px;
 	gap: 8px;
 	padding: 0 50px;
+	margin: auto;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
 
 }
 nav input {
