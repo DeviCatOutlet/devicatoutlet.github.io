@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 74 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 79 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -88,6 +88,11 @@ number N.
 * 72: "Ads are basically the house fly you get in your home 🪰 ." -TheDankOreo: (28-Jun-22)
 * 73: "We are not a cult! We are an art club ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v2/306361616/default/light/1.0 "devicatCool") ." -mncrft1030: (28-Jun-22)
 * 74: "We are cute adults! ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/306361930/default/light/1.0 "devicatUwU") ." -QuirkyQwerssie: (30-Jun-22)
+* 75: "Not being subbed in this channel is illegal. ![devicatGrr](https://static-cdn.jtvnw.net/emoticons/v2/306361815/default/light/1.0 "devicatGrr") ." -PumpkinDays: (07-Jul-22)
+* 76: "white is white, however in the future it may not be white" -HallwayRaptor (07-Jul-22)
+* 77: "i'ma hide under blankets if I'm not in chat dw i'm still here ![devicatCozy](https://static-cdn.jtvnw.net/emoticons/v2/306361689/default/light/1.0 "devicatCozy") ." -QuirkyQwerssie: (07-Jul-22)
+* 78: "But arent you a magical girl ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/306361930/default/light/1.0 "devicatUwU") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78661efaf6ec44a0ba95d08a29f6e5f9/default/light/1.0 "devicatShiny") ." -LePhoenixReborn: (07-Jul-22)
+* 79: "Devi Cat would you like to be a magical girl? 📜 just sign this contract and I'll grant any one wish you have!" -Ironmania2003: (07-Jul-22)
 
 There may be quotes newer than these that have yet to be collected.
 
