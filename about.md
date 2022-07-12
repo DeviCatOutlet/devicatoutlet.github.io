@@ -8,8 +8,6 @@
 ---
 ---
 
-<button class="ml-onclick-form" onclick="ml('show', 'EJ5upT', true)">Subscribe for email updates</button>
-
 Contact DeviCat here:
 {: .email}
 [devicatoutlet@gmail.com](mailto:devicatoutlet@gmail.com)
