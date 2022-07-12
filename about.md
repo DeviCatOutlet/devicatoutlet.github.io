@@ -5,8 +5,8 @@
 
 “I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them.” - DeviCat
 
----
----
+<!-- ---
+--- -->
 
 Contact DeviCat here:
 {: .email}
