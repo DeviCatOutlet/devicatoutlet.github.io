@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 82 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 83 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -96,6 +96,7 @@ number N.
 * 80: "I'm pumped to be a part of the computer. ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/306363361/default/light/1.0 "devicatParty") ." -abigailemmertart (09-Jul-22)
 * 81: "the worst part about being a lefty is never having a right answer ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -Speed_Freak86: (09-Jul-22)
 * 82: "i'm gonna go to bed devi! It's past midnight, i hope you have a wonderful stream! I'm gonna have a dream game of my own ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/306362153/default/light/1.0 "devicatLoL") ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v2/306362171/default/light/1.0 "devicatHug") ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/1.0 "devicatLove") ." -JadeChan_cosplay: (12-Jul-22)
+* 83: "I'm going to attempt the shadow technique. Ooh fancy!" -Devicat: (14-Jul-22)
 
 There may be quotes newer than these that have yet to be collected.
 
