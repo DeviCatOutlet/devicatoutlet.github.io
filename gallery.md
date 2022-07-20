@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat In Space](img/CandiCatSpaceCat2022.png)
 ![Goddess Madoka - Madoka Magica](img/GoddessMadoka2022.png)
 ![Sakura Hatsune Miku - Vocaloid](img/HatsuneMikuSakura2022.png)
 ![Shyfoxx DTIYS](img/ShyfoxxDTIYS2022.png)
