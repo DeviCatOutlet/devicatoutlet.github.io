@@ -1,13 +1,14 @@
 # Gallery
 
-![Sakura Hatsune Miku](img/HatsuneMikuSakura2022.png)
+![Goddess Madoka - Madoka Magica](img/GoddessMadoka2022.png)
+![Sakura Hatsune Miku - Vocaloid](img/HatsuneMikuSakura2022.png)
 ![Shyfoxx DTIYS](img/ShyfoxxDTIYS2022.png)
 ![CandiCat IceCream](img/CandiCatIceCream2022.png)
 ![Trytryagain DTIYS](img/TrytryagainDTIYS2022.png)
 ![Huignip DTIYS](img/huignipDTIYS2022.png)
 ![CandiCat Sakura](img/CandiCatSakura2022.png)
 ![CandiCat Mermaid Girl](img/CandiCatMermaidGirl2022.png)
-![Etoile Animal Crossing](img/EtoileAnimalCrossing2022.png)
+![Etoile - Animal Crossing](img/EtoileAnimalCrossing2022.png)
 ![Ceresria DTIYS](img/CeresriaDTIYS2022.png)
 ![CandiCat Plush](img/CandiCatPlush.png)
 ![Mikator1bunn DTIYS](img/Mikator1bunnDTIYS2022.png)
@@ -27,5 +28,5 @@
 ![CandiCat Jumping Girl](img/CandiCatJump2021.jpg)
 ![CandiCat Magical Girl](img/CandiCatMagicalGirl2021.png)
 ![CardCaptor Sakura Clear Card](img/CardCaptorSakuraCC2021.png)
-![Madoka Magica](img/MadokaMagica2021.png)
+![Kaname Madoka - Madoka Magica](img/MadokaMagica2021.png)
 {: .wrap}
