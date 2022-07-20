@@ -28,6 +28,13 @@
 ![CandiCat BobaTea Girl](img/CCBobaTeaGirl2021.jpg)
 ![CandiCat Jumping Girl](img/CandiCatJump2021.jpg)
 ![CandiCat Magical Girl](img/CandiCatMagicalGirl2021.png)
+![CardCaptor Pumpkin](img/CandiCatPumpkin2021.png)
 ![CardCaptor Sakura Clear Card](img/CardCaptorSakuraCC2021.png)
 ![Kaname Madoka - Madoka Magica](img/MadokaMagica2021.png)
+![CandiCat Bubbles](img/CandiCatBubbles2021.png)
+![CandiCat Party](img/CandiCatParty2021.png)
+![Sakura Petals](img/SakuraPetals2021.png)
+![Birthday Cake](img/BirthdayCake2021.png)
+![Twilight Cloud](img/TwilightCloud2021.png)
+![Wendy - Animal Crossing](img/WendyAC2020.png)
 {: .wrap}
