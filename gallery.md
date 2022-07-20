@@ -35,6 +35,7 @@
 ![CandiCat Party](img/CandiCatParty2021.png)
 ![Sakura Petals](img/SakuraPetals2021.png)
 ![Birthday Cake](img/BirthdayCake2021.png)
+![Save With Determination](img/SaveWithCuteness.png)
 ![Twilight Cloud](img/TwilightCloud2021.png)
 ![Wendy - Animal Crossing](img/WendyAC2020.png)
 {: .wrap}
