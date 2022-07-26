@@ -99,7 +99,8 @@ number N.
 * 83: "I'm going to attempt the shadow technique. Ooh fancy!" -Devicat: (14-Jul-22)
 * 84: "TheGuiltyPillow: so when you announce a giveaway, I do the thing with my sweets? ![devicatCandy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_57997d1aa4794e9b90cef8b24f2b54ab/default/light/1.0 "devicatCandy") ." - (15-Jul-22)
 * 85: "Don't mind me, I just have to check my thumb." -DeviCat (16-Jul-22)
-* <missing quote 86, ask CandiCat for it please>
+* 86: "i suppose aw-pic is much better than ew-some" -EuphoniumHero6: (19-Jul-22)
 * 87: "binawhile: I like to think the glove on your right hand weighs 1,000 kg and you wear it to train up your drawing hand." - (22-Jul-22)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
