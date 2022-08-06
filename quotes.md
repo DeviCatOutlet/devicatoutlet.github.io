@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 95 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 96 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -93,7 +93,7 @@ number N.
 * 77: "i'ma hide under blankets if I'm not in chat dw i'm still here ![devicatCozy](https://static-cdn.jtvnw.net/emoticons/v2/306361689/default/light/1.0 "devicatCozy") ." -QuirkyQwerssie: (07-Jul-22)
 * 78: "But arent you a magical girl ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/306361930/default/light/1.0 "devicatUwU") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78661efaf6ec44a0ba95d08a29f6e5f9/default/light/1.0 "devicatShiny") ." -LePhoenixReborn: (07-Jul-22)
 * 79: "Devi Cat would you like to be a magical girl? 📜 just sign this contract and I'll grant any one wish you have!" -Ironmania2003: (07-Jul-22)
-* 80: "I'm pumped to be a part of the computer. ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/306363361/default/light/1.0 "devicatParty") ." -abigailemmertart (09-Jul-22)
+* 80: "I'm pumped to be a part of the computer. ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_332e4cbcced649689e6497683c8138c4/default/light/1.0 "devicatParty") ." -abigailemmertart (09-Jul-22)
 * 81: "the worst part about being a lefty is never having a right answer ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -Speed_Freak86: (09-Jul-22)
 * 82: "i'm gonna go to bed devi! It's past midnight, i hope you have a wonderful stream! I'm gonna have a dream game of my own ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/306362153/default/light/1.0 "devicatLoL") ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1e44201bceed40b09614ea4ced824ed1/default/light/1.0 "devicatHug") ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/1.0 "devicatLove") ." -JadeChan_cosplay: (12-Jul-22)
 * 83: "I'm going to attempt the shadow technique. Ooh fancy!" -Devicat: (14-Jul-22)
@@ -107,7 +107,9 @@ number N.
 * 91: "Devi is going to take all your hard candy work and grind it to duuuusssssttttttt. But it's out of love. ![devicatCandy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_57997d1aa4794e9b90cef8b24f2b54ab/default/light/1.0 "devicatCandy") ." -TriellFreschi: (30-Jul-22)
 * 92: "you can drop links, but please don't break them. cleanup is a pain." -EuphoniumHero6: (02-Aug-22)
 * 93: "So far the ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ec59d93f5c264a2982e8853a29704801/default/light/1.0 "devicatAww") is winning." -DeviCat (04-Aug-22)
-* <missing quote 94, ask CandiCat for it please>
+* 94: "Actually, that's a lie. Hands." -DeviCat (04-Aug-22)
 * 95: "That's a dragon 🐉. Not a bat 🦇. There's a difference." -DeviCat (04-Aug-22)
+* 96: "I'm going to bring out that hand again." -DeviCat (06-Aug-22)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
