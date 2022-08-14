@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 102 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 103 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -116,6 +116,7 @@ number N.
 * 100: "Your art gives me cavities! You need a redeem titled “brush your teeth" ![devicatSip](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_56120231405e4afdbea6596b4ca42786/default/light/1.0 "devicatSip") …" -bu_metal_desu (12-Aug-22)
 * 101: "a lil orange in everyones pocket 🍊" -orangeboy25: (12-Aug-22)
 * 102: "Take orange and draw a happy face on it. You now have your own Orange Boy who will encourage and support you wherever you go ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/1.0 "devicatLove") ." -wizardprincess9: (12-Aug-22)
+* 103: "You're seeing things perfectly. ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") Perfectly pink!" -DeviCat (13-Aug-22)
 
 There may be quotes newer than these that have yet to be collected.
 
