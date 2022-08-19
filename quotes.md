@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 104 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 105 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -118,6 +118,7 @@ number N.
 * 102: "Take orange and draw a happy face on it. You now have your own Orange Boy who will encourage and support you wherever you go ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/1.0 "devicatLove") ." -wizardprincess9: (12-Aug-22)
 * 103: "You're seeing things perfectly. ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") Perfectly pink!" -DeviCat (13-Aug-22)
 * 104: "I'll move on to slightly fanicer fish. This colourful delightful graceful fish... and I shall name him Microwave." -TiggyDoodler (16-Aug-22)
+* 105: "I have a finger.... and a thumb..... that I need to blend." -DeviCat (18-Aug-22)
 
 There may be quotes newer than these that have yet to be collected.
 
