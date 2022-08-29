@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 107 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 109 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -121,6 +121,8 @@ number N.
 * 105: "I have a finger.... and a thumb..... that I need to blend." -DeviCat (18-Aug-22)
 * 106: "yeah not bad. Looks like a corn dog with arms and legs right now, but eventually it will be a lovely butterfly!" -AuroraLee1013: (20-Aug-22)
 * 107: "Very Halloweenie" -DeviCat (22-Aug-22)
+* 108: "my snowcat lives on my twitch hat and is very happy with it's candycat pin sisters" -Ironmania2003: (27-Aug-22)
+* 109: "Catvideos, I was studying your dress for fabric reference!" -DeviCat (27-Aug-22)
 
 There may be quotes newer than these that have yet to be collected.
 
