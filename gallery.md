@@ -1,5 +1,6 @@
 # Gallery
 
+![Jennummi DTIYS 2022](img/JennummiDTIYS2022.png)
 ![Kokorokiruya DTIYS 2022](img/kokorokiruyaDTIYS2022.png)
 ![vvendyarts DTIYS 2022](img/vvendyartsDTIYS2022.png)
 ![CandiCat Dango 2022](img/CandiCatDangoCat2022.png)
