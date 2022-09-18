@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 111 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 112 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -125,6 +125,7 @@ number N.
 * 109: "Catvideos, I was studying your dress for fabric reference!" -DeviCat (27-Aug-22)
 * 110: "Level 1 Potted Plant 🌱" -sweetenedwithgluten: (05-Sep-22)
 * 111: "Medicinal Youtube, it consists primarily of cat videos ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v2/306361575/default/light/1.0 "devicatButt") ." -Rosuav: (13-Sep-22)
+* 112: "Can you imagine anything bigger though.. Like 500 dogs.. That would be so expensive" -Zhaefari: (16-Sep-22)
 
 There may be quotes newer than these that have yet to be collected.
 
