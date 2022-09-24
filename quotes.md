@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 114 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 116 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -128,6 +128,8 @@ number N.
 * 112: "Can you imagine anything bigger though.. Like 500 dogs.. That would be so expensive" -Zhaefari: (16-Sep-22)
 * 113: "How did the sticker end up in the dishwasher anyway??" -DeviCat (20-Sep-22)
 * 114: "Wendy's Addams. Her heart is as cold as her ice cream. 🍦💔" -Rosuav: (20-Sep-22)
+* 115: "Your sacrifice was not acceptable. Afford me greater worship. ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") " -Rosuav: (23-Sep-22)
+* 116: "If a donkey is anything like a rabbit, I'm okay." -DeviCat (23-Sep-22)
 
 There may be quotes newer than these that have yet to be collected.
 
