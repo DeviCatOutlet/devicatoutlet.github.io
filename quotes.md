@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 122 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 123 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -136,6 +136,7 @@ number N.
 * 120: "Erin, You you have 1. ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -DeviCat (01-Oct-22)
 * 121: "It seems like Candi doesnt want to b on Tinder" -DeviCat (10-Oct-22)
 * 122: "Feet are like hands, just... built a little bit funnier." -DeviCat (11-Oct-22)
+* 123: "OMG there's ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/1.0 "devicatLove") so ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53bd0461e4f74eb08979139b9e837736/default/light/1.0 "devicatHug") many ![bleedPurple](https://static-cdn.jtvnw.net/emoticons/v2/62835/default/light/1.0 "bleedPurple") hearts!" -DeviCat (22-Oct-22)
 
 There may be quotes newer than these that have yet to be collected.
 
