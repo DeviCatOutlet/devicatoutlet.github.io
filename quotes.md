@@ -70,7 +70,7 @@ number N.
 * 54: "The neck is on its own now." -DeviCat (14-Jun-22)
 * 55: "I am fluffy now" -thepeachiestprince: (15-Jun-22)
 * 56: "Those ones suck! Those can burn in a fire!" -Devicat: (15-Jun-22)
-* 57: "Devi is a light in the dark mode Twitch devicatUwU" -QuirkyQwerssie: (17-Jun-22)
+* 57: "Devi is a light in the dark mode Twitch ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14668786f9fe4f8cadd31be05efaed57/default/light/1.0 "devicatUwU") ." -QuirkyQwerssie: (17-Jun-22)
 * 58: "Yes, I'm working on skin now. Beautiful, beautiful skin!" -Devicat: (18-Jun-22)
 * 59: "PainterAme: Thanks! Walruses are life, walruses are love -- and tea is the best drink ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_33736950f4084ee2b0f617751c5bb72f/default/light/1.0 "devicatTea") ." - (20-Jun-22)
 * 60: "I have 10000 dream candy in my heart. ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/1.0 "devicatLove") " -MarkedFang: (21-Jun-22)
