@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 124 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 126 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -138,6 +138,8 @@ number N.
 * 122: "Feet are like hands, just... built a little bit funnier." -DeviCat (11-Oct-22)
 * 123: "OMG there's ![devicatLove](https://static-cdn.jtvnw.net/emoticons/v2/307350032/default/light/1.0 "devicatLove") so ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53bd0461e4f74eb08979139b9e837736/default/light/1.0 "devicatHug") many ![bleedPurple](https://static-cdn.jtvnw.net/emoticons/v2/62835/default/light/1.0 "bleedPurple") hearts!" -DeviCat (22-Oct-22)
 * 124: "My name is Polish and gets more butchered than a teen in a horror movie." -marktutajdraws (28-Oct-22)
+* 125: "I have no pattern. And no matching socks." -CunningQuill: (29-Oct-22)
+* 126: "Devi had a little lamb, a little lamb, and a little lamb... but that's all, only three. 🐑 🐑 🐑" -Rosuav: (03-Nov-22)
 
 There may be quotes newer than these that have yet to be collected.
 
