@@ -1,5 +1,6 @@
 # Gallery
 
+![MarissaMJ Art DTIYS 2022](img/MarissaMJArtDTIYS2022.png)
 ![CandiCat Pumpkin Party 2022](img/CCPumpkinParty2022.png)
 ![CandiCat Witch 2022](img/CandiCatWitch2022.png)
 ![Ealya Art DTIYS 2022](img/EalyaArtDTIYS2022.png)
