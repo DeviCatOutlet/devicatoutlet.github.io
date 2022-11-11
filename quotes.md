@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 127 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 128 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -141,6 +141,7 @@ number N.
 * 125: "I have no pattern. And no matching socks." -CunningQuill: (29-Oct-22)
 * 126: "Devi had a little lamb, a little lamb, and a little lamb... but that's all, only three. 🐑 🐑 🐑" -Rosuav: (03-Nov-22)
 * 127: "Yes, yes it is. I make no apologies for eating bacon." -Rosuav: (08-Nov-22)
+* 128: "OH NO! ![devicatSpook](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fad8b5fe334e41c5b1cd767fdd33c301/default/light/1.0 "devicatSpook") Broken, I broke your legs!!" -DeviCat (10-Nov-22)
 
 There may be quotes newer than these that have yet to be collected.
 
