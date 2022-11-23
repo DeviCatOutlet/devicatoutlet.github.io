@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 132 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 134 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -146,6 +146,8 @@ number N.
 * 130: "You ALWAYS want to have candy on you ![devicatCandy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_57997d1aa4794e9b90cef8b24f2b54ab/default/light/1.0 "devicatCandy") ." -DeviCat (17-Nov-22)
 * 131: "Why have cake when you can be a cake. ![devicatCake](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d6e5c22b15ea4c9a9f075f99ab20c616/default/light/1.0 "devicatCake") ." -DeviCake (19-Nov-22)
 * 132: "Obey..... Obey the cake hat. ![devicatCake](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d6e5c22b15ea4c9a9f075f99ab20c616/default/light/1.0 "devicatCake") Obey." -DeviCat (19-Nov-22)
+* 133: "when i see your name I keep thinking BirbLikey instead of BirdLikely" -DeviCat (22-Nov-22)
+* 134: "Cuteness overload for Photoshop ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_205b69abc2a44c47b939c9033bd04db9/default/light/1.0 "devicatAww") !" -StevenPreston (22-Nov-22)
 
 There may be quotes newer than these that have yet to be collected.
 
