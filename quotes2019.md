@@ -50,7 +50,7 @@ be seen in chat, but have been archived here with their original numbers.
 * 35: " I will call him.... minibit." -TreyCalico (27-Jun-16)
 * 36: "It's so cute to see you with your sweet little voice singing to a deep bass drop song." -Rebekah_erhardt (30-Jun-16)
 * 37: "Where did I put my grass? devicatSMUG " -Devi_Cat (15-Jul-16)
-* 38: "CutieCupCake. It's like the mobile version. ![<3](https://static-cdn.jtvnw.net/emoticons/v2/445/default/light/1.0 "<3") PJSugar " -SkyePyro (06-Aug-16)
+* 38: "CutieCupCake. It's like the mobile version. ![<3](https://static-cdn.jtvnw.net/emoticons/v2/445/default/light/1.0 "<3") ![PJSugar](https://static-cdn.jtvnw.net/emoticons/v2/102556/default/light/1.0 "PJSugar") " -SkyePyro (06-Aug-16)
 * 39: "[ Jessabot]: ' I cried 6 oceans of tears for Midna!' [ Speedfreak86]: ' Aren't there 7?' [ Jessabot ]: ' I'm saving the 7th for later!'" -Jessabot & Speed_Freak86 (12-Aug-16)
 * 40: " I'm gonna conquer the world today...by shaving my face!! >:3 " -devi_cat (16-Aug-16)
 * 41: ""If you need something white, make it blue"" -DEVI_CAT (28-Aug-16)
@@ -255,7 +255,7 @@ be seen in chat, but have been archived here with their original numbers.
 * 240: "Who needs algae when you pick mushrooms" -DeviCat (23-Dec-17)
 * 241: "YES I DID IT! GOODBYE CHICKEN" -DeviCat (24-Dec-17)
 * 242: "It is always supposed to be dusty in Devi streams." -DeviCat (27-Dec-17)
-* 243: "Always light on the horizon. And if there isn't, there's normally a Mcdonalds and they do great McFlurrys. PJSugar ." -burningoil (27-Dec-17)
+* 243: "Always light on the horizon. And if there isn't, there's normally a Mcdonalds and they do great McFlurrys. ![PJSugar](https://static-cdn.jtvnw.net/emoticons/v2/102556/default/light/1.0 "PJSugar") ." -burningoil (27-Dec-17)
 * 244: "Oh, it's story time. No eggplant for you." -DeviCat (30-Dec-17)
 * 245: "is Bennett Foddy the talkie guy or the bucket guy devicatEH ." -HallwayRaptor (30-Dec-17)
 * 246: "Apparently i pickaxed the Bat devicatEH ." -DeviCat (30-Dec-17)
@@ -750,5 +750,5 @@ be seen in chat, but have been archived here with their original numbers.
 * 735: "What is art? baby don't hurt me don't hurt me no more . devicatSPOOK ." -devicat (28-Dec-19)
 * 736: "Someone is doing something..... I feel it in my feathers" -Ducky245 (31-Dec-19)
 
-There may be quotes newer than these that have yet to be collected.
+Quotes newer than this are found in subsequent archival pages.
 

@@ -55,6 +55,7 @@ by the faithful bot and the mod team. %s
 				m = re.search(r"-(\w+) \([0-9][0-9]-[A-Z][a-z][a-z]-[0-9][0-9]\)$", quote)
 				if m: most_quoted[name_fold.setdefault(m.group(1).casefold(), m.group(1))] += 1
 		if missing: print("\nThis list is missing %d quotes, plus any that have been recently added." % len(missing), file=f)
+		elif filename != "quotes": print("\nQuotes newer than this are found in subsequent archival pages.\n", file=f)
 		else: print("\nThere may be quotes newer than these that have yet to be collected.\n", file=f)
 
 quotes = cache["quotes"]
