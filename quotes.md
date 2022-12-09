@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 136 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 137 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -150,6 +150,7 @@ number N.
 * 134: "Cuteness overload for Photoshop ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_205b69abc2a44c47b939c9033bd04db9/default/light/1.0 "devicatAww") !" -StevenPreston (22-Nov-22)
 * 135: "hes the man of many shorts ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") " -SuspiciousTumble: (02-Dec-22)
 * 136: "I'd argue for purple, but I make everything purple so I shouldn't be trusted ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -Doctor_Glasgow: (05-Dec-22)
+* 137: "i don't drop swear words. i gently caress them and then lovingly place them exactly where they are meant to be so they stay intact on the way down." -EuphoniumHero6: (08-Dec-22)
 
 There may be quotes newer than these that have yet to be collected.
 
