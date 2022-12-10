@@ -1,5 +1,7 @@
 # Gallery
 
+![ManyaDraws DTIYS 2022](img/ManyaDrawsDTIYS2022.png)
+![Lauwriii DTIYS 2022](img/lauwriiiDTIYS2022.png)
 ![CandiCat Christmas Stocking 2022](img/CandiCatChristmasStocking2022.png)
 ![Fiyunae DTIYS 2022](img/FiyunaeDTIYS2022.png)
 ![CandiCat Pumpkin Party 2022](img/CCPumpkinParty2022.png)
