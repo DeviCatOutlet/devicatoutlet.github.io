@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 138 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 139 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -152,6 +152,7 @@ number N.
 * 136: "I'd argue for purple, but I make everything purple so I shouldn't be trusted ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -Doctor_Glasgow: (05-Dec-22)
 * 137: "i don't drop swear words. i gently caress them and then lovingly place them exactly where they are meant to be so they stay intact on the way down." -EuphoniumHero6: (08-Dec-22)
 * 138: "When you say "just being a fridge", what you really mean is "just chilling. "" -Rosuav: (12-Dec-22)
+* 139: ""Grass starter" sounds like a packet of seeds. Though I hope they don't have a "fire starter", that could be a bit awkward." -Rosuav: (13-Dec-22)
 
 There may be quotes newer than these that have yet to be collected.
 
