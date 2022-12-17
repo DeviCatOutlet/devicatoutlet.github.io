@@ -153,7 +153,8 @@ number N.
 * 137: "i don't drop swear words. i gently caress them and then lovingly place them exactly where they are meant to be so they stay intact on the way down." -EuphoniumHero6: (08-Dec-22)
 * 138: "When you say "just being a fridge", what you really mean is "just chilling. "" -Rosuav: (12-Dec-22)
 * 139: ""Grass starter" sounds like a packet of seeds. Though I hope they don't have a "fire starter", that could be a bit awkward." -Rosuav: (13-Dec-22)
-* <missing quote 140, ask CandiCat for it please>
+* 140: "Hot Cross Buns is the bane of my existance" -MorasaurusArt: (13-Dec-22)
 * 141: "You are welcome! I love punching people in the feels." -caitlyncosplay (15-Dec-22)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
