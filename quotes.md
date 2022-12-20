@@ -5,7 +5,7 @@ should not be edited manually. -->
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 141 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 144 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -155,6 +155,9 @@ number N.
 * 139: ""Grass starter" sounds like a packet of seeds. Though I hope they don't have a "fire starter", that could be a bit awkward." -Rosuav: (13-Dec-22)
 * 140: "Hot Cross Buns is the bane of my existance" -MorasaurusArt: (13-Dec-22)
 * 141: "You are welcome! I love punching people in the feels." -caitlyncosplay (15-Dec-22)
+* 142: " ![devicatDead](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c830a153dc248b0850d4fdf3086030c/default/light/1.0 "devicatDead") su bbed for the dead kitty :D" -LenMallibu: (16-Dec-22)
+* 143: "We have low population density. So we're so excited to actually see another person we can't contain ourselves. LOL These are not facts." -AuroraLee1013: (17-Dec-22)
+* 144: " ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") ![devicatDead](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c830a153dc248b0850d4fdf3086030c/default/light/1.0 "devicatDead") candicat examining her dead clone" -SpiritlessWolf: (17-Dec-22)
 
 There may be quotes newer than these that have yet to be collected.
 
