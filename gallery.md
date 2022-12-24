@@ -1,5 +1,6 @@
 # Gallery
 
+![Iono Pokemon GymLeader 2022](img/PokemonIonoGymLeader2022.png)
 ![ManyaDraws DTIYS 2022](img/ManyaDrawsDTIYS2022.png)
 ![Lauwriii DTIYS 2022](img/lauwriiiDTIYS2022.png)
 ![CandiCat Christmas Stocking 2022](img/CandiCatChristmasStocking2022.png)
