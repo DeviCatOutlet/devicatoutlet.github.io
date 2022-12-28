@@ -5,7 +5,7 @@
 <iframe title="Watch DeviCat live!" src="https://player.twitch.tv?channel=devicat&parent=devicatoutlet.com" allowfullscreen="" style="border: 0" allow="autoplay; fullscreen" width="768" height="432"></iframe>
 </section>
 
-* [![Ko-fi Shop](img/Kofishop.png)](https://www.ko-fi.com/devicatoutlet/shop)
+* [![Shop](img/RedBubbleShop.png)](https://www.redbubble.com/people/devicatoutlet/shop)
 
   Ko-fi Shop.
 
