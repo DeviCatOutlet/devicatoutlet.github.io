@@ -17,5 +17,5 @@
 
 * [![](img/CandiClubPanel.png)](https://www.ko-fi.com/devicatoutlet/tiers)
 
-  Become a member!
+  Join the Candi Club!
 {: .cards .layout}
