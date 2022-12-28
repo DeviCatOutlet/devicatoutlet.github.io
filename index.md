@@ -7,7 +7,7 @@
 
 * [![Shop](img/RedBubbleShop.png)](https://www.redbubble.com/people/devicatoutlet/shop)
 
-  Ko-fi Shop.
+  Shop for DeviCat merch.
 
 * [![About](img/dclogo.png)](about)
 
