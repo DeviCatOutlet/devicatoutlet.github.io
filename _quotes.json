@@ -1,5 +1,4 @@
 {
-  "cached_until": "999646133.5",
   "emotes": {
     "2020Unroll": "304573286",
     "2020Wish": "304822055",
@@ -95,7 +94,8 @@
     "devicatUwU": "emotesv2_14668786f9fe4f8cadd31be05efaed57",
     "panicBasket": "22998"
   },
-  "quotes": [
+  "quotes": [null],
+  "quotes2022": [
     null,
     "\"not this already Erin! it's 2022\" -itsLizabelle (01-Jan-22)",
     "\"I can't tell if she's shocked, or in the middle of eating a brownie.\" -DeviCat (26-Jan-22)",
@@ -1688,6 +1688,7 @@
   "sections": {
     "quotes2019": "In the years up to 2019",
     "quotes2020": "In 2020 (aka 'the first year of quarantine')",
-    "quotes2021": "In 2021, up to and including the final timezone-modified day of the Gregorian calendar"
+    "quotes2021": "In 2021, up to and including the final timezone-modified day of the Gregorian calendar",
+    "quotes2022": "In the strange year 2022, which will never again occur"
   }
 }
