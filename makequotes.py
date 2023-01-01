@@ -57,7 +57,7 @@ by the faithful bot and the mod team. %s
 		elif filename != "quotes": print("\nQuotes newer than this are found in subsequent archival pages.\n", file=f)
 		else: print("\nThere may be quotes newer than these that have yet to be collected.\n", file=f)
 
-quotes = cache["quotes"]
+quotes = cache["quotesnew"]
 save_quotes(quotes, "quotes", """So far, %d quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.""" % (len(quotes) - 1))
