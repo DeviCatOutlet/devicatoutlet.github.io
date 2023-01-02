@@ -15,7 +15,7 @@
 
   Learn about DeviCat.
 
-* [![](img/KofiBanner.png)](https://www.ko-fi.com/devicatoutlet/)
+* [![](img/Kofi.png)](https://www.ko-fi.com/devicatoutlet/)
 
   Support on Ko-fi.
 {: .cards .layout}
