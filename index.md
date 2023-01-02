@@ -15,7 +15,7 @@
 
   Learn about DeviCat.
 
-* [![](img/CandiClubPanel.png)](https://www.ko-fi.com/devicatoutlet/tiers)
+* [![](img/KofiBanner.png)](https://www.ko-fi.com/devicatoutlet/)
 
-  Join the Candi Club!
+  Support on Ko-fi.
 {: .cards .layout}
