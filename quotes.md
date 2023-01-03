@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 0 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 1 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -14,6 +14,7 @@ number N.
 * [Quotes from 2022](quotes2022)
 * [Latest quotes](quotes)
 
+* 1: "It's an ![devicatBoba](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f02ab09b4c324e9d9046bf7ca0350000/default/light/1.0 "devicatBoba") outer space boba. Is it from "Star"-bucks?" -EuphoniumHero6 (02-Jan-23)
 
 There may be quotes newer than these that have yet to be collected.
 
