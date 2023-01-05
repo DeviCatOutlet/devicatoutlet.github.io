@@ -9,9 +9,7 @@
 
   Shop for DeviCat merch.
 
-* [![About](img/dclogo.png)](about)
-
-  #### [About](about)
+* [![About](img/AboutDeviCat.png)](about)
 
   Learn about DeviCat.
 

@@ -5,6 +5,7 @@ Hello! I am the artist & owner of my business called DeviCat Design Studios. I d
 
 I hope these creations bring a smile to your face and a warmth in your heart. ♡
 
+---
 ✦ Full-time Artist & Broadcaster <br>
 ✦ Self taught digital artist: Oct 2015 <br>
 ✦ 1st Twitch Stream: May 28th 2015 <br>
@@ -12,14 +13,15 @@ I hope these creations bring a smile to your face and a warmth in your heart. �
 ✦ Creating: Originals & Fan Art <br>
 ✦ Goals: To help inspire others to keep their dreams alive via my creations & live streams. <br>
 
+---
 <!-- ---
 --- -->
 
-Contact DeviCat here:
+Email DeviCat:
 {: .email}
 [devicatoutlet@gmail.com](mailto:devicatoutlet@gmail.com)
 
-💜 Send mail to: 💜<br>
+💜 P.O. BOX: 💜<br>
 <b>DEVICAT<br>
 PO BOX 3294<br>
 FREDERICTON NB  E3A 5H1<br>
