@@ -5,14 +5,12 @@ Hello! I am the artist & owner of my business called DeviCat Design Studios. I d
 
 I hope these creations bring a smile to your face and a warmth in your heart. ♡
 
-+ Full-time Artist & Broadcaster
-+ Self taught digital artist: Oct 2015
-+ 1st Twitch Stream: May 28th 2015
-+ Partnered on Twitch: July 5th 2016
-+ Creating: Originals & Fan Art
-+ Goals: To help inspire others to keep their dreams alive via my creations & live streams.
-
-“I believe everyone has the potential to not only do something amazing, but the ability for compassion to themselves and those around them.” - DeviCat
+✦ Full-time Artist & Broadcaster <br>
+✦ Self taught digital artist: Oct 2015 <br>
+✦ 1st Twitch Stream: May 28th 2015 <br>
+✦ Partnered on Twitch: July 5th 2016 <br>
+✦ Creating: Originals & Fan Art <br>
+✦ Goals: To help inspire others to keep their dreams alive via my creations & live streams. <br>
 
 <!-- ---
 --- -->
