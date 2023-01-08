@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Magical Celebration 2023](img/CandiCatMagicalCelebration2023.png)
 ![CandiCat SnowCat 2022](img/CandiCatSnowCat2022.png)
 ![Iono Pokemon GymLeader 2022](img/PokemonIonoGymLeader2022.png)
 ![ManyaDraws DTIYS 2022](img/ManyaDrawsDTIYS2022.png)
