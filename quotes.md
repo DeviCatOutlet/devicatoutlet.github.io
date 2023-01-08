@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 5 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 7 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -19,6 +19,8 @@ number N.
 * 3: "Roses are red, violets are blue. when it's time for the next hype train, I choo choo choose you! ![devicatTrain1](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_60160470cdc943ecb7521329d4874419/default/light/1.0 "devicatTrain1") ." -Ironmania2003: (06-Jan-23)
 * 4: "everyone just started 2023, @devicat is already in 3023 ![MechaRobot](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0be25a1663bd472495b91e0302cec166/default/light/1.0 "MechaRobot") ." -EiraVanora: (06-Jan-23)
 * 5: "How do I.... hug a number?" -DeviCat (06-Jan-23)
+* 6: "I'm happy to be here and find back my little soft pastel cat stream ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53bd0461e4f74eb08979139b9e837736/default/light/1.0 "devicatHug") ." -Luleiya: (07-Jan-23)
+* 7: "how do u get ur lines so crisp? Devi: Big Canvas, tiny brush!" -spookiibuns (07-Jan-23)
 
 There may be quotes newer than these that have yet to be collected.
 
