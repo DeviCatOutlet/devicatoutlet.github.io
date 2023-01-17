@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 11 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 13 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -25,6 +25,8 @@ number N.
 * 9: "Oh! Brain is here" -DeviCat (10-Jan-23)
 * 10: "The ghosts of Parachute Party Past. ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") ." -alexbadila: (12-Jan-23)
 * 11: "I know I qualify for a badge because I created u" -devicatmom: (14-Jan-23)
+* 12: "A little blush ![devicatShy](https://static-cdn.jtvnw.net/emoticons/v2/306362053/default/light/1.0 "devicatShy") goes a long way ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14668786f9fe4f8cadd31be05efaed57/default/light/1.0 "devicatUwU") !" -DeviCat (16-Jan-23)
+* 13: "BGM for the scene where you're in a coffee shop, learning crucial plot from a random NPC ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") devicatTea." -Rosuav: (16-Jan-23)
 
 There may be quotes newer than these that have yet to be collected.
 
