@@ -1,6 +1,6 @@
 # DeviCat
 
-Source code for the [DeviCat Outlet](https://devicatoutlet.com/) web site.
+Source code for [DeviCat's](https://devicat.art/) web site.
 
 To build and test locally:
 
@@ -33,7 +33,7 @@ Heading usage:
 
 TODO:
 * Ensure that everything is (remains) HTML5 and CSS3 standards compliant.
-  - https://validator.w3.org/nu/?doc=http%3A%2F%2Fdevicatoutlet.com%2F
+  - https://validator.w3.org/nu/?doc=http%3A%2F%2Fdevicat.art%2F
 * Get everything to work (or at least mostly-work) on mobile.
   - Biggest issues are now solved.
   - TODO: Get someone with a phone to try the site and give feedback.
