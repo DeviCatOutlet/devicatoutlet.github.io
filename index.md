@@ -13,7 +13,7 @@
 
   Learn about DeviCat.
 
-* [![](img/Kofi.png)](https://www.ko-fi.com/devicatoutlet/)
+* [![](img/Kofi.png)](https://www.ko-fi.com/devicat/)
 
   Support on Ko-fi.
 {: .cards .layout}
