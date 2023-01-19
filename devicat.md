@@ -1,4 +1,4 @@
-# About
+# DeviCat
 ![](img/dc.png)
 
 Hello! I am the artist & owner of my business called DeviCat Design Studios. I do live streams on Twitch sharing my process of cute digital art. My goals with creating art & streaming are to share what brings me joy in the hopes of inspiring others.
@@ -19,4 +19,4 @@ I hope these creations bring a smile to your face and a warmth in your heart. â™
 
 Email DeviCat:
 {: .email}
-[devicatoutlet@gmail.com](mailto:devicatoutlet@gmail.com)
+[hello@devicat.art](mailto:hello@devicat.art)

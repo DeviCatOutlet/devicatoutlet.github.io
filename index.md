@@ -9,7 +9,7 @@
 
   Shop for DeviCat merch.
 
-* [![About](img/AboutDeviCat.png)](about)
+* [![DeviCat](img/AboutDeviCat.png)](devicat)
 
   Learn about DeviCat.
 
