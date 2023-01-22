@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 14 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 15 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -28,6 +28,7 @@ number N.
 * 12: "A little blush ![devicatShy](https://static-cdn.jtvnw.net/emoticons/v2/306362053/default/light/1.0 "devicatShy") goes a long way ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14668786f9fe4f8cadd31be05efaed57/default/light/1.0 "devicatUwU") !" -DeviCat (16-Jan-23)
 * 13: "BGM for the scene where you're in a coffee shop, learning crucial plot from a random NPC ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") devicatTea." -Rosuav: (16-Jan-23)
 * 14: "Me currently crocheting: How do I backup save ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_798b122c3207433087757fb53de57d61/default/light/1.0 "devicatEh") ![devicatSave](https://static-cdn.jtvnw.net/emoticons/v2/306362317/default/light/1.0 "devicatSave") ." -Mikascending: (19-Jan-23)
+* 15: "It all started with hot chocolate this time. ☕" -DeviCat (21-Jan-23)
 
 There may be quotes newer than these that have yet to be collected.
 
