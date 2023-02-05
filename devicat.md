@@ -19,4 +19,4 @@ I hope these creations bring a smile to your face and a warmth in your heart. â™
 
 Email DeviCat:
 {: .email}
-[hell@devicat.art](mailto:hello@devicat.art)
+[hello@devicat.art](mailto:hello@devicat.art)
