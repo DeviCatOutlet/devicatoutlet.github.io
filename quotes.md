@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 21 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 24 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -35,6 +35,9 @@ number N.
 * 19: "I wish I could feel the optimism your art evokes , she looks like a kid at Christmas ![devicatGift](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a3184def9f734983879da244b833ade9/default/light/1.0 "devicatGift") ." -ActuallyRJ: (30-Jan-23)
 * 20: "Task Manager holding a knife at Photoshop ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") "" -"Doodle: (31-Jan-23)
 * 21: "Doodle: Task Manager holding a knife at Photoshop ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") "" -"Enchanting_Elk: (31-Jan-23)
+* 22: "I had to burp. Definitely burped. Did you hear that?! ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") "" -"Devicat: (02-Feb-23)
+* 23: "Real life distractions do happen, like when your cat tries to climb the fridge! ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") "" -"Devicat: (02-Feb-23)
+* 24: "I've never seen a banana builder before!" -DeviCat (07-Feb-23)
 
 There may be quotes newer than these that have yet to be collected.
 
