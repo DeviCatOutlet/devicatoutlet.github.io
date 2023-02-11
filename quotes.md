@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 24 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 26 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -38,6 +38,8 @@ number N.
 * 22: "I had to burp. Definitely burped. Did you hear that?! ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") "" -"Devicat: (02-Feb-23)
 * 23: "Real life distractions do happen, like when your cat tries to climb the fridge! ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") "" -"Devicat: (02-Feb-23)
 * 24: "I've never seen a banana builder before!" -DeviCat (07-Feb-23)
+* 25: "it's my goal in life to make Devi so flustered she can't speak" -BrokenRobotArt (10-Feb-23)
+* 26: "Rosuav, Thank you for probing my brain for extra steps. ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") ." -DeviCat (10-Feb-23)
 
 There may be quotes newer than these that have yet to be collected.
 
