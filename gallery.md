@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Pounce 2023](img/CandiCatPounce2023.png)
 ![Snow Hatsune Miku & Yukine 2023](img/SnowHatsuneMiku2017_2023.png)
 ![CandiCat Cupid 2023](img/CandiCatCupid2023.png)
 ![CandiCat Magical Celebration 2023](img/CandiCatMagicalCelebration2023.png)
