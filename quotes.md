@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 31 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 33 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -45,6 +45,8 @@ number N.
 * 29: "Just know that, when you get there, they're not cats!" -DeviCat (14-Feb-23)
 * 30: "Great timing, I'm back with bacon 🥓" -Rosuav: (16-Feb-23)
 * 31: "🦉" -who___: (16-Feb-23)
+* 32: "We might get to play some Tetris... but I have to paint some more first." -DeviCat (20-Feb-23)
+* 33: "Your art would definitely smell like bubblegum ![TwitchUnity](https://static-cdn.jtvnw.net/emoticons/v2/196892/default/light/1.0 "TwitchUnity") ." -XTOSHIX_: (20-Feb-23)
 
 There may be quotes newer than these that have yet to be collected.
 
