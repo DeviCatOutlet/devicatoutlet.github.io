@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 35 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 36 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -49,6 +49,7 @@ number N.
 * 33: "Your art would definitely smell like bubblegum ![TwitchUnity](https://static-cdn.jtvnw.net/emoticons/v2/196892/default/light/1.0 "TwitchUnity") ." -XTOSHIX_: (20-Feb-23)
 * 34: " ![devicatTada](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_11bb7a7aa10d48268360c449fecffce7/default/light/1.0 "devicatTada") Big Stretch! And touch your toes ![devicatPlush](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_85697f14eeaf453eb5e467a63fd62863/default/light/1.0 "devicatPlush") ![devicatPlush](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_85697f14eeaf453eb5e467a63fd62863/default/light/1.0 "devicatPlush") ![devicatPlush](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_85697f14eeaf453eb5e467a63fd62863/default/light/1.0 "devicatPlush") or not..." -mlasuk: (02-Mar-23)
 * 35: "Except the arrowhead is like.. hard candy or a tootsie roll sucker. Have you ever been hit with one of those? Ouch." -SoulBoundKai: (03-Mar-23)
+* 36: "Rule 1: save! Save! Save! Rule 2: blushies Rule 3: take care of your back!" -SoulBoundKai: (04-Mar-23)
 
 There may be quotes newer than these that have yet to be collected.
 
