@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 37 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 38 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -51,6 +51,7 @@ number N.
 * 35: "Except the arrowhead is like.. hard candy or a tootsie roll sucker. Have you ever been hit with one of those? Ouch." -SoulBoundKai: (03-Mar-23)
 * 36: "Rule 1: save! Save! Save! Rule 2: blushies Rule 3: take care of your back!" -SoulBoundKai: (04-Mar-23)
 * 37: "KiraNotL: imma crack my back like a glowstick ![devicatGlo1](https://static-cdn.jtvnw.net/emoticons/v2/302140244/default/light/1.0 "devicatGlo1") ![devicatGlo2](https://static-cdn.jtvnw.net/emoticons/v2/307350038/default/light/1.0 "devicatGlo2") ." - (07-Mar-23)
+* 38: "sometimes people make fun of me for clickin eject and all i can think of is "your time will come my child" ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ." -SuspiciousTumble: (11-Mar-23)
 
 There may be quotes newer than these that have yet to be collected.
 
