@@ -1,5 +1,6 @@
 # Gallery
 
+![Hatsune Miku Love Sailor 2023](img/HatsuneMiku_LoveSailor_2023.png)
 ![CandiCat Crepe 2023](img/candicatcrepe2023.png)
 ![CandiCat Candy Shop 2023](img/CandiCatCandyShop2023.png)
 ![CandiCat Pounce 2023](img/CandiCatPounce2023.png)
