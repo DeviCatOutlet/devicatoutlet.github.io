@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 43 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 44 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -57,6 +57,7 @@ number N.
 * 41: "shes so dang kawaii and she exudes the spirit of the doki doki ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14668786f9fe4f8cadd31be05efaed57/default/light/1.0 "devicatUwU") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -ChibiChan777: (16-Mar-23)
 * 42: "🌱 Devi Cat i got you a plant, as a housewarming gift since you live here now. 🌱" -Pixielonic: (16-Mar-23)
 * 43: "I wonder if I can put her skin back! ![devicatDead](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c830a153dc248b0850d4fdf3086030c/default/light/1.0 "devicatDead") ." -DeviCat (21-Mar-23)
+* 44: "Sometimes luck is just savage ![devicatDead](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c830a153dc248b0850d4fdf3086030c/default/light/1.0 "devicatDead") ." -DeviCat (23-Mar-23)
 
 There may be quotes newer than these that have yet to be collected.
 
