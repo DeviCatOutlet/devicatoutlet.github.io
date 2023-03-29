@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 45 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 47 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -59,6 +59,8 @@ number N.
 * 43: "I wonder if I can put her skin back! ![devicatDead](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c830a153dc248b0850d4fdf3086030c/default/light/1.0 "devicatDead") ." -DeviCat (21-Mar-23)
 * 44: "Sometimes luck is just savage ![devicatDead](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c830a153dc248b0850d4fdf3086030c/default/light/1.0 "devicatDead") ." -DeviCat (23-Mar-23)
 * 45: "sometimes i wish i could just put myself in rice ![devicatDead](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c830a153dc248b0850d4fdf3086030c/default/light/1.0 "devicatDead") 🍚" -sirenova_: (24-Mar-23)
+* 46: "Googly eyes are the ranch dip for the hot wings of twitch" -manicpixelbeangirl: (28-Mar-23)
+* 47: " If you’re reading this, I hope you have an amazing night. You absolutely deserve it! Don’t let anybody tell you different #positivevibes ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14668786f9fe4f8cadd31be05efaed57/default/light/1.0 "devicatUwU") ." -LaneLucas2000 (28-Mar-23)
 
 There may be quotes newer than these that have yet to be collected.
 
