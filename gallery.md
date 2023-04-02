@@ -48,6 +48,7 @@
 ![Lemoontea DTIYS 2022](img/LemoonteaDTIYS2022.png)
 ![CandiCat Candi Catcher 2022](img/CandiCatcher2022.png)
 ![Marmewa DTIYS 2022](img/MarmewaDTIYS2022.png)
+![OakteaParty DTIYS 2022](img/OakteaPartyDTIYS2022.png)
 ![Lolonuno DTIYS 2022](img/LolonunoDTIYS2022.png)
 ![CandiCat Winter Chibi 2021](img/CCWinterChibi2021.png)
 ![CandiCat SnowCat 2021](img/CCSnowCat.png)
