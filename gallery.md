@@ -54,8 +54,6 @@
 ![CandiCat SnowCat 2021](img/CCSnowCat.png)
 ![Acerola Pokemon 2021](img/Acerola2021.png)
 ![GhostGirlGoods 2021](img/GhostGirlGoods2021.png)
-![CandiCat BobaTea Girl 2021](img/CCBobaTeaGirl2021.jpg)
-![CandiCat Jumping Girl 2021](img/CandiCatJump2021.jpg)
 ![CandiCat Magical Girl 2021](img/CandiCatMagicalGirl2021.png)
 ![Candicat Pumpkin 2021](img/CandiCatPumpkin2021.png)
 ![Maki LoveLive 2021](img/LoveLiveMaki2021.jpg)
