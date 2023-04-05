@@ -56,6 +56,7 @@
 ![GhostGirlGoods 2021](img/GhostGirlGoods2021.png)
 ![CandiCat Magical Girl 2021](img/CandiCatMagicalGirl2021.png)
 ![Candicat Pumpkin 2021](img/CandiCatPumpkin2021.png)
+![Sylveon Pokemon 2021](img/sylveon2021.png)
 ![Maki LoveLive 2021](img/LoveLiveMaki2021.jpg)
 ![Mew Ichigo TokyoMewMew 2021](img/TokyoMewMew2021.png)
 ![CardCaptor Sakura Clear Card 2021](img/CardCaptorSakuraCC2021.png)
