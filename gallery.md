@@ -1,5 +1,6 @@
 # Gallery
 
+![Chisato Love Live Superstar 2023](img/LoveLiveSuperstarChisato2023.png)
 ![CandiCat GameCat 2023](img/CandiCatGameCat2023.png)
 ![Hatsune Miku Love Sailor 2023](img/HatsuneMiku_LoveSailor_2023.png)
 ![CandiCat Crepe 2023](img/candicatcrepe2023.png)
@@ -17,7 +18,6 @@
 ![CandiCat Pumpkin Party 2022](img/CCPumpkinParty2022.png)
 ![CandiCat Witch 2022](img/CandiCatWitch2022.png)
 ![Ealya Art DTIYS 2022](img/EalyaArtDTIYS2022.png)
-![ItsCloeArt DTIYS 2022](img/itsCloeArtDTIYS2022.png)
 ![Airii DTIYS 2022](img/AiriiEXE_DTIYS2022.png)
 ![CandiCat Demon 2022](img/CandiCatDemon2022.png)
 ![Chibimica DTIYS 2022](img/chibimicaartDTIYS2022.png)
@@ -56,7 +56,6 @@
 ![GhostGirlGoods 2021](img/GhostGirlGoods2021.png)
 ![Candicat Pumpkin 2021](img/CandiCatPumpkin2021.png)
 ![CandiCat Magical Girl 2021](img/CandiCatMagicalGirl2021.png)
-![Sylveon Pokemon 2021](img/sylveon2021.png)
 ![Maki LoveLive 2021](img/LoveLiveMaki2021.jpg)
 ![Mew Ichigo TokyoMewMew 2021](img/TokyoMewMew2021.png)
 ![CardCaptor Sakura Clear Card 2021](img/CardCaptorSakuraCC2021.png)
