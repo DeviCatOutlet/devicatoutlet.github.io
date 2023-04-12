@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 53 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 54 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -67,6 +67,7 @@ number N.
 * 51: "Maybe I'll make them just pink." -DeviCat (07-Apr-23)
 * 52: "You must understand: The DeviCat is out there. It can't be reasoned with. It can't be bargoned with. It doesn't feel pity, or remorse, or fear, and it absolutely will not stop until you have been promoted. ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ." -Rosuav: (08-Apr-23)
 * 53: "What patreon like site is used exclusively by Japanese demons? ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") Oni-fans! ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") " -Ironmania2003: (10-Apr-23)
+* 54: " ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") I AM NOW THE LAW ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_332e4cbcced649689e6497683c8138c4/default/light/1.0 "devicatParty") " -DeviCat (11-Apr-23)
 
 There may be quotes newer than these that have yet to be collected.
 
