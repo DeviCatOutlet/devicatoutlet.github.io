@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 58 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 59 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -72,6 +72,7 @@ number N.
 * 56: "Ah yes, the first final dream game. I look forward to the next one." -DragonBloodthirsty: (14-Apr-23)
 * 57: "The more folded-up they are, the nicer it ends up looking ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") ." -DeviCat (15-Apr-23)
 * 58: "I had to remove her legs to make her fit ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -DeviCat (15-Apr-23)
+* 59: "I need to see your eyes my friend! ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ." -DeviCat (17-Apr-23)
 
 There may be quotes newer than these that have yet to be collected.
 
