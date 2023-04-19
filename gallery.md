@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Cat In A Box 2023](img/CandiCatCatBox2023.png)
 ![Chisato Love Live Superstar 2023](img/LoveLiveSuperstarChisato2023.png)
 ![CandiCat GameCat 2023](img/CandiCatGameCat2023.png)
 ![Hatsune Miku Love Sailor 2023](img/HatsuneMiku_LoveSailor_2023.png)
