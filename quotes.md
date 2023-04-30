@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 64 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 65 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -78,6 +78,7 @@ number N.
 * 62: "Why do you think I say Spri is nuclear powered? ![PowerUpL](https://static-cdn.jtvnw.net/emoticons/v2/425688/default/light/1.0 "PowerUpL") ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ![PowerUpR](https://static-cdn.jtvnw.net/emoticons/v2/425671/default/light/1.0 "PowerUpR") ." -Rosuav: (25-Apr-23)
 * 63: "slides up to Potato in a bar and says, "Hey, I always save my work."" -Rosuav (27-Apr-23)
 * 64: "Spin to victory! SPIN.... to VICTORY!!" -DeviCat (28-Apr-23)
+* 65: "During the ad break I went on a dangerous quest to find insurance replenished my health with the energy potion on the way back I treated myself to several movies and and a snack ![PopCorn](https://static-cdn.jtvnw.net/emoticons/v2/724216/default/light/1.0 "PopCorn") ." -KwillFishh: (29-Apr-23)
 
 There may be quotes newer than these that have yet to be collected.
 
