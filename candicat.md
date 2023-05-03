@@ -7,6 +7,6 @@
 
   ---
 
-CandiCat is DeviCat's mascot for her brand. She represents her Twitch subscriber emotes and comes in two forms! One version as a pink, purple and white cat! The other form being a kawaii magical anime girl. An introvert personality, once she warms up to you, she shows all flavors of personality!
+CandiCat is DeviCat's mascot for her brand. She represents her Twitch subscriber emotes and comes in two forms! One version as a pink, purple and white cat! The other form being a kawaii magical anime girl. An introvert at heart, once she warms up to you, she shows all flavors of personality!
 
 ---
