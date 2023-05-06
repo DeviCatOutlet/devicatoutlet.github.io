@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 66 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 67 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -80,6 +80,7 @@ number N.
 * 64: "Spin to victory! SPIN.... to VICTORY!!" -DeviCat (28-Apr-23)
 * 65: "During the ad break I went on a dangerous quest to find insurance replenished my health with the energy potion on the way back I treated myself to several movies and and a snack ![PopCorn](https://static-cdn.jtvnw.net/emoticons/v2/724216/default/light/1.0 "PopCorn") ." -KwillFishh: (29-Apr-23)
 * 66: "Hi yes this is me being active my fingers gained +10 health, +15 magic potions and +25 Devi Kindness ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -PotatoIsFired: (01-May-23)
+* 67: "Also, I found out that there's an actual clinical name for what you call it when you cant sleep at night and you just eat instead. Its called insomnomnomnomnomnia... ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d85e91f3c8064982bcde36182d2bce91/default/light/1.0 "devicatNom") ." -skelepuppy: (05-May-23)
 
 There may be quotes newer than these that have yet to be collected.
 
