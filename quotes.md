@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 71 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 73 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -85,6 +85,8 @@ number N.
 * 69: "A wizard shows up exactly when she needs to, and a princess is always fashionably late. I think that's a paradox." -wizardprincess9: (12-May-23)
 * 70: "I, for one, welcome our Pineapple Overlords. ![PizzaTime](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f202746ed88f4e7c872b50b1f7fd78cc/default/light/1.0 "PizzaTime") ." -JemmaGrl: (13-May-23)
 * 71: "My cat identifies as a bishonen. ![CoolCat](https://static-cdn.jtvnw.net/emoticons/v2/58127/default/light/1.0 "CoolCat") ." -magpyecat: (15-May-23)
+* 72: "Do the tree frogs have tiny motorcycles?" -Cypher_Arts (16-May-23)
+* 73: "She is the softest cat ever, she is better than any fleece throw blanket ![devicatCozy](https://static-cdn.jtvnw.net/emoticons/v2/306361689/default/light/1.0 "devicatCozy") ." -sillyspyder: (16-May-23)
 
 There may be quotes newer than these that have yet to be collected.
 
