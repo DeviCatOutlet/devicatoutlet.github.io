@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 73 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 75 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -87,6 +87,8 @@ number N.
 * 71: "My cat identifies as a bishonen. ![CoolCat](https://static-cdn.jtvnw.net/emoticons/v2/58127/default/light/1.0 "CoolCat") ." -magpyecat: (15-May-23)
 * 72: "Do the tree frogs have tiny motorcycles?" -Cypher_Arts (16-May-23)
 * 73: "She is the softest cat ever, she is better than any fleece throw blanket ![devicatCozy](https://static-cdn.jtvnw.net/emoticons/v2/306361689/default/light/1.0 "devicatCozy") ." -sillyspyder: (16-May-23)
+* 74: "And when you disallow the cat from entering your office, that's /ban chii" -Rosuav: (18-May-23)
+* 75: "I would do a impression of a banshee but I'm not sure if it's a-loud! ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") ." -Ironmania2003: (18-May-23)
 
 There may be quotes newer than these that have yet to be collected.
 
