@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 75 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 76 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -67,7 +67,7 @@ number N.
 * 51: "Maybe I'll make them just pink." -DeviCat (07-Apr-23)
 * 52: "You must understand: The DeviCat is out there. It can't be reasoned with. It can't be bargoned with. It doesn't feel pity, or remorse, or fear, and it absolutely will not stop until you have been promoted. ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ." -Rosuav: (08-Apr-23)
 * 53: "What patreon like site is used exclusively by Japanese demons? ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") Oni-fans! ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") " -Ironmania2003: (10-Apr-23)
-* 54: " ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") I AM NOW THE LAW ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_332e4cbcced649689e6497683c8138c4/default/light/1.0 "devicatParty") " -DeviCat (11-Apr-23)
+* 54: " ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") I AM NOW THE LAW ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14be5cde1025430d866015a5e94a6b0f/default/light/1.0 "devicatParty") " -DeviCat (11-Apr-23)
 * 55: "Hi yes my name is Erin also known as GoldBondItchPowder I'm your local troll who is here to support you remember to stretch splash water on your eyelashes and slay Whether you are slaying monsters in games, slaying red barrels at Rosuavs or slaying life I potato of the couch support you" -PotatoIsFired: (13-Apr-23)
 * 56: "Ah yes, the first final dream game. I look forward to the next one." -DragonBloodthirsty: (14-Apr-23)
 * 57: "The more folded-up they are, the nicer it ends up looking ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") ." -DeviCat (15-Apr-23)
@@ -89,6 +89,7 @@ number N.
 * 73: "She is the softest cat ever, she is better than any fleece throw blanket ![devicatCozy](https://static-cdn.jtvnw.net/emoticons/v2/306361689/default/light/1.0 "devicatCozy") ." -sillyspyder: (16-May-23)
 * 74: "And when you disallow the cat from entering your office, that's /ban chii" -Rosuav: (18-May-23)
 * 75: "I would do a impression of a banshee but I'm not sure if it's a-loud! ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") ." -Ironmania2003: (18-May-23)
+* 76: "remember chat! yolo responsively! ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14be5cde1025430d866015a5e94a6b0f/default/light/1.0 "devicatParty") ." -Ironmania2003: (20-May-23)
 
 There may be quotes newer than these that have yet to be collected.
 
