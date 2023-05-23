@@ -89,7 +89,7 @@ number N.
 * 73: "She is the softest cat ever, she is better than any fleece throw blanket ![devicatCozy](https://static-cdn.jtvnw.net/emoticons/v2/306361689/default/light/1.0 "devicatCozy") ." -sillyspyder: (16-May-23)
 * 74: "And when you disallow the cat from entering your office, that's /ban chii" -Rosuav: (18-May-23)
 * 75: "I would do a impression of a banshee but I'm not sure if it's a-loud! ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") ." -Ironmania2003: (18-May-23)
-* 76: "remember chat! yolo responsively! ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14be5cde1025430d866015a5e94a6b0f/default/light/1.0 "devicatParty") ." -Ironmania2003: (20-May-23)
+* 76: "remember chat! yolo responsibely! ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14be5cde1025430d866015a5e94a6b0f/default/light/1.0 "devicatParty") ." -Ironmania2003: (20-May-23)
 
 There may be quotes newer than these that have yet to be collected.
 
