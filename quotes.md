@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 78 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 81 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -92,6 +92,9 @@ number N.
 * 76: "remember chat! yolo responsibely! ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14be5cde1025430d866015a5e94a6b0f/default/light/1.0 "devicatParty") ." -Ironmania2003: (20-May-23)
 * 77: "It's drowning out the tap ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14be5cde1025430d866015a5e94a6b0f/default/light/1.0 "devicatParty") !" -DeviCat (23-May-23)
 * 78: "k3lsb3lls: IN A WORLD WHERE ADs exist a orange soda is on a rollercoaster to a japanese AirBNB where everyone is required to wear red lipstick and drive electric SUVs with clowns and insure them with a slightly sus agent with superpowers who knows martial arts as well as being an expert at photoshopping emotes. ![devicatDance](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b5748fe5fbf84ba780192b8823966b0c/default/light/1.0 "devicatDance") ." - (26-May-23)
+* 79: "once own a Oujia printed rug... I let my Rumba clean the rug... I think it summoned something... LOL ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ![devicatCandle](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_218a578b013a4424a12036ecae98348b/default/light/1.0 "devicatCandle") ." -DuluthFly: (29-May-23)
+* 80: "We got multiple cats in chat right now ![CoolCat](https://static-cdn.jtvnw.net/emoticons/v2/58127/default/light/1.0 "CoolCat") ![devicatUwU](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14668786f9fe4f8cadd31be05efaed57/default/light/1.0 "devicatUwU") catJAM !" -DeviCat (29-May-23)
+* 81: "well actually my partner did the thing while I gave direction and ate m&ms ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d85e91f3c8064982bcde36182d2bce91/default/light/1.0 "devicatNom") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -jessicamaiartist: (30-May-23)
 
 There may be quotes newer than these that have yet to be collected.
 
