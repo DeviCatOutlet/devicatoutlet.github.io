@@ -1,5 +1,6 @@
 # Gallery
 
+![CardCaptor Sakura Clear Card 2023](img/CCSClearCard2023.png)
 ![Candi Forest Fauna 2023](img/CandiForestFauna2023.png)
 ![CandiCat Cat In A Box 2023](img/CandiCatCatBox2023.png)
 ![Chisato Love Live Superstar 2023](img/LoveLiveSuperstarChisato2023.png)
