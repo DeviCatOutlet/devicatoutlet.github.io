@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 83 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 85 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -97,6 +97,8 @@ number N.
 * 81: "well actually my partner did the thing while I gave direction and ate m&ms ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d85e91f3c8064982bcde36182d2bce91/default/light/1.0 "devicatNom") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -jessicamaiartist: (30-May-23)
 * 82: "I want a human who appreciates me as much as Devi just appreciated that water. ![devicatSip](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_56120231405e4afdbea6596b4ca42786/default/light/1.0 "devicatSip") ." -magpyecat: (01-Jun-23)
 * 83: "I feel like us lurkers just sit here falling asleep like bird on a fence and Devi runs along and wakes us all up and a puff of feathers fly and we all type dream ![devicatTap](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_94880ed110d54cb5b29d70b029985240/default/light/1.0 "devicatTap") ." -SpiffyJenny (06-Jun-23)
+* 84: "RALPHCorleone Okay, c'mon now, give back the keys to the time machine" -Rosuav (10-Jun-23)
+* 85: "Sassy on immediate contact! ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -DeviCat (10-Jun-23)
 
 There may be quotes newer than these that have yet to be collected.
 
