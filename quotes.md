@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 85 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 88 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -99,6 +99,9 @@ number N.
 * 83: "I feel like us lurkers just sit here falling asleep like bird on a fence and Devi runs along and wakes us all up and a puff of feathers fly and we all type dream ![devicatTap](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_94880ed110d54cb5b29d70b029985240/default/light/1.0 "devicatTap") ." -SpiffyJenny (06-Jun-23)
 * 84: "RALPHCorleone Okay, c'mon now, give back the keys to the time machine" -Rosuav (10-Jun-23)
 * 85: "Sassy on immediate contact! ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -DeviCat (10-Jun-23)
+* 86: "We've been talking about pop culture, we've been talking about pop, and someone mentioned Greek yoghurt so we've been talking about culture too ![PJSugar](https://static-cdn.jtvnw.net/emoticons/v2/102556/default/light/1.0 "PJSugar") ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") ." -Rosuav: (12-Jun-23)
+* 87: "Is there a yoghurt emote? ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_798b122c3207433087757fb53de57d61/default/light/1.0 "devicatEh") ." -DeviCat (12-Jun-23)
+* 88: "sailor Devi Cat, take this magical hammer and in the name of the moon punish those creeps! ![devicatPow](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7034ea1bf3c14b5aaa3b5640ae0151f6/default/light/1.0 "devicatPow") ." -Ironmania2003: (12-Jun-23)
 
 There may be quotes newer than these that have yet to be collected.
 
