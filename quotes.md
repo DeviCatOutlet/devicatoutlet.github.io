@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 89 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 91 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -103,6 +103,8 @@ number N.
 * 87: "Is there a yoghurt emote? ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_798b122c3207433087757fb53de57d61/default/light/1.0 "devicatEh") ." -DeviCat (12-Jun-23)
 * 88: "sailor Devi Cat, take this magical hammer and in the name of the moon punish those creeps! ![devicatPow](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7034ea1bf3c14b5aaa3b5640ae0151f6/default/light/1.0 "devicatPow") ." -Ironmania2003: (12-Jun-23)
 * 89: "I'm going to drop my carrds and let them fly maayaEvil !" -DeviCat (16-Jun-23)
+* 90: "ooo im proud our beer is going far ![devicatDance](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b5748fe5fbf84ba780192b8823966b0c/default/light/1.0 "devicatDance") ." -itsLilyKitty: (17-Jun-23)
+* 91: "Speedrun your final dream! ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ." -DeviCat (17-Jun-23)
 
 There may be quotes newer than these that have yet to be collected.
 
