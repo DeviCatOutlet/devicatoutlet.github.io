@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 91 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 92 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -105,6 +105,7 @@ number N.
 * 89: "I'm going to drop my carrds and let them fly maayaEvil !" -DeviCat (16-Jun-23)
 * 90: "ooo im proud our beer is going far ![devicatDance](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b5748fe5fbf84ba780192b8823966b0c/default/light/1.0 "devicatDance") ." -itsLilyKitty: (17-Jun-23)
 * 91: "Speedrun your final dream! ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") ." -DeviCat (17-Jun-23)
+* 92: "Devi, if you ever DO spell to save your life, your transformation into spellcasting magical girl will finally be complete. ![devicatHearts](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4d9cd376cbf14b1b9bfa35f31b78ead3/default/light/1.0 "devicatHearts") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -Rosuav: (21-Jun-23)
 
 There may be quotes newer than these that have yet to be collected.
 
