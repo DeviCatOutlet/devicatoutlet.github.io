@@ -1,5 +1,6 @@
 # Gallery
 
+![Magical Girl Sylveon 2023](img/MagicalGirlSylveon2023.png)
 ![CardCaptor Sakura Clear Card 2023](img/CCSClearCard2023.png)
 ![Candi Forest Fauna 2023](img/CandiForestFauna2023.png)
 ![CandiCat Cat In A Box 2023](img/CandiCatCatBox2023.png)
