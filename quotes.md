@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 95 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 96 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -109,6 +109,7 @@ number N.
 * 93: "I've noticed there aren't a lot of people named Lance these days which is interesting because back in Medieval times people were named Lance a lot..." -MovieNightButter (27-Jun-23)
 * 94: "i think i just can't contain my self in regards to sparkles ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -EnchantedLunaAC: (30-Jun-23)
 * 95: "sometimes you have to lay on the floor with ur pal and look at the ceiling ![devicatDead](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c830a153dc248b0850d4fdf3086030c/default/light/1.0 "devicatDead") ." -SemiSpri: (01-Jul-23)
+* 96: "I totally forgot kiwi is another term for New Zealander and totally thought for a minute they were like a fruit V-tuber or something ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") " -Blacksouls92: (04-Jul-23)
 
 There may be quotes newer than these that have yet to be collected.
 
