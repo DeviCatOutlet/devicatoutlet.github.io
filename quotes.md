@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 98 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 100 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -112,6 +112,8 @@ number N.
 * 96: "I totally forgot kiwi is another term for New Zealander and totally thought for a minute they were like a fruit V-tuber or something ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") " -Blacksouls92: (04-Jul-23)
 * 97: "Look at my stack of desserts! ![devicatParty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_14be5cde1025430d866015a5e94a6b0f/default/light/1.0 "devicatParty") They're so cute when they're fanned!" -DeviCat (05-Jul-23)
 * 98: "my booty shook me right off the cake ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v2/306361575/default/light/1.0 "devicatButt") ." -Midimew: (08-Jul-23)
+* 99: "New web site idea: Anti-social media. For the people who just hate talking to other people. You can make posts that will be shown to nobody. Your feed will always be empty - "nobody's said anything worth reading". Comments are always closed since nobody would ever have anything worth sharing anyway." -Rosuav: (12-Jul-23)
+* 100: "Devi, I will use my VIP Immunity to spam encouragement to complete that moth ![devicatTap](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_94880ed110d54cb5b29d70b029985240/default/light/1.0 "devicatTap") ." -DAT_Samich: (12-Jul-23)
 
 There may be quotes newer than these that have yet to be collected.
 
