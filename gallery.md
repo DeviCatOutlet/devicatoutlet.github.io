@@ -1,6 +1,6 @@
 # Gallery
 
-![CandiCat Bubbles 2023](img/CandiCatBubbles2023.png)
+![CandiCat Chibi Bubbles 2023](img/CandiCatChibiBubbles2023.png)
 ![Magical Girl Sylveon 2023](img/MagicalGirlSylveon2023.png)
 ![CardCaptor Sakura Clear Card 2023](img/CCSClearCard2023.png)
 ![Candi Forest Fauna 2023](img/CandiForestFauna2023.png)
