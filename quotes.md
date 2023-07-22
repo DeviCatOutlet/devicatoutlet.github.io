@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 101 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 105 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -115,6 +115,10 @@ number N.
 * 99: "New web site idea: Anti-social media. For the people who just hate talking to other people. You can make posts that will be shown to nobody. Your feed will always be empty - "nobody's said anything worth reading". Comments are always closed since nobody would ever have anything worth sharing anyway." -Rosuav: (12-Jul-23)
 * 100: "Devi, I will use my VIP Immunity to spam encouragement to complete that moth ![devicatTap](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_94880ed110d54cb5b29d70b029985240/default/light/1.0 "devicatTap") ." -DAT_Samich: (12-Jul-23)
 * 101: "Idk if my spine will bend that way(posing for art)" -DeviCat (14-Jul-23)
+* 102: "I don't know if I ever mentioned it, but I absolutely delight in how you draw noses, Devi. ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_205b69abc2a44c47b939c9033bd04db9/default/light/1.0 "devicatAww") ." -DragonBloodthirsty: (21-Jul-23)
+* 103: "Alex is my oldest at 4 months. he's over 2 feet tall and has stems falling over every day and cries about it and requires daily trimming. He's my green onions. 🧅 🌱" -Ayumikii: (21-Jul-23)
+* 104: "Sylvester is two weeks old and growing like a weed. I think he's trying to learn witchcraft and has opened a portal to another dimension under the soil because I know I didn't plant that many sprouts but he's still sprouting and while I understand that's typical for him once he's grown, that's after 30+ days! SYLVESTER. IS THERE SOMETHING YOU'RE NOT TELLING ME?!!" -Ayumikii: (21-Jul-23)
+* 105: "he's my chives" -Ayumikii: (21-Jul-23)
 
 There may be quotes newer than these that have yet to be collected.
 
