@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Harajuku Girl 2023](img/CandiCatHarajukuGirl2023.png)
 ![CandiCat Party Time 2023](img/CandiCatPartyTime2023.png)
 ![CandiCat Chibi Bubbles 2023](img/CandiCatChibiBubbles2023.png)
 ![Magical Girl Sylveon 2023](img/MagicalGirlSylveon2023.png)
