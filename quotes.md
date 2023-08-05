@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 107 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 108 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -121,6 +121,7 @@ number N.
 * 105: "he's my chives" -Ayumikii: (21-Jul-23)
 * 106: "When I went into my art lesson covered in yeast and flower, my teacher said I was the perfect roll-model. 🍞" -PotatoIsFired: (28-Jul-23)
 * 107: "Are you an anatomy study? Because I would spend a lot of time with you just to improve. #ArtistPickUpLines" -aVeryRedFox: (31-Jul-23)
+* 108: "Cleaning dishes forever is some kind of circle of hell I feel ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_798b122c3207433087757fb53de57d61/default/light/1.0 "devicatEh") ![TwitchLit](https://static-cdn.jtvnw.net/emoticons/v2/166263/default/light/1.0 "TwitchLit") ." -Blacksouls92: (04-Aug-23)
 
 There may be quotes newer than these that have yet to be collected.
 
