@@ -67,11 +67,7 @@
 ![Candicat Boba Tea 2021](img/CandiCatBobaTea2021.jpg)
 ![CandiCat Magical Girl 2021](img/CandiCatMagicalGirl2021.png)
 ![Maki LoveLive 2021](img/LoveLiveMaki2021.jpg)
-![Mew Ichigo TokyoMewMew 2021](img/TokyoMewMew2021.png)
 ![CardCaptor Sakura Clear Card 2021](img/CardCaptorSakuraCC2021.png)
-![Kaname Madoka 2021](img/MadokaMagica2021.png)
-![CandiCat Bubbles 2021](img/CandiCatBubbles2021.png)
-![Merry Animal Crossing 2021](img/MerryAC.png)
 ![CandiCat Party 2021](img/CandiCatParty2021.png)
 ![Wendy Animal Crossing 2020](img/WendyAC2020.png)
 {: .wrap}
