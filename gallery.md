@@ -71,8 +71,5 @@
 ![CandiCat Bubbles 2021](img/CandiCatBubbles2021.png)
 ![Merry Animal Crossing 2021](img/MerryAC.png)
 ![CandiCat Party 2021](img/CandiCatParty2021.png)
-![Strawberry 2021](img/Strawberry2021.png)
-![Paimon 2021](img/PaimonGenshin2021.png)
-![Kanna Miss Kobayashi's Dragon Maid 2020](img/KannaMissKobayashisDragonMaid2020.png)
 ![Wendy Animal Crossing 2020](img/WendyAC2020.png)
 {: .wrap}
