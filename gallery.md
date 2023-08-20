@@ -63,6 +63,8 @@
 ![Acerola Pokemon 2021](img/Acerola2021.png)
 ![GhostGirlGoods 2021](img/GhostGirlGoods2021.png)
 ![Candicat Pumpkin 2021](img/CandiCatPumpkin2021.png)
+![Candicat Cozy 2021](img/CandiCatCozy2021.png)
+![Candicat Boba Tea 2021](img/CandiCatBobaTea2021.jpg)
 ![CandiCat Magical Girl 2021](img/CandiCatMagicalGirl2021.png)
 ![Maki LoveLive 2021](img/LoveLiveMaki2021.jpg)
 ![Mew Ichigo TokyoMewMew 2021](img/TokyoMewMew2021.png)
