@@ -23,5 +23,5 @@ I hope these creations bring a smile to your face and a warmth in your heart. â™
 **Send Mail To:** <br>
 DEVICAT <br>
 PO BOX 3294 <br>
-FREDERICTON NB E3A 5H1 <br>
+FREDERICTON NB  E3A 5H1 <br>
 CANADA <br>
