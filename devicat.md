@@ -11,12 +11,17 @@ I hope these creations bring a smile to your face and a warmth in your heart. �
 ✦ 1st Twitch Stream: May 28th 2015. <br>
 ✦ Partnered on Twitch: July 5th 2016. <br>
 ✦ Creating: Originals & Fan Art. <br>
-✦ Goals: To help inspire others to keep their dreams alive via my creations & live streams. <br>
 
 ---
 <!-- ---
 --- -->
 
-Email DeviCat:
+**Email DeviCat:**
 {: .email}
 [hello@devicat.art](mailto:hello@devicat.art)
+
+**PO Box:**
+DEVICAT
+PO BOX 3294
+FREDERICTON NB E3A 5H1
+CANADA
