@@ -20,8 +20,8 @@ I hope these creations bring a smile to your face and a warmth in your heart. â™
 {: .email}
 [hello@devicat.art](mailto:hello@devicat.art)
 
-**PO Box:**
-DEVICAT
-PO BOX 3294
-FREDERICTON NB E3A 5H1
-CANADA
+**Send Mail To:** <br>
+DEVICAT <br>
+PO BOX 3294 <br>
+FREDERICTON NB E3A 5H1 <br>
+CANADA <br>
