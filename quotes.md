@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 110 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 111 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -124,6 +124,7 @@ number N.
 * 108: "Cleaning dishes forever is some kind of circle of hell I feel ![devicatEh](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_798b122c3207433087757fb53de57d61/default/light/1.0 "devicatEh") ![TwitchLit](https://static-cdn.jtvnw.net/emoticons/v2/166263/default/light/1.0 "TwitchLit") ." -Blacksouls92: (04-Aug-23)
 * 109: "Campfire Cooking in another world with my absurd skill ![TwitchLit](https://static-cdn.jtvnw.net/emoticons/v2/166263/default/light/1.0 "TwitchLit") ." -PurpleTcosplay: (09-Aug-23)
 * 110: "Re-boot-ah is my new name ![MechaRobot](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0be25a1663bd472495b91e0302cec166/default/light/1.0 "MechaRobot") ." -rebekah_chan: (09-Aug-23)
+* 111: "she's friendshaped ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_205b69abc2a44c47b939c9033bd04db9/default/light/1.0 "devicatAww") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -faecakes: (21-Aug-23)
 
 There may be quotes newer than these that have yet to be collected.
 
