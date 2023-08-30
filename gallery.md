@@ -54,6 +54,7 @@
 ![Mirukupannn DTIYS 2022](img/MirukupannnDTIYS2022.png)
 ![CandiCat Valentine 2022](img/CandiCatValentine2022.png)
 ![Lemoontea DTIYS 2022](img/LemoonteaDTIYS2022.png)
+![CandiCat Gamer Girl 2021](img/CandiCatGamerGirl2021.png)
 ![CandiCat Virtual Pet 2021](img/CCVirtualPet.jpg)
 ![CandiCat Candi Catcher 2022](img/CandiCatcher2022.png)
 ![CandiCat Console 2021](img/CandiCatConsole2021.jpg)
