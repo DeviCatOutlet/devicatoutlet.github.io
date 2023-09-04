@@ -1,5 +1,6 @@
 # Gallery
 
+![Pumpkin Party 2023](img/pumpkinparty2023.png)
 ![CandiCat Boba Tea 2023](img/CandiCatBobaTea2023.png)
 ![Hatsune Miku With SOLWA 2023](img/HatsuneMikuSOLWA2023.png)
 ![CandiCat Harajuku Girl 2023](img/CandiCatHarajukuGirl2023.png)
