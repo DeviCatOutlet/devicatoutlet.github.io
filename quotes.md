@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 116 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 117 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -130,6 +130,7 @@ number N.
 * 114: "It was a gentle nuke. A gentle nuke with love." -DeviCat (01-Sep-23)
 * 115: "Alright everyone, time for a galaxy group photo... C'mon now, little stars in the front... ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -Rosuav: (08-Sep-23)
 * 116: "If Redbubble ever run out, we will have problems ![Kappa](https://static-cdn.jtvnw.net/emoticons/v2/25/default/light/1.0 "Kappa") ." -Rosuav: (09-Sep-23)
+* 117: "Wow that was a HUGE explosion! ![PartyHat](https://static-cdn.jtvnw.net/emoticons/v2/965738/default/light/1.0 "PartyHat") " -DeviCat (13-Sep-23)
 
 There may be quotes newer than these that have yet to be collected.
 
