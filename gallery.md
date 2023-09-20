@@ -1,7 +1,6 @@
 # Gallery
 
 ![Kanna Miss Kobayashi's Dragon Maid 2023](img/Kanna2023.png)
-![Pumpkin Party 2023](img/pumpkinparty2023.png)
 ![CandiCat Boba Tea 2023](img/CandiCatBobaTea2023.png)
 ![Hatsune Miku With SOLWA 2023](img/HatsuneMikuSOLWA2023.png)
 ![CandiCat Harajuku Girl 2023](img/CandiCatHarajukuGirl2023.png)
@@ -26,6 +25,7 @@
 ![Lauwriii DTIYS 2022](img/lauwriiiDTIYS2022.png)
 ![CandiCat Christmas Stocking 2022](img/CandiCatChristmasStocking2022.png)
 ![Fiyunae DTIYS 2022](img/FiyunaeDTIYS2022.png)
+![Pumpkin Party 2022](img/pumpkinparty2022.png)
 ![CandiCat Pumpkin Party 2022](img/CCPumpkinParty2022.png)
 ![CandiCat Witch 2022](img/CandiCatWitch2022.png)
 ![Ealya Art DTIYS 2022](img/EalyaArtDTIYS2022.png)
