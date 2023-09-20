@@ -25,7 +25,7 @@
 ![Lauwriii DTIYS 2022](img/lauwriiiDTIYS2022.png)
 ![CandiCat Christmas Stocking 2022](img/CandiCatChristmasStocking2022.png)
 ![Fiyunae DTIYS 2022](img/FiyunaeDTIYS2022.png)
-![Pumpkin Party 2022](img/pumpkinparty2022.png)
+![Pumpkin Party 2022](img/PumpkinParty2022.png)
 ![CandiCat Pumpkin Party 2022](img/CCPumpkinParty2022.png)
 ![CandiCat Witch 2022](img/CandiCatWitch2022.png)
 ![Ealya Art DTIYS 2022](img/EalyaArtDTIYS2022.png)
