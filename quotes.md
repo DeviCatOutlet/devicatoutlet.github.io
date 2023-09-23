@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 118 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 119 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -132,6 +132,7 @@ number N.
 * 116: "If Redbubble ever run out, we will have problems ![Kappa](https://static-cdn.jtvnw.net/emoticons/v2/25/default/light/1.0 "Kappa") ." -Rosuav: (09-Sep-23)
 * 117: "Wow that was a HUGE explosion! ![PartyHat](https://static-cdn.jtvnw.net/emoticons/v2/965738/default/light/1.0 "PartyHat") " -DeviCat (13-Sep-23)
 * 118: "How do ghosts do their makeup before they go out trick or treating? They use ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") vanishing cream. ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") ." -PotatoIsFired: (15-Sep-23)
+* 119: " ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") 🐝 🐝 s" -Ironmania2003: (22-Sep-23)
 
 There may be quotes newer than these that have yet to be collected.
 
