@@ -1,6 +1,7 @@
 # Gallery
 
-![CandiCat Chibi Pumpkin Party 2023.png](img/CandiCatChibiPumpkinParty2023.png)
+![Pumpkin Party 2023](img/PumpkinParty2023.png)
+![CandiCat Chibi Pumpkin Party 2023](img/CandiCatChibiPumpkinParty2023.png)
 ![Kanna Miss Kobayashi's Dragon Maid 2023](img/Kanna2023.png)
 ![CandiCat Boba Tea 2023](img/CandiCatBobaTea2023.png)
 ![Hatsune Miku With SOLWA 2023](img/HatsuneMikuSOLWA2023.png)
