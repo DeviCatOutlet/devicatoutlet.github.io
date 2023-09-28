@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 120 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 121 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -134,6 +134,7 @@ number N.
 * 118: "How do ghosts do their makeup before they go out trick or treating? They use ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") vanishing cream. ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") ." -PotatoIsFired: (15-Sep-23)
 * 119: " ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") 🐝 🐝 s" -Ironmania2003: (22-Sep-23)
 * 120: "Petition to the council: rename long form youtube videos to 👖 Pants. Due to them being Not Shorts." -TheBiggestNate (25-Sep-23)
+* 121: " ![devicatSpace](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b6fda7b16541412aa8db852466ef5f65/default/light/1.0 "devicatSpace") that's one small step for a follower... ![devicatSpace](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b6fda7b16541412aa8db852466ef5f65/default/light/1.0 "devicatSpace") one giant leap for all subscribers ![devicatSpace](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b6fda7b16541412aa8db852466ef5f65/default/light/1.0 "devicatSpace") ." -Rosuav: (25-Sep-23)
 
 There may be quotes newer than these that have yet to be collected.
 
