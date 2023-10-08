@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Bat Cupcake 2023](img/CandiCatBatCupcake2023.png)
 ![CandiCat Chibi Witch 2023](img/CandiCatChibiWitch2023.png)
 ![Pumpkin Party 2023](img/PumpkinParty2023.png)
 ![CandiCat Chibi Pumpkin Party 2023](img/CandiCatChibiPumpkinParty2023.png)
