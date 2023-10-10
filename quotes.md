@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 123 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 124 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -137,6 +137,7 @@ number N.
 * 121: " ![devicatSpace](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b6fda7b16541412aa8db852466ef5f65/default/light/1.0 "devicatSpace") that's one small step for a follower... ![devicatSpace](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b6fda7b16541412aa8db852466ef5f65/default/light/1.0 "devicatSpace") one giant leap for all subscribers ![devicatSpace](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b6fda7b16541412aa8db852466ef5f65/default/light/1.0 "devicatSpace") ." -Rosuav: (25-Sep-23)
 * 122: "Should I change the fire under her butt a bit more?" -DeviCat (02-Oct-23)
 * 123: "pretty sure my first sub here was gifted. but the real gift was a cat bat made of candy ![devicatCandy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_57997d1aa4794e9b90cef8b24f2b54ab/default/light/1.0 "devicatCandy") ." -itscocotime: (06-Oct-23)
+* 124: "who needs a star or engle at top the christmisstree, when a CandiCat can look down on you, and seek your motal soul as exchange for that soft packge that is just socks" -Tef_Bannow (09-Oct-23)
 
 There may be quotes newer than these that have yet to be collected.
 
