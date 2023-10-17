@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 125 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 126 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -139,6 +139,7 @@ number N.
 * 123: "pretty sure my first sub here was gifted. but the real gift was a cat bat made of candy ![devicatCandy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_57997d1aa4794e9b90cef8b24f2b54ab/default/light/1.0 "devicatCandy") ." -itscocotime: (06-Oct-23)
 * 124: "who needs a star or engle at top the christmisstree, when a CandiCat can look down on you, and seek your motal soul as exchange for that soft packge that is just socks" -Tef_Bannow (09-Oct-23)
 * 125: "This is a safe please, we have pitchforks to take care of bad people... or cake, yea it is cake, and then everyone gets happy." -Tef_Bannow (13-Oct-23)
+* 126: "Well, consuder me odd, but I rather use my spatulas for dumbells." -MaruExposito (16-Oct-23)
 
 There may be quotes newer than these that have yet to be collected.
 
