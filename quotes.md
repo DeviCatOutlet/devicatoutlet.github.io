@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 126 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 127 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -140,6 +140,7 @@ number N.
 * 124: "who needs a star or engle at top the christmisstree, when a CandiCat can look down on you, and seek your motal soul as exchange for that soft packge that is just socks" -Tef_Bannow (09-Oct-23)
 * 125: "This is a safe please, we have pitchforks to take care of bad people... or cake, yea it is cake, and then everyone gets happy." -Tef_Bannow (13-Oct-23)
 * 126: "Well, consuder me odd, but I rather use my spatulas for dumbells." -MaruExposito (16-Oct-23)
+* 127: " If they have a problem, it just means they are probably jealous that you have pockets deep enough to accumulate lint" -red_thread_kitty (21-Oct-23)
 
 There may be quotes newer than these that have yet to be collected.
 
