@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Chibi Forest Fauna • 2023](img/CandiCatChibiForestFauna2023.png)
 ![CandiCat Ghost Girl 2023](img/CandiCatGhostGirl2023.png)
 ![CandiCat Ghost Cat 2023](img/CandiCatGhostCat2023.png)
 ![CandiCat Bat Cupcake 2023](img/CandiCatBatCupcake2023.png)
