@@ -43,7 +43,7 @@
 ![CandiCat Dango • 2022](img/CandiCatDangoCat2022.png)
 ![Camillyartes DTIYS • 2022](img/CamillyartesDTIYS2022.png)
 ![CandiCat Magical Girl • 2022](img/CCMagicalGirl2022.png)
-![CandiCat In Space • 2022](img/CandiCatSpaceCat2022.png)
+![CandiCat Space Cat • 2022](img/CandiCatSpaceCat2022.png)
 ![Goddess Madoka • 2022](img/GoddessMadoka2022.png)
 ![Sakura Hatsune Miku • 2022](img/HatsuneMikuSakura2022.png)
 ![Shyfoxx DTIYS • 2022](img/ShyfoxxDTIYS2022.png)
