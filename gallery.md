@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Snow Day • 2023](img/CandiCatSnowDay2023.png)
 ![CandiCat Cafe Maid • 2023](img/CandiCatCafeMaid2023.png)
 ![CandiCat Chibi Forest Fauna • 2023](img/CandiCatChibiForestFauna2023.png)
 ![CandiCat Ghost Girl • 2023](img/CandiCatGhostGirl2023.png)
