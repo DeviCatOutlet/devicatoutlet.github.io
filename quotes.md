@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 134 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 135 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -148,6 +148,7 @@ number N.
 * 132: "YOUR BIRTHDAY CAN BE LONGER!!" -DeviCat (06-Dec-23)
 * 133: "I will do it for the science, but another day I got pizza in the oven ![PizzaTime](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f202746ed88f4e7c872b50b1f7fd78cc/default/light/1.0 "PizzaTime") ." -HiyaKare: (11-Dec-23)
 * 134: "I think I can go ahead and put her head back now ![devicatWut](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5790f1e2cc3a4ec28bfe3a0837c7d61d/default/light/1.0 "devicatWut") ." -DeviCat (16-Dec-23)
+* 135: "I lose health every time someone subs or donates. Step on me! ![devicatPow](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7034ea1bf3c14b5aaa3b5640ae0151f6/default/light/1.0 "devicatPow") ![devicatDead](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c830a153dc248b0850d4fdf3086030c/default/light/1.0 "devicatDead") ." -QuillCafe: (20-Dec-23)
 
 There may be quotes newer than these that have yet to be collected.
 
