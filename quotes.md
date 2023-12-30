@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 136 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 137 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -150,6 +150,7 @@ number N.
 * 134: "I think I can go ahead and put her head back now ![devicatWut](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5790f1e2cc3a4ec28bfe3a0837c7d61d/default/light/1.0 "devicatWut") ." -DeviCat (16-Dec-23)
 * 135: "I lose health every time someone subs or donates. Step on me! ![devicatPow](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7034ea1bf3c14b5aaa3b5640ae0151f6/default/light/1.0 "devicatPow") ![devicatDead](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3c830a153dc248b0850d4fdf3086030c/default/light/1.0 "devicatDead") ." -QuillCafe: (20-Dec-23)
 * 136: "I'm going to clip this stuff to the whipped cream ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d85e91f3c8064982bcde36182d2bce91/default/light/1.0 "devicatNom") ." -DeviCat (23-Dec-23)
+* 137: "is a cat placemat when a cat lays down on the table in front of you? ![devicatBooty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5f73019739034b45b0ba3a326645ceb6/default/light/1.0 "devicatBooty") ." -Ironmania2003: (29-Dec-23)
 
 There may be quotes newer than these that have yet to be collected.
 
