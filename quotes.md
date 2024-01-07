@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 1 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 3 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -16,6 +16,8 @@ number N.
 * [Latest quotes](quotes)
 
 * 1: "i volunteer for first quote of the year." -EuphoniumHero6: (03-Jan-24)
+* 2: "I will drop my age and it will hit the floor so hard it breaks in half then I am younger again, is that how it works?" -juice_tex: (03-Jan-24)
+* 3: "Devi, have you ever stabbed yourself in the face with the ears?" -shanconart (06-Jan-24)
 
 There may be quotes newer than these that have yet to be collected.
 
