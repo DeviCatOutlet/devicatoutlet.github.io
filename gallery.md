@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Snow Chibi • 2024](img/CandiCatSnowChibi2024.png)
 ![CandiCat Cocoa Cat • 2023](img/CandiCatCocoaCat2023.png)
 ![CandiCat Snow Day • 2023](img/CandiCatSnowDay2023.png)
 ![CandiCat CupCake • 2023](img/CandiCatCupcake2023.png)
