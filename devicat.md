@@ -11,7 +11,7 @@ I hope these creations bring a smile to your face and a warmth in your heart. �
 ✦ 1st Twitch Stream: May 28th 2015. <br>
 ✦ Partnered on Twitch: July 5th 2016. <br>
 ✦ Creating: Originals of my mascot CandiCat (and adjacent pieces.) <br>
-✦ Goals: To share what brings me joy in the hopes of inspiring others. <br>
+✦ Goals: Applying for artist alleys & licensing agreements, creating originals for my portfolio, and continuing my studies in fundamental arts.<br>
 
 ---
 <!-- ---
