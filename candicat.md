@@ -3,7 +3,8 @@
 ### CandiCat
   * **Role:** DeviCat's Mascot
   * **Loves:** Sweets, Rainbows & Bubbles
-  * **Theme / Location:** Galaxy Cat / Mirror Moon
+  * **Theme:** Galaxy Cat
+  * **Location:** Mirror Moon
 
   ---
 
