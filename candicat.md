@@ -12,6 +12,6 @@ CandiCat is DeviCat's mascot for her brand. She represents her Twitch subscriber
 
 CandiCat is a space cat, an alien from outer space. One day she discovers Earth and that we have candy. But the only way for her to get sweets is by turning into a human (as no one takes a talking cat seriously.) And that's why a lot of the time she doesn't wear shoes. After all, she's a talking cat. She doesn't care about shoes, she just wants to eat (and we love her for that. ♡)
 
-Additional Lore: CandiCat is originally from Mirror Moon, where the civilians are known as "reflections." It's believed that CandiCat's human form was her using her "reflect" ability based on the first person she met on Earth. 
+Additional Lore: CandiCat is originally from Mirror Moon, where the civilians are known as "reflections." It's believed that CandiCats human form was her using her "reflect" ability based on the first person she met on Earth. 
 
 ---
