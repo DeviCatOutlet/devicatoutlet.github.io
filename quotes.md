@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 5 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 6 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -20,6 +20,7 @@ number N.
 * 3: "Devi, have you ever stabbed yourself in the face with the ears?" -shanconart (06-Jan-24)
 * 4: "It's really the last dream game this time!" -DragonBloodthirsty: (10-Jan-24)
 * 5: "it's really the last dream game this time, until it's the next time" -EuphoniumHero6: (10-Jan-24)
+* 6: "I moved the steam and the sparkle!" -DeviCat (13-Jan-24)
 
 There may be quotes newer than these that have yet to be collected.
 
