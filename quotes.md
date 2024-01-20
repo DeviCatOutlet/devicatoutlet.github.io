@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 6 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 8 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -21,6 +21,8 @@ number N.
 * 4: "It's really the last dream game this time!" -DragonBloodthirsty: (10-Jan-24)
 * 5: "it's really the last dream game this time, until it's the next time" -EuphoniumHero6: (10-Jan-24)
 * 6: "I moved the steam and the sparkle!" -DeviCat (13-Jan-24)
+* 7: "We! Need! One more person! ![devicatWiggle](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7afb73ac6b814225b1ea584af4b03fb6/default/light/1.0 "devicatWiggle") One more person! ![devicatWut](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5790f1e2cc3a4ec28bfe3a0837c7d61d/default/light/1.0 "devicatWut") One more person!" -DeviCat (17-Jan-24)
+* 8: "Let meowt! ![devicatBooty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5f73019739034b45b0ba3a326645ceb6/default/light/1.0 "devicatBooty") ." -xkirax56: (17-Jan-24)
 
 There may be quotes newer than these that have yet to be collected.
 
