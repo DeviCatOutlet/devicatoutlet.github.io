@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 8 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 10 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -23,6 +23,8 @@ number N.
 * 6: "I moved the steam and the sparkle!" -DeviCat (13-Jan-24)
 * 7: "We! Need! One more person! ![devicatWiggle](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7afb73ac6b814225b1ea584af4b03fb6/default/light/1.0 "devicatWiggle") One more person! ![devicatWut](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5790f1e2cc3a4ec28bfe3a0837c7d61d/default/light/1.0 "devicatWut") One more person!" -DeviCat (17-Jan-24)
 * 8: "Let meowt! ![devicatBooty](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5f73019739034b45b0ba3a326645ceb6/default/light/1.0 "devicatBooty") ." -xkirax56: (17-Jan-24)
+* 9: "That's right.. the PP got an upgrade!" -DeviCat (24-Jan-24)
+* 10: "They're not dumbells, they're anchors keeping a magical girl on the ground! ![devicatWing](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e641609bb7e944efa5cd3285448ec92a/default/light/1.0 "devicatWing") ![devicatWing_HF](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e641609bb7e944efa5cd3285448ec92a_HF/default/light/1.0 "devicatWing_HF") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -Rosuav: (26-Jan-24)
 
 There may be quotes newer than these that have yet to be collected.
 
