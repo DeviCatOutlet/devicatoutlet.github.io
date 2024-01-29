@@ -484,7 +484,7 @@ a {
 	margin-top: 1em;
 }
 
-/* Hide from screenreaders (they're scary!) */
+/* Hide from screenreaders */
 .screenreader {
 	position: absolute;
 	width: 1px;
