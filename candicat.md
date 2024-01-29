@@ -15,3 +15,12 @@ CandiCat is a space cat, an alien from outer space. One day she discovers Earth 
 Additional Lore: CandiCat is originally from Mirror Moon, where the civilians are known as "reflections." It's believed that CandiCats human form was her using her "reflect" ability based on the first person she met on Earth. 
 
 ---
+
+# Gallery
+![CandiCat Candi Jar • 2024](img/CandiCatCandiJar2024.png)
+![CandiCat Candi Catcher • 2024](img/CandiCatCandiCatcher2024.png)
+![CandiCat Virtual Pet • 2024](img/CandiCatVirtualPet2024.png)
+![CandiCat Tea Time • 2024](img/CandiCatTeaTime2024.png)
+![CandiCat Snow Chibi • 2024](img/CandiCatSnowChibi2024.png)
+![CandiCat Cocoa Cat • 2023](img/CandiCatCocoaCat2023.png)
+![CandiCat Snow Day • 2023](img/CandiCatSnowDay2023.png)
