@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 11 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 12 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -26,6 +26,7 @@ number N.
 * 9: "That's right.. the PP got an upgrade!" -DeviCat (24-Jan-24)
 * 10: "They're not dumbells, they're anchors keeping a magical girl on the ground! ![devicatWing](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e641609bb7e944efa5cd3285448ec92a/default/light/1.0 "devicatWing") ![devicatWing_HF](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e641609bb7e944efa5cd3285448ec92a_HF/default/light/1.0 "devicatWing_HF") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -Rosuav: (26-Jan-24)
 * 11: " ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53bd0461e4f74eb08979139b9e837736/default/light/1.0 "devicatHug") A hug is like a head-pat for your body!" -DeviCat (27-Jan-24)
+* 12: "So, you're coming to the end of your one month free trial. Are you interested in buying a full copy of 2024?" -Rosuav: (31-Jan-24)
 
 There may be quotes newer than these that have yet to be collected.
 
