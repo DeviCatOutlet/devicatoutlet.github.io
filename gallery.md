@@ -1,5 +1,7 @@
 # Gallery
 
+![Cinna • Cinnamon Roll Dragon • 2024](img/CinnamonDragonRoll2024.png)
+![Berry • Strawberry Roll Dragon • 2024](img/StrawberryDragonRoll2024.png)
 ![CandiCat Space Planet • 2024](img/CandiCatSpacePlanet2024.png)
 ![CandiCat Chibi Cocoa • 2024](img/CandiCatChibiCocoa2024.png)
 ![CandiCat Candi Jar • 2024](img/CandiCatCandiJar2024.png)
