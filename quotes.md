@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 17 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 19 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -32,6 +32,8 @@ number N.
 * 15: "Yes, eat me senpai, I will be delicious and I am full of berry and definitely not blood, eat me senpai I love you ![devicatChaos](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a1d234273d654db4b79b8d231a2f51e2/default/light/1.0 "devicatChaos") ." -Rosuav: (12-Feb-24)
 * 16: "guys my 2024 goal for devi stream is to hoard bubbles just cuz big number cool ![devicatSip](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_56120231405e4afdbea6596b4ca42786/default/light/1.0 "devicatSip") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -imherearthelps: (12-Feb-24)
 * 17: "I want to smell like a walking dessert." -DeviCat (17-Feb-24)
+* 18: "Have you ever wondered why you can't just take a megaphone and shrink it down until it becomes a regular phone?" -Rosuav: (21-Feb-24)
+* 19: "Or shrink down a phone until it becomes a microphone?" -Rosuav: (21-Feb-24)
 
 There may be quotes newer than these that have yet to be collected.
 
