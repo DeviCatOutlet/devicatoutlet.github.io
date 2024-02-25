@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Candi Magic • 2024](img/CandiCatCandiMagic2024.png)
 ![Cinna • Cinnamon Dragon Roll • 2024](img/CinnamonDragonRoll2024.png)
 ![Berry • Strawberry Dragon Roll • 2024](img/StrawberryDragonRoll2024.png)
 ![CandiCat Space Planet • 2024](img/CandiCatSpacePlanet2024.png)
