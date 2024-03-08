@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 21 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 22 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -36,6 +36,7 @@ number N.
 * 19: "Or shrink down a phone until it becomes a microphone?" -Rosuav: (21-Feb-24)
 * 20: "Aka enjoy the chaos? JOIN THE CAT ARMY >:3" -emie_chise_kitty: (24-Feb-24)
 * 21: "She's on her nose ![devicatBounce](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5f756e9132e4462b94da0beb272b8e46/default/light/1.0 "devicatBounce") ." -DeviCat (28-Feb-24)
+* 22: "WHICH ![devicatWut](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5790f1e2cc3a4ec28bfe3a0837c7d61d/default/light/1.0 "devicatWut") JESS??" -jessicamaiartist (07-Mar-24)
 
 There may be quotes newer than these that have yet to be collected.
 
