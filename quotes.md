@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 26 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 28 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -41,6 +41,8 @@ number N.
 * 24: "It's VERY cool. We can be lighthouses at the far end of the sky." -Rosuav: (09-Mar-24)
 * 25: "QUEEN DEVI!!! ALL HAIL DEVI QUEEN OF THE STARLIGHTS!" -DuluthFly: (09-Mar-24)
 * 26: "I am her greatest fan she used to draw for me when she was little too❤️" -devicatmom: (09-Mar-24)
+* 27: "the way I see it we are a hype stream that sometimes has art being worked on" -Ironmania2003: (11-Mar-24)
+* 28: "You can't eat candy because you're already so sweet. ![devicatTreat](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4d5a290d1d88490eb845bec3a7f97b54/default/light/1.0 "devicatTreat") ." -EmeraldEire: (11-Mar-24)
 
 There may be quotes newer than these that have yet to be collected.
 
