@@ -40,6 +40,7 @@ Additional Lore: CandiCat is originally from Mirror Moon, where the civilians ar
 ![CandiCat Harajuku Girl • 2023](img/CandiCatHarajukuGirl2023.png)
 ![CandiCat Party Time • 2023](img/CandiCatPartyTime2023.png)
 ![CandiCat Chibi Bubbles • 2023](img/CandiCatChibiBubbles2023.png)
+![Candi Forest Fauna • 2023](img/CandiForestFauna2023.png)
 ![CandiCat Cat In A Box • 2023](img/CandiCatCatBox2023.png)
 ![CandiCat GameCat • 2023](img/CandiCatGameCat2023.png)
 ![CandiCat Crepe • 2023](img/candicatcrepe2023.png)
