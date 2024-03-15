@@ -144,10 +144,6 @@ img {
 }
 
 h1#gallery {
-	visibility: hidden;
-}
-
-hr + h1#gallery {
 	text-align: center;
 	font-family: 'Montez', sans-serif;
 	color: var(--black);
@@ -155,6 +151,9 @@ hr + h1#gallery {
 	font-weight: 400;
 }
 
+hr + h1#gallery {
+	visibility: hidden;
+}
 #gallery p {
 	display: flex;
 	flex-wrap: wrap;
