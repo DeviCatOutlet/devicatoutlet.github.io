@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 29 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 30 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -44,6 +44,7 @@ number N.
 * 27: "the way I see it we are a hype stream that sometimes has art being worked on" -Ironmania2003: (11-Mar-24)
 * 28: "You can't eat candy because you're already so sweet. ![devicatTreat](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4d5a290d1d88490eb845bec3a7f97b54/default/light/1.0 "devicatTreat") ." -EmeraldEire: (11-Mar-24)
 * 29: "To make a candy cat you need sugar, magic, and love. If you can't make your own magic, store bought is fine ![devicatTreat](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4d5a290d1d88490eb845bec3a7f97b54/default/light/1.0 "devicatTreat") ." -Xillians: (15-Mar-24)
+* 30: "I will be attending in mental spirit. So if you catch a chill, it's cause I'm clumsy and brought the draft in. ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") ." -TiggyDoodler: (16-Mar-24)
 
 There may be quotes newer than these that have yet to be collected.
 
