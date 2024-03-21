@@ -1,5 +1,7 @@
 # Gallery
 
+![CandiCat Cafe Maid Valentine • 2024](img/CandiCatCafeMaidValentine2024.png)
+![CandiCat Candi Magic • 2024](img/Cand
 ![CandiCat Candi Magic • 2024](img/CandiCatCandiMagic2024.png)
 ![Cinna • Cinnamon Dragon Roll • 2024](img/CinnamonDragonRoll2024.png)
 ![Berry • Strawberry Dragon Roll • 2024](img/StrawberryDragonRoll2024.png)
