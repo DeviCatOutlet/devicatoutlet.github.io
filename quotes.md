@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 31 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 32 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -46,6 +46,7 @@ number N.
 * 29: "To make a candy cat you need sugar, magic, and love. If you can't make your own magic, store bought is fine ![devicatTreat](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4d5a290d1d88490eb845bec3a7f97b54/default/light/1.0 "devicatTreat") ." -Xillians: (15-Mar-24)
 * 30: "I will be attending in mental spirit. So if you catch a chill, it's cause I'm clumsy and brought the draft in. ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") ." -TiggyDoodler: (16-Mar-24)
 * 31: "we're a bell pepper stream not a ghost pepper stream xD 🌶️💀" -JessickaZombie: (18-Mar-24)
+* 32: "where did the night go? oh, I put it in the fridge to keep it from spoiling! I'll take it out tomorrow and reheat it!" -Ironmania2003: (22-Mar-24)
 
 There may be quotes newer than these that have yet to be collected.
 
