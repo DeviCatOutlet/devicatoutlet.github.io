@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 32 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 35 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -47,6 +47,9 @@ number N.
 * 30: "I will be attending in mental spirit. So if you catch a chill, it's cause I'm clumsy and brought the draft in. ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") ." -TiggyDoodler: (16-Mar-24)
 * 31: "we're a bell pepper stream not a ghost pepper stream xD 🌶️💀" -JessickaZombie: (18-Mar-24)
 * 32: "where did the night go? oh, I put it in the fridge to keep it from spoiling! I'll take it out tomorrow and reheat it!" -Ironmania2003: (22-Mar-24)
+* 33: "I'm kind of alive over here ![devicatBoo](https://static-cdn.jtvnw.net/emoticons/v2/306361782/default/light/1.0 "devicatBoo") ." -DeviCat (06-Apr-24)
+* 34: "I would give you a full heart, but I need the other half for reference ![devicatB2](https://static-cdn.jtvnw.net/emoticons/v2/306362365/default/light/1.0 "devicatB2") !" -DeviCat (06-Apr-24)
+* 35: "We're going to shrink this thumb down a bit, refine it a bit, and add it to the collection." -DeviCat (08-Apr-24)
 
 There may be quotes newer than these that have yet to be collected.
 
