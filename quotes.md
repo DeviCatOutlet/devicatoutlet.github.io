@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 41 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 43 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -56,6 +56,8 @@ number N.
 * 39: "Devi looking like an elf today ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_205b69abc2a44c47b939c9033bd04db9/default/light/1.0 "devicatAww") ." -SoulBoundKai: (19-Apr-24)
 * 40: "she looks more like a magical anime unicorn who's the Canadian reincarnation of Bob Ross to me!" -Ironmania2003: (19-Apr-24)
 * 41: "if you press fullscreen, your monitor becomes strawberry flavoured try it chat ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -kevinjmc32: (19-Apr-24)
+* 42: "for our UK friends happy Twenty Four day." -mlasuk: (20-Apr-24)
+* 43: "put me in there, pocket Tiggy, I'll give you 3 quotes a day" -TiggyDoodler: (20-Apr-24)
 
 There may be quotes newer than these that have yet to be collected.
 
