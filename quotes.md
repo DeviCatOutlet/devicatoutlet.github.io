@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 44 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 49 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -59,6 +59,11 @@ number N.
 * 42: "for our UK friends happy Twenty Four day." -mlasuk: (20-Apr-24)
 * 43: "put me in there, pocket Tiggy, I'll give you 3 quotes a day" -TiggyDoodler: (20-Apr-24)
 * 44: "Have you considered making a thicc ocean with two seas?" -Rosuav: (22-Apr-24)
+* 45: "bleedPurple Thanks for lighting up our Life! ![bleedPurple](https://static-cdn.jtvnw.net/emoticons/v2/62835/default/light/1.0 "bleedPurple") ..." -Sabelladona (24-Apr-24)
+* 46: "Devi Cat your not a tiny peace of sand! more like a nice and pretty seashell on the beach" -Ironmania2003: (24-Apr-24)
+* 47: "Okay, you know it's an amazing stream when Devi drops TWO f-bombs in a day"" -"Rosuav: (24-Apr-24)
+* 48: "Okay but who is buttpudding ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v2/306361575/default/light/1.0 "devicatButt") ?" -LilFoxArt (24-Apr-24)
+* 49: "LizoftheValley You have the power of the addquote command if you want it!" -Rosuav (24-Apr-24)
 
 There may be quotes newer than these that have yet to be collected.
 
