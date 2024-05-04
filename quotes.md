@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 49 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 54 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -64,6 +64,11 @@ number N.
 * 47: "Okay, you know it's an amazing stream when Devi drops TWO f-bombs in a day"" -"Rosuav: (24-Apr-24)
 * 48: "Okay but who is buttpudding ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v2/306361575/default/light/1.0 "devicatButt") ?" -LilFoxArt (24-Apr-24)
 * 49: "LizoftheValley You have the power of the addquote command if you want it!" -Rosuav (24-Apr-24)
+* 50: "looking AND smelling like a SNACC ![devicatNom](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d85e91f3c8064982bcde36182d2bce91/default/light/1.0 "devicatNom") ." -BrokenRobotArt: (26-Apr-24)
+* 51: " ![devicatSus](https://static-cdn.jtvnw.net/emoticons/v2/306361964/default/light/1.0 "devicatSus") we didn't start the hype train. it was always there, we just woke it up ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") ." -Spockjr: (01-May-24)
+* 52: "CandiCat ate everyone's candy to fuel the CandiPlanet ![devicatTreat](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4d5a290d1d88490eb845bec3a7f97b54/default/light/1.0 "devicatTreat") ." -Ayumikii: (01-May-24)
+* 53: "!askcc Do you have favourites?" -Rosuav: (03-May-24)
+* 54: "rosuav , Absolutely, yes! ![devicatDance](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b5748fe5fbf84ba780192b8823966b0c/default/light/1.0 "devicatDance") ." -CandiCat: (03-May-24)
 
 There may be quotes newer than these that have yet to be collected.
 
