@@ -1,5 +1,7 @@
 # Gallery
 
+![Berry Cat • 2024](img/BerryCat2024.png)
+![Kiwi Cat • 2024](img/KiwiCat2024.png)
 ![CandiCat Boots n' Cats • 2024](img/CandiCat_BootsNCats_2024.png)
 ![CandiCat Sakura • 2024](img/CandiCatSakura2024.png)
 ![CandiCat Chibi Gamer Girl • 2024](img/CandiCatChibiGamerGirl2024.png)
