@@ -26,3 +26,15 @@ DeviCat <br>
 PO BOX 3294 <br>
 Fredericton New Brunswick E3A 5H1 <br>
 CANADA <br>
+
+---
+
+# Gallery
+
+![CandiCat Boots n' Cats • 2024](img/CandiCat_BootsNCats_2024.png)
+![CandiCat Sakura • 2024](img/CandiCatSakura2024.png)
+![CandiCat Chibi Gamer Girl • 2024](img/CandiCatChibiGamerGirl2024.png)
+![CandiCat Cafe Maid Valentine • 2024](img/CandiCatCafeMaidValentine2024.png)
+![CandiCat Candi Magic • 2024](img/CandiCatCandiMagic2024.png)
+![CandiCat Space Planet • 2024](img/CandiCatSpacePlanet2024.png)
+![CandiCat Chibi Cocoa • 2024](img/CandiCatChibiCocoa2024.png)
