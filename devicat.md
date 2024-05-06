@@ -31,10 +31,8 @@ CANADA <br>
 
 # Gallery
 
-![CandiCat Boots n' Cats • 2024](img/CandiCat_BootsNCats_2024.png)
-![CandiCat Sakura • 2024](img/CandiCatSakura2024.png)
-![CandiCat Chibi Gamer Girl • 2024](img/CandiCatChibiGamerGirl2024.png)
-![CandiCat Cafe Maid Valentine • 2024](img/CandiCatCafeMaidValentine2024.png)
-![CandiCat Candi Magic • 2024](img/CandiCatCandiMagic2024.png)
-![CandiCat Space Planet • 2024](img/CandiCatSpacePlanet2024.png)
-![CandiCat Chibi Cocoa • 2024](img/CandiCatChibiCocoa2024.png)
+![Devicat AEX 2024](img/devicat_AEX_2024_1.jpeg)
+![Devicat AEX 2024](img/devicat_AEX_2024_2.jpeg)
+![Devicat AEX 2024](img/devicat_AEX_2024_3.jpeg)
+![Devicat AEX 2024](img/devicat_AEX_2024_4.jpeg)
+![Devicat AEX 2024](img/devicat_AEX_2024_5.jpeg)
