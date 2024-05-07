@@ -36,3 +36,4 @@ CANADA <br>
 ![Devicat AEX • 2024](img/devicat_AEX_2024_003.jpeg)
 ![Devicat AEX • 2024](img/devicat_AEX_2024_004.jpeg)
 ![Devicat AEX • 2024](img/devicat_AEX_2024_005.jpeg)
+{: .wrap}
