@@ -236,6 +236,9 @@ html {
 	font-size: 1.2em;
 	color: #222;
 }
+#popup img {
+	max-height: 95vh;
+}
 
 /* The Aboot page has a lot of magic to it :( */
 h1#about,
