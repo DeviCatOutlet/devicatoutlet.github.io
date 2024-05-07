@@ -31,8 +31,8 @@ CANADA <br>
 
 # Gallery
 
-![Devicat AEX 2024](img/devicat_AEX_2024_1.jpeg)
-![Devicat AEX 2024](img/devicat_AEX_2024_2.jpeg)
-![Devicat AEX 2024](img/devicat_AEX_2024_3.jpeg)
-![Devicat AEX 2024](img/devicat_AEX_2024_4.jpeg)
-![Devicat AEX 2024](img/devicat_AEX_2024_5.jpeg)
+![Devicat AEX • 2024](img/devicat_AEX_2024_001.jpeg)
+![Devicat AEX • 2024](img/devicat_AEX_2024_002.jpeg)
+![Devicat AEX • 2024](img/devicat_AEX_2024_003.jpeg)
+![Devicat AEX • 2024](img/devicat_AEX_2024_004.jpeg)
+![Devicat AEX • 2024](img/devicat_AEX_2024_005.jpeg)
