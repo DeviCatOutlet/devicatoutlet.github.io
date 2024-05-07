@@ -99,7 +99,7 @@
 <script>
 const gallery = {};
 document.querySelectorAll('#gallery ~ p img').forEach(img => {
-	const imgname = "#" + /img\/(.*)\.(png|jpg)$/.exec(img.src)[1];
+	const imgname = "#" + /img\/(.*)\.(png|jpg|jpeg)$/.exec(img.src)[1];
 	img.onclick = gallery[imgname] = function(ev) {
 		document.querySelector('#popup img').src = img.src;
 		document.querySelector('#popup figcaption').textContent = img.alt;
