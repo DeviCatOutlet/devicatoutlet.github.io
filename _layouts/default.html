@@ -49,16 +49,16 @@
           <div class="nav-menucontainer">
             <a class="nav-dropdown {{active}}" href="{{ url }}" id="dropdown-{{ url }}" role="button" aria-haspopup="true" aria-expanded="false">{{ name }}{{current}}</a>
             <div class="nav-submenu" aria-labelledby="dropdown-{{ url }}">
-              {%- for subdest in info[1] -%}
-                {%- if subdest[1] -%}
-                  {%- assign subname = subdest[0] -%}
-                  {%- assign suburl = subdest[1] -%}
+              {%- for subdest in info[1] -%}{%- for subinfo in subdest -%}
+	        {%- if subinfo[1] -%}
+		  {%- assign subname = subinfo[0] -%}
+                  {%- assign suburl = subinfo[1] -%}
                 {%- else -%}
-                  {%- assign subname = subdest -%}
-                  {%- assign suburl = subdest | downcase | replace: " ", "" -%}
+                  {%- assign subname = subinfo -%}
+                  {%- assign suburl = subinfo | downcase | replace: " ", "" -%}
                 {%- endif -%}
                 <a href="{{ suburl }}">{{ subname }}</a>
-              {%- endfor %}
+              {%- endfor -%}{%- endfor %}
             </div>
           </div>
         {%- else -%}
