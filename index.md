@@ -7,7 +7,7 @@
 
 * [![](img/devicattwitch.png)](https://twitch.tv/devicat)
 
-  Watch DeviCat on Twitch.
+  Live on Twitch.
 
 * [![DeviCat](img/AboutDeviCat.png)](devicat)
 
