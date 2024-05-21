@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 56 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 57 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -71,6 +71,7 @@ number N.
 * 54: "rosuav , Absolutely, yes! ![devicatDance](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b5748fe5fbf84ba780192b8823966b0c/default/light/1.0 "devicatDance") ." -CandiCat: (03-May-24)
 * 55: "if you need devi's schedule, just know every time she is live there is some sparkles somewhere on twitch, some kawaii good vibes too ![Kappa](https://static-cdn.jtvnw.net/emoticons/v2/25/default/light/1.0 "Kappa") ." -LizoftheValley: (06-May-24)
 * 56: "It's not trouble though.... Prepare for Ironmania to make ripples, because it's actually TRIPLE" -Rosuav: (08-May-24)
+* 57: "Next year, your stickers are not safe. I will buy at LEAST 10." -HopesBlaze: (20-May-24)
 
 There may be quotes newer than these that have yet to be collected.
 
