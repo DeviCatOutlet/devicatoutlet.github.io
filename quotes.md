@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 59 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 60 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -74,6 +74,7 @@ number N.
 * 57: "Next year, your stickers are not safe. I will buy at LEAST 10." -HopesBlaze: (20-May-24)
 * 58: "I dropped the crown but it did not land safely. It is now broken. I must get CandiCat to use her magic to repair the crown for future use. ![devicatMagic](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ab35039204ac4b799c2add5707bea16a/default/light/1.0 "devicatMagic") ." -MikeyTheShredder: (25-May-24)
 * 59: "This looks like a mouth ![devicatWut](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5790f1e2cc3a4ec28bfe3a0837c7d61d/default/light/1.0 "devicatWut") but it's probably a leg." -DeviCat (29-May-24)
+* 60: "I think the bagels gave Devi more energy yesterday. Clearly Devi needs more Bagels" -JDRiesland: (30-May-24)
 
 There may be quotes newer than these that have yet to be collected.
 
