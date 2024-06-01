@@ -31,9 +31,13 @@ CANADA <br>
 
 # Gallery
 
-![Devicat AEX • 2024](img/devicat_AEX_2024_001.jpeg)
-![Devicat AEX • 2024](img/devicat_AEX_2024_002.jpeg)
-![Devicat AEX • 2024](img/devicat_AEX_2024_003.jpeg)
-![Devicat AEX • 2024](img/devicat_AEX_2024_004.jpeg)
-![Devicat AEX • 2024](img/devicat_AEX_2024_005.jpeg)
+![DeviCat North Side Creators Market • 2024](img/DeviCat_NorthSide_2024_001.jpeg)
+![DeviCat MiraCon • 2024](img/DeviCat_MiraCon_2024_001.jpeg)
+![DeviCat MiraCon • 2024](img/DeviCat_MiraCon_2024_002.jpeg)
+![DeviCat MiraCon • 2024](img/DeviCat_MiraCon_2024_003.jpeg)
+![DeviCat AEX • 2024](img/devicat_AEX_2024_001.jpeg)
+![DeviCat AEX • 2024](img/devicat_AEX_2024_002.jpeg)
+![DeviCat AEX • 2024](img/devicat_AEX_2024_003.jpeg)
+![DeviCat AEX • 2024](img/devicat_AEX_2024_004.jpeg)
+![DeviCat AEX • 2024](img/devicat_AEX_2024_005.jpeg)
 {: .wrap}
