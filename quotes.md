@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 64 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 65 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -79,6 +79,7 @@ number N.
 * 62: "HOLD ON! I must take a picture of the ![devicatButt](https://static-cdn.jtvnw.net/emoticons/v2/306361575/default/light/1.0 "devicatButt") !!" -DeviCat (03-Jun-24)
 * 63: "Neither of them would win. Candi would find a sunbeam and lie down in it. ![devicatCozy](https://static-cdn.jtvnw.net/emoticons/v2/306361689/default/light/1.0 "devicatCozy") ." -Rosuav: (03-Jun-24)
 * 64: "I completely forgot that I still have an egg attached to me!" -DeviCat (03-Jun-24)
+* 65: "Its a magical candy that can be any flavor you want. ![devicatHiyo](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0298d320dc7f47c087a798922bf2902d/default/light/1.0 "devicatHiyo") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -HopesBlaze: (05-Jun-24)
 
 There may be quotes newer than these that have yet to be collected.
 
