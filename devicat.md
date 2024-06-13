@@ -31,6 +31,10 @@ CANADA <br>
 
 # Gallery
 
+![DeviCat East Coast Comic Expo • 2024](img/DeviCat_ECCE_2024_001.jpeg)
+![DeviCat East Coast Comic Expo • 2024](img/DeviCat_ECCE_2024_002.jpeg)
+![DeviCat East Coast Comic Expo • 2024](img/DeviCat_ECCE_2024_003.jpeg)
+![DeviCat East Coast Comic Expo • 2024](img/DeviCat_ECCE_2024_004.jpeg)
 ![DeviCat North Side Creators Market • 2024](img/DeviCat_NorthSide_2024_001.jpeg)
 ![DeviCat MiraCon • 2024](img/DeviCat_MiraCon_2024_001.jpeg)
 ![DeviCat MiraCon • 2024](img/DeviCat_MiraCon_2024_002.jpeg)
