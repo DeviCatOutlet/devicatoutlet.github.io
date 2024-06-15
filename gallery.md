@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Candy Drop • 2024](img/CandiCatCandyDrop2024.png)
 ![CandiCat Candy Land • 2024](img/CandiCatCandyLand2024.png)
 ![Berry Cat • 2024](img/BerryCat2024.png)
 ![Kiwi Cat • 2024](img/KiwiCat2024.png)

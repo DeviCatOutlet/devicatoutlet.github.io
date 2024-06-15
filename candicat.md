@@ -18,6 +18,7 @@ Additional Lore: CandiCat is originally from Mirror Moon, where the civilians ar
 
 # Gallery
 
+![CandiCat Candy Drop • 2024](img/CandiCatCandyDrop2024.png)
 ![CandiCat Candy Land • 2024](img/CandiCatCandyLand2024.png)
 ![CandiCat Boots n' Cats • 2024](img/CandiCat_BootsNCats_2024.png)
 ![CandiCat Sakura • 2024](img/CandiCatSakura2024.png)
