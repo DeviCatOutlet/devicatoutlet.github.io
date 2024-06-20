@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 71 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 73 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -86,6 +86,8 @@ number N.
 * 69: "Everyone go ham and have nuts! I mean wait, wat ![devicatWut](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5790f1e2cc3a4ec28bfe3a0837c7d61d/default/light/1.0 "devicatWut") ." -DeviCat (17-Jun-24)
 * 70: "Pffft, that wasn't a sub Bomb, that was a sub Toaster Strudel at best ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -Roget1030: (17-Jun-24)
 * 71: "It's not ![devicatMagic](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ab35039204ac4b799c2add5707bea16a/default/light/1.0 "devicatMagic") it's bugged!" -Rosuav: (17-Jun-24)
+* 72: ""i will promote myself. i'm now CAPTAIN devicat!"" -EuphoniumHero6: (19-Jun-24)
+* 73: "Where is the rest of her ![devicatWut](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5790f1e2cc3a4ec28bfe3a0837c7d61d/default/light/1.0 "devicatWut") eyeballs?" -DeviCat (19-Jun-24)
 
 There may be quotes newer than these that have yet to be collected.
 
