@@ -31,6 +31,9 @@ CANADA <br>
 
 # Gallery
 
+![DeviCat Animaritime Guest • 2024](img/DeviCat_Animaritime_2024_Guest.png)
+![DeviCat Animaritime • 2024](img/DeviCat_Animaritime_2024_001.jpeg)
+![DeviCat Animaritime • 2024](img/DeviCat_Animaritime_2024_002.jpeg)
 ![DeviCat East Coast Comic Expo • 2024](img/DeviCat_ECCE_2024_001.jpeg)
 ![DeviCat East Coast Comic Expo • 2024](img/DeviCat_ECCE_2024_002.jpeg)
 ![DeviCat East Coast Comic Expo • 2024](img/DeviCat_ECCE_2024_003.jpeg)
