@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 75 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 79 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -90,6 +90,10 @@ number N.
 * 73: "Where is the rest of her ![devicatWut](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5790f1e2cc3a4ec28bfe3a0837c7d61d/default/light/1.0 "devicatWut") eyeballs?" -DeviCat (19-Jun-24)
 * 74: "Devi has a soundproof Closet of Squee that she was shouting in since April." -Tinzien: (21-Jun-24)
 * 75: "congratulations on the pregnancy rosu" -SuspiciousTumble (22-Jun-24)
+* 76: "Devi can't have a pdop in her own stream because the broadcaster's camera would get scratched by the diamond and we can't have that" -Rosuav: (26-Jun-24)
+* 77: "omg every time i get a "New Arrivals" email from DAC, I'm like OMG IT'S NOT DEVICAT, FRICK OFF" -MikeyTheShredder: (08-Jul-24)
+* 78: "Value check: You are special and valued. ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_205b69abc2a44c47b939c9033bd04db9/default/light/1.0 "devicatAww") ." -Rosuav: (08-Jul-24)
+* 79: "See the cat? We like the cat. ![devicatCry](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f7d9dc4619ce47acbe876cbb86ab9109/default/light/1.0 "devicatCry") CRYING CAT!!" -DeviCat (08-Jul-24)
 
 There may be quotes newer than these that have yet to be collected.
 
