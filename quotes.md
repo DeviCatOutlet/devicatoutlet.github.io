@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 79 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 81 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -94,6 +94,8 @@ number N.
 * 77: "omg every time i get a "New Arrivals" email from DAC, I'm like OMG IT'S NOT DEVICAT, FRICK OFF" -MikeyTheShredder: (08-Jul-24)
 * 78: "Value check: You are special and valued. ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_205b69abc2a44c47b939c9033bd04db9/default/light/1.0 "devicatAww") ." -Rosuav: (08-Jul-24)
 * 79: "See the cat? We like the cat. ![devicatCry](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f7d9dc4619ce47acbe876cbb86ab9109/default/light/1.0 "devicatCry") CRYING CAT!!" -DeviCat (08-Jul-24)
+* 80: "Remember how she was previously seen catching a star and carrying it back? Now we know why. It powers her toy." -Rosuav: (10-Jul-24)
+* 81: "@DeviCat don't think of it as imposter syndrone! think of it as if your a pokemon and your evolving!" -Ironmania2003: (10-Jul-24)
 
 There may be quotes newer than these that have yet to be collected.
 
