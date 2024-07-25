@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Candi Bread • 2024](img/CandiCatCandiBread2024.png)
 ![CandiCat Cozy Dreams • 2024](img/CandiCatCozyDreams2024.png)
 ![CandiCat Light Up Your Life • 2024](img/CandiCat_LightUpYourLife_2024.png)
 ![CandiCat Candy Drop • 2024](img/CandiCatCandyDrop2024.png)
