@@ -31,6 +31,7 @@ CANADA <br>
 
 # Gallery
 
+![DeviCat Otakuthon • 2024](img/DeviCat_Otakuthon_2024_001.jpeg)
 ![DeviCat Animaritime Guest • 2024](img/DeviCat_Animaritime_2024_Guest.png)
 ![DeviCat Animaritime • 2024](img/DeviCat_Animaritime_2024_001.jpeg)
 ![DeviCat Animaritime • 2024](img/DeviCat_Animaritime_2024_002.jpeg)
