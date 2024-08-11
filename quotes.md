@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 84 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 85 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -99,6 +99,7 @@ number N.
 * 82: "The whisker shall return!" -DeviCat (24-Jul-24)
 * 83: "I carry a shotgun when it comes to art. slap it out, good enough!" -Blixtwix (27-Jul-24)
 * 84: "Five Nights at Devi's was quite a long-running series" -Rosuav: (29-Jul-24)
+* 85: "Devi this is an ice cream cone. How can you blow me away with your rendering on an ice cream cone. What happened when you were away? Did you consume the souls of everyone in the artist alleys?" -TiggyIGuess: (10-Aug-24)
 
 There may be quotes newer than these that have yet to be collected.
 
