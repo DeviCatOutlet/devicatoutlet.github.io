@@ -18,6 +18,7 @@ Additional Lore: CandiCat is originally from Mirror Moon, where the civilians ar
 
 # Gallery
 
+![CandiCat Candi Pet • 2024](img/CandiCatCandiPet2024.png)
 ![CandiCat Dango • 2024](img/CandiCatDango2024.png)
 ![CandiCat Ice Cream • 2024](img/CandiCatIceCream2024.png)
 ![CandiCat Candi Bread • 2024](img/CandiCatCandiBread2024.png)
