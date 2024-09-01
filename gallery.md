@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Treat Time • 2024](img/CandiCatTreatTime2024.png)
 ![CandiCat Candi Pet • 2024](img/CandiCatCandiPet2024.png)
 ![CandiCat Dango • 2024](img/CandiCatDango2024.png)
 ![CandiCat Ice Cream • 2024](img/CandiCatIceCream2024.png)
