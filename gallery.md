@@ -1,5 +1,6 @@
 # Gallery
 
+![CandiCat Astro Cat • 2024](img/CandiCatAstroCat2024.png)
 ![CandiCat Treat Time • 2024](img/CandiCatTreatTime2024.png)
 ![CandiCat Candi Pet • 2024](img/CandiCatCandiPet2024.png)
 ![CandiCat Dango • 2024](img/CandiCatDango2024.png)
