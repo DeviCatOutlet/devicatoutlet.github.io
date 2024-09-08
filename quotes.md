@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 88 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 89 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -103,6 +103,7 @@ number N.
 * 86: "I hope everything you cook is always perfect temperature, I hope when you walk outdoors the birds greet you with their song," -TiggyIGuess (23-Aug-24)
 * 87: "I hope every coffee you drink is the smoothest sip, I hope your socks never do that weird seam thing on the toes, i hope all of your jeans have real pockets, I hope the next time you go for a walk there's a rainbow to shine in your eyes" -TiggyIGuess (23-Aug-24)
 * 88: "Your badas paid off ![devicatTap](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_94880ed110d54cb5b29d70b029985240/default/light/1.0 "devicatTap") ." -DeviCat (28-Aug-24)
+* 89: "I thought I heard Devi say "higher-dimensional cats" and now I want that to be the next Candi sketch ![devicatNotes](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32d5b31925a54fde8e8533665584e539/default/light/1.0 "devicatNotes") ." -Rosuav: (02-Sep-24)
 
 There may be quotes newer than these that have yet to be collected.
 
