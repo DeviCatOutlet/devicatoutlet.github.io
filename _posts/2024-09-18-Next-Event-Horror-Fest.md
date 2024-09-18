@@ -3,9 +3,8 @@ layout: post
 author: DeviCat
 ---
 
-### Next Event: Horror Fest
-
 ![](img/HorrorFest2024.png)
+![Horror Fest • 2024](img/HorrorFest2024.png)
 
 ---
 

@@ -5,7 +5,7 @@ author: DeviCat
 
 ### Astro Cat
 
-![](img/CandiCatAstroCat2024.png)
+![CandiCat Astro Cat • 2024](img/CandiCatAstroCat2024.png)
 
 ---
 
