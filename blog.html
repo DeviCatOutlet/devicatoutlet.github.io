@@ -3,10 +3,10 @@ layout: default
 title: Blog
 ---
 
-<ul class="cards layout">
+<ul class="cards layout ">
 	{% for post in site.posts %}
 	<li>
-		<a href="{{ post.url }}" class="card-link">
+		<a href="{{ post.url }}" class="card-link blog-card">
 			<h2>{{ post.title }}</h2>
 			{{ post.excerpt }}
 		</a>

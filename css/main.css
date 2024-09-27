@@ -328,6 +328,10 @@ ul.cards li:hover {
 	color: inherit;
 }
 
+.blog-card {
+	padding: 1em;
+}
+
 #contact ~ p a {
 	font-weight: bold;
 }
