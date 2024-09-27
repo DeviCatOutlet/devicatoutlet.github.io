@@ -3,7 +3,7 @@ nav:
   - DeviCat: /devicat
   - CandiCat: /candicat
   - Gallery: /gallery
-  # - Blog: blog.html
+  - Blog: /blog.html
   - Discord: https://discord.com/invite/devicat
   - Newsletter: /newsletter
   - Shop:
