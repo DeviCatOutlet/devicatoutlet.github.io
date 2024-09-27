@@ -1,11 +1,11 @@
 baseurl: ""
 nav:
-  - DeviCat: "{{ site.baseurl }}/devicat"
-  - CandiCat: "{{ site.baseurl }}/candicat"
-  - Gallery: "{{ site.baseurl }}/gallery"
-  - Blog: "{{ site.baseurl }}/blog.html"
+  - DeviCat: devicat
+  - CandiCat: candicat
+  - Gallery: gallery
+  # - Blog: blog.html
   - Discord: https://discord.com/invite/devicat
-  - Newsletter: "{{ site.baseurl }}/newsletter"
+  - Newsletter: newsletter
   - Shop:
       - Fourthwall: https://devicat-shop.fourthwall.com
       - Redbubble: https://devicatoutlet.redbubble.com
