@@ -1,0 +1,13 @@
+---
+layout: post
+author: DeviCat
+---
+
+![](/img/AEX_Banner.jpg)
+
+I am excited to announce that I will be doing artist alley at **[AEX](https://atlanticexpo.ca/)** in Charlottetown PEI and Fredericton New Brunswick next year!
+
+- **AEX PEI:** March 29th - 30th 2025
+- **AEX Fredericton NB:** April 12th - 13th 2025
+
+---
