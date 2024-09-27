@@ -8,5 +8,4 @@ author: DeviCat
 <!--card-->
 
 Now available to purchase in my **[Redbubble shop](https://devicatoutlet.redbubble.com)** & **[Fourthwall shop](https://devicat-shop.fourthwall.com)**!
-
 ---
