@@ -73,6 +73,12 @@ h4 {
 	font-size: 1.5em;
 }
 
+hr {
+	border: none;
+	height: 0;
+	visibility: hidden;
+}
+
 /* h2:before,
 h2:after {
 	display: inline-block;
