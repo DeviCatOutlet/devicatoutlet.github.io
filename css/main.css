@@ -6,21 +6,21 @@
 
 /* colors */
 :root {
-/* white is white, however in the future it may not be white */
+	/* white is white, however in the future it may not be white */
 	--white: white;
 	--black: #2e2570;
 	--pink: #f3afff;
 	--purple: #6777ff;
 	--light-purple: #9084fb;
 	--blue: #a1e5ff;
-	--bg-color: #f3afff40; 
+	--bg-color: #f3afff40;
 }
 
 /* Site-wide global styling */
 body {
 	background: var(--bg-color);
 	margin: 0;
-	font-family: 'Roboto', sans-serif;
+	font-family: "Roboto", sans-serif;
 	line-height: 1.5; /* TODO: Simplify the various line-height and top/bottom margin rules for headings etc */
 }
 
@@ -145,7 +145,7 @@ img {
 
 h1#gallery {
 	text-align: center;
-	font-family: 'Montez', sans-serif;
+	font-family: "Montez", sans-serif;
 	color: var(--black);
 	font-size: 6em;
 	font-weight: 400;
@@ -166,10 +166,10 @@ hr + h1#gallery {
 	cursor: pointer;
 	margin: 20px;
 	border-radius: 20px;
-	box-shadow: 0 0 5px rgba(0, 0, 0, 0.05)
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
 }
 #gallery ~ p img:hover {
-	box-shadow: 0 4px 7px rgba(0,0,0,0.20);
+	box-shadow: 0 4px 7px rgba(0, 0, 0, 0.2);
 	transform: translateY(-4px);
 	transition: 160ms ease-in-out all;
 }
@@ -242,7 +242,8 @@ html {
 
 /* The Aboot page has a lot of magic to it :( */
 h1#about,
-h1#home {
+h1#home,
+h1#blog {
 	/* Hide the "Home" and "About" headings - they aren't necessary. */
 	/* TODO: If they're of value to screenreaders, is there a better way to hide them? */
 	/* Their presence, however, can affect the styles of subsequent elements. */
@@ -306,7 +307,7 @@ ul.cards li {
 }
 
 ul.cards li:hover {
-	box-shadow: 0 4px 7px rgba(0,0,0,0.20);
+	box-shadow: 0 4px 7px rgba(0, 0, 0, 0.2);
 	transform: translateY(-4px);
 	transition: 160ms ease-in-out all;
 }
@@ -353,7 +354,6 @@ nav {
 	margin: auto;
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 20px;
-
 }
 nav input {
 	/* The magical checkbox */
@@ -402,7 +402,8 @@ nav > a,
 nav > .nav-menucontainer {
 	padding: 0.5rem;
 }
-nav > .keep { /* Let the Home button drift below its frame a bit */
+nav > .keep {
+	/* Let the Home button drift below its frame a bit */
 }
 
 .ml-onclick-form {
@@ -441,9 +442,9 @@ nav > .keep { /* Let the Home button drift below its frame a bit */
 		display: none;
 	}
 
-	.ul.cards{
+	.ul.cards {
 		display: grid;
-		grid-template-columns: auto ;
+		grid-template-columns: auto;
 	}
 }
 
