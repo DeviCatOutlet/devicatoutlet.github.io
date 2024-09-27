@@ -120,6 +120,10 @@ footer a:last-child svg {
 	margin-right: 0;
 }
 
+li {
+	list-style: none;
+}
+
 ul.layout li {
 	list-style: none;
 }
