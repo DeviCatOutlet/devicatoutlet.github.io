@@ -322,6 +322,15 @@ ul.cards li:hover {
 	transition: 160ms ease-in-out all;
 }
 
+a.cards {
+	position: relative;
+	display: block;
+	text-decoration: none;
+	color: inherit;
+	height: 100%;
+	width: 100%;
+}
+
 #contact ~ p a {
 	font-weight: bold;
 }
