@@ -9,3 +9,5 @@ nav:
   - Shop:
       - Fourthwall: https://devicat-shop.fourthwall.com
       - Redbubble: https://devicatoutlet.redbubble.com
+
+excerpt_separator: <!--card-->
