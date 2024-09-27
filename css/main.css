@@ -73,7 +73,7 @@ h4 {
 	font-size: 1.5em;
 }
 
-h2:before,
+/* h2:before,
 h2:after {
 	display: inline-block;
 	content: url("https://s.w.org/images/core/emoji/2.2.1/svg/1f49c.svg");
@@ -83,7 +83,7 @@ h2:after {
 	margin-left: 0.4em;
 	margin-top: -0.25em;
 	width: 1.5em;
-}
+} */
 
 h3:before,
 h3:after {
