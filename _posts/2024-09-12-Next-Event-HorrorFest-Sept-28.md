@@ -8,4 +8,5 @@ My next table for artist alley will be at **[Horror Fest](https://www.miraconfes
 
 - **Date:** September 28th
 - **Location:** Miramichi New Brunswick Canada
+
 ---
