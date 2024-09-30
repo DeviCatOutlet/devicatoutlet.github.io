@@ -8,6 +8,7 @@ I am excited to announce that I will be doing artist alley at **[AEX](https://at
 
 <!--card-->
 
-- **AEX PEI:** March 29th \- 30th 2025
-- **AEX Fredericton NB:** April 12th \- 13th 2025
+- **AEX PEI:** March 29th &#45; 30th 2025
+- **AEX Fredericton NB:** April 12th &#45; 13th 2025
+
 ---
