@@ -4,7 +4,8 @@ author: DeviCat
 ---
 
 ![](/img/halcon2024_devicat_1.png)
-My next table for artist alley will be at **[Hal &#45; Con](https://hal-con.com/)**! 👻 
+My next table for artist alley will be at **[Hal &#45; Con](https://hal-con.com/)**! 
+<!--card-->
 
 - **Find me at table:** F5
 - **Date:** November 8th &#45; 10th
