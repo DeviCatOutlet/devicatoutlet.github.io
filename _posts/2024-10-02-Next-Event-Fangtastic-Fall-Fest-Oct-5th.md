@@ -4,7 +4,7 @@ author: DeviCat
 ---
 
 ![](/img/FangtasticFallFest2024.jpg)
-I will be a vendor at **[Fangtastic Fall Fest](https://www.facebook.com/profile.php?id=61552262305389)** and will be bringing in some spooky CandiCat designs!
+I will be a vendor at **[Fangtastic Fall Fest](https://www.facebook.com/profile.php?id=61552262305389)** <!--card-->and will be bringing in some spooky CandiCat designs!
 <!--card-->
 
 - **Date:** October 5th
