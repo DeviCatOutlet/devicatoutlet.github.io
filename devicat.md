@@ -31,6 +31,9 @@ CANADA <br>
 
 # Gallery
 
+![DeviCat HorrorFest • 2024](img/DeviCat_HorrorFest_2024_001.jpg)
+![DeviCat HorrorFest • 2024](img/DeviCat_HorrorFest_2024_002.jpg)
+![DeviCat HorrorFest • 2024](img/DeviCat_HorrorFest_2024_003.jpg)
 ![DeviCat Otakuthon • 2024](img/DeviCat_Otakuthon_2024_001.jpg)
 ![DeviCat Animaritime Guest • 2024](img/DeviCat_Animaritime_2024_Guest.png)
 ![DeviCat Animaritime • 2024](img/DeviCat_Animaritime_2024_001.jpeg)
