@@ -163,7 +163,10 @@ img {
 	max-width: 100%;
 }
 
-h1#gallery {
+h1#gallery,
+h1#art,
+h1#events,
+h1#modeling {
 	text-align: center;
 	font-family: "Montez", sans-serif;
 	color: var(--black);
@@ -171,24 +174,36 @@ h1#gallery {
 	font-weight: 400;
 }
 
-hr + h1#gallery {
+hr + h1#gallery,
+hr + h1#art,
+hr + h1#events,
+hr + h1#modeling {
 	visibility: hidden;
 }
-#gallery p {
+#gallery p,
+#art p,
+#events p,
+#modeling p {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
 
 /* Lightbox for image gallery */
-#gallery ~ p img {
+#gallery ~ p img,
+#art ~ p img,
+#events ~ p img,
+#modeling ~ p img {
 	max-height: 300px;
 	cursor: pointer;
 	margin: 20px;
 	border-radius: 20px;
 	box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
 }
-#gallery ~ p img:hover {
+#gallery ~ p img:hover,
+#art ~ p img:hover,
+#events ~ p img:hover,
+#modeling ~ p img:hover {
 	box-shadow: 0 4px 7px rgba(0, 0, 0, 0.2);
 	transform: translateY(-4px);
 	transition: 160ms ease-in-out all;

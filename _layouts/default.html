@@ -105,15 +105,20 @@
 </footer>
 <script>
 const gallery = {};
-document.querySelectorAll('#gallery ~ p img').forEach(img => {
-	const imgname = "#" + /img\/(.*)\.(png|jpg|jpeg)$/.exec(img.src)[1];
-	img.onclick = gallery[imgname] = function(ev) {
-		document.querySelector('#popup img').src = img.src;
-		document.querySelector('#popup figcaption').textContent = img.alt;
-		document.documentElement.classList.add("show-modal");
-		history.replaceState(this.src, "", imgname);
-		if (ev) ev.stopPropagation();
-	};
+// IDs to display as a gallery
+const galleryIds = ["#art", "#events", "#modeling"];
+// gallery script to view images in full screen
+galleryIds.forEach(galleryId => {
+  document.querySelectorAll(`${galleryId} ~ p img`).forEach(img => {
+    const imgname = "#" + /img\/(.*)\.(png|jpg|jpeg)$/.exec(img.src)[1];
+    img.onclick = gallery[imgname] = function(ev) {
+      document.querySelector('#popup img').src = img.src;
+      document.querySelector('#popup figcaption').textContent = img.alt;
+      document.documentElement.classList.add("show-modal");
+      history.replaceState(this.src, "", imgname);
+      if (ev) ev.stopPropagation();
+    };
+  });
 });
 const f = gallery[window.location.hash]; if (f) f(); //If the page has a valid hash link in it, open up that gallery image.
 document.querySelectorAll('.nav-dropdown').forEach(a => a.onclick = function(ev) {

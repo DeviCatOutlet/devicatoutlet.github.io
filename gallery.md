@@ -1,4 +1,4 @@
-# Gallery
+# Art
 
 ![CandiCat Angel • 2024](img/art/CandiCatAngel2024.png)
 ![CandiCat Astro Cat • 2024](img/art/CandiCatAstroCat2024.png)
