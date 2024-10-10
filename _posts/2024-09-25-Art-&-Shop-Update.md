@@ -3,7 +3,7 @@ layout: post
 author: DeviCat
 ---
 
-![](/img/CandiCatAngel2024.png)
+![](/img/art/CandiCatAngel2024.png)
 **CandiCat Angel** is available to download as wallpapers for my Twitch subs & Ko-fi members in **[discord](https://discord.com/invite/devicat)**.
 
 <!--card-->
