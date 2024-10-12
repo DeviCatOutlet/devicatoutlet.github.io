@@ -8,8 +8,8 @@ author: DeviCat
 
 <!--card-->
 
+Now available to purchase in my **[Redbubble shop](https://devicatoutlet.redbubble.com)** & **[Fourthwall shop](https://devicat-shop.fourthwall.com)**!
+
 More spooky halloween variants!
 ![](/img/art/CandiSkeleCat2024_Variant2.png)
 ![](/img/art/CandiSkeleCat2024_Variant3.png)
-
-Now available to purchase in my **[Redbubble shop](https://devicatoutlet.redbubble.com)** & **[Fourthwall shop](https://devicat-shop.fourthwall.com)**!
