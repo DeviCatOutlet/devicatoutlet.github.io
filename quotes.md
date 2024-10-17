@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 93 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 94 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -108,6 +108,7 @@ number N.
 * 91: "Please! Do me a favour and grant me some evil!!" -DeviCat (25-Sep-24)
 * 92: "She's playing a game called "Dodging the Question". She has a high score." -Rosuav: (26-Sep-24)
 * 93: "No drama. ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a467f85eaf794d4e9faf1215a683f07b/default/light/1.0 "devicatTea") Just warm cozy vibes." -DeviCat (09-Oct-24)
+* 94: "yup. my sub is now a cranky pre-schooler" -EuphoniumHero6: (16-Oct-24)
 
 There may be quotes newer than these that have yet to be collected.
 
