@@ -1,5 +1,6 @@
 # Art
 
+![CandiCat Pumpkin • 2024](img/art/CandiCatPumpkin2024.png)
 ![Candi Skele Cat • 2024](img/art/CandiSkeleCat2024_Variant1.png)
 ![Candi Skele Cat • 2024](img/art/CandiSkeleCat2024_Variant2.png)
 ![Candi Skele Cat • 2024](img/art/CandiSkeleCat2024_Variant3.png)
