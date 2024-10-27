@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 94 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 96 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -109,6 +109,7 @@ number N.
 * 92: "She's playing a game called "Dodging the Question". She has a high score." -Rosuav: (26-Sep-24)
 * 93: "No drama. ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a467f85eaf794d4e9faf1215a683f07b/default/light/1.0 "devicatTea") Just warm cozy vibes." -DeviCat (09-Oct-24)
 * 94: "yup. my sub is now a cranky pre-schooler" -EuphoniumHero6: (16-Oct-24)
+* <missing quote 95, ask CandiCat for it please>
+* 96: "This is the cutest cutest cutest one yet, The bow, the fangs, the hat, the bow on the hat ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_205b69abc2a44c47b939c9033bd04db9/default/light/1.0 "devicatAww") ." -LizoftheValley: (26-Oct-24)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
