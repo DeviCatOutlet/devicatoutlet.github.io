@@ -109,7 +109,8 @@ number N.
 * 92: "She's playing a game called "Dodging the Question". She has a high score." -Rosuav: (26-Sep-24)
 * 93: "No drama. ![devicatTea](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a467f85eaf794d4e9faf1215a683f07b/default/light/1.0 "devicatTea") Just warm cozy vibes." -DeviCat (09-Oct-24)
 * 94: "yup. my sub is now a cranky pre-schooler" -EuphoniumHero6: (16-Oct-24)
-* <missing quote 95, ask CandiCat for it please>
+* 95: "fire, cause thats what your designs are ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8ee7172ac8e5445a99f3b42281b5b6a5/default/light/1.0 "devicatCool") ." -kittenbiscuitz: (25-Oct-24)
 * 96: "This is the cutest cutest cutest one yet, The bow, the fangs, the hat, the bow on the hat ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_205b69abc2a44c47b939c9033bd04db9/default/light/1.0 "devicatAww") ." -LizoftheValley: (26-Oct-24)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
