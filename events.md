@@ -1,5 +1,8 @@
 # Events
 
+![DeviCat Hal-Con • 2024](img\events\events_DeviCat_HalCon2024_001.jpg)
+![DeviCat Hal-Con • 2024](img\events\events_DeviCat_HalCon2024_002.jpg)
+![DeviCat Hal-Con • 2024](img\events\events_DeviCat_HalCon2024_003.jpg)
 ![DeviCat Maritime Collectibles • Nov 2024](img\events\events_MaritimeCollectiblesNov2024_001.jpg)
 ![DeviCat Maritime Collectibles • Nov 2024](img\events\events_MaritimeCollectiblesNov2024_002.jpg)
 ![DeviCat Maritime Collectibles • Nov 2024](img\events\events_MaritimeCollectiblesNov2024_003.jpg)
