@@ -1,5 +1,10 @@
 # Events
 
+![DeviCat Maritime Collectibles • Nov 2024](img\events\events_MaritimeCollectiblesNov2024_001.jpg)
+![DeviCat Maritime Collectibles • Nov 2024](img\events\events_MaritimeCollectiblesNov2024_002.jpg)
+![DeviCat Maritime Collectibles • Nov 2024](img\events\events_MaritimeCollectiblesNov2024_003.jpg)
+![DeviCat Maritime Collectibles • Nov 2024](img\events\events_MaritimeCollectiblesNov2024_004.jpg)
+![DeviCat Maritime Collectibles • Nov 2024](img\events\events_MaritimeCollectiblesNov2024_005.jpg)
 ![DeviCat Fangtastic Fall Fest • 2024](img\events\events_DeviCat_FangtasticFallFest_2024_001.jpeg)
 ![DeviCat Fangtastic Fall Fest • 2024](img\events\events_DeviCat_FangtasticFallFest_2024_002.jpeg)
 ![DeviCat Fangtastic Fall Fest • 2024](img\events\events_DeviCat_FangtasticFallFest_2024_003.jpeg)
