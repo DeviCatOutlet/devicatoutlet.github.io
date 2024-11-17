@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 96 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 99 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -111,6 +111,8 @@ number N.
 * 94: "yup. my sub is now a cranky pre-schooler" -EuphoniumHero6: (16-Oct-24)
 * 95: "fire, cause thats what your designs are ![devicatCool](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8ee7172ac8e5445a99f3b42281b5b6a5/default/light/1.0 "devicatCool") ." -kittenbiscuitz: (25-Oct-24)
 * 96: "This is the cutest cutest cutest one yet, The bow, the fangs, the hat, the bow on the hat ![devicatAww](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_205b69abc2a44c47b939c9033bd04db9/default/light/1.0 "devicatAww") ." -LizoftheValley: (26-Oct-24)
+* <missing quote 97, ask CandiCat for it please>
+* <missing quote 98, ask CandiCat for it please>
+* 99: "No Teefs ![devicatCandiCat](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e5f5086f71454abeb8c6aa331a8b3ed6/default/light/1.0 "devicatCandiCat") .. one Teefs ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") .. two ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") !!" -xkirax56: (16-Nov-24)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 2 quotes, plus any that have been recently added.
