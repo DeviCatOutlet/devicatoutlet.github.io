@@ -1,5 +1,6 @@
 # Art
 
+![CandiCat Star Lights • 2024](img/art/CandiCatStarLights2024.png)
 ![CandiCat Boot Cat • 2024](img/art/CandiCatBootCat2024.png)
 ![CandiCat Ghost Girl & Ghost Cats • 2024](img/art/CandiCatGhostGirl&GhostCats2024.png)
 ![CandiCat Witch • 2024](img/art/CandiCatWitch2024.png)
