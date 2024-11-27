@@ -1,5 +1,8 @@
 # Events
 
+![DeviCat Cosmic Connections • 2024](img\events\events_devicat_cosmicconnections2024_001.jpg)
+![DeviCat Cosmic Connections • 2024](img\events\events_devicat_cosmicconnections2024_002.jpg)
+![DeviCat Cosmic Connections • 2024](img\events\events_devicat_cosmicconnections2024_003.jpg)
 ![DeviCat Hal-Con • 2024](img\events\events_DeviCat_HalCon2024_001.jpg)
 ![DeviCat Hal-Con • 2024](img\events\events_DeviCat_HalCon2024_002.jpg)
 ![DeviCat Hal-Con • 2024](img\events\events_DeviCat_HalCon2024_003.jpg)
