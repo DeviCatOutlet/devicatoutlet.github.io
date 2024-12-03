@@ -1,5 +1,10 @@
 # Events
 
+![DeviCat Hospice Fredericton Christmas Market  • 2024](img\events\events_devicat_hospicefrederictonchristmasmarket2024.png)
+![DeviCat Nerdy Little Christmas • 2024](img\events\events_devicat_nerdylittlechristmas_2024_001.jpg)
+![DeviCat Nerdy Little Christmas • 2024](img\events\events_devicat_nerdylittlechristmas_2024_002.jpg)
+![DeviCat Nerdy Little Christmas • 2024](img\events\events_devicat_nerdylittlechristmas_2024_003.jpg)
+![DeviCat Nerdy Little Christmas • 2024](img\events\events_devicat_nerdylittlechristmas_2024_004.jpg)
 ![DeviCat Cosmic Connections • 2024](img\events\events_devicat_cosmicconnections2024_001.jpg)
 ![DeviCat Cosmic Connections • 2024](img\events\events_devicat_cosmicconnections2024_002.jpg)
 ![DeviCat Cosmic Connections • 2024](img\events\events_devicat_cosmicconnections2024_003.jpg)
