@@ -1,6 +1,6 @@
 # Events
 
-![DeviCat Hospice Fredericton Christmas Market  • 2024](img\events\events_devicat_hospicefrederictonchristmasmarket2024.png)
+![DeviCat Hospice Fredericton Christmas Market  • 2024](img\events\img/events/events_devicat_hospicefrederictonchristmasmarket_dec_8_2024.jpg)
 ![DeviCat Nerdy Little Christmas • 2024](img\events\events_devicat_nerdylittlechristmas_2024_001.jpg)
 ![DeviCat Nerdy Little Christmas • 2024](img\events\events_devicat_nerdylittlechristmas_2024_002.jpg)
 ![DeviCat Nerdy Little Christmas • 2024](img\events\events_devicat_nerdylittlechristmas_2024_003.jpg)
