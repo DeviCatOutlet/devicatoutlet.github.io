@@ -4,7 +4,7 @@ author: DeviCat
 ---
 
 ![](/img/makeship.jpg)
-✨DeviCat x Makeship✨
+**[✨DeviCat x Makeship✨](https://www.facebook.com/share/1BqHYwjGdq/)**!
 
 I am excited to announce that I will be working together with 
 Makeship
@@ -12,6 +12,8 @@ Makeship
 We'll need 200 unique pledges within 10 days
 
 Stay tuned for details!
+
+**[✨DeviCat x Makeship✨](https://www.facebook.com/share/1BqHYwjGdq/)**!
 
 <!--card-->
 - **Date:** December 16st, 2024
