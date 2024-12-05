@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 101 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 102 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -116,6 +116,7 @@ number N.
 * 99: "No Teefs ![devicatCandiCat](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e5f5086f71454abeb8c6aa331a8b3ed6/default/light/1.0 "devicatCandiCat") .. one Teefs ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") .. two ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") !!" -xkirax56: (16-Nov-24)
 * 100: "The face is permanently stuck happy ![devicatClap](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2062991097e84ec9a52fb4ced5bb9cb6/default/light/1.0 "devicatClap") ." -DeviCat (20-Nov-24)
 * 101: "I hid a moon ![devicatBalloon4](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_27d84359bba14af0bbc3ed39b4b7aff6/default/light/1.0 "devicatBalloon4") in the star ![devicatBalloon2](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_859ed6dea8544f36ae2cd042c9d9c3d4/default/light/1.0 "devicatBalloon2") !" -DeviCat (25-Nov-24)
+* 102: "The adoption fee is $25. These Candi Cats are all house trained, and cuddle bugs but they are a bit lazy so don't expect them to go on any runs with you unless carried. ![devicatLoaf](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f1864bcfb9394d8eb8562ca9db9a6991/default/light/1.0 "devicatLoaf") ." -NPS_Midnight: (04-Dec-24)
 
 There may be quotes newer than these that have yet to be collected.
 
