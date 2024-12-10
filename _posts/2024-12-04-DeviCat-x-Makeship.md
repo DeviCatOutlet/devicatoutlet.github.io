@@ -13,7 +13,6 @@ We'll need 200 unique pledges within 10 days
 
 
 <!--card-->
-- **Date:** December 16st, 2024
-- **Time:** 6pm Halifax Time
+- **Date:** December 16th &#45;  26th, 2024
 
 ---
