@@ -1,5 +1,9 @@
 # Events
 
+![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img\events\events_devicat_esoterica_december2024_001.jpg)
+![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img\events\events_devicat_esoterica_december2024_002.jpg)
+![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img\events\events_devicat_esoterica_december2024_003.jpg)
+![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img\events\events_devicat_esoterica_december2024_004.jpg)
 ![DeviCat Hospice Fredericton Christmas Market  • 2024](img\events\events_devicat_hospicefrederictonchristmasmarket_dec_8_2024.jpg)
 ![DeviCat Nerdy Little Christmas • 2024](img\events\events_devicat_nerdylittlechristmas_2024_001.jpg)
 ![DeviCat Nerdy Little Christmas • 2024](img\events\events_devicat_nerdylittlechristmas_2024_002.jpg)
