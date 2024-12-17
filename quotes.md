@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 105 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 107 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -120,6 +120,8 @@ number N.
 * 103: "Just so I don't get distracted, I'm going to put away the cat ![devicatBounce](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5f756e9132e4462b94da0beb272b8e46/default/light/1.0 "devicatBounce") ." -DeviCat (06-Dec-24)
 * 104: "One more month and then I get my diploma from Candy Cat Community College!" -Roget1030: (09-Dec-24)
 * 105: "I got a shirt that says I'm not procrastinating I'm doing side quests" -quadehar97: (13-Dec-24)
+* 106: "EMBRACE DA EGGG" -DeviCat (16-Dec-24)
+* 107: "They'd be good with emotional support rice" -Rosuav: (16-Dec-24)
 
 There may be quotes newer than these that have yet to be collected.
 
