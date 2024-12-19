@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 107 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 109 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -122,6 +122,8 @@ number N.
 * 105: "I got a shirt that says I'm not procrastinating I'm doing side quests" -quadehar97: (13-Dec-24)
 * 106: "EMBRACE DA EGGG" -DeviCat (16-Dec-24)
 * 107: "They'd be good with emotional support rice" -Rosuav: (16-Dec-24)
+* 108: "If I can handle front page, I can handle Roget ![devicatChaos](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a1d234273d654db4b79b8d231a2f51e2/default/light/1.0 "devicatChaos") ." -DeviCat (18-Dec-24)
+* 109: "And I took that as a C H A L L E N G E!" -Roget1030 (18-Dec-24)
 
 There may be quotes newer than these that have yet to be collected.
 
