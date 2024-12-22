@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 109 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 111 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -124,6 +124,8 @@ number N.
 * 107: "They'd be good with emotional support rice" -Rosuav: (16-Dec-24)
 * 108: "If I can handle front page, I can handle Roget ![devicatChaos](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a1d234273d654db4b79b8d231a2f51e2/default/light/1.0 "devicatChaos") ." -DeviCat (18-Dec-24)
 * 109: "And I took that as a C H A L L E N G E!" -Roget1030 (18-Dec-24)
+* 110: "Plus the emotes give +3 to magic stats ![devicatMagic](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ab35039204ac4b799c2add5707bea16a/default/light/1.0 "devicatMagic") ![devicatShiny](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0df9ba3689ca478f84f1c5cb32f93b1e/default/light/1.0 "devicatShiny") ." -iLoveHelloKitty11: (21-Dec-24)
+* 111: "I used to have beta fish too, now I have a full release fish" -HallwayRaptor: (21-Dec-24)
 
 There may be quotes newer than these that have yet to be collected.
 
