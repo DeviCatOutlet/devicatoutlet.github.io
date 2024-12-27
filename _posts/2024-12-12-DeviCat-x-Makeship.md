@@ -4,7 +4,7 @@ author: DeviCat
 ---
 
 ![](/img/devicatxmakeship.jpg)
-**[✨DeviCat x Makeship✨](https://www.makeship.com/petitions/candicat-cozy)**!
+**[✨DeviCat x Makeship✨](https://www.makeship.com/petitions/candicat-cozy)**
 
 I am excited to announce that I will be working together with 
 Makeship
