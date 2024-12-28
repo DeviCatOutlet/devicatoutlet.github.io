@@ -4,7 +4,7 @@ author: DeviCat
 ---
 
 ![](/img/DeviCatxSuspiciousTumble.jpg)
-**[✨DeviCat x SuspiciousTumble✨](https://ko-fi.com/suspicioustumbleweed/shop/devicatcollab)**!
+**[✨DeviCat x SuspiciousTumble✨](https://ko-fi.com/suspicioustumbleweed/shop/devicatcollab)**
 
 I am collaborating with SuspiciousTumble to make CandiCat hoodies & patches!
 
