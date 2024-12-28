@@ -10,8 +10,8 @@ author: DeviCat
 
 <!--card-->
 
-**Date:** January 12th, 2025
-**Location:** 1005 main street, Downtown Moncton, NB, Canada
-**Time:** 9:30am - 2pm
+- **Date:** January 12th, 2025
+- **Location:** 1005 main street, Downtown Moncton, NB, Canada
+- **Time:** 9:30am - 2pm
 
 ---
