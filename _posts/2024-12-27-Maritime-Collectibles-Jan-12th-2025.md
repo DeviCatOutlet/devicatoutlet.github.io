@@ -5,7 +5,7 @@ author: DeviCat
 
 ![](/img/MaritimeCollectiblesJan122025.jpg)
 
-**[I will be a vendor at Maritime Collectibles](https://www.facebook.com/MaritimeCollectibles)**!
+**I will be a vendor at [Maritime Collectibles](https://www.facebook.com/MaritimeCollectibles)**!
 
 
 <!--card-->
