@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 114 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 116 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -129,6 +129,8 @@ number N.
 * 112: "I'm pretty sure the spiders here have become intrigued by your stream. That's I think the third one today that's descended on a line right in front of me, looking around." -Rosuav: (25-Dec-24)
 * 113: "i only use carrier pigeons, smoke signals, and semafore flags" -EuphoniumHero6: (27-Dec-24)
 * 114: "I launch my messages in rocks from catapults, there's a note inside like a fortune cookie" -ItsRyleeDuhh: (27-Dec-24)
+* 115: "i can't draw cute anime cat girls, but i do make pancakes" -EuphoniumHero6: (04-Jan-25)
+* 116: "your mascot is an alien cat and you are Canadian. so you using some alien language does not surprise too much" -i_am_only_a_Big_Child: (04-Jan-25)
 
 There may be quotes newer than these that have yet to be collected.
 
