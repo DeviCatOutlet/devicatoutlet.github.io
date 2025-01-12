@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 116 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 118 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -131,6 +131,8 @@ number N.
 * 114: "I launch my messages in rocks from catapults, there's a note inside like a fortune cookie" -ItsRyleeDuhh: (27-Dec-24)
 * 115: "i can't draw cute anime cat girls, but i do make pancakes" -EuphoniumHero6: (04-Jan-25)
 * 116: "your mascot is an alien cat and you are Canadian. so you using some alien language does not surprise too much" -i_am_only_a_Big_Child: (04-Jan-25)
+* 117: "I just want you to know Chris hid a potato on my computer chair" -JessickaZombie: (10-Jan-25)
+* 118: "my hand is preoccupied with tea, allow me to give you a heart with my face ![devicatHearts](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4d9cd376cbf14b1b9bfa35f31b78ead3/default/light/1.0 "devicatHearts") ![devicatHeart](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5a30d0adf10749c9b6a074dc48866fb8/default/light/1.0 "devicatHeart") ." -DeviCat (11-Jan-25)
 
 There may be quotes newer than these that have yet to be collected.
 
