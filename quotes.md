@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 118 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 120 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -133,6 +133,8 @@ number N.
 * 116: "your mascot is an alien cat and you are Canadian. so you using some alien language does not surprise too much" -i_am_only_a_Big_Child: (04-Jan-25)
 * 117: "I just want you to know Chris hid a potato on my computer chair" -JessickaZombie: (10-Jan-25)
 * 118: "my hand is preoccupied with tea, allow me to give you a heart with my face ![devicatHearts](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4d9cd376cbf14b1b9bfa35f31b78ead3/default/light/1.0 "devicatHearts") ![devicatHeart](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5a30d0adf10749c9b6a074dc48866fb8/default/light/1.0 "devicatHeart") ." -DeviCat (11-Jan-25)
+* 119: "when you look evil but are really just a goofy lil guy ![devicatBounce](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5f756e9132e4462b94da0beb272b8e46/default/light/1.0 "devicatBounce") ." -Enchanting_Elk: (15-Jan-25)
+* 120: "Getting derailed from fitness stuff is bound to happen with cupcakes on the screen, yum! ![devicatCake](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f50b810ec07e44c3861c2a49e06983d6/default/light/1.0 "devicatCake") ." -DragonBloodthirsty: (15-Jan-25)
 
 There may be quotes newer than these that have yet to be collected.
 
