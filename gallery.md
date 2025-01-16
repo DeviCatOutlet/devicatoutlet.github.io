@@ -1,5 +1,6 @@
 # Art
 
+![CandiCat SnowGirl & SnowCat • 2025](img/art/CandiCatSnowGirl&SnowCat2025.png)
 ![CandiCat Gamer Girl • 2024](img/art/CandiCatGamerGirl2024.png)
 ![CandiCat & SnowCat • 2024](img/art/CandiCat&SnowCat2024.png)
 ![CandiCat Star Lights • 2024](img/art/CandiCatStarLights2024.png)
