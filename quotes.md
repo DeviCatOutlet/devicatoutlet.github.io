@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 123 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 124 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -138,6 +138,7 @@ number N.
 * 121: "Hii hii! Another fellow magical girl! Nice to meet you! :3 I will be doing the lurkies ![<3](https://static-cdn.jtvnw.net/emoticons/v2/445/default/light/1.0 "<3") stay amazing, stay slaying and sending many happy gentle stars :3 ![<3](https://static-cdn.jtvnw.net/emoticons/v2/445/default/light/1.0 "<3") ." -starriibunnii: (18-Jan-25)
 * 122: "Poisonous just means "you can only eat it once"" -Rosuav: (18-Jan-25)
 * 123: "fist are gluten-free!" -EuphoniumHero6: (18-Jan-25)
+* 124: "Hi there, Devi and the Communi-cats! ![devicatCandiCat](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e5f5086f71454abeb8c6aa331a8b3ed6/default/light/1.0 "devicatCandiCat") ." -mutedmotion: (24-Jan-25)
 
 There may be quotes newer than these that have yet to be collected.
 
