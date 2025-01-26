@@ -8,7 +8,7 @@ I will be a vendor at **[Miramichi River Fan Fest](https://www.facebook.com/even
 
 <!--card-->
 
-- **Date:** Fed 8th, 2025
-- **Location** North& South Esk Regional - NSER, Miramichi NB Canada
+- **Date:** Feb 8th, 2025
+- **Location** North & South Esk Regional - NSER, Miramichi NB Canada
 
 ---
