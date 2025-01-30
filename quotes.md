@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 127 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 128 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -142,6 +142,7 @@ number N.
 * 125: "Alright. ALRIGHT. Paperwork. then. ICECREAM." -Ayumikii (25-Jan-25)
 * 126: "I ate the first color palette you pulled out because it looked yummy" -Ayumikii: (25-Jan-25)
 * 127: "Hello Returned, we are the Stayed" -Tef_Bannow: (27-Jan-25)
+* 128: "I know this is a little foward, especially since I just got here... but can I borrow your husband sometimes" -AnAverageJ0E: (29-Jan-25)
 
 There may be quotes newer than these that have yet to be collected.
 
