@@ -1,6 +1,6 @@
 # About
 
-![](img/devicat.png)
+![](img/dc.png)
 
 Hello! I am the artist & owner of my business called DeviCat Design Studios. I stream on Twitch full-time sharing my process of cute digital art.
 
