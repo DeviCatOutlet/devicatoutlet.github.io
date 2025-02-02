@@ -3,7 +3,6 @@
 ![DeviCat Monarch Market • Feb 2025](img\events\events_devicat_monarchmarket_Feb2025_001.jpg)
 ![DeviCat Monarch Market • Feb 2025](img\events\events_devicat_monarchmarket_Feb2025_002.jpg)
 ![DeviCat Monarch Market • Feb 2025](img\events\events_devicat_monarchmarket_Feb2025_003.jpg)
-![DeviCat Monarch Market • Feb 2025](img\events\events_devicat_monarchmarket_Feb2025_004.jpg)
 ![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img\events\events_devicat_esoterica_december2024_001.jpg)
 ![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img\events\events_devicat_esoterica_december2024_002.jpg)
 ![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img\events\events_devicat_esoterica_december2024_003.jpg)
