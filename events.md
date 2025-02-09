@@ -1,9 +1,9 @@
 # Events
 
-![DeviCat Miramichi River Fan Fest • 2025](img/events/devicat_mrff_2025_001.jpg)
-![DeviCat Miramichi River Fan Fest • 2025](img/events/devicat_mrff_2025_002.jpg)
-![DeviCat Miramichi River Fan Fest • 2025](img/events/devicat_mrff_2025_003.jpg)
-![DeviCat Miramichi River Fan Fest • 2025](img/events/devicat_mrff_2025_004.jpg)
+![DeviCat Miramichi River Fan Fest • 2025](img/events/DeviCat_MRFF_2025_001.jpg)
+![DeviCat Miramichi River Fan Fest • 2025](img/events/DeviCat_MRFF_2025_002.jpg)
+![DeviCat Miramichi River Fan Fest • 2025](img/events/DeviCat_MRFF_2025_003.jpg)
+![DeviCat Miramichi River Fan Fest • 2025](img/events/DeviCat_MRFF_2025_004.jpg)
 ![DeviCat Monarch Market • Feb 2025](img/events/devicat_monarchmarket_Feb2025_001.jpg)
 ![DeviCat Monarch Market • Feb 2025](img/events/devicat_monarchmarket_Feb2025_002.jpg)
 ![DeviCat Monarch Market • Feb 2025](img/events/devicat_monarchmarket_Feb2025_003.jpg)
