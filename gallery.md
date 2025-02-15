@@ -1,5 +1,6 @@
 # Art
 
+![Hanabi • 2025](img/art/Hanabi2025.png)
 ![CandiCat Party • 2025](img/art/CandiCatParty2025.png)
 ![CandiCat Cupid • 2025](img/art/CandiCatCupid2025.png)
 ![CandiCat SnowCat • 2025](img/art/CandiCatSnowCat2025.png)
