@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 130 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 132 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -145,6 +145,8 @@ number N.
 * 128: "I know this is a little foward, especially since I just got here... but can I borrow your husband sometimes" -AnAverageJ0E: (29-Jan-25)
 * 129: "it's all fine and dandy until the twin cat is Candi comes out of the void to play with chaos" -MikeyTheShredder: (31-Jan-25)
 * 130: "!drama 10 Alright! With this much drama, we can now enter the Social Media level! Let's see if we can get more drama and ![devicatLvlup](https://static-cdn.jtvnw.net/emoticons/v2/306363356/default/light/1.0 "devicatLvlup") to the Celebrity Gossip level!" -Rosuav: (12-Feb-25)
+* 131: "By the FAith and power in CAndiCat, we followers of the pink, shall love and laugh, dream team togther, as the cult of joy and the colour of soft, purple in hue, and blue in the sky, we summoned CPU for Devi's System!!" -Tef_Bannow: (15-Feb-25)
+* 132: "We have built - a leg." -DeviCat (24-Feb-25)
 
 There may be quotes newer than these that have yet to be collected.
 
