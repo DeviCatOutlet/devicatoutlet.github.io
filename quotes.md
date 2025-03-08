@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 134 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 135 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -149,6 +149,7 @@ number N.
 * 132: "We have built - a leg." -DeviCat (24-Feb-25)
 * 133: " ![SUBtember](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bfb533e2253044f3a77d0032b2354c0b/default/light/1.0 "SUBtember") ![devicatCake](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f50b810ec07e44c3861c2a49e06983d6/default/light/1.0 "devicatCake") !" -xkirax56: (26-Feb-25)
 * 134: "5ever your second biggest cheerleader. i'll leave being your biggest cheerleader to your husband since i think he deserves that title way more lol." -MumieMatcha: (05-Mar-25)
+* 135: "I am sending big hugs your way ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53bd0461e4f74eb08979139b9e837736/default/light/1.0 "devicatHug") and if you don't want to be smothered, I'll leave my arms in the air and just send the waves" -TiggyIGuess: (07-Mar-25)
 
 There may be quotes newer than these that have yet to be collected.
 
