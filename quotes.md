@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 137 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 138 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -152,6 +152,7 @@ number N.
 * 135: "I am sending big hugs your way ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53bd0461e4f74eb08979139b9e837736/default/light/1.0 "devicatHug") and if you don't want to be smothered, I'll leave my arms in the air and just send the waves" -TiggyIGuess: (07-Mar-25)
 * 136: "I want this bag, because it looks like an emoji!" -DeviCat (12-Mar-25)
 * 137: "And this is where the chicken comes in - but it's actually a cow." -DeviCat (12-Mar-25)
+* 138: "I recommend downloading *EVERYTHING*." -dragonbloodthirsty (15-Mar-25)
 
 There may be quotes newer than these that have yet to be collected.
 
