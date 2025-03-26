@@ -1,5 +1,6 @@
 # Art
 
+![CandiCat Sakura • 2025](img/art/CandiCatSakura2025.png)
 ![CandiCat Candi Catcher • 2025](img/art/CandiCatCandiCatcher2025.png)
 ![CandiCat Sweet Dreams • 2025](img/art/CandiCatSweetDreams2025.png)
 ![CandiCat Void Cat • 2025](img/art/CandiCatVoidCat2025.png)
