@@ -1,5 +1,9 @@
 # Events
 
+![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_001.png)
+![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_003.png)
+![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_004.png)
+![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_007.png)
 ![DeviCat Miramichi River Fan Fest • 2025](img/events/DeviCat_MRFF_2025_001.jpg)
 ![DeviCat Miramichi River Fan Fest • 2025](img/events/DeviCat_MRFF_2025_002.jpg)
 ![DeviCat Miramichi River Fan Fest • 2025](img/events/DeviCat_MRFF_2025_003.jpg)
