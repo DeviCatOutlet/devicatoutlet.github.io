@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 142 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 143 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -157,6 +157,7 @@ number N.
 * 140: "You are a creator, and nothing is more magical than the act of creation." -MarkedFang: (24-Mar-25)
 * 141: "￼ Shh candicat, you'll wake the dreamers! (Sorry, it's too late to enter this round.) ✨" -CandiCat (26-Mar-25)
 * 142: "where is my crotch" -devicat (04-Apr-25)
+* 143: "Let it be know that I can read" -HallwayRaptor (07-Apr-25)
 
 There may be quotes newer than these that have yet to be collected.
 
