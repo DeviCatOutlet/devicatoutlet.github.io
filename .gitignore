@@ -4,3 +4,4 @@ config.py
 giveaways.csv
 giveaways.json
 *.pyc
+/img/events/compress_img.sh
