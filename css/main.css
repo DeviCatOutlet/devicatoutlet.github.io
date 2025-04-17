@@ -176,14 +176,9 @@ footer::before {
 footer svg,
 footer img {
 	display: inline-block;
+	vertical-align: middle;
 	height: 36px;
 	margin: 0 10px;
-	transition: transform 0.3s ease;
-}
-
-footer svg:hover,
-footer img:hover {
-	transform: scale(1.15);
 }
 
 footer a:first-child img,
@@ -645,9 +640,4 @@ nav > .nav-menucontainer {
 @keyframes fadeIn {
 	0% { opacity: 0; transform: translateY(10px); }
 	100% { opacity: 1; transform: translateY(0); }
-}
-
-@keyframes sparkle {
-	0%, 100% { opacity: 0.3; }
-	50% { opacity: 0.6; }
 }
