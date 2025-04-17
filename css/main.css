@@ -40,7 +40,7 @@ body::before {
 	background-position: center;
 	opacity: 0.25;
 	z-index: -1;
-	filter:blur(2px);
+	/* filter:blur(2px); */
 }
 
 /* Main content container */
