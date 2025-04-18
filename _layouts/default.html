@@ -107,37 +107,6 @@
   </p>
   <p>&copy; DeviCat 2025</p>
 </footer>
-<script>
-const gallery = {};
-// IDs to display as a gallery
-const galleryIds = ["#art", "#events", "#modeling", "#gallery"];
-// gallery script to view images in full screen
-galleryIds.forEach(galleryId => {
-  document.querySelectorAll(`${galleryId} ~ p img`).forEach(img => {
-    const imgname = "#" + /img\/(.*)\.(png|jpg|jpeg|webp)$/.exec(img.src)[1];
-    img.onclick = gallery[imgname] = function(ev) {
-      document.querySelector('#popup img').src = img.src;
-      document.querySelector('#popup figcaption').textContent = img.alt;
-      document.documentElement.classList.add("show-modal");
-      history.replaceState(this.src, "", imgname);
-      if (ev) ev.stopPropagation();
-    };
-  });
-});
-const f = gallery[window.location.hash]; if (f) f(); //If the page has a valid hash link in it, open up that gallery image.
-document.querySelectorAll('.nav-dropdown').forEach(a => a.onclick = function(ev) {
-	//Collapse other dropdowns, and toggle this one (so there's a max of one open at a time)
-	document.querySelectorAll('.nav-dropdown').forEach(a => a != this && a.setAttribute('aria-expanded', 'false'));
-	this.setAttribute('aria-expanded', this.getAttribute('aria-expanded') != "true");
-	ev.stopPropagation(); ev.preventDefault();
-});
-document.documentElement.onclick = function(ev) {
-	this.classList.remove("show-modal");
-	document.querySelectorAll('.nav-dropdown').forEach(a => a.setAttribute('aria-expanded', 'false'));
-	if (location.hash.length > 1) history.replaceState("", "", location.pathname);
-	//Also collapse the Raptor menu (applicable only on narrow screens) if you click outside nav
-	if (!ev.target.closest("nav")) document.querySelector("nav input").checked = false;
-}
-</script>
+<script src="/js/gallery-pagination.js" defer></script>
 </body>
 </html>

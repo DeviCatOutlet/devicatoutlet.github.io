@@ -4,4 +4,5 @@ config.py
 giveaways.csv
 giveaways.json
 *.pyc
-/img/events/compress_img.sh
+/img/events/compress_img.shbeta/node_modules/
+beta/dist/

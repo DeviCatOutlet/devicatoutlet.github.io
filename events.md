@@ -1,5 +1,6 @@
-# Events
+#Events
 
+<div id="art-gallery-items" class="paginated-gallery" markdown="1">
 ![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_001.webp)
 ![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_003.webp)
 ![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_004.webp)
@@ -12,10 +13,10 @@
 ![DeviCat Monarch Market • Feb 2025](img/events/devicat_monarchmarket_Feb2025_002.webp)
 ![DeviCat Monarch Market • Feb 2025](img/events/devicat_monarchmarket_Feb2025_003.webp)
 ![DeviCat Monarch Market • Feb 2025](img/events/devicat_monarchmarket_Feb2025_004.webp)
-![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img/events/devicat_esoterica_december2024_001.webp)
-![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img/events/devicat_esoterica_december2024_002.webp)
-![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img/events/devicat_esoterica_december2024_003.webp)
-![DeviCat Esoterica Nightmare Before Christmas Market  • 2024](img/events/devicat_esoterica_december2024_004.webp)
+![DeviCat Esoterica Nightmare Before Christmas Market • 2024](img/events/devicat_esoterica_december2024_001.webp)
+![DeviCat Esoterica Nightmare Before Christmas Market • 2024](img/events/devicat_esoterica_december2024_002.webp)
+![DeviCat Esoterica Nightmare Before Christmas Market • 2024](img/events/devicat_esoterica_december2024_003.webp)
+![DeviCat Esoterica Nightmare Before Christmas Market • 2024](img/events/devicat_esoterica_december2024_004.webp)
 ![DeviCat Nerdy Little Christmas • 2024](img/events/devicat_nerdylittlechristmas_2024_001.webp)
 ![DeviCat Nerdy Little Christmas • 2024](img/events/devicat_nerdylittlechristmas_2024_002.webp)
 ![DeviCat Nerdy Little Christmas • 2024](img/events/devicat_nerdylittlechristmas_2024_003.webp)
@@ -47,4 +48,5 @@
 ![DeviCat AEX NB • 2024](img/events/devicat_aex_2024_002.webp)
 ![DeviCat AEX NB • 2024](img/events/devicat_aex_2024_003.webp)
 ![DeviCat AEX NB • 2024](img/events/devicat_aex_2024_004.webp)
-{: .wrap}
+</div>
+<div id="art-pagination-controls" class="pagination-controls"></div>
