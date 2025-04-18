@@ -186,6 +186,29 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // --- Other UI Event Listeners ---
+    document.documentElement.addEventListener('click', function(ev) {
+        // Close lightbox on any click when show-modal is active
+        if (document.documentElement.classList.contains('show-modal')) {
+            document.documentElement.classList.remove("show-modal");
+            if (window.location.hash.length > 1 && history.replaceState) {
+                try {
+                    history.replaceState(null, "", window.location.pathname + window.location.search);
+                } catch (e) {
+                    console.warn("Could not clear history state hash.", e);
+                }
+            }
+        }
+        // Handle navigation dropdowns and menu
+        if (!ev.target.closest('.nav-menucontainer')) {
+            document.querySelectorAll('.nav-dropdown').forEach(link => link.setAttribute('aria-expanded', 'false'));
+        }
+        if (!ev.target.closest("nav")) {
+            const navInput = document.querySelector("nav input[type=checkbox]");
+            if (navInput) navInput.checked = false;
+        }
+    });
+
+    // --- Navigation Dropdown Click Handlers ---
     document.querySelectorAll('.nav-dropdown').forEach(dropdownLink => {
         dropdownLink.addEventListener('click', function(ev) {
             document.querySelectorAll('.nav-dropdown').forEach(otherLink => {
@@ -198,29 +221,5 @@ document.addEventListener('DOMContentLoaded', () => {
             ev.preventDefault();
             ev.stopPropagation();
         });
-    });
-
-    document.documentElement.addEventListener('click', function(ev) {
-        let shouldCloseModal = true;
-        if (ev.target.closest('#popup figure')) {
-            shouldCloseModal = false;
-        }
-        if (shouldCloseModal && document.documentElement.classList.contains('show-modal')) {
-            document.documentElement.classList.remove("show-modal");
-            if (window.location.hash.length > 1 && history.replaceState) {
-                try {
-                    history.replaceState(null, "", window.location.pathname + window.location.search);
-                } catch (e) {
-                    console.warn("Could not clear history state hash.", e);
-                }
-            }
-        }
-        if (!ev.target.closest('.nav-menucontainer')) {
-            document.querySelectorAll('.nav-dropdown').forEach(link => link.setAttribute('aria-expanded', 'false'));
-        }
-        if (!ev.target.closest("nav")) {
-            const navInput = document.querySelector("nav input[type=checkbox]");
-            if (navInput) navInput.checked = false;
-        }
     });
 });
