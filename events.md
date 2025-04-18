@@ -1,4 +1,4 @@
-#Events
+# Events
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
 ![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_001.webp)
