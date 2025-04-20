@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![CandiCat Dab • 2025](img/art/CandiCatDab2025.jpg)
 ![CandiCat Sakura • 2025](img/art/CandiCatSakura2025.png)
 ![CandiCat Candi Catcher • 2025](img/art/CandiCatCandiCatcher2025.png)
 ![CandiCat Sweet Dreams • 2025](img/art/CandiCatSweetDreams2025.png)
