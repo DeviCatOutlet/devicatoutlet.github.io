@@ -1,6 +1,10 @@
 # Events
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![DeviCat AEXNB Fredericton • 2025](img/events/devicat_AEXNB_Fred_2025_001.webp)
+![DeviCat AEXNB Fredericton • 2025](img/events/devicat_AEXNB_Fred_2025_002.webp)
+![DeviCat AEXNB Fredericton • 2025](img/events/devicat_AEXNB_Fred_2025_003.webp)
+![DeviCat AEXNB Fredericton • 2025](img/events/devicat_AEXNB_Fred_2025_004.webp)
 ![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_001.webp)
 ![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_003.webp)
 ![DeviCat AEXPEI • 2025](img/events/devicat_aexpei2025_004.webp)
