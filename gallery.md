@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![Hanabi Sleepy Sheepy • 2025](img/art/HanabiSleepySheepy2025.webp)
 ![CandiCat Dab • 2025](img/art/CandiCatDab2025.jpg)
 ![CandiCat Sakura • 2025](img/art/CandiCatSakura2025.png)
 ![CandiCat Candi Catcher • 2025](img/art/CandiCatCandiCatcher2025.png)
