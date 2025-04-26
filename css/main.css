@@ -6,13 +6,17 @@
 
 :root {
     --white: white;
-    --black: #2e2570;
+    --black: #685eaf;
     --pink: #f3afff;
     --purple: #6777ff;
     --light-purple: #9084fb;
     --blue: #a1e5ff;
     --translucent-white: rgba(255, 255, 255, 0.75);
-    --bg-color: radial-gradient(ellipse at 20% 20%, #f5bcffa0 0%, #faddff60 50%, #ffffff20 100%), radial-gradient(circle at 80% 80%, #f3afff50 0%, transparent 70%);
+    --bg-color: radial-gradient(ellipse at 20% 20%, #f0f8ff80 0%, #e6f0fa60 50%, #ffffff40 100%), radial-gradient(circle at 80% 80%, #f5f5ff50 0%, transparent 70%);
+    --dark-bg-color: radial-gradient(ellipse at 20% 20%, #080818 0%, #10102a 50%, #030308 100%), radial-gradient(circle at 80% 80%, #3a2a8a20 0%, transparent 70%);
+    --dark-white: rgb(35, 35, 65);
+    --dark-translucent-white: rgba(25, 25, 55, 0.65);
+    --dark-text: #e8e8ff;
 }
 
 body {
@@ -24,6 +28,15 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+}
+
+body.dark-mode {
+    background: var(--dark-bg-color);
+    color: var(--dark-text);
+}
+
+body.dark-mode::before {
+    opacity: 0.20;
 }
 
 body::before {
@@ -54,6 +67,11 @@ main {
     animation: fadeIn 0.5s ease-out;
     position: relative;
     flex: 1 0 auto;
+}
+
+body.dark-mode main {
+    background: var(--dark-translucent-white);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
 }
 
 main::before {
@@ -89,6 +107,14 @@ a {
 a:hover {
     color: var(--pink);
     transform: translateY(-1px);
+}
+
+body.dark-mode a {
+    color: var(--pink);
+}
+
+body.dark-mode a:hover {
+    color: var(--light-purple);
 }
 
 h1,
@@ -149,6 +175,10 @@ footer {
     padding: 48px;
     position: relative;
     flex: 0 0 auto;
+}
+
+body.dark-mode footer {
+    background: var(--dark-white);
 }
 
 footer::before {
@@ -326,6 +356,11 @@ html {
     color: #222;
 }
 
+body.dark-mode #popup figcaption {
+    background: var(--dark-white);
+    color: var(--dark-text);
+}
+
 #popup img {
     max-height: 90vh;
     border-radius: 12px;
@@ -386,6 +421,10 @@ ul.cards {
     gap: 16px;
     margin: 0;
     padding: 0;
+}
+
+body.dark-mode ul.cards li {
+    background: var(--dark-white);
 }
 
 ul.cards img {
@@ -457,6 +496,10 @@ nav {
     z-index: 1000;
 }
 
+body.dark-mode nav {
+    background: var(--dark-translucent-white);
+}
+
 nav::before {
     content: "";
     position: absolute;
@@ -506,6 +549,10 @@ nav a {
     transition: transform 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55), background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
     position: relative;
     z-index: 1;
+}
+
+body.dark-mode nav a {
+    color: var(--dark-text);
 }
 
 nav a:hover {
@@ -599,6 +646,12 @@ nav > .nav-menucontainer {
     min-height: 40px;
 }
 
+body.dark-mode .pagination-controls button {
+    background-color: var(--dark-white);
+    color: var(--pink);
+    border-color: var(--pink);
+}
+
 .pagination-controls:empty::after {
     content: "Pagination controls failed to load. Please refresh the page.";
     color: var(--purple);
@@ -619,6 +672,11 @@ nav > .nav-menucontainer {
 .pagination-controls button:hover:not(:disabled) {
     background-color: var(--purple);
     color: var(--white);
+}
+
+body.dark-mode .pagination-controls button:hover:not(:disabled) {
+    background-color: var(--pink);
+    color: var(--dark-white);
 }
 
 .pagination-controls button:disabled {
@@ -653,6 +711,11 @@ nav > .nav-menucontainer {
         background: var(--translucent-white);
         backdrop-filter: blur(8px);
     }
+
+    body.dark-mode nav {
+        background: var(--dark-translucent-white);
+    }
+
     nav input,
     #raptor_button {
         display: block;
@@ -660,41 +723,42 @@ nav > .nav-menucontainer {
         padding: 8px;
         margin: 16px 0 0 8px;
     }
+
     nav > .keep {
         position: absolute;
         left: calc(50% - 77px / 2);
     }
+
     nav > a,
     nav > .nav-menucontainer {
         display: none;
     }
+
     .jumbotron {
         display: none;
     }
+
     ul.cards {
         grid-template-columns: 1fr;
     }
+
     .paginated-gallery {
         grid-template-columns: 1fr;
     }
+
     .paginated-gallery > p,
     .paginated-gallery > img {
         width: auto !important;
         height: auto !important;
         max-width: 100% !important;
     }
+
     .paginated-gallery > p.page-item-visible,
     .paginated-gallery > img.page-item-visible {
         width: auto !important;
         height: auto !important;
         max-width: 100% !important;
     }
-}
-
-.dropdown-menu a {
-    display: block;
-    padding: 0.5rem 1.5rem;
-    color: #212529;
 }
 
 .nav-dropdown:after {
@@ -716,6 +780,11 @@ nav > .nav-menucontainer {
     z-index: 1000;
 }
 
+body.dark-mode .nav-submenu {
+    background: var(--dark-white);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
 .nav-dropdown[aria-expanded="false"] ~ .nav-submenu {
     display: none;
 }
@@ -724,7 +793,6 @@ nav > .nav-menucontainer {
     color: #212529;
     margin: 0.5rem 1rem;
 }
-
 
 .newsletter {
     display: flex;
@@ -750,4 +818,88 @@ nav > .nav-menucontainer {
 @keyframes sparkle {
     0%, 100% { border-color: var(--pink); }
     50% { border-color: var(--pink); }
+}
+
+.toggle-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 16px;
+}
+
+.toggle-switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.toggle-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--white);
+    border: 1px solid var(--purple);
+    border-radius: 34px;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+body.dark-mode .slider {
+    background-color: var(--dark-white);
+    border-color: var(--pink);
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 3px;
+    bottom: 3px;
+    background-color: var(--purple);
+    border-radius: 50%;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+body.dark-mode .slider:before {
+    background-color: var(--pink);
+}
+
+.sun-icon,
+.moon-icon {
+    transition: stroke 0.2s ease;
+}
+.sun-icon {
+    stroke: var(--purple);
+}
+.moon-icon {
+    stroke: var(--pink);
+}
+body.dark-mode .sun-icon {
+    stroke: var(--pink);
+}
+body.dark-mode .moon-icon {
+    stroke: var(--light-purple);
+}
+
+.toggle-switch input:checked + .slider:before {
+    transform: translateX(26px);
+}
+.toggle-switch input:focus-visible + .slider {
+    outline: 2px solid var(--purple);
+    outline-offset: 2px;
+}
+
+body.dark-mode .toggle-switch input:focus-visible + .slider {
+    outline-color: var(--pink);
 }
