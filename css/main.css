@@ -294,7 +294,7 @@ hr + h1#modeling {
 }
 
 html {
-    overflow: overlay;
+    overflow-y: scroll;
 }
 
 .show-modal {
@@ -800,6 +800,7 @@ body.dark-mode .nav-submenu {
     align-items: center;
     justify-content: center;
     margin-top: 1.6rem;
+    white-space: nowrap;
 }
 
 /* Screenreader */
