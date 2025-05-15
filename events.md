@@ -1,6 +1,10 @@
 # Events
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![DeviCat Esoterica • 2025](img/events/DeviCat_Esoterica_May2025_001.webp)
+![DeviCat Esoterica • 2025](img/events/DeviCat_Esoterica_May2025_002.webp)
+![DeviCat Esoterica • 2025](img/events/DeviCat_Esoterica_May2025_003.webp)
+![DeviCat Esoterica • 2025](img/events/DeviCat_Esoterica_May2025_004.webp)
 ![DeviCat AEXNB Fredericton • 2025](img/events/devicat_AEXNB_Fred_2025_001.webp)
 ![DeviCat AEXNB Fredericton • 2025](img/events/devicat_AEXNB_Fred_2025_002.webp)
 ![DeviCat AEXNB Fredericton • 2025](img/events/devicat_AEXNB_Fred_2025_003.webp)
