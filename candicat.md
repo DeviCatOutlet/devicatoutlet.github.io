@@ -19,6 +19,7 @@ Additional Lore: CandiCat is originally from Mirror Moon, where the civilians ar
 # Gallery
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![CandiCat Harajuku Girl • 2025](img/art/CandiCatHarajukuGirl2025.webp)
 ![CandiCat Dab • 2025](img/art/CandiCatDab2025.jpg)
 ![CandiCat Sakura • 2025](img/art/CandiCatSakura2025.png)
 ![CandiCat Candi Catcher • 2025](img/art/CandiCatCandiCatcher2025.png)
