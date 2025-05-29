@@ -1,6 +1,7 @@
 # Events
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![DeviCat MiraCon • 2025](img/events/devicat_miracon2025_001.webp)
 ![DeviCat Esoterica • 2025](img/events/DeviCat_Esoterica_May2025_001.webp)
 ![DeviCat Esoterica • 2025](img/events/DeviCat_Esoterica_May2025_002.webp)
 ![DeviCat Esoterica • 2025](img/events/DeviCat_Esoterica_May2025_003.webp)
