@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 148 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 149 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -163,6 +163,7 @@ number N.
 * 146: "📯 Devi Cat here's your horn! give it a toot for us!" -Ironmania2003: (21-May-25)
 * 147: "Like 90% of my portfolio is CATS . ![devicatHeh](https://static-cdn.jtvnw.net/emoticons/v2/306362206/default/light/1.0 "devicatHeh") ." -DeviCat (23-May-25)
 * 148: "I'm just happy •°☆existing☆°•" -DeviCat (28-May-25)
+* 149: "every day is like a sleepover with your best friend ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53bd0461e4f74eb08979139b9e837736/default/light/1.0 "devicatHug") ![devicatCozy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_731277b9de92457cbe969b2d4a61d153/default/light/1.0 "devicatCozy") ." -JessickaZombie: (30-May-25)
 
 There may be quotes newer than these that have yet to be collected.
 
