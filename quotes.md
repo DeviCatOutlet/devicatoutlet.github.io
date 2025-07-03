@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 151 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 153 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -166,6 +166,8 @@ number N.
 * 149: "every day is like a sleepover with your best friend ![devicatHug](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53bd0461e4f74eb08979139b9e837736/default/light/1.0 "devicatHug") ![devicatCozy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_731277b9de92457cbe969b2d4a61d153/default/light/1.0 "devicatCozy") ." -JessickaZombie: (30-May-25)
 * 150: "For any new people, welcome; I do have a head." -DeviCat (02-Jun-25)
 * 151: "Magical Multiplication where sparkles multiply due to the force of kawaii as stated in Rosuav's handbook 'Magical Mathematics A Robots Guide to Becoming Kawaii ' ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") ." -PotatoIsFired: (18-Jun-25)
+* 152: "I'm back the great Grass heist was a success only one kidnapped snail was a hostage" -quadehar97: (02-Jul-25)
+* 153: "Stop punching the microphone!! ![devicatAngy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3ea48b15515045e4813ab385fb6d022d/default/light/1.0 "devicatAngy") ." -DeviCat (02-Jul-25)
 
 There may be quotes newer than these that have yet to be collected.
 
