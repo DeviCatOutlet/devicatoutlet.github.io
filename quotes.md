@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 153 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 155 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -168,6 +168,7 @@ number N.
 * 151: "Magical Multiplication where sparkles multiply due to the force of kawaii as stated in Rosuav's handbook 'Magical Mathematics A Robots Guide to Becoming Kawaii ' ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") ." -PotatoIsFired: (18-Jun-25)
 * 152: "I'm back the great Grass heist was a success only one kidnapped snail was a hostage" -quadehar97: (02-Jul-25)
 * 153: "Stop punching the microphone!! ![devicatAngy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3ea48b15515045e4813ab385fb6d022d/default/light/1.0 "devicatAngy") ." -DeviCat (02-Jul-25)
+* <missing quote 154, ask CandiCat for it please>
+* 155: "more unnecessary censorship plushies" -EuphoniumHero6: (11-Jul-25)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
