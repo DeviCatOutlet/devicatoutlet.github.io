@@ -168,7 +168,8 @@ number N.
 * 151: "Magical Multiplication where sparkles multiply due to the force of kawaii as stated in Rosuav's handbook 'Magical Mathematics A Robots Guide to Becoming Kawaii ' ![devicatLoL](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c122624559d843c991367c6b5e1f3e81/default/light/1.0 "devicatLoL") ." -PotatoIsFired: (18-Jun-25)
 * 152: "I'm back the great Grass heist was a success only one kidnapped snail was a hostage" -quadehar97: (02-Jul-25)
 * 153: "Stop punching the microphone!! ![devicatAngy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3ea48b15515045e4813ab385fb6d022d/default/light/1.0 "devicatAngy") ." -DeviCat (02-Jul-25)
-* <missing quote 154, ask CandiCat for it please>
+* 154: "I'm not "chronically online". I have outages." -Rosuav: (09-Jul-25)
 * 155: "more unnecessary censorship plushies" -EuphoniumHero6: (11-Jul-25)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
