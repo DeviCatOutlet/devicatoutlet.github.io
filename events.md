@@ -1,6 +1,10 @@
 # Events
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![DeviCat Animaritime • 2025](img/events/DeviCat_Animaritime2025_001.webp)
+![DeviCat Animaritime • 2025](img/events/DeviCat_Animaritime2025_002.webp)
+![DeviCat Animaritime • 2025](img/events/DeviCat_Animaritime2025_003.webp)
+![DeviCat Animaritime • 2025](img/events/DeviCat_Animaritime2025_004.webp)
 ![DeviCat ECCE • 2025](img/events/devicat_ecce2025_001.webp)
 ![DeviCat ECCE • 2025](img/events/devicat_ecce2025_002.webp)
 ![DeviCat ECCE • 2025](img/events/devicat_ecce2025_003.webp)
