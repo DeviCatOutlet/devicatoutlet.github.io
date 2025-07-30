@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![CandiCat Bubbles • 2025](img/art/CandiCatBubblesU2025.webp)
 ![Hanabi Anime Girl • 2025](img/art/HanabiAnimeGirl2025.webp)
 ![CandiCat No U • 2025](img/art/CandiCatNoU2025.webp)
 ![CandiCat Point • 2025](img/art/CandiCatPoint2025.webp)
