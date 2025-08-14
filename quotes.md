@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 156 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 157 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -171,6 +171,7 @@ number N.
 * 154: "I'm not "chronically online". I have outages." -Rosuav: (09-Jul-25)
 * 155: "more unnecessary censorship plushies" -EuphoniumHero6: (11-Jul-25)
 * 156: "Mega Candi is our reason for existing. We must appease giant fluffy shapeshifting alien cat." -ZackAtk77: (16-Jul-25)
+* 157: "Devi makes 2 things on stream: Art & friends. Not necessarily in that order ![LUL](https://static-cdn.jtvnw.net/emoticons/v2/425618/default/light/1.0 "LUL") ." -Mixer237237: (13-Aug-25)
 
 There may be quotes newer than these that have yet to be collected.
 
