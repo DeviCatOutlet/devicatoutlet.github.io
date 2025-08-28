@@ -9,11 +9,9 @@ nav:
   - Portfolio:
       - Art: /gallery
       - Events: /events
-  - Blog: /blog.html
   - Discord: https://discord.com/invite/devicat
   - Newsletter: /newsletter
   - Shop:
-      - Kofi: https://ko-fi.com/devicat/shop
       - Fourthwall: https://devicat-shop.fourthwall.com
       - Redbubble: https://devicatoutlet.redbubble.com
 excerpt_separator: <!--card-->
