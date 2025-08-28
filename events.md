@@ -6,4 +6,4 @@
 ![DeviCat Animaritime • 2025](img/events/DeviCat_Animaritime2025_003.webp)
 ![DeviCat Animaritime • 2025](img/events/DeviCat_Animaritime2025_004.webp)
 </div>
-<div id="art-pagination-controls" class="pagination-controls"></div>
+<!-- <div id="art-pagination-controls" class="pagination-controls"></div> -->
