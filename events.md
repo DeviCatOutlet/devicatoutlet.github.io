@@ -1,6 +1,6 @@
 # Events
 
-<div id="art-gallery-items" class="paginated-gallery" markdown="1">
+<div id="art-gallery-items" markdown="1">
 ![DeviCat Animaritime • 2025](img/events/DeviCat_Animaritime2025_001.webp)
 ![DeviCat Animaritime • 2025](img/events/DeviCat_Animaritime2025_002.webp)
 ![DeviCat Animaritime • 2025](img/events/DeviCat_Animaritime2025_003.webp)
