@@ -653,7 +653,7 @@ body.dark-mode .pagination-controls button {
 }
 
 .pagination-controls:empty::after {
-    content: "Pagination controls failed to load. Please refresh the page.";
+/*     content: "Pagination controls failed to load. Please refresh the page."; */
     color: var(--purple);
     font-size: 1rem;
 }
