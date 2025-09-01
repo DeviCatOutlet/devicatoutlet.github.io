@@ -19,6 +19,7 @@ Additional Lore: CandiCat is originally from Mirror Moon, where the civilians ar
 # Gallery
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![CandiCat on the Moon • 2025](img/art/CandiCatOnTheMoon2025.webp)
 ![CandiCat Mermaid • 2025](img/art/CandiCatMermaid2025.webp)
 ![CandiCat Bubbles • 2025](img/art/CandiCatBubbles2025.webp)
 ![CandiCat No U • 2025](img/art/CandiCatNoU2025.webp)
