@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![CandiCat Catcha Pon • 2025](img/art/CandiCatCatchAPon2025.webp)
 ![CandiCat on the Moon • 2025](img/art/CandiCatOnTheMoon2025.webp)
 ![CandiCat Mermaid • 2025](img/art/CandiCatMermaid2025.webp)
 ![CandiCat Bubbles • 2025](img/art/CandiCatBubbles2025.webp)
