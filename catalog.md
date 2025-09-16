@@ -2,6 +2,7 @@
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
 ![DeviCat x MakeShip • CandiCat Cozy Plushie • 2025](img/catalog/devicatcandicatplushie1.webp)
+![DeviCat x MakeShip • CandiCat Cozy Plushie • 2025](img/catalog/devicatcandicatplushie4.webp)
 ![DeviCat x MakeShip • CandiCat Cozy Plushie • 2025](img/catalog/devicatcandicatplushie2.webp)
 ![DeviCat x MakeShip • CandiCat Cozy Plushie • 2025](img/catalog/devicatcandicatplushie3.webp)
 ![DeviCat Lanyard • 2025](img/catalog/devicatlanyard.webp)
