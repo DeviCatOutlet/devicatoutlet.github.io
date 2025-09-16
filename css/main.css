@@ -250,6 +250,7 @@ h1#modeling {
 hr + h1#gallery,
 hr + h1#art,
 hr + h1#events,
+hr + h1#catalog,
 hr + h1#modeling {
     visibility: hidden;
 }
@@ -257,11 +258,13 @@ hr + h1#modeling {
 #gallery p,
 #art p,
 #events p,
+#catalog p,
 #modeling p {
     margin: 0;
 }
 
 #events .paginated-gallery p,
+#catalog .paginated-gallery p,
 #art .paginated-gallery p,
 #gallery .paginated-gallery p,
 #modeling .paginated-gallery p {
@@ -271,6 +274,7 @@ hr + h1#modeling {
 #gallery ~ p img,
 #art ~ p img,
 #events ~ p img,
+#catalog ~ p img,
 #modeling ~ p img {
     max-height: 320px;
     cursor: pointer;
@@ -283,6 +287,7 @@ hr + h1#modeling {
 #gallery ~ p img:hover,
 #art ~ p img:hover,
 #events ~ p img:hover,
+#catalog ~ p img:hover,
 #modeling ~ p img:hover {
     transform: scale(1.05);
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
