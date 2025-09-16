@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Gallery Popup (Lightbox) Script ---
     window.gallery = window.gallery || {};
-    const galleryHeadingSelectors = ["#art", "#events", "#modeling", "#gallery"];
+    const galleryHeadingSelectors = ["#art", "#events", "#modeling", "#gallery", "#catalog"];
 
     galleryHeadingSelectors.forEach(headingSelector => {
         const heading = document.querySelector(headingSelector);
