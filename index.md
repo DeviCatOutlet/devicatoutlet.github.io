@@ -13,7 +13,7 @@
 
   Learn about DeviCat.
 
-* [![Shop](img/devicatshop.png)](https://www.devicat-shop.fourthwall.com)
+* [![Shop](img/devicatshop.png)](https://devicat-shop.fourthwall.com/en-cad)
 
   Buy cute merch.
 {: .cards .layout}
