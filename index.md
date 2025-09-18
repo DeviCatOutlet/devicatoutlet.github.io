@@ -13,7 +13,7 @@
 
   Learn about DeviCat.
 
-* [![Kofi](img/Kofi.png)](https://www.ko-fi.com/devicat/)
+* [![Shop](img/devicatshop.png)](https://www.devicat-shop.fourthwall.com)
 
-  Support on Ko-fi.
+  Buy cute merch.
 {: .cards .layout}
