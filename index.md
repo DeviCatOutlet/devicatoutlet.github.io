@@ -11,7 +11,7 @@
 
 * [![DeviCat](img/AboutDeviCat.png)](devicat)
 
-  Learn about DeviCat.
+  Who is DeviCat?
 
 * [![Shop](img/devicatshop.png)](https://devicat-shop.fourthwall.com/en-cad)
 
