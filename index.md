@@ -5,15 +5,15 @@
 <iframe title="Watch DeviCat live!" src="https://player.twitch.tv?channel=devicat&parent=devicat.art" allowfullscreen="" style="border: 0" allow="autoplay; fullscreen" width="768" height="432"></iframe>
 </section>
 
-* [![](img/devicattwitch.png)](https://twitch.tv/devicat)
+* [![](img/devicat-twitch.png)](https://twitch.tv/devicat)
 
   Live on Twitch.
 
-* [![DeviCat](img/AboutDeviCat.png)](devicat)
+* [![DeviCat](img/who-is-devicat.png)](devicat)
 
   Who is DeviCat?
 
-* [![Shop](img/devicatshop.png)](https://devicat-shop.fourthwall.com/en-cad)
+* [![Shop](img/shop-devicat-merch.png)](https://devicat-shop.fourthwall.com/en-cad)
 
   Buy cute merch.
 {: .cards .layout}
