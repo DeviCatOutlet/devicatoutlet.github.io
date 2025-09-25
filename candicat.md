@@ -1,18 +1,18 @@
 ![](img/who-is-candicat-devicat.png)
 
 ### CandiCat
-  * **Role:** DeviCat's Mascot
+  * **Role:** DeviCat's Official Mascot
   * **Loves:** Sweets, Rainbows & Bubbles
   * **Theme:** Galaxy Cat
   * **Location:** Mirror Moon
 
   ---
 
-CandiCat is DeviCat's mascot for her brand. She represents her Twitch subscriber emotes and comes in two forms! One version as a pink, purple and white cat! The other form being a kawaii magical anime girl. An introvert at heart, once she warms up to you, she shows all flavors of personality!
+CandiCat is the official mascot of DeviCat and the star of her Twitch subscriber emotes! She has two forms: a fluffy pink, purple, and white space cat, and a kawaii magical anime girl. Though shy at first, once she warms up, she shows every flavor of personality—sweet, silly, and a little mischievous.
 
-CandiCat is a space cat, an alien from outer space. One day she discovers Earth and that we have candy. But the only way for her to get sweets is by turning into a human (as no one takes a talking cat seriously.) And that's why a lot of the time she doesn't wear shoes. After all, she's a talking cat. She doesn't care about shoes, she just wants to eat (and we love her for that. ♡)
+As an alien from outer space, CandiCat discovered Earth and instantly fell in love with its greatest treasure: candy. The only problem? No one takes a talking cat seriously. So, she transforms into a human girl to get her hands on sweets. That’s also why she usually skips shoes—she’s still a cat at heart, padding around in her socks. Shoes don’t matter to her; candy does. (And honestly, we love her for that. ♡)
 
-Additional Lore: CandiCat is originally from Mirror Moon, where the civilians are known as "reflections." It's believed that CandiCats human form was her using her "reflect" ability based on the first person she met on Earth. 
+Lore: CandiCat comes from Mirror Moon, a world where the people are known as “Reflections.” Her human form is believed to be the result of her “Reflect” ability, modeled after the first person she met on Earth.
 
 ---
 
