@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 160 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 162 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -175,6 +175,8 @@ number N.
 * 158: "I'm sorry! We were having a normal conversation about candy ![devicatCandy](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4dcb9038d4394d2393abf42e7028a768/default/light/1.0 "devicatCandy") and it went sideways!" -DeviCat (22-Aug-25)
 * 159: "I have long hands like Rosuav ." -DeviCat (29-Aug-25)
 * 160: "Wendy for scale." -DeviCat (06-Sep-25)
+* 161: "If the cat tax gives us pictures of cats, that was like the underground cat market." -DragonBloodthirsty: (06-Sep-25)
+* 162: "Everyone's hearts keep landing on my face!" -DeviCat (24-Sep-25)
 
 There may be quotes newer than these that have yet to be collected.
 
