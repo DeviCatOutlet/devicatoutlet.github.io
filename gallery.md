@@ -99,15 +99,15 @@
 ![CandiCat Valentine • 2022](img/art/CandiCatValentine2022.png)
 ![CandiCat Boba Tea Girl • 2021](img/art/CCBobaTeaGirl2021.jpg)
 ![CandiCat Gamer Girl • 2021](img/art/CandiCatGamerGirl2021.png)
-![CandiCat Virtual Pet • 2021](img/art/CCVirtualPet.jpg)
+![CandiCat Virtual Pet • 2021](img/art/DeviCat-CandiCat-Virtual-Pet-2021.jpg)
 ![CandiCat Candi Catcher • 2022](img/art/CandiCatcher2022.png)
-![CandiCat Console • 2021](img/art/CandiCatConsole2021.jpg)
+![CandiCat Console • 2021](img/art/devicat-CandiCat-Console-2021.jpg)
 ![CandiCat Winter Chibi • 2021](img/art/CCWinterChibi2021.png)
 ![CandiCat SnowCat • 2021](img/art/CCSnowCat.png)
 ![Candicat Pumpkin • 2021](img/art/CandiCatPumpkin2021.png)
 ![Candicat Cozy • 2021](img/art/CandiCatCozy2021.png)
 ![Candicat Boba Tea • 2021](img/art/CandiCatBobaTea2021.jpg)
 ![CandiCat Magical Girl • 2021](img/art/CandiCatMagicalGirl2021.png)
-![CandiCat Party • 2021](img/art/CandiCatParty2021.png)
+![CandiCat Party • 2021](img/art/devicat-CandiCat-Party-2021.png)
 </div>
 <div id="art-pagination-controls" class="pagination-controls"></div>
