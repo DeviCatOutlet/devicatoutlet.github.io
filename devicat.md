@@ -2,8 +2,6 @@
 
 ![](img/dc.png)
 
-### Who is DeviCat?
-
 DeviCat is the artist & owner of her business called DeviCat Design Studios. She streams on Twitch full-time sharing her process of cute digital art.
 
 She hopes these creations bring a smile to your face and a warmth in your heart. ♡
