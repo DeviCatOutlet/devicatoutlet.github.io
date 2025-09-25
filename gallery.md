@@ -1,16 +1,16 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
-![CandiCat Catcha Pon • 2025](img/art/CandiCatCatchAPon2025.webp)
-![CandiCat on the Moon • 2025](img/art/CandiCatOnTheMoon2025.webp)
-![CandiCat Mermaid • 2025](img/art/CandiCatMermaid2025.webp)
-![CandiCat Bubbles • 2025](img/art/CandiCatBubbles2025.webp)
-![Hanabi Anime Girl • 2025](img/art/HanabiAnimeGirl2025.webp)
-![CandiCat No U • 2025](img/art/CandiCatNoU2025.webp)
-![CandiCat Point • 2025](img/art/CandiCatPoint2025.webp)
-![CandiCat Angy • 2025](img/art/CandiCatAngy2025.webp)
-![CandiCat Harajuku Girl • 2025](img/art/CandiCatHarajukuGirl2025.webp)
-![Hanabi Sleepy Sheepy • 2025](img/art/HanabiSleepySheepy2025.webp)
+![CandiCat Catcha Pon • 2025](img/art/devicat-candicat-catcha-pon-2025.webp)
+![CandiCat on the Moon • 2025](img/art/devicat-candicat-on-the-moon-2025.webp)
+![CandiCat Mermaid • 2025](img/art/devicat-candicat-mermaid-2025.webp)
+![CandiCat Bubbles • 2025](img/art/devicat-candicat-bubbles-2025.webp)
+![Hanabi Anime Girl • 2025](img/art/devicat-Hanabi-Anime-Girl-2025.webp)
+![CandiCat No U • 2025](img/art/devicat-CandiCat-No-U-2025.webp)
+![CandiCat Point • 2025](img/art/devicat-CandiCat-Point-2025.webp)
+![CandiCat Angy • 2025](img/art/devicat-CandiCat-Angy-2025.webp)
+![CandiCat Harajuku Girl • 2025](img/art/devicat-CandiCat-Harajuku-Girl-2025.webp)
+![Hanabi Sleepy Sheepy • 2025](img/art/devicat-Hanabi-Sleepy-Sheepy-2025.webp)
 ![CandiCat Dab • 2025](img/art/CandiCatDab2025.jpg)
 ![CandiCat Sakura • 2025](img/art/CandiCatSakura2025.png)
 ![CandiCat Candi Catcher • 2025](img/art/CandiCatCandiCatcher2025.png)
@@ -106,8 +106,8 @@
 ![CandiCat SnowCat • 2021](img/art/CCSnowCat.png)
 ![Candicat Pumpkin • 2021](img/art/CandiCatPumpkin2021.png)
 ![Candicat Cozy • 2021](img/art/CandiCatCozy2021.png)
-![Candicat Boba Tea • 2021](img/art/CandiCatBobaTea2021.jpg)
-![CandiCat Magical Girl • 2021](img/art/CandiCatMagicalGirl2021.png)
+![Candicat Boba Tea • 2021](img/art/devicat-candicat-bobatea-2021.jpg)
+![CandiCat Magical Girl • 2021](img/art/devicat-candicat-magical-girl-2021.png)
 ![CandiCat Party • 2021](img/art/devicat-CandiCat-Party-2021.png)
 </div>
 <div id="art-pagination-controls" class="pagination-controls"></div>
