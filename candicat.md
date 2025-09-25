@@ -1,6 +1,6 @@
 ![](img/who-is-candicat-devicat.png)
 
-### CandiCat
+### CandiCat 
   * **Role:** DeviCat's Mascot
   * **Loves:** Sweets, Rainbows & Bubbles
   * **Theme:** Galaxy Cat
