@@ -19,6 +19,7 @@ Lore: CandiCat comes from Mirror Moon, a world where the people are known as “
 # Gallery
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![CandiCat Floating Dreams • 2025](img/art/DeviCat-CandiCat-Floating-Dreams-2025.webp)
 ![CandiCat Catcha Pon • 2025](img/art/devicat-candicat-catcha-pon-2025.webp)
 ![CandiCat on the Moon • 2025](img/art/devicat-candicat-on-the-moon-2025.webp)
 ![CandiCat Mermaid • 2025](img/art/devicat-candicat-mermaid-2025.webp)
