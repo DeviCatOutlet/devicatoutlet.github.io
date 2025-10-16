@@ -23,13 +23,6 @@ She hopes these creations bring a smile to your face and a warmth in your heart.
 **Email DeviCat:**
 {: .email}
 [hello@devicat.art](mailto:hello@devicat.art)
-
-**Send Mail To:** <br>
-DeviCat <br>
-PO BOX 3294 <br>
-Fredericton New Brunswick E3A 5H1 <br>
-CANADA <br>
-
 ---
 
 {: .wrap}
