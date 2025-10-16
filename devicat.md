@@ -23,6 +23,5 @@ She hopes these creations bring a smile to your face and a warmth in your heart.
 **Email DeviCat:**
 {: .email}
 [hello@devicat.art](mailto:hello@devicat.art)
----
 
 {: .wrap}
