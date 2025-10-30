@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 165 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 167 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -180,6 +180,7 @@ number N.
 * 163: "Near-Complimentary colours sidle up to each other and say "Your hue is looking lovely today"" -Rosuav: (01-Oct-25)
 * 164: "We have so many potatoes in chat right now." -DeviCat (13-Oct-25)
 * 165: "Zephyr, don't take my cat!" -DeviCat (27-Oct-25)
+* <missing quote 166, ask CandiCat for it please>
+* 167: "Jess! We both got knives! We're so pointy!" -DeviCat (29-Oct-25)
 
-There may be quotes newer than these that have yet to be collected.
-
+This list is missing 1 quotes, plus any that have been recently added.
