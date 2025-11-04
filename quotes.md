@@ -180,7 +180,8 @@ number N.
 * 163: "Near-Complimentary colours sidle up to each other and say "Your hue is looking lovely today"" -Rosuav: (01-Oct-25)
 * 164: "We have so many potatoes in chat right now." -DeviCat (13-Oct-25)
 * 165: "Zephyr, don't take my cat!" -DeviCat (27-Oct-25)
-* <missing quote 166, ask CandiCat for it please>
+* 166: "Novan_Kitsune: now that's adorably terrifying, Candi can just GIVE herself thumbs. the amount of jam filled sammiches would be wild" - (27-Oct-25)
 * 167: "Jess! We both got knives! We're so pointy!" -DeviCat (29-Oct-25)
 
-This list is missing 1 quotes, plus any that have been recently added.
+There may be quotes newer than these that have yet to be collected.
+
