@@ -3,8 +3,10 @@ layout: post
 author: DeviCat
 ---
 
+![](/img/devicat-vendor-artist-november-events.webp)
 I will be a vendor at the following events:
 
+<!--card-->
 
 **[The Gathering](https://www.facebook.com/share/1Bh5QNBhhz/)**
 - **Date:** November 23rd
@@ -22,7 +24,6 @@ I will be a vendor at the following events:
 - **Location:** The Fredericton Inn
 
 
-<!--card-->
 
 
 ---
