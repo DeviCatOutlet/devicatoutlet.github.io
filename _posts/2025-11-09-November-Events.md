@@ -24,4 +24,6 @@ I will be a vendor at the following events:
 - **Location:** The Fredericton Inn
 
 
+
+
 ---
