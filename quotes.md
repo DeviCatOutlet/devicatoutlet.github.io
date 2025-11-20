@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 170 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 171 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -185,6 +185,7 @@ number N.
 * 168: "Hold on, we're making a heart with a cup of coffee. ![<3](https://static-cdn.jtvnw.net/emoticons/v2/445/default/light/1.0 "<3") ☕" -DeviCat (12-Nov-25)
 * 169: "it is embedded in my mind until i die and even then maybe i'll dance it as a ghost" -Enchanting_Elk: (12-Nov-25)
 * 170: "anyone coming in Rosuav hacked the mainframe and Devi threw glitter at the guards ![devicatEvil](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f2c129eff6134185aab84abbeba11233/default/light/1.0 "devicatEvil") it was epic" -AnbuOlive: (17-Nov-25)
+* 171: "What a magnificent party. 1632 plushies! But all good things come to an end, and it is time now to let the monster rest... for a while." -CandiCat (19-Nov-25)
 
 There may be quotes newer than these that have yet to be collected.
 
