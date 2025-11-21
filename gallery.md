@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![Kiko • 2025](img/art/devicat-kiko-2025.webp)
 ![CandiCat Fortune Teller • 2025](img/art/DeviCat-CandiCat-Fortune-Teller-2025.webp)
 ![CandiCat Ghost Girl & Ghost Cats • 2025](img/art/DeviCat-CandiCat-GhostGirl-GhostCats-2025.webp)
 ![CandiCat Witch • 2025](img/art/DeviCat-CandiCat-Witch-2025.webp)
