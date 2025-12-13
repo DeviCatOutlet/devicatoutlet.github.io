@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 173 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 174 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -188,6 +188,7 @@ number N.
 * 171: "What a magnificent party. 1632 plushies! But all good things come to an end, and it is time now to let the monster rest... for a while." -CandiCat (19-Nov-25)
 * 172: "Everything's going fine here, I'm just painting my eyeballs ![devicatWiggle](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7afb73ac6b814225b1ea584af4b03fb6/default/light/1.0 "devicatWiggle") !" -DeviCat (01-Dec-25)
 * 173: "shadow forms get a bonus to stealth but double damage from light spells" -proteanpanoply (01-Dec-25)
+* 174: " can't keep us apart ![devicatSpin](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7b4dababc74549e9b4000fd070307c08/default/light/1.0 "devicatSpin") ." -They (12-Dec-25)
 
 There may be quotes newer than these that have yet to be collected.
 
