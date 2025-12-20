@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![Gingerbread Cat • 2025](img/art/devicat-gingerbread-cat-2025.webp)
 ![DeviCat • 2025](img/art/devicat-2025.webp)
 ![CandiCat Void in Space • 2025](img/art/DeviCat-CandiCat-Void-in-Space-2025.webp)
 ![Kiko • 2025](img/art/devicat-kiko-2025.webp)
