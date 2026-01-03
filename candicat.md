@@ -8,9 +8,9 @@
 
   ---
 
-CandiCat is the official mascot of DeviCat and the star of her Twitch subscriber emotes! She has two forms: a pink, purple, and white space cat, and a kawaii magical anime girl. Though shy at first, once she warms up, she shows all flavors of personality.
+CandiCat is the official mascot of DeviCat and represents her Twitch subscriber emotes! She has two forms: a pink, purple, and white space cat, and a kawaii magical anime girl. Though shy at first, once she warms up, she shows all flavors of personality.
 
-Along her magical travels in space she discovers planet Earth and our greatest treasure - candy! But when she tries to talk to humans, no one takes her seriously. Her solution? Transform into a girl just to get sweets! (And we love her for that. ♡)
+CandiCat is a space cat alien. One day while travelling space she discovers planet Earth and that we have candy! But the only way for her to get sweets is by turning into a girl (as no one takes a talking cat seriously.) She also doesn't care to wear shoes. All she wants to do is eat (And we love her for that. ♡)
 
 Lore: CandiCat comes from Mirror Moon, a world where the people are known as “Reflections.” Her human form is believed to be the result of her “Reflect” ability, modeled after the first person she met on Earth.
 

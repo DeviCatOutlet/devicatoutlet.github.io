@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![Kiko Bat Cat • 2026](img/art/DeviCat-Kiko-Bat-Cat-2026.webp)
 ![Hanabi Snow Sheep • 2025](img/art/DeviCat-Hanabi-Snow-Sheep-2025.webp)
 ![Gingerbread Cat • 2025](img/art/devicat-gingerbread-cat-2025.webp)
 ![DeviCat • 2025](img/art/devicat-2025.webp)
