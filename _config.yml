@@ -6,12 +6,12 @@ baseurl: ""
 nav:
   - DeviCat: /devicat
   - CandiCat: /candicat
+  - Discord: https://discord.com/invite/devicat
   - Events: /events
+  - Newsletter: /newsletter
   - Portfolio:
       - Art: /gallery
       - Catalog: /catalog
-  - Discord: https://discord.com/invite/devicat
-  - Newsletter: /newsletter
   - Shop: https://devicat-shop.fourthwall.com
   
 excerpt_separator: <!--card-->
