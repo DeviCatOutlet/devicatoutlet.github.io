@@ -1,6 +1,6 @@
 ![](img/devicat-events.png)
 
-<p style="text-align:center;">List of events DeviCat will be a vendor at. ♡
+List of events DeviCat will be a vendor at. ♡
 
 ---
 
@@ -10,6 +10,6 @@
 ✦ [AEXPEI](https://atlanticexpo.ca/) <br>
 ✦ [MiraCon](https://www.facebook.com/share/1DDwZgtKu1/) <br>
 ✦ [East Coast Comic Expo](https://eastcoastcomicexpo.com/) <br>
-✦ [AEXSJ](https://atlanticexpo.ca/) <br> </p>
+✦ [AEXSJ](https://atlanticexpo.ca/) <br>
 
 ---
