@@ -1,8 +1,6 @@
-# Events
-
 ![](img/devicat-events.png)
 
-List of events DeviCat will be a vendor at 2026 ♡
+List of events DeviCat will be a vendor at. ♡
 
 ---
 
@@ -10,8 +8,3 @@ List of events DeviCat will be a vendor at 2026 ♡
 ✦ Monarch Valentine Market <br>
 
 ---
-
-<!-- ---
---- -->
-
-{: .wrap}
