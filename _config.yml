@@ -6,6 +6,7 @@ baseurl: ""
 nav:
   - DeviCat: /devicat
   - CandiCat: /candicat
+  - Events: /events
   - Portfolio:
       - Art: /gallery
       - Catalog: /catalog
