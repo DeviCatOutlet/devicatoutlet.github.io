@@ -4,7 +4,7 @@
 <style>img {display: inline-block;} li {line-height: 35px;}</style>
 
 During live streams, funny things that people say can be recorded for posterity
-by the faithful bot and the mod team. So far, 177 quotes have been recorded. To
+by the faithful bot and the mod team. So far, 178 quotes have been recorded. To
 see them in chat, ask the bot for a quote with the command `!quote N` for some
 number N.
 
@@ -192,6 +192,7 @@ number N.
 * 175: "seemed to have hit 25 and my pallete now takes floral and green teas like "yes, splendid, glorius, delectible, yum yum"" -@TiggyIGuess (17-Dec-25)
 * 176: "I think I found part of a foot down here." -DeviCat (22-Dec-25)
 * 177: "I'm fixing the deck of the titanic with crayons ![devicatWut](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5790f1e2cc3a4ec28bfe3a0837c7d61d/default/light/1.0 "devicatWut") ." -BustaSparkles (14-Jan-26)
+* 178: "I cut my hand on a bowling ball." -DeviCat (19-Jan-26)
 
 There may be quotes newer than these that have yet to be collected.
 
