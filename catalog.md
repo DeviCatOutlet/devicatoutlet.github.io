@@ -9,6 +9,7 @@
 ![DeviCat • CandiCat Candi Bread Keychain • 2025](img/catalog/devicat-candicat-loaf-keychain.webp)
 ![DeviCat • CandiCat Sakura Keychain • 2025](img/catalog/devicat-candicat-sakura-keychain.webp)
 ![DeviCat • CandiCat Void Cat Keychain • 2025](img/catalog/devicat-candicat-void-cat-keychain.webp)
+![DeviCat • CandiCat On The Moon Standee • 2025](img/catalog/devicat-candicat-on-the-moon-standee.webp)
 ![DeviCat Lanyard • 2025](img/catalog/devicat-lanyard.webp)
 ![DeviCat x Tilleyberry Cottage • Astro Cat Bag • 2025](img/catalog/DeviCat-TilleyBerry-Cottage-Astro-Cat-Bag.webp)
 ![DeviCat EnbiCon • 2025](img/catalog/devicat-enbicon-2025-001.webp)
