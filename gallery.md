@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![CandiCat Valentine • 2026](img/art/devicat-candicat-valentine-2026.webp)
 ![CandiCat Cat In A Box • 2026](img/art/DeviCat-CandiCat-Cat-in-a-box-2026.webp)
 ![Hanabi SnowGirl & SnowSheep • 2026](img/art/DeviCat-Hanabi-SnowGirl-&-SnowSheep-2026.webp)
 ![Kiko Bat Cat • 2026](img/art/DeviCat-Kiko-Bat-Cat-2026.webp)
