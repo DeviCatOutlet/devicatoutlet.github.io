@@ -1,7 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
-![CandiCat VoidCat D1 • 2026](img/art/devicat-candicat-voidcat-d1-2026.webp)
+![CandiCat VoidCat D20 • 2026](img/art/devicat-candicat-voidcat-d20-2026.webp)
 ![CandiCat D20 • 2026](img/art/devicat-candicat-d20-2026.webp)
 ![CandiCat Valentine • 2026](img/art/devicat-candicat-valentine-2026.webp)
 ![CandiCat Cat In A Box • 2026](img/art/DeviCat-CandiCat-Cat-in-a-box-2026.webp)
