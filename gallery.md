@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![Cafe Maid In CandiCat Land • 2026](img/art/devicat-cafe-maid-in-candicat-land-2026.webp)
 ![CandiCat VoidCat D20 • 2026](img/art/devicat-candicat-voidcat-d20-2026.webp)
 ![CandiCat D20 • 2026](img/art/devicat-candicat-d20-2026.webp)
 ![CandiCat Valentine • 2026](img/art/devicat-candicat-valentine-2026.webp)
