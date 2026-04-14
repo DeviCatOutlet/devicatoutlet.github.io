@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![Air Kitsune • 2026](img/art/devicat-air-kitsune-2026.webp)
 ![CandiCat VoidCat Mage • 2026](img/art/devicat-CandiCat-VoidCat-Mage-2026.webp)
 ![Hanabi on a Hanabi • 2026](img/art/devicat-Hanabi-on-a-Hanabi-2026.webp)
 ![Cafe Maid In CandiCat Land • 2026](img/art/devicat-cafe-maid-in-candicat-land-2026.webp)
