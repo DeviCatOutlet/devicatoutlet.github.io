@@ -9,6 +9,7 @@ List of events DeviCat will be a vendor at in 2026. ♡
 ✦ [The Gathering Ferals and Familiars](https://www.facebook.com/share/1aJpsuQe7x/)<br>
 ✦ [The Purrfect Cup - A Cat Cafe](https://www.facebook.com/share/14YA7CgX6yy/)<br>
 ✦ [AEXPEI](https://atlanticexpo.ca/)<br>
+✦ [Black Cat Bazaar](https://www.facebook.com/share/18PftJMoBs/)<br>
 ✦ [MiraCon](https://www.facebook.com/share/1DDwZgtKu1/)<br>
 ✦ [East Coast Comic Expo](https://eastcoastcomicexpo.com/)<br>
 ✦ [Animaritime](https://animaritime.org/)<br>
