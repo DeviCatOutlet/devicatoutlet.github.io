@@ -12,6 +12,7 @@ List of events DeviCat will be a vendor at in 2026. ♡
 ✦ [Black Cat Bazaar](https://www.facebook.com/share/18PftJMoBs/)<br>
 ✦ [MiraCon](https://www.facebook.com/share/1DDwZgtKu1/)<br>
 ✦ [East Coast Comic Expo](https://eastcoastcomicexpo.com/)<br>
+✦ [The Gathering Blossom & Bloom](https://www.facebook.com/share/1Bs3RYbWu1/)<br>
 ✦ [Animaritime](https://animaritime.org/)<br>
 ✦ [AEXSJ](https://atlanticexpo.ca/)<br>
 ✦ [Carleton County Cosplayers](https://www.facebook.com/share/1DMMyjvd8L/)<br>
