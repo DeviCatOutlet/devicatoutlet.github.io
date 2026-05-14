@@ -5,6 +5,8 @@
 ![DeviCat x MakeShip • CandiCat Cozy Plushie](img/catalog/devicat-candicat-plushie-4.webp)
 ![DeviCat x MakeShip • CandiCat Cozy Plushie](img/catalog/devicat-candicat-plushie-2.webp)
 ![DeviCat x MakeShip • CandiCat Cozy Plushie](img/catalog/devicat-candicat-plushie-3.webp)
+![DeviCat • CandiCat D20 Acyrlic Pin](img/catalog/devicat-CandiCatD20-Acrylic-Pin.webp)
+![DeviCat • CandiCat D20 Acyrlic Magnet](img/catalog/devicat-CandiCatD20-Magnet.webp)
 ![DeviCat • CandiCat Candi Catcher Keychain](img/catalog/devicat-candicat-candi-catcher-keychain.webp)
 ![DeviCat • CandiCat Candi Bread Keychain](img/catalog/devicat-candicat-loaf-keychain.webp)
 ![DeviCat • CandiCat Sakura Keychain](img/catalog/devicat-candicat-sakura-keychain.webp)
