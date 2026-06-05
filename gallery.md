@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![Kiko Kawaii • 2026](img/art/devicat-kiko-kawaii-2026.webp)
 ![DeviCat Chibi • 2026](img/art/DeviCat-Chibi-2026.webp)
 ![CandiCat Void Cat The Raincoat of Stars • 2026](img/art/DeviCat-CandiCat-VoidCat-The-Raincoat-of-Stars-2026.webp)
 ![Air Kitsune • 2026](img/art/devicat-air-kitsune-2026.webp)
