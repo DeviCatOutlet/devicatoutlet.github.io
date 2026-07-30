@@ -589,19 +589,18 @@ nav > .nav-menucontainer {
 }
 
 .paginated-gallery > p {
-    display: none !important;
-    margin: 0 !important;
+    display: none;
+    margin: 0;
     padding: 0;
     width: auto;
     height: auto;
-    display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .paginated-gallery > p.page-item-visible {
-    display: flex !important;
-    margin: 0 !important;
+    display: flex;
+    margin: 0;
     padding: 0;
     width: auto;
     height: auto;
