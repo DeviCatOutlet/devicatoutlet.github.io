@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![Reiko Forest Fauna • 2026](img/art/devicat-reiko-forest-fauna-2026.webp)
 ![CandiCat Meow • 2026](img/art/devicat-CandiCat-Meow-2026.webp)
 ![Kiko Kawaii • 2026](img/art/devicat-kiko-kawaii-2026.webp)
 ![DeviCat Chibi • 2026](img/art/DeviCat-Chibi-2026.webp)
