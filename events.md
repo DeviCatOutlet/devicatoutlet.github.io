@@ -16,6 +16,7 @@ List of events DeviCat will be a vendor at in 2026. ♡
 ✦ [Animaritime](https://animaritime.org/)<br>
 ✦ [AEXSJ](https://atlanticexpo.ca/)<br>
 ✦ [Carleton County Cosplayers](https://www.facebook.com/share/1DMMyjvd8L/)<br>
+✦ [Writers of the Realm Literary Festival & Fantasy Ball](https://www.sakurabluestudios.ca/fantasy-book-ball-2026)<br>
 ✦ [AEX Moncton](https://atlanticexpo.ca/)<br>
 
 ---
