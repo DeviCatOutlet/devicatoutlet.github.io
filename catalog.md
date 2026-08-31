@@ -12,6 +12,6 @@
 ![DeviCat • CandiCat Sakura Keychain](img/catalog/devicat-candicat-sakura-keychain.webp)
 ![DeviCat Hand-held Fan](img/catalog/devicat-hand-held-fan.webp)
 ![DeviCat x Tilleyberry Cottage • Astro Cat Bag](img/catalog/DeviCat-TilleyBerry-Cottage-Astro-Cat-Bag.webp)
-![DeviCat AEXSJ• 2026](img/catalog/devicat-aexsj-2026-1.webp)
+![DeviCat AEXSJ • 2026](img/catalog/devicat-aexsj-2026-1.webp)
 </div>
 <div id="art-pagination-controls" class="pagination-controls"></div>
