@@ -12,13 +12,6 @@
 ![DeviCat • CandiCat Sakura Keychain](img/catalog/devicat-candicat-sakura-keychain.webp)
 ![DeviCat Hand-held Fan](img/catalog/devicat-hand-held-fan.webp)
 ![DeviCat x Tilleyberry Cottage • Astro Cat Bag](img/catalog/DeviCat-TilleyBerry-Cottage-Astro-Cat-Bag.webp)
-![DeviCat The Gathering Ferals & Familiars • 2026](img/catalog/devicat-the-gathering-ferals-&-familiars-2026-001.webp)
-![DeviCat The Gathering Ferals & Familiars • 2026](img/catalog/devicat-the-gathering-ferals-&-familiars-2026-002.webp)
-![DeviCat The Gathering Ferals & Familiars • 2026](img/catalog/devicat-the-gathering-ferals-&-familiars-2026-003.webp)
-![DeviCat The Gathering Ferals & Familiars • 2026](img/catalog/devicat-the-gathering-ferals-&-familiars-2026-004.webp)
-![DeviCat The Gathering Ferals & Familiars • 2026](img/catalog/devicat-the-gathering-ferals-&-familiars-2026-005.webp)
-![DeviCat The Gathering Ferals & Familiars • 2026](img/catalog/devicat-the-gathering-ferals-&-familiars-2026-006.webp)
-![DeviCat The Gathering Ferals & Familiars • 2026](img/catalog/devicat-the-gathering-ferals-&-familiars-2026-007.webp)
-![DeviCat The Gathering Ferals & Familiars • 2026](img/catalog/devicat-the-gathering-ferals-&-familiars-2026-008.webp)
+![DeviCat AEXSJ• 2026](img/catalog/devicat-aexsj-2026-1.webp)
 </div>
 <div id="art-pagination-controls" class="pagination-controls"></div>

@@ -4,8 +4,10 @@ baseurl: ""
 #   parse_block_html: true
 #   hard_wrap: false
 nav:
-  - DeviCat: /devicat
-  - CandiCat: /candicat
+  - About: 
+        - DeviCat: /devicat
+        - CandiCat: /candicat
+  - Commission: https://vgen.co/devicat
   - Events: /events
   - Newsletter: /newsletter
   - Portfolio:
