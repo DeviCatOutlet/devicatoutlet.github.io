@@ -19,6 +19,7 @@ Lore: CandiCat comes from Mirror Moon, a world where the people are known as “
 # Gallery
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![CandiCat Candi Hat • 2026](img/art/devicat-CandiCat-CandiHat-2026.webp)
 ![CandiCat Astro Cat • 2026](img/art/devicat-CandiCat-Astro-Cat-2026.webp)
 ![CandiCat Meow • 2026](img/art/devicat-CandiCat-Meow-2026.webp)
 ![CandiCat Void Cat The Raincoat of Stars • 2026](img/art/DeviCat-CandiCat-VoidCat-The-Raincoat-of-Stars-2026.webp)
