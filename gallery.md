@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![CandiCat Cotton Candi Girl • 2026](img/art/devicat-CandiCat-Cotton-Candi-Girl-2026.webp)
 ![CandiCat Candi Hat • 2026](img/art/devicat-CandiCat-CandiHat-2026.webp)
 ![CandiCat Astro Cat • 2026](img/art/devicat-CandiCat-Astro-Cat-2026.webp)
 ![Reiko Forest Fauna • 2026](img/art/devicat-reiko-forest-fauna-2026.webp)
