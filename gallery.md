@@ -1,6 +1,7 @@
 # Art
 
 <div id="art-gallery-items" class="paginated-gallery" markdown="1">
+![CandiCat Trick or Treat • 2026](img/art/devicat-CandiCat-Trick-or-Treat-2026.webp)
 ![Kiko Kindness • 2026](img/art/devicat-Kiko-Kindness-2026.webp)
 ![CandiCat Cotton Candi Girl • 2026](img/art/devicat-CandiCat-Cotton-Candi-Girl-2026.webp)
 ![CandiCat Candi Hat • 2026](img/art/devicat-CandiCat-CandiHat-2026.webp)
